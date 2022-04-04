@@ -32,7 +32,7 @@ img {
 }
 
 body {
-font-family: 'Amsterdam';
+font-family: 'Libre Baskerville', serif;
 font-size: 1rem;
 font-style: normal;
 font-weight: 400;
@@ -69,6 +69,7 @@ overflow-x: hidden;
 .margin-shapes {  margin: 0px 15px 15px;}
 .margin-sides {margin: 0px 15px;}
 
+.tall-30 {min-height: 30vh;}
 .tall-50  {  min-height: 50vh;   }
 .tall-100 {  min-height: 100vh;  }
 
@@ -87,7 +88,7 @@ overflow-x: hidden;
 
 .radius {border-radius: 500px 500px 0px 0px;}
 .clove-radius {border-radius: 0px 300px;}
-.circle {border-radius: 500px;}
+.circle {border-radius: 100%;}
 .border {border: solid 1px #CE967A;}
 
 .bump {
@@ -186,7 +187,7 @@ p, a
   line-height: 40px;}
 
 
-h1, h3, h4, h5, h6 {font-family: 'Amsterdam';}
+h1,h3,h4,h5,h6 {font-family: 'Amsterdam';}
 
 p, ul {
   margin-bottom: 0.8rem;
@@ -201,6 +202,7 @@ a:hover {color: #FDFAF0;}
 
 
 .light-text {color: #E9E1DD; }
+.amsterdam {font-family: 'Amsterdam';}
 /*
 
 /* this makes sure that the last element in any container doesn't have margin-bottom */
@@ -441,10 +443,19 @@ input[type=submit]
 
 .button-solid
   {
-  background-color: #CE967A;
-  color: #2f3031;
-  border: 1px solid #CE967A;
+  background-color: #E9E1DD;
+  color: #B89E8E;
+  border: 1px solid #B89E8E;
   padding: .8rem 2rem .6rem;
+  }
+
+.button-solid-inverted
+  {
+  background-color: #B89E8E;
+  color: #E9E1DD;
+  border: 1px solid #B89E8E;
+  padding: .8rem 2rem .6rem;
+  font-size: 1.3rem;
   }
 
 .button
@@ -458,9 +469,9 @@ input[type=submit]
 
 .button-solid:hover
   {
-  background-color: transparent;
-  color: #CE967A;
-  border: 1px solid #CE967A;
+  background-color: #B89E8E;
+  color: #E9E1DD;
+  border: 1px solid #E9E1DD;
   }
 
 .shop-button
