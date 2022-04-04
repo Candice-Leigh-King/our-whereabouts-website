@@ -20,13 +20,15 @@ _array_structures:
         icon: image
         value:
           _section-type: image-and-textarea
-          background_image:
-          image:
-          tablet_images:
+          images:
             top_image:
             bottom_image:
-          heading:
-          textarea:
+          dark-heading:    
+          light-heading:
+          1-textarea:
+          quote:
+          2-textarea:
+          large-text:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -34,7 +36,6 @@ _array_structures:
         icon: work
         value:
           _section-type: projects
-          background_image:
           heading:
           first-project:
             image:
@@ -55,7 +56,6 @@ _array_structures:
         icon: money
         value:
           _section-type: carousel
-          background_image:
           heading:
           carousel:
             textarea:
@@ -68,7 +68,6 @@ _array_structures:
         icon: article
         value:
           _section-type: form
-          background_image:
           arch-background_image:
           heading:
           top:

@@ -37,7 +37,6 @@ font-size: 1rem;
 font-style: normal;
 font-weight: 400;
 text-align: center;
-color: #4c4c4c;
 line-height: 2;
 background-color: #E9E1DD;
 overflow-x: hidden;
@@ -62,6 +61,7 @@ overflow-x: hidden;
 .padded-top-botton-left {padding: 5% 0% 5% 5%;}
 .padded-bottom {padding-bottom: 5%; }
 .padded-top {padding-top: 3%;}
+.padded-left {padding: 5% 5% 5% 10%;}
 
 .form-padded {padding: 3%}
 .margin {margin: 10px;}
@@ -75,6 +75,7 @@ overflow-x: hidden;
 .dark-bg      {  background-color: #B89E8E;     }
 .light-bg     {  background-color: #F7F5F3; }
 .featured-bg  {  background-color: #BBD2B6;    }
+.split-bg {background: linear-gradient(90deg,#E9E1DD 179px,#B89E8E 50px);}
 
 .banner
   {
@@ -89,10 +90,38 @@ overflow-x: hidden;
 .circle {border-radius: 500px;}
 .border {border: solid 1px #CE967A;}
 
+.bump {
+  position: absolute;
+  left: 110px;
+  margin-top: 55px;
+  z-index: 1;
+}
+
+.bump-up {
+  transform: rotate(21.31deg);
+  width: 323.32px;
+  height: 169.24px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.bump-div {margin-top: -200px !important;}
+
+.small-image
+  {
+  height: 531px;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
+
+.smaller-image
+  {
+  width: 200px;
+  }
+
 .medium-image
   {
   min-height: 60vh;
-  margin-bottom: -3rem;
   background-size: cover;
   }
 
@@ -100,12 +129,6 @@ overflow-x: hidden;
   {
   min-height: 40vh;
   background-size: cover;
-  }
-.small-image
-  {
-    min-height: 40vh;
-    background-size: cover;
-    background-position: center;
   }
 
 .cropped-background
@@ -125,38 +148,49 @@ h2, h3, h4, h5, h6
   }
 
 
-h2, h3, h5, h6 {color: #B89E8E;}
-h4 {color: #5F4F45;}
+h2, h3, h5 {color: #B89E8E;}
+h4, h6 {color: #5F4F45;}
 
-h1, h2, h6 {
+h2 {
   font-family: 'Libre Baskerville', serif;
   line-height: 60px;}
 
 
 h1 {
-  color: #FDFAF0;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  color: #5F4F45;
   font-style: normal;
   font-weight: 400;
-  font-size: 3.5rem;
-  text-align: center;
+  font-size: 2rem;
   }
 
-h2  { font-size: 3.2rem;  }
-h3  { font-size: 1.8rem;  }
-h4  { font-size: 1.8rem;  }
-h5, h6  { font-size: 1.2rem;  }
+h2 {
+  font-size: 3.2rem;
+
+  }
+
+h3 {
+  font-size: 1.8rem;
+  }
+
+h4 { font-size: 1.8rem;  }
+
+h5, h6 {
+  font-size: 1.2rem;
+  line-height: 40px;
+  }
 
 p, a
   {
   font-family: 'Libre Baskerville', serif;
-  font-size: 1rem;  }
+  font-size: 1rem;
+  line-height: 40px;}
 
 
-  h3, h4, h5, {font-family: 'Amsterdam';}
+h1, h3, h4, h5, h6 {font-family: 'Amsterdam';}
 
 p, ul {
   margin-bottom: 0.8rem;
+  color: #5F4F45;
  }
 
 a {color: #B89E8E;
@@ -164,6 +198,9 @@ a {color: #B89E8E;
   }
 
 a:hover {color: #FDFAF0;}
+
+
+.light-text {color: #E9E1DD; }
 /*
 
 /* this makes sure that the last element in any container doesn't have margin-bottom */
@@ -175,6 +212,8 @@ h6:last-child,
 p:last-child {
   margin-bottom:0;
   }
+
+.hero p {color: #B89E8E;}
 
 
 /* header */
@@ -312,6 +351,8 @@ opacity: 1;
 
 
 .active.fade-left {animation: fade-left 1s ease-in;}
+
+.active.bump-up {animation: bump-up 1s ease-in;}
 
 @keyframes fade-left {
   0%

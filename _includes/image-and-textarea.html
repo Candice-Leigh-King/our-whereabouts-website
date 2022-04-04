@@ -1,18 +1,23 @@
-<section class="grid padded-sides light-bg banner" style="background-image: url('{{item.background_image}}');" id="{{item.link.link}}">
-  <div class="col-4_sm-8_xs-12 bottom-radius medium-image center reveal fade-left " style="background-image: url('{{item.image}}');">
+<section class="grid padded-top padded-bottom" id="{{item.link.link}}">
+  <div class="col-5 grid-middle bump-div">
+    <div class="col-7 padded bump-up  reveal fade-left ">
+    <img src="{{item.images.top_image}}" alt="">
 
-  </div>
-    <div class="grid-center col-4_xs-hidden desktop-hide-arches reveal fade-left ">
-
-    <div class="col-10 radius margin-shapes medium-image-mob center" style="background-image: url('{{item.tablet_images.top_image}}');">
     </div>
+    <div class="col-12 small-image center reveal fade-left bump " style="background-image: url('{{item.images.bottom_image}}');">
 
-    <div class="col-10  margin-sides medium-image-mob center" style="background-image: url('{{item.tablet_images.bottom_image}}');">
     </div>
-
   </div>
-  <div class="col-8_sm-12 center padded-top-botton-left reveal fade-right" id="{{page.links.image-and-textarea}}">
-    <h2 class="">{{item.heading}}</h2>
-    <p class="">{{item.textarea}}</p>
+
+  <div class="col-7_sm-12 left light-bg reveal grid fade-right" id="{{page.links.image-and-textarea}}">
+    <div class="split-bg col-12 padded-1">
+      <h2 class="">{{item.dark-heading}} <span class="light-text">{{item.light-heading}}</span></h2>
+    </div>
+    <div class="col-12 padded-left">
+      <p class="">{{item.1-textarea}}</p>
+      <h6>{{item.quote}}</h6>
+      <p>{{item.2-textarea}}</p>
+      <h1 class="right">{{item.large-text}}</h1>
+    </div>
   </div>
 </section>
