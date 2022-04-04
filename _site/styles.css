@@ -8,58 +8,14 @@ COLORS
 #BBD2B6
 FONTS
 
-font-family: 'Poppins', sans-serif; */
-
-/* GOOGLE FONTS FOR YOU */
-/* font-family: 'Amatic SC', cursive;
-font-family: 'Barlow Condensed', sans-serif;
-font-family: 'Belleza', sans-serif;
-font-family: 'Kaushan Script', cursive;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Oooh Baby', cursive;
-font-family: 'Playfair Display', serif;
-font-family: 'Quicksand', sans-serif;
-font-family: 'Raleway', sans-serif;
-font-family: 'Roboto', sans-serif; */
-
+/* font-family: 'Libre Baskerville', serif; */
 
 @font-face {
-  font-family: Cyrene;
-  src: url(/fonts/cyrene.otf);
+  font-family: Amsterdam;
+  src: url(/fonts/amsterdam.ttf);
 }
 
-@font-face {
-  font-family: La Obrige;
-  src: url(/fonts/la-obrige.otf);
-}
-
-@font-face {
-  font-family: Lineal Simples;
-  src: url(/fonts/lineal-simples.ttf);
-}
-
-@font-face {
-  font-family: Maglony;
-  src: url(/fonts/maglony.otf);
-}
-
-@font-face {
-  font-family: Mak;
-  src: url(/fonts/mak.otf);
-}
-
-@font-face {
-  font-family: Misto;
-  src: url(/fonts/misto.ttf);
-}
-
-
-@font-face {
-  font-family: Dream Avenue;
-  src: url(/fonts/dream-avenue.otf);
-}
-
-* {
+*{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -76,13 +32,14 @@ img {
 }
 
 body {
-font-family: 'Poppins', sans-serif;
+font-family: 'Amsterdam';
 font-size: 1rem;
 font-style: normal;
 font-weight: 400;
 text-align: center;
 color: #4c4c4c;
 line-height: 2;
+background-color: #E9E1DD;
 overflow-x: hidden;
 
 }
@@ -118,7 +75,6 @@ overflow-x: hidden;
 .dark-bg      {  background-color: #B89E8E;     }
 .light-bg     {  background-color: #F7F5F3; }
 .featured-bg  {  background-color: #BBD2B6;    }
-.body-bg      { background-color: #E9E1DD;}
 
 .banner
   {
@@ -161,13 +117,21 @@ overflow-x: hidden;
 hr {border-bottom: none;}
 /* General typography */
 
-  h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6
+  {
   line-height: 1;
   margin-bottom: 0.8rem;
-  font-family: 'Poppins', sans-serif;
-  color: #CE967A;
   font-weight: 400;
   }
+
+
+h2, h3, h5, h6 {color: #B89E8E;}
+h4 {color: #5F4F45;}
+
+h1, h2, h6 {
+  font-family: 'Libre Baskerville', serif;
+  line-height: 60px;}
+
 
 h1 {
   color: #FDFAF0;
@@ -176,20 +140,26 @@ h1 {
   font-weight: 400;
   font-size: 3.5rem;
   text-align: center;
-  font-family: La Obrige, serif;
   }
 
-h2  { font-size: 2.2rem;  }
+h2  { font-size: 3.2rem;  }
 h3  { font-size: 1.8rem;  }
-h4  { font-size: 1.4rem;  }
-h5  { font-size: 1.2rem;  }
-p   { font-size: 1rem;  }
+h4  { font-size: 1.8rem;  }
+h5, h6  { font-size: 1.2rem;  }
+
+p, a
+  {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1rem;  }
+
+
+  h3, h4, h5, {font-family: 'Amsterdam';}
 
 p, ul {
   margin-bottom: 0.8rem;
  }
 
-a {color: #c3a496;
+a {color: #B89E8E;
    text-decoration: none;
   }
 
@@ -439,7 +409,7 @@ input[type=submit]
 .button
   {
   background-color: transparent;
-  border: 1px solid #c3a496;
+  border: 1px solid #B89E8E;
   padding: .8rem 2rem .6rem;
   }
 
