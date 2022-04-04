@@ -1,0 +1,559 @@
+/* NOTES
+
+COLORS
+#FAE6D4
+#F8DCC2
+#c3a496
+#FDFAF0
+#2f3031
+#CE967A
+FONTS
+
+font-family: 'Poppins', sans-serif; */
+
+/* GOOGLE FONTS FOR YOU */
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Belleza', sans-serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oooh Baby', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+
+@font-face {
+  font-family: Cyrene;
+  src: url(/fonts/cyrene.otf);
+}
+
+@font-face {
+  font-family: La Obrige;
+  src: url(/fonts/la-obrige.otf);
+}
+
+@font-face {
+  font-family: Lineal Simples;
+  src: url(/fonts/lineal-simples.ttf);
+}
+
+@font-face {
+  font-family: Maglony;
+  src: url(/fonts/maglony.otf);
+}
+
+@font-face {
+  font-family: Mak;
+  src: url(/fonts/mak.otf);
+}
+
+@font-face {
+  font-family: Misto;
+  src: url(/fonts/misto.ttf);
+}
+
+
+@font-face {
+  font-family: Dream Avenue;
+  src: url(/fonts/dream-avenue.otf);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth; /* this enables smooth scrolling between internal links */
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%; /* this ensures images never break their container */
+  height: auto;
+}
+
+body {
+font-family: 'Poppins', sans-serif;
+font-size: 1rem;
+font-style: normal;
+font-weight: 400;
+text-align: center;
+color: #4c4c4c;
+line-height: 2;
+overflow-x: hidden;
+
+}
+
+ /* this overrides the default padding and margin on gridlex elements */
+[class*=grid] {   margin: 0;  }
+[class*=col]  {   padding: 0; }
+
+/* ------------- Utility Classes --------------  */
+
+.left     {  text-align: left;     }
+.right    {  text-align: right;    }
+.center {  text-align: center;   }
+
+.padded   {  padding: 5%;    }
+.padded-1 {  padding: 1rem;  }
+.padded-2 {  padding: 2rem;  }
+.padded-sides {padding: 0% 5%;}
+.padded-right {padding-right: 5%;}
+.padded-top-botton-left {padding: 5% 0% 5% 5%;}
+.padded-bottom {padding-bottom: 5%; }
+.padded-top {padding-top: 3%;}
+.padded-review {padding: 0% 15%;}
+.form-padded {padding: 3%}
+.margin {margin: 10px;}
+.margin-shapes {  margin: 0px 15px 15px;}
+.margin-sides {margin: 0px 15px;}
+
+.tall-50  {  min-height: 50vh;   }
+.tall-100 {  min-height: 100vh;  }
+
+.dark-bg      {  background-color: #CE967A;     }
+.light-bg     {  background-color: #FAE6D4; }
+.featured-bg  {  background-color: #F8DCC2;    }
+
+.banner
+  {
+  background-size: cover;
+  background-position: center;
+  }
+
+.flex-flip:nth-child(2n){  flex-direction: row-reverse; }
+
+.radius {border-radius: 500px 500px 0px 0px;}
+.bottom-radius
+{border-radius: 0px 0px 310px 310px;}
+.circle {border-radius: 500px;}
+.border {border: solid 1px #CE967A;}
+
+.medium-image
+  {
+  min-height: 60vh;
+  margin-bottom: -3rem;
+  background-size: cover;
+  }
+
+.medium-image-mob
+  {
+  min-height: 40vh;
+  background-size: cover;
+  }
+.small-image
+  {
+    min-height: 40vh;
+    background-size: cover;
+    background-position: center;
+  }
+
+.cropped-background
+  {
+  height: 474px;
+  top: 893px;
+  }
+
+hr {border-bottom: none;}
+/* General typography */
+
+  h2, h3, h4, h5, h6 {
+  line-height: 1;
+  margin-bottom: 0.8rem;
+  font-family: 'Poppins', sans-serif;
+  color: #CE967A;
+  font-weight: 400;
+  }
+
+h1 {
+  color: #FDFAF0;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 3.5rem;
+  text-align: center;
+  font-family: La Obrige, serif;
+  }
+
+h2  { font-size: 2.2rem;  }
+h3  { font-size: 1.8rem;  }
+h4  { font-size: 1.4rem;  }
+h5  { font-size: 1.2rem;  }
+p   { font-size: 1rem;  }
+
+p, ul {
+  margin-bottom: 0.8rem;
+ }
+
+a {color: #c3a496;
+   text-decoration: none;
+  }
+
+a:hover {color: #FDFAF0;}
+/*
+.down-arrow
+  {
+  color: #FDFAF0;
+  font-size: 2rem;
+  text-shadow: 2px 2px 5px #83685d;
+  } */
+
+/* this makes sure that the last element in any container doesn't have margin-bottom */
+h2:last-child,
+h3:last-child,
+h4:last-child,
+h5:last-child,
+h6:last-child,
+p:last-child {
+  margin-bottom:0;
+  }
+
+
+/* header */
+
+.hamburger {
+  top: 0;
+  right: 0;
+  z-index: 10;
+  font-size: 3rem;
+  padding:0% 1%;
+  border-radius: 0%;
+  position: fixed;
+  color: #FDFAF0;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  line-height: 8px;
+  cursor: pointer;
+
+}
+
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  right:0;
+  left:0;
+  bottom: 10;
+  padding: 30% 10% 10% 10%;
+  z-index: 10;
+  color: #c3a496;
+  padding: 1.2rem;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.mobile-menu a:hover {color: #FDFAF0;}
+.mobile-menu p:hover {color: #FDFAF0s;}
+
+.cross {cursor: pointer;}
+
+.mobile-menu {
+  display: none;
+}
+
+.logo img {
+  max-width: 7rem;
+}
+
+/* on scroll */
+.reveal {
+position: relative;
+opacity: 0;
+transition: 3s all ease;
+}
+
+.reveal.active {
+opacity: 1;
+}
+/* ---------ANNIMATION--------- */
+.active.fade-up {animation: fade-up 1s ease-in;}
+
+@keyframes fade-up {
+  0%
+    {
+    transform: translateY(20px);
+    opacity: 0;
+    }
+  100%
+    {
+    transform: translateY(0);
+    opacity: 1;
+    }
+}
+
+
+.active.fade-left {animation: fade-left 1s ease-in;}
+
+@keyframes fade-left {
+  0%
+    {
+    transform: translateX(-50px);
+    opacity: 0;
+    }
+  100%
+    {
+    transform: translateX(0);
+    opacity: 1;
+    }
+}
+
+.active.fade-right {animation: fade-right 1s ease-in;}
+
+@keyframes fade-right {
+  0%
+    {
+    transform: translateX(50px);
+    opacity: 0;
+    }
+  100%
+    {
+    transform: translateX(0);
+    opacity: 1;
+    }
+}
+
+.textarea {
+    min-height: 6rem;}
+
+.relative {
+    position: relative;}
+
+.vertical-form-text {
+    transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    position: absolute;
+    white-space: nowrap;
+    top: 50%;
+    left: 50%;
+}
+
+.floating-input {
+      position: relative;
+      padding-top: 1rem;
+      margin-bottom: 2rem;
+    }
+
+.enquiry input {font-family: 'Poppins', sans-serif;}
+
+input::placeholder {color: #cbcbcb;}
+textarea::placeholder {color: #cbcbcb;}
+
+.input-text
+  {
+  font-size: 1rem;
+  line-height: 1.2;
+  display: block;
+  margin: 0;
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #5f5a5a;
+  transition: all .5s;
+  padding: .7rem 0 .5rem;
+  background-color: rgba(0,0,0,0);
+  font-family: 'Poppins', sans-serif;
+  }
+
+.input-label
+  {
+  display: none;
+  }
+
+.input-text:placeholder-shown+.input-label
+  {
+  visibility: hidden;
+  z-index: -1;
+  }
+
+input[type=submit]
+  {
+  width: auto;
+  display: block;
+  }
+
+.button-solid
+  {
+  background-color: #CE967A;
+  color: #2f3031;
+  border: 1px solid #CE967A;
+  padding: .8rem 2rem .6rem;
+  }
+
+.button
+  {
+  background-color: transparent;
+  border: 1px solid #c3a496;
+  padding: .8rem 2rem .6rem;
+  }
+
+.button:hover {border: 1px solid #FDFAF0;}
+
+.button-solid:hover
+  {
+  background-color: transparent;
+  color: #CE967A;
+  border: 1px solid #CE967A;
+  }
+
+.shop-button
+  {
+  position: fixed;
+  z-index: 10;
+  }
+
+
+element.style {display: none;}
+
+
+input,
+textarea,
+select,
+option
+  {
+  border-style: solid;
+  padding: 0.8em;
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  vertical-align: top;
+  font-family: 'Poppins', sans-serif;
+  background-color: transparent;
+  border: none;
+  color: rgb(120,120,125);
+  }
+select {padding: 0.7rem 0 0.5rem}
+
+.input-text:focus {border-color:  #CE967A;}
+
+input:focus, textarea:focus
+  {outline: 0;}
+
+footer {
+  border-top: 1px solid black;
+}
+
+.socials a
+  {
+  color: #F8DCC2;
+  background-color: #FAE6D4;
+  border-radius: 90px;
+  font-size: 2.3rem;
+  border: #FAE6D4 solid;
+  }
+
+  .socials a:hover
+    {
+    color: #FAE6D4;
+    background-color: #F8DCC2;
+    border: #FAE6D4 solid;
+    }
+
+.fb {padding: 10px 26px;}
+.ig {padding: 10px 18px;}
+.tt {padding: 10px 17px;}
+.yt {padding: 10px 17px;}
+
+.built {padding: 2%;}
+.built p {
+  font-size: 0.8rem;
+  color: #c3a496;
+  }
+.desktop-hide {display: none;}
+.desktop-hide-arches {display: none;}
+
+/* visual editor   */
+/*
+.editor-content {
+  display: none;
+}
+
+.cms-editor-active .editor-content {
+  display: block;
+} */
+
+@media(max-width:768px) {
+
+  .desktop-hide-arches {display: inline;}
+
+  .hamburger {
+    margin: 1%;
+    top: -17px;
+}
+
+.medium-image
+  {
+  margin-bottom: -0rem;
+  }
+
+
+  .input-text {
+    font-size: 1rem;
+    line-height: 1;
+    padding: .5rem 0 .5rem;
+    }
+
+
+  .vertical-form-text {
+    position: absolute;
+    white-space: nowrap;
+    top: 9rem;
+    left: 0rem;
+    }
+
+.socials a {font-size: 1.9rem;}
+.fb {padding: 8px 24px;}
+.ig {padding: 8px 16px;}
+.tt {padding: 8px 15px;}
+.yt {padding: 8px 15px;}
+.padded-top-botton-left {padding: 5% 0%;}
+
+}
+
+@media(max-width:576px) {
+  .hamburger {
+    right: 5px;
+    margin: 1% 4%;
+    top: -17px;
+}
+
+h1 {font-size: 2rem;}
+
+.padded-review {padding: 0% 8%;}
+
+
+.floating-input {
+      padding-top: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+.input-text
+  {
+  font-size: 0.8rem;
+  }
+
+.input-label
+  {
+  font-size: .8rem;
+  }
+
+  input,
+  textarea,
+  select,
+  option
+    {
+    font-size: 0.8rem;
+    }
+
+.vertical-form-text {
+margin: -3%;}
+
+.socials a {font-size: 1.5rem;}
+.fb {padding: 5px 17px;}
+.ig {padding: 5px 11px;}
+.tt {padding: 5px 10px;}
+.yt {padding: 5px 10px;}
+.desktop-hide {display: inline;}
+.desktop-hide-arches {display: none;}
+} /* end media query */

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <head>
+
+      <!-- Meta Data -->
+        <meta charset="utf-8" />
+
+        <!-- Meta data for SEO purposes. -->
+        <title> The X-plore Template </title>
+        <meta name="description" content="Website templates for content creators and influencers. This website comes with a hidden media kit so creators can easily send media kits to prospect brands." />
+        <meta name="keywords" content="websites for content creators, websites for influencers," />
+
+        <!-- meta data to tell the browser that your devide is responsive -->
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="index, follow" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
+        <!--  Social media sharing META Tags -->
+        <meta property="og:title" content="The X-plore Template" />
+        <meta property="og:description" content="Website templates for content creators and influencers. This website comes with a hidden media kit so creators can easily send media kits to prospect brands." />
+        <meta property="og:image" content="/explore-cropped.jpg" />
+        <meta property="og:url" content="https://xplore-template.kingcode.uk/" />
+        <meta name="twitter:card" content="Website templates for content creators and influencers. This website comes with a hidden media kit so creators can easily send media kits to prospect brands." />
+        <meta name="og:site_name" content="The X-plore Template" />
+
+        <!-- twitter card -->
+        <meta name="twitter:card" content="Website templates for content creators and influencers. This website comes with a hidden media kit so creators can easily send media kits to prospect brands." />
+        <meta name="twitter:description" content="Website templates for content creators and influencers. This website comes with a hidden media kit so creators can easily send media kits to prospect brands." />
+        <meta name="twitter:title" content="The X-plore Template" />
+        <meta name="twitter:site" content="https://xplore-template.kingcode.uk/" />
+        <meta name="twitter:image" content="/explore-cropped.jpg" />
+        <meta name="twitter:creator" content="The X-plore Template" />
+        <meta name="twitter:image:alt" content="Website templates for content creators and influencers. This website comes with a hidden media kit so creators can easily send media kits to prospect brands." />
+
+      <!-- GOOGLE FONTS -->
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+
+      <!-- GOOGLE FONTS FOR YOU -->
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Barlow+Condensed:wght@300&family=Belleza&family=Kaushan+Script&family=Montserrat:wght@300;400&family=Oooh+Baby&family=Playfair+Display&family=Quicksand&family=Raleway&family=Roboto:wght@100;300;400&display=swap" rel="stylesheet" />
+
+        <!-- Viewport meta tag -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- Gridlex -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css" />
+
+        <!-- iconify icons -->
+        <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+
+        <!-- link to browser icon tag -->
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico" />
+        <link rel="icon" type="image/x-icon" sizes="32x32" href="/favicon.ico" />
+        <link rel="icon" type="image/x-icon" sizes="16x16" href="/favicon.ico" />
+        <link rel="manifest" href="/site.webmanifest" />
+
+        <link rel="stylesheet" href="/slick/slick.css" />
+        <link rel="stylesheet" href="/slick/slick-theme.css" />
+
+        <!-- styles -->
+        <link rel="stylesheet" href="/styles.css" />
+        <style>
+          :root {
+            --hero: #FDFAF0;
+            --heroFont: Mak;
+            /* --heroSizeNumber: rem; */
+            --headings: #CE967A;
+            --headingsFont: Cyrene;
+            --subheadings: #CE967A;
+            --subheadingsFont: Cyrene;
+            --text: #4c4c4c;
+            --textFont: Poppins, sans-serif;
+            --links: #c3a496;
+            --linksHover: #FDFAF0;
+            --hamburgerColor: #FDFAF0;
+            --imageAndText: #FAE6D4;
+            --projectsBackgroundColor: #F8DCC2;
+            --projectsTextBackgroundColor: #FAE6D4;
+            --carouselBackgroundColor: #F8DCC2;
+            --formBackgroundColor: #F8DCC2;
+            --formArcheBackgroundColor: #FAE6D4;
+            --buttonColor: #CE967A;
+            --buttonTextColor: #4c4c4c;
+            --mediaKitButton: #c3a496;
+            --mediaKitButtonHover: #FDFAF0;
+            --navigationBackgroundColor: #fae6d4;
+            --navigationArcheBackgroundColor: #f8dcc2;
+            --footerBackgroundColor: #F8DCC2;
+            --socialIconsColor: #FAE6D4;
+          }
+          h1 {
+            color: var(--hero);
+            font-family: var(--heroFont);
+            /* font-size: var(--heroSizeNumber); */
+          }
+          h2 {
+            color: var(--headings);
+            font-family: var(--headingsFont);
+          }
+
+          h3, h4, h5, h6 {
+            color: var(--subheadings);
+            font-family: var(--subheadingsFont);
+          }
+
+          p {
+            color: var(--text);
+            font-family: var(--textFont);}
+
+          a {color: var(--links);}
+          a:hover {color: var(--linksHover);}
+
+          .hamburger_color {color: var(--hamburgerColor);}
+
+          .image-and-text-background_color {background-color: var(--imageAndText);}
+
+          .projects-background_color {background-color: var(--projectsBackgroundColor);}
+
+          .project-text-background_color {background-color: var(--projectTextBackgroundColor);}
+
+          .carousel-background_color {background-color: var(--carouselBackgroundColor);}
+
+          .form-background_color {background-color: var(--formBackgroundColor);}
+
+          .form-arche-background_color {background-color: var(--formArcheBackgroundColor);}
+
+          .button_color {
+            background-color: var(--buttonColor);
+            border: 1px solid var(--buttonColor);}
+
+          .button_color:hover {
+            background-color: transparent;
+            color: var(--buttonColor);
+            border: 1px solid var(--buttonColor);}
+
+          .button-text_color: {color: var(buttonTextColor);}
+
+          .media-kit-button
+            {
+            background-color: transparent;
+            border: 1px solid var(--mediaKitButton);
+            }
+
+          .media-kit-button:hover {border: 1px solid var(--linksHover);}
+
+          input:focus, textarea:focus, select:focus, option:focus {
+            border-bottom: 2px solid var(--buttonColor);}
+
+          .input-text:focus   {border-bottom: 2px solid var(--buttonColor);}
+
+          .navigation-background_color {background-color: var(--navigationBackgroundColor);}
+          .navigation-arche-background_color {background-color: var(--navigationArcheBackgroundColor);}
+
+          .footer-background_color {background-color: var(--footerBackgroundColor);}
+          .social-icons_color a {
+            background-color: var(--socialIconsColor);
+            border: solid var(--socialIconsColor);}
+          .built p {color: var(--links);}
+
+          .social-icons_color a:hover{  color: var(--socialIconsColor);
+            background-color: transparent;
+            border: solid var(--socialIconsColor);}
+          </style>
+          <script type="text/javascript">
+        // /<![CDATA[/
+        (function () {
+          var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+          if (window.ShopifyBuy) {
+            if (window.ShopifyBuy.UI) {
+              ShopifyBuyInit();
+            } else {
+              loadScript();
+            }
+          } else {
+            loadScript();
+          }
+          function loadScript() {
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = scriptURL;
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+            script.onload = ShopifyBuyInit;
+          }
+          function ShopifyBuyInit() {
+            var client = ShopifyBuy.buildClient({
+              domain: 'candyandtheking.myshopify.com',
+              storefrontAccessToken: 'cab3cab316e153c92c8cc9afe856b9fd',
+            });
+            ShopifyBuy.UI.onReady(client).then(function (ui) {
+              ui.createComponent('product', {
+                id: '7200413843637',
+                node: document.getElementById('product-component-1648009510441'),
+                moneyFormat: '%24%7B%7Bamount%7D%7D',
+                options: {
+          "product": {
+            "styles": {
+              "product": {
+                "@media (min-width: 601px)": {
+                  "max-width": "calc(25% - 20px)",
+                  "margin-left": "20px",
+                  "margin-bottom": "50px",
+                  "border-radius": "100%"
+                }
+              },
+              "button": {
+                "font-family": "Noto Sans HK, sans-serif",
+                ":hover": {
+                  "background-color": "#a85959"
+                },
+                "background-color": "#d17f7f",
+                ":focus": {
+                  "background-color": "#a85959"
+                },
+                "border-radius": "0px",
+                "padding-left": "40px",
+                "padding-right": "40px",
+                "border-radius": "100%"
+              }
+            },
+            "buttonDestination": "modal",
+            "contents": {
+              "img": false,
+              "title": false,
+              "price": false,
+              "options": false
+            },
+            "text": {
+              "button": "BUY NOW"
+            },
+          },
+          "productSet": {
+            "styles": {
+              "products": {
+                "@media (min-width: 601px)": {
+                  "margin-left": "-20px"
+                }
+              }
+            }
+          },
+          "modalProduct": {
+            "contents": {
+              "img": false,
+              "imgWithCarousel": true,
+              "button": false,
+              "buttonWithQuantity": true
+            },
+            "styles": {
+              "product": {
+                "@media (min-width: 601px)": {
+                  "max-width": "100%",
+                  "margin-left": "0px",
+                  "margin-bottom": "0px"
+                }
+              },
+              "button": {
+                "font-family": "Noto Sans HK, sans-serif",
+                ":hover": {
+                  "background-color": "#a85959"
+                },
+                "background-color": "#d17f7f",
+                ":focus": {
+                  "background-color": "#a85959"
+                },
+                "border-radius": "100%",
+                "padding-left": "24px",
+                "padding-right": "24px",
+              },
+              "title": {
+                "font-family": "Noto Sans HK, sans-serif",
+                "font-weight": "normal"
+              },
+              "price": {
+                "font-family": "Noto Sans HK, sans-serif"
+              },
+              "compareAt": {
+                "font-family": "Noto Sans HK, sans-serif"
+              },
+              "unitPrice": {
+                "font-family": "Noto Sans HK, sans-serif"
+              },
+              "description": {
+                "font-family": "Noto Sans HK, sans-serif"
+              }
+            },
+            "text": {
+              "button": "Add to cart"
+            }
+          },
+          "option": {
+            "styles": {
+              "label": {
+                "font-family": "Noto Sans HK, sans-serif"
+              },
+              "select": {
+                "font-family": "Noto Sans HK, sans-serif"
+              }
+            },
+          },
+          "cart": {
+            "styles": {
+              "button": {
+                "font-family": "Noto Sans HK, sans-serif",
+                ":hover": {
+                  "background-color": "#a85959"
+                },
+                "background-color": "#d17f7f",
+                ":focus": {
+                  "background-color": "#a85959"
+                },
+                "border-radius": "100%"
+              }
+            },
+            "text": {
+              "total": "Subtotal",
+              "button": "Checkout"
+            },
+          },
+          "toggle": {
+            "styles": {
+              "toggle": {
+                "font-family": "Noto Sans HK, sans-serif",
+                "background-color": "#a85959",
+                ":hover": {
+                  "background-color": "#d17f7f"
+                },
+                "border-radius": "100%",
+                ":focus": {
+                  "background-color": "#a85959"
+                }
+              }
+            },
+          }
+        },
+              });
+            });
+          }
+        })();
+        // /]]>/
+        </script>
+    </head>
+
+
+
+
+    <header class="grid-center">
+      <div class="shop-button">
+          <div id='product-component-1648009510441'></div>
+      </div>
+
+        <p class=" col-1-middle hamburger_color hamburger editable">
+          _<br />_<br />_
+        </p>
+
+        <nav class="grid-middle navigation-background_color page-nav mobile-menu banner" style="background-image: url('');">
+          <div class="featured-bg navigation-arche-background_color radius banner" style="background-image: url('');">
+            <p class="cross exit right">
+              ╳
+            </p>
+            <div class="padded-top-nav  ">
+              <a href="/" class="logo center grow exit"> <img src="/images/final-logo.png" alt="The Explore Template Logo" /></a>
+              <div class="editable">
+                <p><a class="padded-sides text-med exit" href="/#about">about</a></p>
+                <p><a class="padded-sides text-med exit" href="/#services">services</a></p>
+                <p><a class="padded-sides text-med exit" href="/#reviews">reviews</a></p>
+                <p><a class="padded-sides text-med exit" href="/#contact">contact</a></p>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+    </header>
+
+    
+
+    
+    <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[0]">
+        <span class="cms-editor-button"></span>
+      <section class="padded-top padded-sides banner tall-100 grid center" style="background-image: url('images/banner3.jpg');" id="">
+  <div class="col-12-middle" >
+    <h1 class="reveal fade-up">The X-plore Template</h1>
+  </div>
+</section>
+
+    
+    <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[1]">
+        <span class="cms-editor-button"></span>
+      <section class="grid padded-sides image-and-text-background_color light-bg banner" style="background-image: url('');" id="about">
+  <div class="col-4_sm-8_xs-12 bottom-radius medium-image center reveal fade-left " style="background-image: url('/images/about.jpg');">
+
+  </div>
+    <div class="grid-center col-4_xs-hidden desktop-hide-arches reveal fade-left ">
+
+    <div class="col-10 radius margin-shapes medium-image-mob center" style="background-image: url('/images/pink-desert.jpg');">
+    </div>
+
+    <div class="col-10  margin-sides medium-image-mob center" style="background-image: url('/images/cactus.jpg');">
+    </div>
+
+  </div>
+  <div class="col-8_sm-12 center padded-top-botton-left reveal fade-right" id="">
+    <h2 class="">About</h2>
+    <p class="">Welcome to King Code, your digital creative solution.
+
+King Code is an online marketing agency in Phuket providing online marketing services to businesses in Thailand, The USA, UK, Laos, Australia, South Africa, Zanzibar and all the countries in between.
+
+King Code is a team of skilled professionals offering an interconnected set of services to help our clients seize the opportunities of this digital age.
+We are your full-service digital marketing company specialising in website development, social media marketing, photography and videography.</p>
+  </div>
+</section>
+
+    
+    <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[2]">
+        <span class="cms-editor-button"></span>
+      <section class="grid padded-sides padded-bottom projects-background_color featured-bg banner" style="background-image: url('');">
+  <div class="col-12 center" id="services">
+    <h2 class="padded">Our services</h2>
+  </div>
+  <div class="grid-center col-4_sm-12">
+    <div class="col-12 padded">
+      <div class="small-image radius " style="background-image: url('/images/content-creation.jpg');">
+      </div>
+    </div>
+    <div class="col-12 padded">
+      <div class="light-bg projects-text-background_color padded">
+          <h3 class="">Content Creation</h3>
+          <p class="">We like to think of ourselves as painters with very expensive paintbrushes―a visual storyteller some might say. With an image, you have less than a second to capture someone's attention. With every photo, we are able to teleport the viewer into an atmosphere that we've captured.</p>
+      </div>
+    </div>
+  </div>
+  <div class="grid-center col-4_sm-12 dark-bg radius">
+    <div class="col-12 padded">
+      <div class="small-image radius " style="background-image: url('/images/social-media.jpg');">
+      </div>
+    </div>
+    <div class="col-12 padded">
+      <div class="light-bg projects-text-background_color padded">
+          <h3 class="">Social Media Management</h3>
+          <p class="">Grow your tribe. The modern day phenomena which is social media not only allows you to engage with existing customers at a personal level, but also has the ability to reach new clients. With our digital marketing skills, we will reach new clients for you!</p>
+      </div>
+    </div>
+  </div>
+  <div class="grid col-4_sm-12">
+    <div class="col-12 padded">
+      <div class="small-image radius " style="background-image: url('/images/consultations.jpg');">
+      </div>
+    </div>
+    <div class="col-12 padded">
+      <div class="light-bg projects-text-background_color padded">
+          <h3 class="">Consultations</h3>
+          <p class="">Since we are experts in the field of digital creation and social media management, we've been able to our clients from a to z time and time again. If you need guidance to help you get your business where you want it, contact us for a one-on-one consultation.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+    
+    <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[3]">
+        <span class="cms-editor-button"></span>
+      <section class="grid-center carousel-background_color featured-bg banner" style="background-image: url('');">
+  <div class="col-12 padded-bottom" id="reviews">
+    <h2>Reviews</h2>
+  </div>
+
+  <div class=" col-12 padded-sides grid-center one-time">
+    
+    <div class="grid-center centered">
+      <div class="col-12-middle padded-review">
+        <hr />
+        <p>In 2016, Candy and Jonty helped me turn my passion into a career. We brainstormed together and got all my ideas out on paper which was the beginning of my fitness business, CazFit. (I still have that piece of paper we scribbled all my ideas on.) They also did some corporate branding for me (I have 4 pages of different logo designs she helped me with, they also designed my double-sided business cards and my invoice template). <br>Their work ethic went above and beyond my expectations, and Candy made herself available to my requests at all hours. <br> I also hired them to consult me with my social media pages. After  helping me setup my business Facebook page and Instagram page, they taught me the basics of social media management so I have been able to manage my accounts myself. <br>Their service really is incredible and I'm definitely going to be going to them to redesign my website. I wouldn't go to anyone else! 😁 <br />
+        <span> ★★★★★ </span>
+        </p>
+        <p class="centered"> Caroline Schofield, founder of CazFit, South Africa </p>
+      </div>
+    </div>
+    
+    <div class="grid-center centered">
+      <div class="col-12-middle padded-review">
+        <hr />
+        <p>King Code completely changed my life. They built a customized website for me from scratch. We met on zoom for the first time and I briefly told them what my vision was and they completely made it come true. They also helped me come up with content ideas for my Instagram which I am so thankful for. I honestly wouldn’t choose anyone else to build my website and be a part of my team! ❤️ <br />
+        <span> ★★★★★ </span>
+        </p>
+        <p class="centered"> - Lisette Munro, Owner of Lisette Munro, The USA </p>
+      </div>
+    </div>
+    
+    <div class="grid-center centered">
+      <div class="col-12-middle padded-review">
+        <hr />
+        <p>Candy and Jonty have not only gone above and beyond to make my website exactly how I want it, but they are just absolute gems to work with. Candy understood my vision immediately and gave great input to make it even better. She quickly made an aesthetically beautiful website that I’m so proud to call my own. Candy and Jonty are amazing people who turn your dreams into reality! <br />
+        <span> ★★★★★ </span>
+        </p>
+        <p class="centered"> - Leah Morans, Co-Founder of Moving Morans, The USA </p>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+    
+    <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[4]">
+        <span class="cms-editor-button"></span>
+      <section class="padded grid-center form-background_color featured-bg banner" style="background-image: url('');">
+  <form method="post" action="/success.html" class="enquiry col-12 grid-center capped-width">
+  <div class="light-bg form-arche-background_color col-8_md-9_sm-12 padded radius " style="background-image: url('');" id="contact">
+    <h2 class="reveal fade-up">Contact</h2>
+      <div class="grid padded-sides">
+      <div class="col-1_sm-12 relative reveal fade-left">
+        <h3 class="sm-bold vertical-form-text "> basic info</h3>
+      </div>
+
+      <div class="col-10_sm-12 form-padded">
+        <div class="floating-input ">
+          <input type="text" name="Your Name" placeholder="Your Name" class="input-text" required="" />
+          <label class="input-label">Your Name</label>
+        </div>
+
+        <div class="floating-input ">
+          <input type="text" name="Your Email Address" placeholder="Your Email Address" class="input-text" required="" />
+          <label class="input-label">Your Email Address</label>
+        </div>
+
+        <div class="floating-input ">
+          <input type="text" name="Your WhatsApp (if preferred)" placeholder="Your WhatsApp (if preferred)" class="input-text" />
+          <label class="input-label">Your WhatsApp (if preferred)</label>
+        </div>
+
+      </div>
+    </div>
+    <div class="grid padded-sides">
+
+      <div class="col-1_sm-12 relative reveal fade-left">
+        <h3 class="sm-bold vertical-form-text">your brand </h3>
+      </div>
+
+      <div class="col-10_sm-12 form-padded">
+        <div class="floating-input ">
+          <textarea name="Tell us a little bit about your business or brand" placeholder="Tell us a little bit about your business or brand" class="input-text"></textarea>
+          <label class="input-label">Tell us a little bit about your business or brand</label>
+        </div>
+
+        <div class="floating-input input-text input-text r">
+          <select name="services " id="services" required="">
+            <option class="input-text">What services do you require?</option>
+            <option class="input-text" value="Content Creation">Content Creation</option>
+            <option class="input-text" value="Social Media Management">Social Media Management</option>
+            <option class="input-text" value="Consultations">Consultations</option>
+            <option class="input-text" value="Other">Other</option>
+          </select>
+        </div>
+        </div>
+      </div>
+      <div class="padded grid-center">
+        <input type="hidden" name="inbox_key" value="explore-template">
+        <input type="text" name="_gotcha" style="display: none;" />
+        <input type="submit" value="Send Message" class="center button-solid button_color button-text_color" />
+      </div>
+    </div>
+  </form>
+</section>
+
+    
+
+    <footer class="grid-center padded-top footer-background_color featured-bg">
+      <div class="col-12 social-icons_color socials">
+        <a href="" class="margin ig"><span class="iconify" data-icon="ph:instagram-logo-fill"></span></a>
+        <a href="" class="margin fb "><span class="iconify" data-icon="brandico:facebook"></span></a>
+        <a href="" class="margin tt"><span class="iconify" data-icon="simple-icons:tiktok"></span></a>
+        <a href="" class="margin yt "><span class="iconify" data-icon="dashicons:youtube"></span></a>
+      </div>
+    </footer>
+
+
+    <div class="col-12-middle center built footer-background_color featured-bg">
+        <p> <a href="https://www.kingcode.uk" class="padded-sides"> Website by King Code </a> x <br class="desktop-hide" /><a href="https://www.candyandtheking.com" class="padded-sides">  Candy and the King </a>
+        <a href="/" class="padded-right"> © The X-plore Template</a>
+        </p>
+      </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+      <script src="/main.js" type="text/javascript"></script>
+      <script src="/slick/slick.min.js"></script>
+
+  </div></body>
+</html>

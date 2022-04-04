@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <head>
+
+      <!-- Meta Data -->
+        <meta charset="utf-8" />
+
+        <!-- Meta data for SEO purposes. -->
+        <title> {{page.seo.title}} </title>
+        <meta name="description" content="{{page.seo.description}}" />
+        <meta name="keywords" content="{{page.seo.keywords}}" />
+
+        <!-- meta data to tell the browser that your devide is responsive -->
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="index, follow" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
+        <!--  Social media sharing META Tags -->
+        <meta property="og:title" content="{{page.seo.title}}" />
+        <meta property="og:description" content="{{page.seo.description}}" />
+        <meta property="og:image" content="{{ page.seo.social-share_image }}" />
+        <meta property="og:url" content="{{page.seo.url}}" />
+        <meta name="twitter:card" content="{{page.seo.description}}" />
+        <meta name="og:site_name" content="{{page.seo.title}}" />
+
+        <!-- twitter card -->
+        <meta name="twitter:card" content="{{page.seo.description}}" />
+        <meta name="twitter:description" content="{{page.seo.description}}" />
+        <meta name="twitter:title" content="{{page.seo.title}}" />
+        <meta name="twitter:site" content="{{page.seo.url}}" />
+        <meta name="twitter:creator" content="{{page.seo.title}}" />
+        <meta name="twitter:image:alt" content="{{ page.seo.social-share_image }}" />
+
+      <!-- GOOGLE FONTS -->
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+
+      <!-- GOOGLE FONTS FOR YOU -->
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Barlow+Condensed:wght@300&family=Belleza&family=Kaushan+Script&family=Montserrat:wght@300;400&family=Oooh+Baby&family=Playfair+Display&family=Quicksand&family=Raleway&family=Roboto:wght@100;300;400&display=swap" rel="stylesheet" />
+
+        <!-- Viewport meta tag -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- Gridlex -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css" />
+
+        <!-- iconify icons -->
+        <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+
+        <!-- link to browser icon tag -->
+        <link rel="icon" href="{{site.data.general.basics.browser-tag_image}}" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="180x180" href="{{site.data.general.basics.browser-tag_image}}" />
+        <link rel="icon" type="image/x-icon" sizes="32x32" href="{{site.data.general.basics.browser-tag_image}}" />
+        <link rel="icon" type="image/x-icon" sizes="16x16" href="{{site.data.general.basics.browser-tag_image}}" />
+        <link rel="manifest" href="/site.webmanifest" />
+
+        <!-- styles -->
+        <link rel="stylesheet" href="/styles.css" />
+    </head>
+
+
+
+
+    <header class="grid-center">
+      <div class="shop-button">
+          <div id='product-component-1648009510441'></div>
+      </div>
+
+        <p class=" col-1-middle hamburger_color hamburger editable">
+          _<br />_<br />_
+        </p>
+
+        <nav class="grid-middle navigation-background_color page-nav mobile-menu banner">
+          <div class="featured-bg navigation-arche-background_color radius banner">
+            <p class="cross exit right">
+              ╳
+            </p>
+            <div class="padded-top-nav  ">
+              <a href="/" class="logo center grow exit"> <img src="{{site.data.general.basics.logo_image}}" alt="{{site.data.general.basics.logo-alt}}" /></a>
+              <div class="editable">
+                <p><a class="padded-sides text-med exit" href="/#about">about</a></p>
+                <p><a class="padded-sides text-med exit" href="/#services">services</a></p>
+                <p><a class="padded-sides text-med exit" href="/#reviews">reviews</a></p>
+                <p><a class="padded-sides text-med exit" href="/#contact">contact</a></p>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+    </header>
+
+    {{content}}
+
+    {% for item in page.content-blocks %}
+    <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[{{ forloop.index0 }}]">
+        <span class="cms-editor-button"></span>
+      {% include {{item._section-type}}.html %}
+    {% endfor %}
+
+    <footer class="grid-center padded-top footer-background_color featured-bg">
+      <div class="col-12 social-icons_color socials">
+        <a href="{{site.data.social-links.instagram}}" class="margin ig"><span class="iconify" data-icon="ph:instagram-logo-fill"></span></a>
+        <a href="{{site.data.social-links.facebook}}" class="margin fb "><span class="iconify" data-icon="brandico:facebook"></span></a>
+        <a href="{{site.data.social-links.tiktok}}" class="margin tt"><span class="iconify" data-icon="simple-icons:tiktok"></span></a>
+        <a href="{{site.data.social-links.youtube}}" class="margin yt "><span class="iconify" data-icon="dashicons:youtube"></span></a>
+      </div>
+    </footer>
+
+
+    <div class="col-12-middle center built footer-background_color featured-bg">
+        <p> <a href="https://www.kingcode.uk" class="padded-sides"> Website by King Code </a> x <br class="desktop-hide" /><a href="https://www.candyandtheking.com" class="padded-sides">  Candy and the King </a>
+        <a href="/" class="padded-right"> © {{site.data.general.basics.your-brand-name}}</a>
+        </p>
+      </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+      <script src="/main.js" type="text/javascript"></script>
+      <script src="/slick/slick.min.js"></script>
+
+  </div></body>
+</html>

@@ -1,0 +1,169 @@
+page_blocks: []
+_array_structures:
+  content-blocks:
+    values:
+      - label: Hero
+        icon: star
+        value:
+          _section-type: hero
+          hero_image:
+          hero:
+          link:
+            description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
+            link:
+      - label: Image and Textarea
+        icon: image
+        value:
+          _section-type: image-and-textarea
+          background_image:
+          image:
+          tablet_images:
+            top_image:
+            bottom_image:
+          heading:
+          textarea:
+          link:
+            description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
+            link:
+      - label: Projects
+        icon: work
+        value:
+          _section-type: projects
+          background_image:
+          heading:
+          first-project:
+            image:
+            subheading:
+            textarea:
+          second-project:
+            image:
+            subheading:
+            textarea:
+          third-project:
+            image:
+            subheading:
+            textarea:
+          link:
+            description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
+            link:
+      - label: Carousel
+        icon: money
+        value:
+          _section-type: carousel
+          background_image:
+          heading:
+          carousel:
+            textarea:
+            symbols:
+            ending:
+          link:
+            description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
+            link:
+      - label: Form
+        icon: article
+        value:
+          _section-type: form
+          background_image:
+          arch-background_image:
+          heading:
+          top:
+            vertical-subheading:
+            text-option-1:
+            text-option-2:
+            text-option-3:
+          bottom:
+            vertical-subheading:
+            message:
+          option-box:
+            subheading:
+            option-1:
+            option-2:
+            option-3:
+            option-4:
+          link:
+            description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
+            link:
+hero-font:
+_select_data:
+  fonts:
+    - Cyrene
+    - La Obrige
+    - Lineal Simples
+    - Maglony
+    - Mak
+    - Misto
+    - Dream Avenue
+    - Amatic SC, cursive
+    - Barlow Condensed, sans-serif
+    - Belleza, sans-serif
+    - Kaushan Script, cursive
+    - Montserrat, sans-serif
+    - Oooh Baby, cursive
+    - Playfair Display, serif
+    - Poppins, sans-serif
+    - Quicksand, sans-serif
+    - Raleway, sans-serif
+    - Roboto, sans-serif
+headings-font:
+_select_data:
+  fonts:
+      - Cyrene
+      - La Obrige
+      - Lineal Simples
+      - Maglony
+      - Mak
+      - Misto
+      - Dream Avenue
+      - Amatic SC, cursive
+      - Barlow Condensed, sans-serif
+      - Belleza, sans-serif
+      - Kaushan Script, cursive
+      - Montserrat, sans-serif
+      - Oooh Baby, cursive
+      - Playfair Display, serif
+      - Poppins, sans-serif
+      - Quicksand, sans-serif
+      - Raleway, sans-serif
+      - Roboto, sans-serif
+subheadings-font:
+_select_data:
+  fonts:
+      - Cyrene
+      - La Obrige
+      - Lineal Simples
+      - Maglony
+      - Mak
+      - Misto
+      - Dream Avenue
+      - Amatic SC, cursive
+      - Barlow Condensed, sans-serif
+      - Belleza, sans-serif
+      - Kaushan Script, cursive
+      - Montserrat, sans-serif
+      - Oooh Baby, cursive
+      - Playfair Display, serif
+      - Poppins, sans-serif
+      - Quicksand, sans-serif
+      - Raleway, sans-serif
+      - Roboto, sans-serif
+text-font:
+_select_data:
+  fonts:
+      - Cyrene
+      - La Obrige
+      - Lineal Simples
+      - Maglony
+      - Mak
+      - Misto
+      - Dream Avenue  
+      - Amatic SC, cursive
+      - Barlow Condensed, sans-serif
+      - Belleza, sans-serif
+      - Kaushan Script, cursive
+      - Montserrat, sans-serif
+      - Oooh Baby, cursive
+      - Playfair Display, serif
+      - Poppins, sans-serif
+      - Quicksand, sans-serif
+      - Raleway, sans-serif
+      - Roboto, sans-serif
