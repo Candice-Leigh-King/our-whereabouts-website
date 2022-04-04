@@ -1,12 +1,11 @@
 /* NOTES
 
 COLORS
-#FAE6D4
-#F8DCC2
-#c3a496
-#FDFAF0
-#2f3031
-#CE967A
+#B89E8E
+#E9E1DD
+#5F4F45
+#F7F5F3
+#BBD2B6
 FONTS
 
 font-family: 'Poppins', sans-serif; */
@@ -115,9 +114,10 @@ overflow-x: hidden;
 .tall-50  {  min-height: 50vh;   }
 .tall-100 {  min-height: 100vh;  }
 
-.dark-bg      {  background-color: #CE967A;     }
-.light-bg     {  background-color: #FAE6D4; }
-.featured-bg  {  background-color: #F8DCC2;    }
+.dark-bg      {  background-color: #B89E8E;     }
+.light-bg     {  background-color: #F7F5F3; }
+.featured-bg  {  background-color: #BBD2B6;    }
+.body-bg      { background-color: #E9E1DD;}
 
 .banner
   {
@@ -128,8 +128,7 @@ overflow-x: hidden;
 .flex-flip:nth-child(2n){  flex-direction: row-reverse; }
 
 .radius {border-radius: 500px 500px 0px 0px;}
-.bottom-radius
-{border-radius: 0px 0px 310px 310px;}
+.clove-radius {border-radius: 0px 300px;}
 .circle {border-radius: 500px;}
 .border {border: solid 1px #CE967A;}
 
@@ -215,6 +214,8 @@ p:last-child {
 
 /* header */
 
+header {position: fixed;}
+
 .hamburger {
   top: 0;
   right: 0;
@@ -270,6 +271,57 @@ transition: 3s all ease;
 opacity: 1;
 }
 /* ---------ANNIMATION--------- */
+
+@keyframes fadeInLeft {
+    from {
+      transform: translateX(-50px);
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes fadeInRight {
+    from {
+      transform: translateX(50px);
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+.animated {
+    animation-duration: 2s;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-fill-mode: both
+}
+
+.animatedFadeInLeft {
+    opacity: 0
+}
+
+.animatedFadeInRight {
+    opacity: 0
+}
+
+.fadeInLeft {
+    opacity: 0;
+    animation-name: fadeInLeft;
+    -webkit-animation-name: fadeInLeft;
+}
+
+.fadeInRight {
+    opacity: 0;
+    animation-name: fadeInRight;
+    -webkit-animation-name: fadeInRight;
+}
+
+
 .active.fade-up {animation: fade-up 1s ease-in;}
 
 @keyframes fade-up {
@@ -337,6 +389,9 @@ opacity: 1;
     }
 
 .enquiry input {font-family: 'Poppins', sans-serif;}
+
+input::placeholder {color: #cbcbcb;}
+textarea::placeholder {color: #cbcbcb;}
 
 .input-text
   {
