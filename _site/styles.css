@@ -105,9 +105,10 @@ overflow-x: hidden;
 .padded-top-botton-left {padding: 5% 0% 5% 5%;}
 .padded-bottom {padding-bottom: 5%; }
 .padded-top {padding-top: 3%;}
-.padded-review {padding: 0% 15%;}
+
 .form-padded {padding: 3%}
 .margin {margin: 10px;}
+.margin-top {margin-top: 90px;}
 .margin-shapes {  margin: 0px 15px 15px;}
 .margin-sides {margin: 0px 15px;}
 
@@ -194,12 +195,6 @@ a {color: #c3a496;
 
 a:hover {color: #FDFAF0;}
 /*
-.down-arrow
-  {
-  color: #FDFAF0;
-  font-size: 2rem;
-  text-shadow: 2px 2px 5px #83685d;
-  } */
 
 /* this makes sure that the last element in any container doesn't have margin-bottom */
 h2:last-child,
@@ -214,14 +209,22 @@ p:last-child {
 
 /* header */
 
-header {position: fixed;}
+header.fixed {
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  z-index: 2;
+  margin:0;
+  text-align: center;
+}
 
 .hamburger {
-  top: 0;
+  top: 10px;
   right: 0;
   z-index: 10;
   font-size: 3rem;
-  padding:0% 1%;
+  padding:0% 2%;
   border-radius: 0%;
   position: fixed;
   color: #FDFAF0;
@@ -257,7 +260,7 @@ header {position: fixed;}
 }
 
 .logo img {
-  max-width: 7rem;
+  max-width: 15rem;
 }
 
 /* on scroll */
