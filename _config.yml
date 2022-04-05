@@ -32,12 +32,27 @@ _array_structures:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
+      - label: Curved Image and Textarea
+        icon: image
+        value:
+          _section-type: curved-image-and-textarea
+          image:
+          heading:
+          textarea:
+          social-media:
+            instagram:
+            twitter:
+            tiktok:
+            Facebook:
+          link:
+            description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
+            link:
       - label: Call to Action
         icon: capital
         value:
           _section-type: call-to-action
           image:
-          button:  
+          button:
       - label: Projects
         icon: work
         value:

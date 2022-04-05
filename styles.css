@@ -91,6 +91,11 @@ overflow-x: hidden;
 .circle {border-radius: 100%;}
 .border {border: solid 1px #CE967A;}
 
+.bottom-radius
+{border-radius: 240px 240px 240px 0px;}
+
+.circle img {max-width: 12rem;}
+
 .bump {
   position: absolute;
   left: 110px;
@@ -203,6 +208,7 @@ a:hover {color: #FDFAF0;}
 
 .light-text {color: #E9E1DD; }
 .amsterdam {font-family: 'Amsterdam';}
+.featured-text {color: #B89E8E;}
 /*
 
 /* this makes sure that the last element in any container doesn't have margin-bottom */
