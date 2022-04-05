@@ -43,7 +43,7 @@ _array_structures:
             instagram:
             tiktok:
             Facebook:
-            twitter:  
+            twitter:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -73,18 +73,14 @@ _array_structures:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
-      - label: Carousel
-        icon: money
+      - label: Recent Blogs
+        icon: blogs
         value:
-          _section-type: carousel
+          _section-type: recent-blogs
           heading:
-          carousel:
-            textarea:
-            symbols:
-            ending:
-          link:
-            description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
-            link:
+          textarea:
+          cta:
+          backgronud_image:    
       - label: Form
         icon: article
         value:

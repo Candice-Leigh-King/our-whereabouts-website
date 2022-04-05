@@ -68,6 +68,7 @@ overflow-x: hidden;
 .margin-shapes {  margin: 0px 15px 15px;}
 .margin-sides {margin: 0px 15px;}
 .margin-top-bottom {margin: 5% 0% 5% 0%;}
+.margin-l {margin: 10%;}
 
 .tall-30 {min-height: 30vh;}
 .tall-50  {  min-height: 50vh;   }
@@ -75,8 +76,9 @@ overflow-x: hidden;
 
 .dark-bg      {  background-color: #B89E8E;     }
 .light-bg     {  background-color: #F7F5F3; }
-.featured-bg  {  background-color: #BBD2B6;    }
+.featured-bg  {  background-color: #DDE8DA;    }
 .split-bg {background: linear-gradient(90deg,#E9E1DD 185px,#B89E8E 50px);}
+.split-green {background: linear-gradient(180deg, #E9E1DD 70%, #BBD2B6 30%);}
 
 .banner
   {
@@ -89,10 +91,13 @@ overflow-x: hidden;
 .radius {border-radius: 500px 500px 0px 0px;}
 .clove-radius {border-radius: 0px 300px;}
 .circle {border-radius: 100%;}
-.border {border: solid 1px #CE967A;}
+.window {border-radius: 180px 180px 0px 0px;}
 
 .bottom-radius
 {border-radius: 240px 240px 240px 0px;}
+
+.border {border: solid 1px #CE967A;}
+
 
 .circle img {max-width: 12rem;}
 
@@ -156,6 +161,16 @@ h2, h3, h4, h5, h6
 
 h2, h3, h5 {color: #B89E8E;}
 h4, h6 {color: #5F4F45;}
+
+.blog h3 {
+  font-family: 'Libre Baskerville', serif;
+  color: #5F4F45 }
+
+.blog
+  {
+  background-position: bottom;
+  background-repeat: no-repeat;
+  }
 
 h2 {
   font-family: 'Libre Baskerville', serif;
@@ -529,8 +544,7 @@ input:focus, textarea:focus
   font-size: 0.8rem;
   color: #c3a496;
   }
-.desktop-hide {display: none;}
-.desktop-hide-arches {display: none;}
+.desktop-hide {display: none;}  
 
 /* visual editor   */
 /*
