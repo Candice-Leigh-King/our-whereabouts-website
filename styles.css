@@ -57,10 +57,9 @@ overflow-x: hidden;
 .padded-1 {  padding: 1rem;  }
 .padded-2 {  padding: 2rem;  }
 .padded-sides {padding: 0% 5%;}
-.padded-right {padding-right: 5%;}
 .padded-top-botton-left {padding: 0% 0% 0% 3%;}
 .padded-bottom {padding-bottom: 5%; }
-.padded-top {padding-top: 3%;}
+.padded-top {padding-top: 3% !important;}
 .padded-left {padding: 5% 5% 5% 10%;}
 
 .form-padded {padding: 3%}
@@ -68,6 +67,7 @@ overflow-x: hidden;
 .margin-top {margin-top: 90px;}
 .margin-shapes {  margin: 0px 15px 15px;}
 .margin-sides {margin: 0px 15px;}
+.margin-top-bottom {margin: 5% 0% 5% 0%;}
 
 .tall-30 {min-height: 30vh;}
 .tall-50  {  min-height: 50vh;   }
@@ -76,7 +76,7 @@ overflow-x: hidden;
 .dark-bg      {  background-color: #B89E8E;     }
 .light-bg     {  background-color: #F7F5F3; }
 .featured-bg  {  background-color: #BBD2B6;    }
-.split-bg {background: linear-gradient(90deg,#E9E1DD 179px,#B89E8E 50px);}
+.split-bg {background: linear-gradient(90deg,#E9E1DD 185px,#B89E8E 50px);}
 
 .banner
   {
@@ -513,19 +513,15 @@ select {padding: 0.7rem 0 0.5rem}
 input:focus, textarea:focus
   {outline: 0;}
 
-footer {
-  border-top: 1px solid black;
-}
-
 .socials a
   {
-  color: #5F4F45;
+  color: #B89E8E;
   font-size: 2.7rem;
   }
 
   .socials a:hover
     {
-    color: #CE967A;
+    color: #5F4F45;
     }
 
 .built {padding: 2%;}
