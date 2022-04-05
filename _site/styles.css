@@ -58,7 +58,7 @@ overflow-x: hidden;
 .padded-2 {  padding: 2rem;  }
 .padded-sides {padding: 0% 5%;}
 .padded-right {padding-right: 5%;}
-.padded-top-botton-left {padding: 5% 0% 5% 5%;}
+.padded-top-botton-left {padding: 0% 0% 0% 3%;}
 .padded-bottom {padding-bottom: 5%; }
 .padded-top {padding-top: 3%;}
 .padded-left {padding: 5% 5% 5% 10%;}
@@ -519,24 +519,14 @@ footer {
 
 .socials a
   {
-  color: #F8DCC2;
-  background-color: #FAE6D4;
-  border-radius: 90px;
-  font-size: 2.3rem;
-  border: #FAE6D4 solid;
+  color: #5F4F45;
+  font-size: 2.7rem;
   }
 
   .socials a:hover
     {
-    color: #FAE6D4;
-    background-color: #F8DCC2;
-    border: #FAE6D4 solid;
+    color: #CE967A;
     }
-
-.fb {padding: 10px 26px;}
-.ig {padding: 10px 18px;}
-.tt {padding: 10px 17px;}
-.yt {padding: 10px 17px;}
 
 .built {padding: 2%;}
 .built p {

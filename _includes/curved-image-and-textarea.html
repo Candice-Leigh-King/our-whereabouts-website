@@ -1,16 +1,16 @@
 <section class="grid padded banner" id="{{item.link.link}}">
 
-  <div class="col-1">
-
-  </div>
+  <div class="col-1 grid-middle socials">
+      <a  href="{{item.social-media-links.instagram}}" class="margin col-12 "><span class="iconify" data-icon="ph:instagram-logo-fill"></span></a>
+      <a href="{{item.social-media-links.facebook}}" class="margin col-12 "><span class="iconify" data-icon="brandico:facebook"></span></a>
+      <a href="{{site.data.social-links.tiktok}}" class="margin col-12"><span class="iconify" data-icon="simple-icons:tiktok"></span></a>
+      <a href="{{site.data.social-links.youtube}}" class="margin col-12 "><span class="iconify" data-icon="dashicons:youtube"></span></a>
+    </div>
   <div class="col-4_sm-8_xs-12 bottom-radius medium-image center reveal fade-left " style="background-image: url('{{item.image}}');">
 
   </div>
-    <div class="grid-center col-4_xs-hidden desktop-hide-arches reveal fade-left ">
-
-  </div>
-  <div class="col-7_sm-12 center padded-top-botton-left reveal fade-right" id="{{page.links.image-and-textarea}}">
+  <div class="col-7_sm-12 padded-top-botton-left reveal fade-right" id="{{page.links.image-and-textarea}}">
     <h1 class="featured-text">{{item.heading}}</h1>
-    <p class="">{{item.textarea}}</p>
+    <p class="featured-text left">{{item.textarea}}</p>
   </div>
 </section>
