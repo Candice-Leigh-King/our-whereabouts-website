@@ -271,7 +271,7 @@ header.fixed {
   top: 0;
   right:0;
   left:0;
-  bottom: 10;
+  bottom: 0;
   padding: 30% 10% 10% 10%;
   z-index: 10;
   color: #c3a496;
@@ -282,8 +282,13 @@ header.fixed {
   font-size: 2.5rem;
 }
 
-.mobile-menu a:hover {color: #FDFAF0;}
-.mobile-menu p:hover {color: #FDFAF0s;}
+.circle-radius {background-image: radial-gradient(#B89E8E 65%, #FDFAF0 40%);}
+
+.mobile-menu a {color: #FDFAF0;}
+
+.mobile-menu a:hover {color: #5F4F45;}
+.mobile-menu p:hover {color:#5F4F45;}
+
 
 .cross {cursor: pointer;}
 
@@ -544,7 +549,7 @@ input:focus, textarea:focus
   font-size: 0.8rem;
   color: #c3a496;
   }
-.desktop-hide {display: none;}  
+.desktop-hide {display: none;}
 
 /* visual editor   */
 /*

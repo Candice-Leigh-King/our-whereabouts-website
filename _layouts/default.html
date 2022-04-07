@@ -63,30 +63,34 @@
       <header class="grid-center dark-bg fixed ">
         <div class="col-12 centered logo">
           <a href="/">
-            <img src="/images/logo.png" alt="" />
+            <img src="{{site.data.general.basics.logo_image}}" alt="{{site.data.general.basics.logo-alt}}" />
           </a>
         </div>
-          <p class=" col-1-middle hamburger_color hamburger editable">
+          <p class=" col-1-middle hamburger editable">
             _<br />_<br />_
           </p>
 
-          <nav class="grid-middlepage-nav mobile-menu banner">
-            <div class="featured-bg radius banner">
+          <nav class="grid-middle page-nav mobile-menu circle-radius ">
               <p class="cross exit right">
                 ╳
               </p>
               <div class="padded-top-nav  ">
                 <a href="/" class="logo center grow exit"> <img src="{{site.data.general.basics.logo_image}}" alt="{{site.data.general.basics.logo-alt}}"> </a>
-                <div class="editabl">
+                <div class="editable">
+                  <p><a class="padded-sides text-med exit" href="/#blogs">blog</a></p>
                   <p><a class="padded-sides text-med exit" href="/#about">about</a></p>
-
                   <p><a class="padded-sides text-med exit" href="/#services">services</a></p>
                   <p><a class="padded-sides text-med exit" href="/#reviews">our Story</a></p>
                   <p><a class="padded-sides text-med exit" href="/contact">contact</a></p>
+                  <a  href="{{item.social-media-links.instagram}}" class="padded centered  margin-top-bottom col-12 "><span class="iconify" data-icon="ph:instagram-logo-fill"></span></a>
+                  <a href="{{item.social-media-links.tiktok}}" class=" padded  margin-top-bottom col-12"><span class="iconify" data-icon="simple-icons:tiktok"></span></a>
+                  <a href="{{item.social-media-links.facebook}}" class="padded  margin-top-bottom col-12 "><span class="iconify" data-icon="brandico:facebook"></span></a>
+                  <a href="{{item.social-media-links.twitter}}" class=" padded  margin-top-bottom col-12 "><span class="iconify" data-icon="bi:twitter"></span></a>
+                  <img src="{{item.images.top_image}}" alt="">
                 </div>
               </div>
-            </div>
           </nav>
+
       </header>
 
     {{content}}
