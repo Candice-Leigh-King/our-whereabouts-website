@@ -104,87 +104,13 @@ _array_structures:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
-hero-font:
-_select_data:
-  fonts:
-    - Cyrene
-    - La Obrige
-    - Lineal Simples
-    - Maglony
-    - Mak
-    - Misto
-    - Dream Avenue
-    - Amatic SC, cursive
-    - Barlow Condensed, sans-serif
-    - Belleza, sans-serif
-    - Kaushan Script, cursive
-    - Montserrat, sans-serif
-    - Oooh Baby, cursive
-    - Playfair Display, serif
-    - Poppins, sans-serif
-    - Quicksand, sans-serif
-    - Raleway, sans-serif
-    - Roboto, sans-serif
-headings-font:
-_select_data:
-  fonts:
-      - Cyrene
-      - La Obrige
-      - Lineal Simples
-      - Maglony
-      - Mak
-      - Misto
-      - Dream Avenue
-      - Amatic SC, cursive
-      - Barlow Condensed, sans-serif
-      - Belleza, sans-serif
-      - Kaushan Script, cursive
-      - Montserrat, sans-serif
-      - Oooh Baby, cursive
-      - Playfair Display, serif
-      - Poppins, sans-serif
-      - Quicksand, sans-serif
-      - Raleway, sans-serif
-      - Roboto, sans-serif
-subheadings-font:
-_select_data:
-  fonts:
-      - Cyrene
-      - La Obrige
-      - Lineal Simples
-      - Maglony
-      - Mak
-      - Misto
-      - Dream Avenue
-      - Amatic SC, cursive
-      - Barlow Condensed, sans-serif
-      - Belleza, sans-serif
-      - Kaushan Script, cursive
-      - Montserrat, sans-serif
-      - Oooh Baby, cursive
-      - Playfair Display, serif
-      - Poppins, sans-serif
-      - Quicksand, sans-serif
-      - Raleway, sans-serif
-      - Roboto, sans-serif
-text-font:
-_select_data:
-  fonts:
-      - Cyrene
-      - La Obrige
-      - Lineal Simples
-      - Maglony
-      - Mak
-      - Misto
-      - Dream Avenue
-      - Amatic SC, cursive
-      - Barlow Condensed, sans-serif
-      - Belleza, sans-serif
-      - Kaushan Script, cursive
-      - Montserrat, sans-serif
-      - Oooh Baby, cursive
-      - Playfair Display, serif
-      - Poppins, sans-serif
-      - Quicksand, sans-serif
-      - Raleway, sans-serif
-      - Roboto, sans-serif
+        - lable: Gallery
+          icon: gallery
+          value:
+            _section-type: gallery
+            1_image:
+            2_image:
+            3_image:
+            4_image:
+            5_image:
+            6_image:  

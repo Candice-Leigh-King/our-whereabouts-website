@@ -96,7 +96,7 @@ overflow-x: hidden;
 .bottom-radius
 {border-radius: 240px 240px 240px 0px;}
 
-.border {border: solid 1px #CE967A;}
+.border {border: solid 1px #b89e8e;}
 
 
 .circle img {max-width: 12rem;}
@@ -533,6 +533,82 @@ select {padding: 0.7rem 0 0.5rem}
 input:focus, textarea:focus
   {outline: 0;}
 
+
+/* BLOG   */
+
+.gallery
+  {
+  line-height:0;
+  -webkit-column-count:5; /* split it into 5 columns */
+  -webkit-column-gap:5px; /* give it a 5px gap between columns */
+  -moz-column-count:5;
+  -moz-column-gap:5px;
+  column-count:5;
+  column-gap:5px;
+  }
+
+.gallery
+  {
+  margin:5px; /* to match column gap */
+  }
+
+.img-1
+  {
+  padding-bottom:110%;
+  background-size: cover;
+  background-position: center;
+  border-top: solid 5px white;
+  border-left: solid 5px white;
+  }
+
+.img-2
+    {
+    padding-bottom:50%;
+    background-size: cover;
+    background-position: center;
+    border-top: solid 5px white;
+    border-bottom: solid 5px white;
+    border-left: solid 5px white;
+    }
+
+.img-3
+  {
+  padding-bottom:50%;
+  background-size: cover;
+  background-position: center;
+  border-left: solid 5px white;
+  border-top: solid 5px white;
+
+  }
+
+.img-4
+  {
+  padding-bottom:110%;
+  background-size: cover;
+  background-position: center;
+  border-top: solid 5px white;
+  border-bottom: solid 5px white;
+  border-left: solid 5px white;
+  }
+
+.img-5
+  {
+  padding-bottom:100%;
+  background-size: cover;
+  background-position: center;
+  border-top: solid 5px white;
+  border-right: solid 5px white;
+  border-left: solid 5px white;
+  }
+
+.img-6
+  {
+  border: solid 5px white;
+  padding-bottom:60%;
+  background-size: cover;
+  background-position: center;
+  }
+
 .socials a
   {
   color: #B89E8E;
@@ -549,6 +625,7 @@ input:focus, textarea:focus
   font-size: 0.8rem;
   color: #c3a496;
   }
+
 .desktop-hide {display: none;}
 
 /* visual editor   */
