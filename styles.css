@@ -63,6 +63,8 @@ overflow-x: hidden;
 .padded-left {padding: 5% 5% 5% 10%;}
 
 .form-padded {padding: 3%}
+
+.padded-top-contact {padding-top: 5%;}
 .margin {margin: 10px;}
 .margin-top {margin-top: 90px;}
 .margin-shapes {  margin: 0px 15px 15px;}
@@ -79,11 +81,19 @@ overflow-x: hidden;
 .featured-bg  {  background-color: #DDE8DA;    }
 .split-bg {background: linear-gradient(90deg,#E9E1DD 185px,#B89E8E 50px);}
 .split-green {background: linear-gradient(180deg, #E9E1DD 70%, #BBD2B6 30%);}
+.beige-bg { background: #E9E1DD;}
 
 .banner
   {
   background-size: cover;
   background-position: center;
+  }
+
+.contact
+  {
+  background-size: contain;
+  background-position: top;
+  background-repeat: no-repeat;
   }
 
 .flex-flip:nth-child(2n){  flex-direction: row-reverse; }
@@ -165,6 +175,8 @@ h4, h6 {color: #5F4F45;}
 .blog h3 {
   font-family: 'Libre Baskerville', serif;
   color: #5F4F45 }
+
+.libre h3 {font-family: 'Libre Baskerville', serif;}
 
 .blog
   {
@@ -424,16 +436,16 @@ opacity: 1;
     left: 50%;
 }
 
-.floating-input {
-      position: relative;
-      padding-top: 1rem;
-      margin-bottom: 2rem;
-    }
+.floating-input
+  {
+  position: relative;
+  padding-top: 1rem;
+  }
 
-.enquiry input {font-family: 'Poppins', sans-serif;}
+.enquiry input {font-family: 'Libre Baskerville', serif;}
 
-input::placeholder {color: #cbcbcb;}
-textarea::placeholder {color: #cbcbcb;}
+input::placeholder {color: #5F4F45;}
+textarea::placeholder {color: #5F4F45;}
 
 .input-text
   {
@@ -443,11 +455,11 @@ textarea::placeholder {color: #cbcbcb;}
   margin: 0;
   width: 100%;
   border: none;
-  border-bottom: 2px solid #5f5a5a;
+  border-bottom: 2px solid #5F4F45;
   transition: all .5s;
   padding: .7rem 0 .5rem;
-  background-color: rgba(0,0,0,0);
-  font-family: 'Poppins', sans-serif;
+  background-color: #E9E1DD;
+  font-family: 'Libre Baskerville', serif;
   }
 
 .input-label
@@ -521,14 +533,14 @@ option
   width: 100%;
   font-size: 1rem;
   vertical-align: top;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   background-color: transparent;
   border: none;
-  color: rgb(120,120,125);
+  color: #5F4F45;
   }
 select {padding: 0.7rem 0 0.5rem}
 
-.input-text:focus {border-color:  #CE967A;}
+.input-text:focus {border-color:  #B89E8E;}
 
 input:focus, textarea:focus
   {outline: 0;}
@@ -642,6 +654,12 @@ input:focus, textarea:focus
 
   .desktop-hide-arches {display: inline;}
 
+h1 {}
+
+h2 {}
+
+h3 {font-size: 1.3rem;}
+
   .hamburger {
     margin: 1%;
     top: -17px;
@@ -652,6 +670,7 @@ input:focus, textarea:focus
   margin-bottom: -0rem;
   }
 
+.padded-top-contact {padding-top: 8%;}
 
   .input-text {
     font-size: 1rem;
@@ -687,6 +706,7 @@ h1 {font-size: 2rem;}
 
 .padded-review {padding: 0% 8%;}
 
+.padded-top-contact {padding-top: 28%;}
 
 .floating-input {
       padding-top: 1rem;

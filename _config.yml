@@ -114,3 +114,9 @@ _array_structures:
           4_image:
           5_image:
           6_image:
+      - lable: Map
+        icon: www
+        value:
+          _section-type: map
+          heading:
+          google-embed-code:
