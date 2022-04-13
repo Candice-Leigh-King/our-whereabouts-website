@@ -115,6 +115,11 @@ _array_structures:
         value:
           _section-type: blog-cover-image
           blog-cover_image:
+      - lable: Blog Textarea
+        icon: text
+        value:
+          _section-type: blog-textarea
+          blog-textarea:      
       - lable: Blog Featured Textarea
         icon: text
         value:

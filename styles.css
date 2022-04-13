@@ -560,6 +560,14 @@ input:focus, textarea:focus
 .blog h1 {font-size: 1.5rem;}
 
 
+.capped-width
+  {
+  max-width: 1000px;
+  margin: auto;
+  }
+.capped-width {width: 100%;  
+
+
 .social-share
   {
   position: fixed;
