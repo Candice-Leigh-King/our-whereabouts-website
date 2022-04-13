@@ -119,7 +119,7 @@ _array_structures:
         icon: text
         value:
           _section-type: blog-textarea
-          blog-textarea:      
+          textarea:      
       - lable: Blog Featured Textarea
         icon: text
         value:
