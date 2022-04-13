@@ -113,13 +113,13 @@ _array_structures:
       - lable: Blog Cover Image
         icon: image
         value:
-          _section-type: blog-cover
-          blog_image:
+          _section-type: blog-cover-image
+          blog-cover_image:
       - lable: Blog Featured Textarea
         icon: text
         value:
           _section-type: blog-featured-textarea
-          blog-featured-textarea:        
+          blog-featured-textarea:
       - lable: Gallery
         icon: portfolio
         value:
