@@ -64,6 +64,8 @@ overflow-x: hidden;
 
 .form-padded {padding: 3%}
 
+.padded-blog {padding-top: 10%;}
+
 .padded-top-contact {padding-top: 5%;}
 .margin {margin: 10px;}
 .margin-top {margin-top: 90px;}
@@ -172,17 +174,16 @@ h2, h3, h4, h5, h6
 h2, h3, h5 {color: #B89E8E;}
 h4, h6 {color: #5F4F45;}
 
-.blog h3 {
+.blog h3
+  {
   font-family: 'Libre Baskerville', serif;
-  color: #5F4F45 }
+  color: #5F4F45
+  }
 
 .libre h3 {font-family: 'Libre Baskerville', serif;}
 
-.blog
-  {
-  background-position: bottom;
-  background-repeat: no-repeat;
-  }
+.libre h1 {font-family: 'Libre Baskerville', serif;}
+
 
 h2 {
   font-family: 'Libre Baskerville', serif;
@@ -548,6 +549,35 @@ input:focus, textarea:focus
 
 /* BLOG   */
 
+.blog-banner-mobile h1 {font-size: 1.7rem;}
+
+.blog
+  {
+  background-position: bottom;
+  background-repeat: no-repeat;
+  }
+
+.blog h1 {font-size: 1.5rem;}
+
+
+.social-share
+  {
+  position: fixed;
+  left: 2rem;
+  top: 35vh;
+  z-index: 2;
+  }
+
+.social-share h4
+  {
+  transform: rotate(270deg);
+  position: relative;
+  top: 1.8rem;
+  font-size: .9rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  }
+
 .gallery
   {
   line-height:0;
@@ -733,6 +763,14 @@ h1 {font-size: 2rem;}
 
 .vertical-form-text {
 margin: -3%;}
+
+.social-share h4
+  {
+  transform: rotate(270deg);
+  position: relative;
+  left: -.5rem;
+  top: 1.8rem;
+  }
 
 .socials a {font-size: 1.5rem;}
 .fb {padding: 5px 17px;}

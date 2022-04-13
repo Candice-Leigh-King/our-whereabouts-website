@@ -1,45 +1,44 @@
----
-layout: default
----
 
-
-<section class="grid-right banner padded-blog padded-sides bg-image-blog tall-100 grid center" style="background-image: url('{{page.blog_image}}');">
+<section class="grid-right banner padded-top padded-sides bg-image-blog tall-100 grid center" style="background-image: url('{{item.blog_image}}');">
   <div class="social-share mob-hide">
 
   <nav>
       <p>
         <a href="https://twitter.com/intent/tweet?https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Twitter">
-          <span class="iconify" data-icon="akar-icons:twitter-fill"></span>
+          <i class="fab fa-twitter"></i>
         </a>
       </p>
       <p>
       <a href="https://facebook.com/sharer.php?u=https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Facebook">
-        <span class="iconify" data-icon="brandico:facebook"></span>
+          <i class="fab fa-facebook-f"></i>
       </a>
       </p>
       <p>
         <a href="http://pinterest.com/pin/create/link/?https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Pinterest">
-      <span class="iconify" data-icon="fa-brands:pinterest-p"></span>
+        <i class="fab fa-pinterest-p"></i>
       </a>
       </p>
   </nav>
 
   <h4> Share </h4>
 </div>
-  <div class="col-4_sm-7_xs-10-bottom beige-bg mob-hide">
+  <div class="col-5_sm-7_xs-10-bottom mob-hide">
     <div class="banner-inner grid margin-bottom-2">
       <div class="col-4 left mob-hide">
-          <p class="margin-top-1 margin-bottom-1">{{page.date | date_to_long_string }} </p>
+          <p class="margin-top-1 margin-bottom-1"> {{page.date | date_to_long_string }}  </p>
       </div>
-    <div class="col-12 libre blog">
+    <div class="col-8 right">
+      <span class="date"> {{page.author}} </span> | <span class="category">{{page.type}}</span>
+    </div>
+    <div class="col-12">
       <h1 class="centered"> {{page.title}} </h1>
-      <p class="date right"> {{page.author}} </p>
+      <p class="date left"> {{page.date | date_to_long_string }} </p>
      </div>
    </div>
  </div>
 </section>
 
-<section class="grid padded desktop-hide beige-bg blog-banner-mobile">
+<section class="grid padded desktop-hide featured-bg blog-banner-mobile">
   <div class="grid padded-1">
     <h1 class="col-12"> {{page.title}} </h1>
     <div class="col-12 grid">
@@ -62,16 +61,4 @@ layout: default
     </h4>
     </div>
   </div>
-</section>
-
-<section class="bg-white padded">
-
-    {% for item in page.content-blocks %}
-    <div class="cms-editor-link"
-        data-cms-editor-link="cloudcannon:#content-blocks[{{ forloop.index0 }}]">
-        <span class="cms-editor-button"></span>
-      {% include {{item._section-type}}.html %}
-    {% endfor %}
-
-
 </section>
