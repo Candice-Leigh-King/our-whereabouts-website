@@ -115,7 +115,7 @@ _array_structures:
           5_image:
           6_image:
       - lable: Map
-        icon: www
+        icon: map
         value:
           _section-type: map
           heading:
