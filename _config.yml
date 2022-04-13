@@ -120,3 +120,8 @@ _array_structures:
           _section-type: map
           heading:
           google-embed-code:
+      - lable: Blog Hero
+        icon: article
+        value:
+          _section-type: blog-hero
+          blog-banner_image:     
