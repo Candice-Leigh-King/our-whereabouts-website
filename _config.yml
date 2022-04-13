@@ -121,7 +121,7 @@ _array_structures:
           heading:
           google-embed-code:
       - lable: Blog Cover Image
-        icon: article
+        icon: image
         value:
           _section-type: blog-cover
           blog_image:
