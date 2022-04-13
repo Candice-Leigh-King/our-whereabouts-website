@@ -2,7 +2,7 @@ page_blocks: []
 _array_structures:
   content-blocks:
     values:
-      - label: Space Block
+      - label: Space
         icon: block
         value:
           _section-type: space-block
@@ -124,4 +124,4 @@ _array_structures:
         icon: article
         value:
           _section-type: blog-hero
-          blog-banner_image:     
+          blog-banner_image:
