@@ -145,6 +145,7 @@ overflow-x: hidden;
   {
   min-height: 60vh;
   background-size: cover;
+  background-position: center;
   }
 
 .medium-image-mob
@@ -705,15 +706,30 @@ h2 {}
 
 h3 {font-size: 1.3rem;}
 
-  .hamburger {
-    margin: 1%;
-    top: -17px;
-}
+.hamburger
+  {
+  margin: 1%;
+  top: -17px;
+  }
+
+.clove-radius {  border-radius: 0px 200px;}
 
 .medium-image
   {
   margin-bottom: -0rem;
   }
+
+
+/* .bump {
+  position: absolute;
+  left: 110px;
+  margin-top: 55px;
+  z-index: 1;
+} */
+
+.bump-up {height: 0px;}
+
+.bump-div {margin-top: -100px !important;}
 
 .padded-top-contact {padding-top: 8%;}
 
@@ -748,6 +764,10 @@ h3 {font-size: 1.3rem;}
 }
 
 h1 {font-size: 2rem;}
+
+.clove-radius {
+    border-radius: 0px 125px;
+}
 
 .padded-review {padding: 0% 8%;}
 
