@@ -116,12 +116,12 @@ _array_structures:
           _section-type: blog-cover-image
           blog-cover_image:
       - label: Blog Textarea
-        icon: article
+        icon: event
         value:
           _section-type: blog-textarea
           textarea:
       - label: Blog Featured Textarea
-        icon: article
+        icon: event
         value:
           _section-type: blog-featured-textarea
           blog-featured-textarea:
