@@ -137,10 +137,10 @@ _array_structures:
           4_image:
           5_image:
           6_image:
-      - label: Blog Arched Images
+      - label: Blog Window Images
         icon: image
         value:
-          _section-type: blog-arches
+          _section-type: blog-window
           right_image:
           left_image:
       - label: Fixed Cover Image
