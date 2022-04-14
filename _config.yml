@@ -110,22 +110,22 @@ _array_structures:
           _section-type: map
           heading:
           google-embed-code:
-      - lable: Blog Cover Image
+      - label: Blog Cover Image
         icon: image
         value:
           _section-type: blog-cover-image
           blog-cover_image:
-      - lable: Blog Textarea
+      - label: Blog Textarea
         icon: article
         value:
           _section-type: blog-textarea
           textarea:
-      - lable: Blog Featured Textarea
+      - label: Blog Featured Textarea
         icon: article
         value:
           _section-type: blog-featured-textarea
           blog-featured-textarea:
-      - lable: Gallery
+      - label: Gallery
         icon: portfolio
         value:
           _section-type: gallery
