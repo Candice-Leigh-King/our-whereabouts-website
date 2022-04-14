@@ -140,7 +140,7 @@ _array_structures:
       - label: Blog Arched Images
         icon: image
         value:
-          _section-type: blog-window
+          _section-type: blog-arches
           right_image:
           left_image:
       - label: Fixed Cover Image
