@@ -576,6 +576,27 @@ input:focus, textarea:focus
 
 .beige-text h1 {color: #B89E8E;}
 
+.shape-window
+  {
+  border-top-left-radius: 20rem;
+  border-top-right-radius: 20rem;
+  }
+
+.blog-images
+  {
+  background-size: cover;
+  background-position: center;
+  min-height: 60vh;
+  margin: 0% 1%;
+  }
+
+
+.blog-image-left
+  {
+  border-radius: 0%;
+  margin-top: 3%;
+  }
+
 .category-bar
   {
   overflow-x: auto;
@@ -751,7 +772,7 @@ input:focus, textarea:focus
 
 @media(max-width:768px) {
 
-  .desktop-hide-arches {display: inline;}
+.desktop-hide-arches {display: inline;}
 
 h1 {font-size: 1.5rem;}
 
@@ -797,6 +818,15 @@ h3 {font-size: 1.3rem;}
     padding: .5rem 0 .5rem;
     }
 
+/* BLOG */
+
+.blog-images {min-height: 40vh;}
+
+.blog-image-left
+  {
+  border-radius: 0%;
+  margin-top: 3%;
+  }
 
   .vertical-form-text {
     position: absolute;
