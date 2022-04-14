@@ -126,7 +126,7 @@ _array_structures:
           _section-type: blog-featured-textarea
           blog-featured-textarea:
       - label: Gallery
-        icon: capital
+        icon: flower
         value:
           _section-type: gallery
           1_image:
