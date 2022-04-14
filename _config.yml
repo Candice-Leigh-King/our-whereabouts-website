@@ -104,7 +104,7 @@ _array_structures:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
-      - lable: Map
+      - label: Map
         icon: map
         value:
           _section-type: map
