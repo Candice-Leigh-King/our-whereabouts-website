@@ -64,7 +64,7 @@ layout: default
   </div>
 </section>
 
-<section class="light-bg padded">
+<section class="light-bg padded editable">
 {{content}}
     {% for item in posts.content-blocks %}
     <div class="cms-editor-link"
@@ -72,5 +72,5 @@ layout: default
         <span class="cms-editor-button"></span>
       {% include {{item._section-type}}.html %}
     {% endfor %}
-    
+
 </section>
