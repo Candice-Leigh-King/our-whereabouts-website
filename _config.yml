@@ -108,6 +108,7 @@ _array_structures:
         icon: map
         value:
           _section-type: map
+          description:  make sure to set width to 100%, height to 350 and style to border 2.s
           heading:
           google-embed-code:
       - label: Blog Cover Image

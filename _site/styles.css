@@ -82,7 +82,6 @@ overflow-x: hidden;
 .light-bg     {  background-color: #F7F5F3; }
 .featured-bg  {  background-color: #DDE8DA;    }
 .split-bg {background: linear-gradient(90deg,#E9E1DD 185px,#B89E8E 50px);}
-.split-green {background: linear-gradient(180deg, #E9E1DD 70%, #BBD2B6 30%);}
 .beige-bg { background: #E9E1DD;}
 
 .banner
@@ -177,7 +176,8 @@ h4, h6 {color: #5F4F45;}
 .blog h3
   {
   font-family: 'Libre Baskerville', serif;
-  color: #5F4F45
+  color: #5F4F45;
+  font-size: 1.5rem;
   }
 
 .libre h3 {font-family: 'Libre Baskerville', serif;}
@@ -555,7 +555,14 @@ input:focus, textarea:focus
   {
   background-position: bottom;
   background-repeat: no-repeat;
+  background-size: cover;
   }
+
+.hover-container {
+  background-size: cover;
+  background-position: center;
+  min-height: 250px;
+}
 
 .blog h1 {font-size: 1.5rem;}
 
@@ -565,7 +572,7 @@ input:focus, textarea:focus
   max-width: 1000px;
   margin: auto;
   }
-.capped-width {width: 100%;}  
+.capped-width {width: 100%;}
 
 
 .social-share
