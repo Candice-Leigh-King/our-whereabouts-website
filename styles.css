@@ -574,6 +574,34 @@ input:focus, textarea:focus
 
 .blog h1 {font-size: 1.5rem;}
 
+.beige-text h1 {color: #B89E8E;}
+
+.category-bar
+  {
+  overflow-x: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  border-top: 1px solid #B89E8E;
+  border-bottom: 1px solid #B89E8E;
+  margin: 1rem auto;
+  text-align: center;
+  }
+
+.category-bar .category
+  {
+  padding: 1rem;
+  white-space: nowrap;
+  }
+
+.category
+  {
+  display: inline-block;
+  text-decoration: none;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: .8rem;
+  }
 
 .capped-width
   {
