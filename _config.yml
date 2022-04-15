@@ -121,7 +121,7 @@ _array_structures:
         icon: event
         value:
           _section-type: blog-textarea
-          textarea:
+          textarea_html:
       - label: Blog Featured Textarea
         icon: event
         value:
