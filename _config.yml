@@ -91,6 +91,7 @@ _array_structures:
           _section-type: form
           heading_html:
           signature_html:
+          background_image:  
           top:
             vertical-subheading_html:
             text-option-1_html:
