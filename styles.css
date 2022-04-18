@@ -61,6 +61,7 @@ overflow-x: hidden;
 .padded-bottom {padding-bottom: 5%; }
 .padded-top {padding-top: 3% !important;}
 .padded-left {padding: 5% 5% 5% 10%;}
+.padded-s {padding: 1%;}
 
 .form-padded {padding: 3%}
 
