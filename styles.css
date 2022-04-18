@@ -591,6 +591,13 @@ input:focus, textarea:focus
   margin: 0% 1%;
   }
 
+.blog-image-window
+  {
+  background-size: cover;
+  background-position: center;
+  min-height: 80vh;
+  }
+
 
 .blog-image-left
   {
@@ -823,11 +830,6 @@ h3 {font-size: 1.3rem;}
 
 .blog-images {min-height: 40vh;}
 
-.blog-image-left
-  {
-  border-radius: 0%;
-  margin-top: 3%;
-  }
 
   .vertical-form-text {
     position: absolute;
