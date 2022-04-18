@@ -598,13 +598,6 @@ input:focus, textarea:focus
   min-height: 80vh;
   }
 
-
-.blog-image-left
-  {
-  border-radius: 0%;
-  margin-top: 3%;
-  }
-
 .category-bar
   {
   overflow-x: auto;
@@ -785,6 +778,20 @@ input:focus, textarea:focus
 h1 {font-size: 1.5rem;}
 
 .blog h2 {font-size: 1.5rem;}
+
+
+  .blog-image-left
+    {
+    border-radius: 0%;
+    margin-top: 3%;
+    transform: rotate(-1deg);
+    box-shadow: 0.5px 1px 2px;
+  }
+
+.blog-image-right {
+    transform: rotate(1deg);
+    box-shadow: 0.5px 1px 2px;
+}
 
 h3 {font-size: 1.3rem;}
 
