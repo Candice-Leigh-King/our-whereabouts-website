@@ -84,7 +84,7 @@ _array_structures:
           textarea_html:
           cta:
           blog-summary:
-          backgronud_image:
+          background_image:
       - label: Form
         icon: article
         value:
