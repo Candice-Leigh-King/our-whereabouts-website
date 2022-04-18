@@ -11,8 +11,10 @@ _array_structures:
         value:
           _section-type: hero
           hero_image:
-          hero:
-          hero-textarea:
+          hero_html:
+          hero-textarea_html:
+          cta_html:
+          cta-link_html:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -23,12 +25,12 @@ _array_structures:
           images:
             top_image:
             bottom_image:
-          dark-heading:
-          light-heading:
-          1-textarea:
-          quote:
-          2-textarea:
-          large-text:
+          dark-heading_html:
+          light-heading_html:
+          1-textarea_html:
+          quote_html:
+          2-textarea_html:
+          large-text_html:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -37,8 +39,8 @@ _array_structures:
         value:
           _section-type: curved-image-and-textarea
           image:
-          heading:
-          textarea:
+          heading_html:
+          textarea_html:
           social-media-links:
             instagram:
             tiktok:
@@ -52,24 +54,25 @@ _array_structures:
         value:
           _section-type: call-to-action
           image:
-          button:
+          button_html:
       - label: Projects
         icon: work
         value:
           _section-type: projects
-          heading:
+          heading_html:
+          cta_html:
           first-project:
             image:
-            subheading:
-            textarea:
+            subheading_html:
+            textarea_html:
           second-project:
             image:
-            subheading:
-            textarea:
+            subheading_html:
+            textarea_html:
           third-project:
             image:
-            subheading:
-            textarea:
+            subheading_html:
+            textarea_html:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -77,8 +80,8 @@ _array_structures:
         icon: schedule
         value:
           _section-type: recent-blogs
-          heading:
-          textarea:
+          heading_html:
+          textarea_html:
           cta:
           blog-summary:
           backgronud_image:
@@ -86,22 +89,22 @@ _array_structures:
         icon: article
         value:
           _section-type: form
-          arch-background_image:
-          heading:
+          heading_html:
+          signature_html:
           top:
-            vertical-subheading:
-            text-option-1:
-            text-option-2:
-            text-option-3:
+            vertical-subheading_html:
+            text-option-1_html:
+            text-option-2_html:
+            text-option-3_html:
           bottom:
-            vertical-subheading:
-            message:
+            vertical-subheading_html:
+            message_html:
           option-box:
-            subheading:
-            option-1:
-            option-2:
-            option-3:
-            option-4:
+            subheading_html:
+            option-1_html:
+            option-2_html:
+            option-3_html:
+            option-4_html:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -110,8 +113,8 @@ _array_structures:
         value:
           _section-type: map
           description:  make sure to set width to 100%, height to 350 and style to border 2
-          heading:
-          google-embed-code:
+          heading_html:
+          google-embed-code_html:
       - label: Blog Cover Image
         icon: image
         value:
@@ -126,7 +129,7 @@ _array_structures:
         icon: event
         value:
           _section-type: blog-featured-textarea
-          blog-featured-textarea:
+          blog-featured-textarea_html:
       - label: Gallery
         icon: apps
         value:
@@ -143,11 +146,7 @@ _array_structures:
           _section-type: blog-window
           right_image:
           left_image:
-      - label: Fixed Cover Image
-        icon: image
-        value:
-        fixed-cover_image:
       - label: Signature
         icon: title
         value:
-        signature:
+        signature_html:

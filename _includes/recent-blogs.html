@@ -1,9 +1,9 @@
 <section class=" padded-bottom padded-sides grid-center blog" style="background-image: url('{{item.background_image}}');">
   <div class="col-5_sm-8_xs-12 border-blog">
-    <h2 class="amsterdam padded margin-l"> {{item.heading}}</h2>
+    <h2 class="amsterdam padded margin-l"> {{item.heading_html}}</h2>
   </div>
   <div class="col-7_sm-8_xs-12 ">
-    <p class="featured-text padded"> {{item.textarea}}</p>
+    <p class="featured-text padded"> {{item.textarea_html}}</p>
   </div>
   <div class="blog-loop blog-masonry padded-1">
     {% for post in site.posts limit:3 %}
