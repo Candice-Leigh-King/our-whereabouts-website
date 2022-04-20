@@ -5,7 +5,7 @@
   <div class="col-7_sm-8_xs-12 ">
     <p class="featured-text padded"> {{item.textarea_html}}</p>
   </div>
-  <div class="blog-loop blog-masonry padded-1">
+  <div class="blog-loop blog-masonry">
     {% for post in site.posts limit:3 %}
       <div class="masonry-item padded">
           <a class=" " href="{{post.url}}">
