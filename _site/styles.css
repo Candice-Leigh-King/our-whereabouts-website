@@ -567,6 +567,14 @@ input:focus, textarea:focus
   background-size: cover;
   }
 
+.blog-fixed-banner
+  {
+  background-size: cover;
+  background-position: center;
+  min-height: 70vh;
+  background-attachment: fixed;
+  }  
+
 .hover-container {
   background-size: cover;
   background-position: center;
