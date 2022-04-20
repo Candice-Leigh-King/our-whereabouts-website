@@ -25,9 +25,9 @@ layout: default
 
   <h4> Share </h4>
 </div>
-  <div class="col-4_sm-7_xs-10-bottom beige-bg mob-hide">
+  <div class="col-4_sm-7_xs-10-bottom beige-bg">
     <div class="banner-inner grid margin-bottom-2">
-      <div class="col-4 left mob-hide">
+      <div class="col-12 left">
           <p class="margin-top-1 margin-bottom-1">{{page.date | date_to_long_string }} </p>
       </div>
     <div class="col-12 libre blog">
@@ -38,30 +38,22 @@ layout: default
  </div>
 </section>
 
-<section class="grid padded desktop-hide beige-bg blog-banner-mobile">
-  <div class="grid padded-1">
-    <h1 class="col-12"> {{page.title}} </h1>
-    <div class="col-12 grid">
-      <p class="date col-5 left">  {{page.author}}</p>  <p class="col-2 center">|</p>  <p class="date col-5  right"> {{page.date | date_to_long_string }}</p>
-      <p class="col-12"> ↟↟↟ </p>
+<section class="grid desktop-hide-blog beige-bg blog-banner-mobile">
     <div class="mob-social-share col-12">
       <h4> Share
-
-
-      <a class="padded" href="https://twitter.com/intent/tweet?https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Twitter">
-          <i class="fab fa-twitter"></i>
+        <a class="padded " href="https://twitter.com/intent/tweet?https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Twitter">
+          <span class="iconify" data-icon="akar-icons:twitter-fill"></span>
+        </a>
+      <a class="padded " href="https://facebook.com/sharer.php?u=https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Facebook">
+        <span class="iconify" data-icon="brandico:facebook"></span>
       </a>
-      <a class="padded" href="https://facebook.com/sharer.php?u=https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Facebook">
-          <i class="fab fa-facebook-f"></i>
-      </a>
-      <a class="padded" href="http://pinterest.com/pin/create/link/?https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Pinterest">
-        <i class="fab fa-pinterest-p"></i>
+        <a class="padded " href="http://pinterest.com/pin/create/link/?https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Pinterest">
+      <span class="iconify" data-icon="fa-brands:pinterest-p"></span>
       </a>
 
     </h4>
     </div>
-  </div>
-</div></section>
+</section>
 
 <section class="light-bg">
     {% for item in posts.content-blocks %}

@@ -742,6 +742,7 @@ input:focus, textarea:focus
   }
 
 .desktop-hide {display: none;}
+.desktop-hide-blog {display: none;}
 
 /* visual editor   */
 /*
@@ -773,7 +774,9 @@ input:focus, textarea:focus
 
 @media(max-width:768px) {
 
+.desktop-hide-blog {display: inline;}
 .desktop-hide-arches {display: inline;}
+.mob-hide {display: none;}
 
 h1 {font-size: 1.5rem;}
 
