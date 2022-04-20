@@ -826,6 +826,17 @@ h3 {font-size: 1.3rem;}
   margin-bottom: -0rem;
   }
 
+/* GALLERY */
+
+.img-3
+  {
+  border-right: solid 5px white;
+  }
+
+.img-4
+  {
+  border-right: solid 5px white;
+  }
 
 /* .bump {
   position: absolute;
