@@ -25,12 +25,12 @@ _array_structures:
             top_image:
             alt:
             bottom_image:
-          dark-heading_html:
-          light-heading_html:
+          dark-heading:
+          light-heading:
           1-textarea_html:
           quote_html:
           2-textarea_html:
-          large-text_html:
+          signature:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
             link:
@@ -39,8 +39,8 @@ _array_structures:
         value:
           _section-type: curved-image-and-textarea
           image:
-          heading_html:
-          textarea_html:
+          heading:
+          textarea:
           social-media-links:
             instagram:
             tiktok:
@@ -60,23 +60,23 @@ _array_structures:
         icon: work
         value:
           _section-type: projects
-          heading_html:
+          heading:
           cta:
           cta-link:
           first-project:
             image:
             first-alt:
-            subheading_html:
+            subheading:
             textarea_html:
           second-project:
             image:
             second-alt:
-            subheading_html:
+            subheading:
             textarea_html:
           third-project:
             image:
             third-alt:
-            subheading_html:
+            subheading:
             textarea_html:
           link:
             description:  If you would like that awesome scroll feature that happens when someone clicks on a link in the navigation, then you'll need to add a page id. The page id can be added in the below box labeled "link". Your id is a short word describing the section it is leading to. For example- about. If you don't want this section to link from the navigation, you can simply leave it out.
@@ -85,7 +85,7 @@ _array_structures:
         icon: schedule
         value:
           _section-type: recent-blogs
-          heading_html:
+          heading:
           textarea_html:
           cta:
           blog-summary:
@@ -94,19 +94,19 @@ _array_structures:
         icon: article
         value:
           _section-type: form
-          heading_html:
+          heading:
           signature_html:
           background_image:
           top:
-            vertical-subheading_html:
+            vertical-subheading:
             text-option-1_html:
             text-option-2_html:
             text-option-3_html:
           bottom:
-            vertical-subheading_html:
+            vertical-subheading:
             message_html:
           option-box:
-            subheading_html:
+            subheading:
             option-1_html:
             option-2_html:
             option-3_html:
