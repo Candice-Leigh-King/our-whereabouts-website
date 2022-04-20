@@ -150,4 +150,5 @@ _array_structures:
       - label: Signature
         icon: title
         value:
+        _section-type: signature
         signature_html:
