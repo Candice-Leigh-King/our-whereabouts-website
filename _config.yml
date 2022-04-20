@@ -24,6 +24,7 @@ _array_structures:
           _section-type: image-and-textarea
           images:
             top_image:
+            alt:
             bottom_image:
           dark-heading_html:
           light-heading_html:
@@ -63,14 +64,17 @@ _array_structures:
           cta_html:
           first-project:
             image:
+            first-alt:
             subheading_html:
             textarea_html:
           second-project:
             image:
+            second-alt:
             subheading_html:
             textarea_html:
           third-project:
             image:
+            third-alt:
             subheading_html:
             textarea_html:
           link:
