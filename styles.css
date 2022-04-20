@@ -573,7 +573,7 @@ input:focus, textarea:focus
   background-position: center;
   min-height: 70vh;
   background-attachment: fixed;
-  }  
+  }
 
 .hover-container {
   background-size: cover;
@@ -790,13 +790,20 @@ h1 {font-size: 1.5rem;}
 
 .blog h2 {font-size: 1.5rem;}
 
+.blog-fixed-banner
+  {
+  background-size: cover;
+  background-position: center;
+  min-height: 70vh;
+  background-attachment: fixed;
+  }
 
-  .blog-image-left
-    {
-    border-radius: 0%;
-    margin-top: 3%;
-    transform: rotate(-1deg);
-    box-shadow: 0.5px 1px 2px;
+.blog-image-left
+  {
+  border-radius: 0%;
+  margin-top: 3%;
+  transform: rotate(-1deg);
+  box-shadow: 0.5px 1px 2px;
   }
 
 .blog-image-right {
@@ -873,6 +880,8 @@ h3 {font-size: 1.3rem;}
 }
 
 h1 {font-size: 2rem;}
+h2 {font: 2.2rem;}
+h3 {line-height: 3;}
 
 .clove-radius {
     border-radius: 0px 125px;
