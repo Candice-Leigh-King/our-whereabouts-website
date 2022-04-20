@@ -55,14 +55,15 @@ _array_structures:
         value:
           _section-type: call-to-action
           image:
-          button_html:
+          button:
+          link:  
       - label: Projects
         icon: work
         value:
           _section-type: projects
           heading_html:
           cta:
-          cta-link:  
+          cta-link:
           first-project:
             image:
             first-alt:
