@@ -1,14 +1,14 @@
 <section class="padded-top-contact">
 <section class="padded grid-center dark-bg libre contact" style="background-image:url('{{item.background_image}}')">
   <form method="post" action="/success.html" class="enquiry col-12 grid-center capped-width">
-  <div class=" col-8_md-9_sm-12 beige-bg padded radius " id="{{item.link.link}}">
+  <div class=" col-8_md-9_sm-12 beige-bg padded-form-2 radius " id="{{item.link.link}}">
     <h3 class="">{{item.heading}}</h3>
       <div class="grid padded-sides">
       <div class="col-1_sm-12 relative">
         <h3 class="sm-bold vertical-form-text "> {{item.top.vertical-subheading}}</h3>
       </div>
 
-      <div class="col-10_sm-12 form-padded">
+      <div class="col-10_sm-12 padded">
         <div class="floating-input ">
           <input type="text" name="{{item.top.text-option-1_html}}" placeholder="{{item.top.text-option-1_html}}" class=" input-text form-text_color" required="" />
           <label class="input-label">{{item.top.text-option-1_html}}</label>
@@ -32,7 +32,7 @@
         <h3 class="sm-bold vertical-form-text ">{{item.bottom.vertical-subheading}} </h3>
       </div>
 
-      <div class="col-10_sm-12 form-padded form-text_color">
+      <div class="col-10_sm-12 padded form-text_color">
         <div class="floating-input ">
           <textarea name="{{item.bottom.message_html}}" placeholder="{{item.bottom.message_html}}" class="input-text form-text_color"></textarea>
           <label class="input-label">{{item.bottom.message_html}}</label>

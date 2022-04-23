@@ -65,13 +65,13 @@ overflow-x: hidden;
 
 .padded-media-kit {padding-top: 10%;}
 
-.form-padded {padding: 3%}
+.padded-form-2 {padding: 5% 5% 2% 5%;}
 
 .padded-blog {padding-top: 10%;}
 
 .padded-top-contact {padding-top: 5%;}
 .margin {margin: 10px;}
-.margin-top {margin-top: 90px;}
+.margin-top {margin-top: 135px;}
 .margin-shapes {  margin: 0px 15px 15px;}
 .margin-sides {margin: 0px 15px;}
 .margin-top-bottom {margin: 5% 0% 5% 0%;}
@@ -105,7 +105,7 @@ overflow-x: hidden;
 .radius {border-radius: 500px 500px 0px 0px;}
 .clove-radius {border-radius: 0px 300px;}
 .circle {border-radius: 100%;}
-.window {border-radius: 180px 180px 0px 0px;}
+.window {border-radius: 190px 190px 0px 0px;}
 
 .bottom-radius
 {border-radius: 240px 240px 240px 0px;}
@@ -444,7 +444,7 @@ opacity: 1;
     transform: translateX(-50%) translateY(-50%) rotate(-90deg);
     position: absolute;
     white-space: nowrap;
-    top: 50%;
+    top: 60%;
     left: 50%;
 }
 
@@ -602,7 +602,7 @@ input:focus, textarea:focus
 .hover-container {
   background-size: cover;
   background-position: center;
-  min-height: 250px;
+  min-height: 320px;
 }
 
 .blog h1 {font-size: 1.5rem;}
