@@ -806,6 +806,8 @@ input:focus, textarea:focus
 
 @media(max-width:768px) {
 
+.margin-top {margin-top: 90px;}
+
 .desktop-hide-blog {display: inline;}
 .desktop-hide-arches {display: inline;}
 .mob-hide {display: none;}
