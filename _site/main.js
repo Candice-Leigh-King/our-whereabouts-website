@@ -17,17 +17,6 @@ $(document).ready(function() {
 
 			// end hamburger menu
 
-			$(document).ready(function(){
-					$('.one-time').slick({
-			dots: true,
-			infinite: true,
-			draggable: true,
-			speed: 1000,
-			slidesToShow: 1,
-			autoplay: true,
-			adaptiveHeight: true
-			});
-			});
 			});
 
 			// on scroll
