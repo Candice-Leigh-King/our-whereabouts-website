@@ -634,6 +634,7 @@ input:focus, textarea:focus
   {
   overflow-x: auto;
   display: flex;
+  justify-content: center;
   flex-wrap: nowrap;
   border-top: 1px solid #B89E8E;
   border-bottom: 1px solid #B89E8E;
@@ -987,6 +988,11 @@ margin-bottom: 0px;}
   {
   columns: 1;
   column-gap: 1rem;
+  }
+
+.category-bar
+  {
+  justify-content: flex-start;
   }
 
 /* MEDIA KIT   */
