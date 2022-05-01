@@ -651,14 +651,8 @@ input:focus, textarea:focus
   white-space: nowrap;
   }
 
-  .scroll {
-   width: 200px;
-   height: 400px;
-    background: red;
-   overflow: scroll;
-}
 .scroll::-webkit-scrollbar {
-    width: 12px;
+    width: 8px;
 }
 
 .scroll::-webkit-scrollbar-track {
