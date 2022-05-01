@@ -637,6 +637,7 @@ input:focus, textarea:focus
   white-space: nowrap;
   display: flex;
   justify-content: center;
+  flex-wrap: nowrap;
   border-top: 1px solid #B89E8E;
   border-bottom: 1px solid #B89E8E;
   margin: 1rem auto;
