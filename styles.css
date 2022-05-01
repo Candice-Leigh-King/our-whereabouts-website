@@ -632,8 +632,8 @@ input:focus, textarea:focus
 
 .category-bar
   {
-    overflow-x: hidden;
-  				overflow-y: auto;
+  overflow-x: scroll;
+  overflow-y: hidden;
   white-space: nowrap;
   display: flex;
   justify-content: center;
