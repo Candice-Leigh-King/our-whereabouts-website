@@ -652,12 +652,11 @@ input:focus, textarea:focus
   }
 
 .scroll::-webkit-scrollbar {
-    width: 8px;
+    height: 4px;
 }
 
 .scroll::-webkit-scrollbar-thumb {
-    border-radius: 10px;
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+    -webkit-box-shadow: inset 0 2px 0 rgb(0 0 0 / 21%);
 }
 
 .category
