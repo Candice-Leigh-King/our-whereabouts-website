@@ -640,6 +640,7 @@ input:focus, textarea:focus
   border-bottom: 1px solid #B89E8E;
   margin: 1rem auto;
   text-align: center;
+  white-space: nowrap;
   }
 
 .category-bar .category
