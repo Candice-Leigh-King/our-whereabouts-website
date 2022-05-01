@@ -634,7 +634,6 @@ input:focus, textarea:focus
   {
   overflow-x: auto;
   display: flex;
-  justify-content: center;
   flex-wrap: nowrap;
   border-top: 1px solid #B89E8E;
   border-bottom: 1px solid #B89E8E;
