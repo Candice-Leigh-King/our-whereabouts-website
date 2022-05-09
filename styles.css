@@ -831,10 +831,7 @@ h1 {font-size: 1.5rem;}
 
 .blog-fixed-banner
   {
-  background-size: cover;
-  background-position: center;
-  min-height: 70vh;
-  background-attachment: fixed;
+  background-attachment: scroll;
   }
 
 .blog-masonry
