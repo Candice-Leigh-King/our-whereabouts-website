@@ -84,7 +84,7 @@ overflow-x: hidden;
 .dark-bg      {  background-color: #B89E8E;     }
 .light-bg     {  background-color: #F7F5F3; }
 .featured-bg  {  background-color: #DDE8DA;    }
-.split-bg {background: linear-gradient(90deg,#E9E1DD 185px,#B89E8E 50px);}
+.split-bg {background: linear-gradient(90deg,#E9E1DD 149px,#B89E8E 50px);}
 .beige-bg { background: #E9E1DD;}
 
 .banner
