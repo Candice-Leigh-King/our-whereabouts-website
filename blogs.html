@@ -12,7 +12,7 @@ heading: All Blogs
 
 
 <div class="blog-loop blog-masonry padded-1">
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts%}
   <div class="masonry-item padded">
       <a class=" " href="{{post.url}}">
         <div class=" hover-container window" style="background-image:url('{{post.blog_image}}')">
