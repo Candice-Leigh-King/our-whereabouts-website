@@ -24,8 +24,8 @@ content-blocks:
       <p><strong>If you're looking to rent a car during your travels here are
       some tips you should take into consideration.</strong></p>
   - _section-type: blog-window
-    right_image: /images/16.jpg
-    left_image: /images/meteora.jpg
+    right_image: /uploads/shared-from-lightroom-mobile-4-1.jpg
+    left_image: /uploads/20210908-105034.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h3><strong>Booking car rental:</strong></h3><p>You should rent the car as
@@ -70,9 +70,6 @@ content-blocks:
       license or an international license. Please note that you
       <strong>must</strong> have the credit card with which you made the booking
       of the vehicle otherwise it can cause you problems.</p>
-  - _section-type: blog-window
-    right_image: /uploads/shared-from-lightroom-mobile-4-1.jpg
-    left_image: /uploads/20210908-105034.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
