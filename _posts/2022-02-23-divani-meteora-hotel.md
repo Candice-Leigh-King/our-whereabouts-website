@@ -35,7 +35,7 @@ content-blocks:
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-textarea
     textarea_html: >-
-      <h3><strong>OUR EXPERIENCE:</strong></h3><p>We had 3 nights in Meteora.
+      <h2><strong>OUR EXPERIENCE:</strong></h2><p>We had 3 nights in Meteora.
       Before we arrived we wanted a hotel that offers a great location,
       relaxation, and comfort. Divani Meteora is the perfect hotel to pamper
       yourself while sightseeing and enjoying magnificent views of
