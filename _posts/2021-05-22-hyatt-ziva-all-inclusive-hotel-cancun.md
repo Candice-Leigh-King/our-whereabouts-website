@@ -109,12 +109,12 @@ content-blocks:
       people around and the weather is most ideal. The temperatures are also
       between 20-26 Celsius.</p>
   - _section-type: gallery
-    1_image: /uploads/shared-from-lightroom-mobile-7.jpg
-    2_image: /uploads/20180927-1613390.jpg
+    1_image: /uploads/20180927-1613390.jpg
+    2_image: /uploads/20180928-125016.jpg
     3_image: /uploads/20180927-170859.jpg
     4_image: /uploads/20180927-182341.jpg
     5_image: /uploads/20180927-181527.jpg
-    6_image: /uploads/20180928-125016.jpg
+    6_image: /uploads/shared-from-lightroom-mobile-7.jpg
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---
