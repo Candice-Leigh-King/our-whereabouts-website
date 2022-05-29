@@ -11,7 +11,7 @@ seo:
 author: Elizabeth
 blog-summary: Great and affordable hotel in Playa del Carmen
 cta: Read More →
-blog_image: /uploads/20180909-125354.jpg
+blog_image: /uploads/dscn1416.jpg
 date: 2021-01-09 00:00:00
 categories:
   - accommodation
