@@ -2,8 +2,8 @@
 layout: posts
 seo:
   title: Our Gear
-  description:
-  keywords:
+  description: The gear we use as content creators
+  keywords: canon, gear, lens, go pro,
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
@@ -16,6 +16,11 @@ date: 2022-05-29 00:00:00
 categories:
   - tips
 content-blocks:
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <p>As conent creators we get asked what gear we
+      use.&nbsp;</p><blockquote><p>They say: the best camera is the one you have
+      with you</p></blockquote>
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>Camera:</strong></h2><p>Canon M50 Mark II.&nbsp;</p><p>The M50
