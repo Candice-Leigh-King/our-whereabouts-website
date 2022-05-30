@@ -19,7 +19,7 @@ blog-summary: >-
   and more tips on renting a car in general.the best time..
 cta: Read More →
 blog_image: /uploads/221.JPG
-date: 2021-12-06 00:00:00
+date: 2021-12-07 00:00:00
 categories:
   - travel
 content-blocks:
