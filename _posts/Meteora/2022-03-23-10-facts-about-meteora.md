@@ -19,7 +19,7 @@ blog-summary: >-
   located...
 cta: Read More →
 blog_image: /images/blog.jpg
-date: 2020-10-13 00:00:00
+date: 2022-03-23 00:00:00
 categories:
   - travel
   - tips
