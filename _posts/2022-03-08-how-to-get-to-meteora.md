@@ -89,15 +89,17 @@ content-blocks:
       Athens:</strong></h3><p>Trains for Kalabaka leave from <strong>Larissa
       Train Station</strong>, which is the main train station. To get there,
       take metro line 2 (Red Line) from the Syntagma stop towards
-      Anthoupoli.</p><h4><strong>Direct Train ( 884
-      &Alpha;&Pi;):</strong></h4><p><strong>Price: </strong>33 EURO per adult
-      for one direction.</p><p><strong>Duration: </strong>4
-      hours.</p><p><strong>Direct route: </strong>Departures every morning at
-      7:20 am there is a direct train.</p><p>&nbsp;</p><h4><strong>Not Direct (
-      52 IC and 1882 &Alpha;&Pi;):</strong></h4><p><strong>Price: </strong>36
-      EURO per adult for one direction.</p><p><strong>Duration: </strong>3 hours
-      and 31 minutes.</p><p>&nbsp;</p><h2><strong>BUSES:</strong></h2><p>This is
-      a little trickier than taking a train since you'll have to take public
+      Anthoupoli.</p><h4><strong>Direct
+      Train:</strong></h4><p><strong>Line:&nbsp;</strong>884 &Alpha;&Pi;<br
+      /><strong>Price: </strong>33 EURO per adult for one
+      direction.</p><p><strong>Duration: </strong>4 hours.</p><p><strong>Direct
+      route: </strong>Departures every morning at 7:20 am there is a direct
+      train.</p><p>&nbsp;</p><h4><strong>Not
+      Direct:</strong></h4><p><strong>Line: </strong>52 IC and 1882
+      &Alpha;&Pi;</p><p><strong>Price: </strong>36 EURO per adult for one
+      direction.</p><p><strong>Duration: </strong>3 hours and 31
+      minutes.</p><p>&nbsp;</p><h2><strong>BUSES:</strong></h2><p>This is a
+      little trickier than taking a train since you'll have to take public
       transportation to the bus stop and once you get on the bus in the
       direction of Meteora you will need to exchange buses at Trikala, which is
       a city 15 minutes away from Kalabaka. The bus company that runs buses from
@@ -125,15 +127,16 @@ content-blocks:
       go to Meteora for one day. We spent 3 days and recommend you visit for at
       least 2 days.</p><p>There are quite a few options here are just a few so
       you get an understanding of the trip:</p><p>&nbsp;</p><h3><strong>Meteora
-      Day Trip by Train from Athens - 107$</strong></h3><ul><li>What it
-      includes: Round-trip shared transfers in Kalabaka, Round-trip rail tickets
-      based on your choice, Expert English speaking escort, Transport by
-      air-conditioned vehicle with WiFi, Panoramic views of the six active
-      monasteries, Visit three Monasteries and the hermit caves of Badovas, Free
-      Map and bottle of water, Local taxes.</li><li>Doesn't include: Hotel
-      pick-up and drop-off service in Athens, Food and drinks, Entrance fees of
-      the Monasteries (Each is 3 EURO).</li></ul><h3><strong>Meteora Day Trip
-      from Thessaloniki - 63.97$</strong></h3><ul><li>What it includes:
+      Day Trip by Train from Athens -
+      107$</strong></h3><p>&nbsp;</p><ul><li>What it includes: Round-trip shared
+      transfers in Kalabaka, Round-trip rail tickets based on your choice,
+      Expert English speaking escort, Transport by air-conditioned vehicle with
+      WiFi, Panoramic views of the six active monasteries, Visit three
+      Monasteries and the hermit caves of Badovas, Free Map and bottle of water,
+      Local taxes.</li><li>Doesn't include: Hotel pick-up and drop-off service
+      in Athens, Food and drinks, Entrance fees of the Monasteries (Each is 3
+      EURO).<br /><br />&nbsp;</li></ul><h3><strong>Meteora Day Trip from
+      Thessaloniki - 63.97$</strong></h3><p>&nbsp;</p><ul><li>What it includes:
       Round-trip shared transfers in Kalabaka, Round-trip rail tickets based on
       your choice, Expert English speaking escort, Transport by air-conditioned
       vehicle with WiFi, Panoramic views of the six active monasteries, Visit
