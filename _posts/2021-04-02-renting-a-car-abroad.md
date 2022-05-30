@@ -15,7 +15,7 @@ blog-summary: >-
   should take into consideration.
 cta: Read More →
 blog_image: /uploads/shared-from-lightroom-mobile-3-1.jpg
-date: 2021-04-01 00:00:00
+date: 2021-04-02 00:00:00
 categories:
   - tips
 content-blocks:
