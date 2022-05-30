@@ -23,9 +23,9 @@ categories:
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <h5>Venice can be a very expensive destination, but it doesn't have to be.
-      Here are a few things you could do around the city without having to tear
-      your pocket.</h5>
+      <p><strong>Venice can be a very expensive destination, but it doesn't have
+      to be. Here are a few things you could do around the city without having
+      to tear your pocket.</strong></p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Venice, Italy
@@ -35,50 +35,49 @@ content-blocks:
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>PIAZZA SAN MARCO:</strong></h2><p>St. Mark's square is one of
+      <h2><strong>Piazza San Marco:</strong></h2><p>St. Mark's square is one of
       the most popular spots in the city. It is the city's main public square
       and contains its most famous buildings such as St Mark's Basilica and the
       Doge's Palace. Napoleon called it &ldquo;the world's most beautiful
       drawing room&rdquo;. Make sure to arrive early in the morning so you could
       catch the magical sunrise there and get to really explore its beauty while
-      the rest of the city sleeps.</p><h2><strong>T FONDACO ROOFTOP
-      TERRANCE:</strong></h2><p>Next to Rialto bridge, there is a cool shopping
+      the rest of the city sleeps.</p><h2><strong>T Fondaco Rooftop
+      Terrance:</strong></h2><p>Next to Rialto bridge, there is a cool shopping
       mall, inside this mall, there is a secret viewpoint called T Fondaco
       Rooftop Terrance. There is no entrance fee but you must reserve your
       15-minute time slot online in advance!</p><p><strong>Opening
       hours:</strong> Daily, 10:30 AM to 6:30
-      PM.</p><p>&nbsp;</p><h2><strong>LIBRERIA AQUA ALTA:</strong></h2><p>The
+      PM.</p><p>&nbsp;</p><h2><strong>Libreria Aqua Alta:</strong></h2><p>The
       most unique bookstore you'll ever visit. The magic starts the moment you
       enter. You'll find hidden gems all around, friendly cats everywhere, a
       gondola in the middle of the store and at the end of it is a photo
       op.</p><p><strong>Opening hours: </strong>Daily, 9 AM to 7:45 PM.</p><p>We
       were very tired since we woke up very early so we decided to end the day
-      pretty early.</p><p>&nbsp;</p><h2><strong>ARSENALE DI
-      VENEZIA:</strong></h2><p>It is a beautiful complex of former shipyards and
+      pretty early.</p><p>&nbsp;</p><h2><strong>Arsenale Di
+      Venezia:</strong></h2><p>It is a beautiful complex of former shipyards and
       armories clustered together in the city of Venice. Not many people go here
       and it's a nice spot to just sit and relax. Unlike the rest of Venice,
       there are a few benches here and you can also find a water
-      fountain.</p><p>&nbsp;</p><h2><strong>GALLERIE
-      ACCADEMIA:</strong></h2><p>This gallery has art from the 14th century and
+      fountain.</p><p>&nbsp;</p><h2><strong>Gallerie
+      Accademia:</strong></h2><p>This gallery has art from the 14th century and
       is fascinating if you're a fan of Renaissance painting. <strong>Admission
       is free on the first Sunday of every month. Opening hours:</strong>
       Mondays from 8:15 AM to 2 PM (ticket decks close at 1 PM), Tuesdays-Sunday
       from 8:15 AM to 7:15 PM. (tickets decks close at 6:15
-      PM).</p><p>&nbsp;</p><p>&nbsp;</p><h2><strong>BASILICA MARIA DELLA
-      SALUTE:</strong></h2><p>A roman catholic church from the 17th century. It
+      PM).</p><p>&nbsp;</p><h2><strong>Basilica Maria Della
+      Salute:</strong></h2><p>A roman catholic church from the 17th century. It
       is worth visiting not only for its splendid Baroque architecture and
-      treasures housed
-      inside.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h2><strong>BRIDGES OF
-      VENICE:</strong></h2><p>Did you know that there are 400 bridges in Venice?
-      Yes, that is a large amount of bridges. I wrote a blog post to help you
-      out with find these beautiful bridges.<a
+      treasures housed inside.</p><p>&nbsp;</p><h2><strong>Bridges Of
+      Venice:</strong></h2><p>Did you know that there are 400 bridges in Venice?
+      Yes, that is a large number of bridges. I wrote a blog post to help you
+      find these beautiful bridges.<a
       href="https://www.ourwhereabouts.com/post/beautiful-bridges-in-venice">
       Click here to read it!</a> I've included some tips on the famous bridges
       and added bridges that aren't popular. <strong>The most popular
       bridges:</strong> Bridge of Sighs, Ponte di Rialto and Ponte
-      Dell'Accademia.</p><h2><strong>GET LOST:</strong></h2><p>Last but not
-      least, get lost in the city. This really is the best way to find hidden
-      gems and explore Venice properly.</p>
+      Dell'Accademia.</p><p>&nbsp;</p><h2><strong>Get Lost:</strong></h2><p>Last
+      but not least, get lost in the city. This really is the best way to find
+      hidden gems and explore Venice properly.</p>
   - _section-type: gallery
     1_image: /uploads/shared-from-lightroom-mobile-1-1.jpg
     2_image: /uploads/shared-from-lightroom-mobile-4.jpg
