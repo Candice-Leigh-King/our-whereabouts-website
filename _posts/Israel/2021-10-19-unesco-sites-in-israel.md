@@ -117,25 +117,11 @@ content-blocks:
       <strong>Cable car - </strong>A round trip costs 23$! You need to make a
       reservation! Starts working at 8 AM!</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/116.jpg
-    left_image: /uploads/107.jpg
+    right_image: /uploads/20210209-0622540.jpg
+    left_image: /uploads/20210209-084722.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>5. BAHAI HOLY PLACES IN HAIFA</strong></h2><p>You don't want
-      to miss this spot in Haifa! It is a must! The property includes the 2 most
-      holy places in the Bah&aacute;&rsquo;&iacute; religion &amp; surrounding
-      gardens, associated buildings, and monuments.</p><p>It dates back to the
-      19th century.</p><h3>Things to know before you go:</h3><ul><li>Admission
-      fee: <strong>Free. </strong>If you would like a <strong>tour it is free
-      too but you need to register in advance.</strong></li><li>The inner
-      gardens adjacent to the Bab Temple are open until 12:00.</li><li>In rainy
-      weather, the gardens may close due to the danger of slipping on the wet
-      paths.</li></ul>
-  - _section-type: blog-cover-image
-    blog-cover_image: /uploads/20201110-121251.jpg
-  - _section-type: blog-featured-textarea
-    blog-featured-textarea_html: >-
-      <h2><strong>6. WHITE CITY OF TEL-AVIV:</strong></h2><p>The central White
+      <h2><strong>5. WHITE CITY OF TEL-AVIV:</strong></h2><p>The central White
       City, Lev Hair, and Rothschild Avenue, and the Bialik Area</p><p>The White
       City was constructed from the early 1930s until the 1950s, based on the
       urban plan by Sir Patrick Geddes, reflecting modern organic planning
@@ -145,9 +131,23 @@ content-blocks:
       into consideration that TLV is very hot and humid. If you walk around the
       white city make sure to go early in the morning when it's still cool
       outside.</li></ul>
+  - _section-type: blog-cover-image
+    blog-cover_image: /uploads/20211011-133318.jpg
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: >-
+      <h2><strong>6. BAHAI HOLY PLACES IN HAIFA</strong></h2><p>You don't want
+      to miss this spot in Haifa! It is a must! The property includes the 2 most
+      holy places in the Bah&aacute;&rsquo;&iacute; religion &amp; surrounding
+      gardens, associated buildings, and monuments.</p><p>It dates back to the
+      19th century.</p><h3>Things you need to know before you
+      go:</h3><ul><li>Admission fee: <strong>Free. </strong>If you would like a
+      <strong>tour it is free too but you need to register in
+      advance.</strong></li><li>The inner gardens adjacent to the Bab Temple are
+      open until 12:00.</li><li>In rainy weather, the gardens may close due to
+      the danger of slipping on the wet paths.</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/20211011-133310.jpg
-    left_image: /uploads/20220417-214007.jpg
+    right_image: /uploads/20201110-121251.jpg
+    left_image: /uploads/92.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>7. NECROPOLIS BIET SHEARIM:</strong></h2><p>Consisting of a
