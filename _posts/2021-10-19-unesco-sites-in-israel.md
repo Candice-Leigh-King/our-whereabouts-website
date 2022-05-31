@@ -13,7 +13,7 @@ author: Elizabeth
 blog-summary: All the details you need about the UNESCO sites in Israel
 cta: Read More →
 blog_image: /uploads/120.jpg
-date: 2021-04-02 00:00:00
+date: 2021-10-19 00:00:00
 categories:
   - travel
 content-blocks:
