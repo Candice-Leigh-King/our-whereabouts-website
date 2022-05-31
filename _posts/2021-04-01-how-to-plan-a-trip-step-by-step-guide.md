@@ -14,7 +14,7 @@ author: Elizabeth
 blog-summary: Looking to plan a trip but don't know where to start? I've got you!
 cta: Read More →
 blog_image: /uploads/dscn3450.jpg
-date: 2021-07-01 00:00:00
+date: 2021-04-01 00:00:00
 categories:
   - tips
 content-blocks:
