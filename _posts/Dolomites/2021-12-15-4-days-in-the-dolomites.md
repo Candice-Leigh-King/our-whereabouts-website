@@ -13,7 +13,7 @@ seo:
 author: Elizabeth
 blog-summary: How to spend 4 days in the Dolomites
 cta: Read More →
-blog_image: /_site/uploads/224.JPG
+blog_image: /uploads/224-1.JPG
 date: 2021-12-15 00:00:00
 categories:
   - travel
@@ -121,7 +121,7 @@ content-blocks:
     images:
       top_image:
       alt:
-      bottom_image: /uploads/our-whereabouts-logo-8-1.png
+      bottom_image: /uploads/our-whereabouts-logo-12.png
     dark-heading:
     light-heading:
     1-textarea_html: >-
