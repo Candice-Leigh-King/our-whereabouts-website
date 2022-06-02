@@ -38,7 +38,7 @@ content-blocks:
       magnificent and isolated beach.</li></ul>
   - _section-type: blog-window
     right_image: /uploads/121.jpg
-    left_image: /uploads/148.jpg
+    left_image: /uploads/148-1.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>BEIT GUVRIN CAVES</strong></h2><p>Beit Guvrin is not only a
@@ -86,4 +86,82 @@ content-blocks:
       much</li></ul>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/98.jpg
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: >-
+      <h2><strong>LITTLE SWITZERLAND, MOUNT CARMEL</strong></h2><p>In the Carmel
+      Mountains near Haifa, there is a nature reserve called 'Little
+      Switzerland' because it is somewhat reminiscent of the landscapes of
+      Switzerland. Very green reserve and lots of vegetation and
+      mountains.</p><p>There are a few routes that can be done, we did the
+      circular partial route because we wanted to see some nature and also to
+      see the hidden gem of the route, a place called 'The Pipe'.</p><h3>How to
+      get to the pipe?</h3><p>From the Little Switzerland parking lot, we
+      followed the route marked in 𝗿𝗲𝗱, after a walk of about 700 meters, you
+      will reach a split of paths with a 𝗴𝗿𝗲𝗲𝗻 marked path to the left into
+      a shady stream channel.</p><p>I must point out that it is very easy to
+      miss it and continued walking.</p><p>After about 10 minutes of ascent, you
+      will see a 𝗿𝘂𝘀𝘁𝘆 𝗶𝗿𝗼𝗻 𝗴𝗮𝘁𝗲 𝗼𝗻 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁.</p><p>It
+      says there is a rock with a marking of two white stripes, but it is very
+      difficult to spot it so just look for the iron gate. This is where we get
+      off the green path towards the pipe. A minute and a half of walking down a
+      narrow path will lead us to the pipe.</p><p>&nbsp;</p><h3>What is the
+      pipe?</h3><p>It is a kind of half-horizontal pipe hewn in the rock. It is
+      not really clear how the pipes were formed and there are claims that they
+      were formed by water flows that eroded the rock.</p><h4>Things to know
+      before you go:</h4><ul><li>&nbsp;Waze: 'little Switzerland parking
+      lot'</li><li>Route: 2 hours</li><li>Level of hike: easy-medium (wear
+      comfortable shoes)</li><li>Admission: Mid-week free.</li><li>When to
+      visit: Midweek, any season, just make sure not to visit during the rainy
+      season.</li></ul><p>&nbsp;</p>
+  - _section-type: blog-window
+    right_image: /uploads/88.jpg
+    left_image: /uploads/84.jpg
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h2><strong>MASADA</strong></h2><p>Masada is one of the most important and
+      central places in Israel</p><p>This is a place that is usually very busy
+      on weekends so it is advisable to schedule your arrival during the
+      week.</p><p>It is a place with a lot of history so we would recommend
+      coming with a guide or on an organized trip so you can really enjoy this
+      place.</p><p>Due to its proximity to the Dead Sea, you can combine your
+      trip to Masada with the dead sea!</p><p>It is recommended to come to see
+      the sunrise, but keep in mind that it is a 3-hour drive from Tel Aviv, so
+      either you will sleep in the Dead Sea.</p><h4>Things to know before you
+      go:</h4><ul><li>︎Entrance fee: Adult 9.5$</li><li>︎There are a few ways to
+      get up:<br />1. Snake path - This is the long path up to the mountain.
+      Length: 2.7 Km. Opens for ascent every day one hour before Sunrise and
+      closes for a descent one hour before closing time. On very hot days the
+      Snake Path ascent closes at 09:00 AM and the descent closes at 10:00 AM.
+      When heat is extreme, the Snake Path ascent closes at 08:00, and the
+      descent close at 09:00. The descent via the Roman Ramp is open as
+      usual.<br />2. The Roman ramp path - This is the short path. Starting
+      point: West entrance. Length: 0.7 Kilometers.<br />3. Cable car - Included
+      in the entrance fee You need to make a reservation! Starts working at 8
+      AM! ︎Services - There are restrooms at the top but not much
+      shade.</li></ul>
+  - _section-type: gallery
+    1_image: /uploads/140.jpg
+    2_image: /uploads/144.jpg
+    3_image: /uploads/139.jpg
+    4_image: /uploads/128.jpg
+    5_image: /uploads/20210209-084722-1.jpg
+    6_image: /uploads/20210209-061523.jpg
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h2><strong>ROSH HA'NIKRA</strong></h2><p>If you drive up Israel&rsquo;s
+      lovely coastline, you will reach Rosh Hanikra, Israel's northernmost edge
+      of the coast.</p><p>Rosh Hanikra, a glorious towering cliff dotted with
+      winding grottoes.</p><p>A short walk at the heart of the cliff reveals the
+      grottos which are actually marine caves. The grottos were created
+      following a series of subterranean tremors which cracked the rock.
+      Rainwater flowing through these cracks and the gushing sea waves created
+      this natural phenomenon, unique in Israel!</p><p>The cable car route which
+      is the shortest and steepest in the world takes the visitors 70 meters
+      down at a 60 degrees angle. The view from the cable car is nothing but
+      magnificent.</p><h4>Things to know before you go:</h4><ul><li>The cable
+      car costs: Adults - 15$</li><li>︎Visiting hours: Summer weekdays:
+      09:00-18:00 Friday and Holiday Eves: 09:00-16:00 Saturdays and Holidays:
+      09:00-18:00</li></ul>
+  - _section-type: blog-cover-image
+    blog-cover_image: /uploads/114.jpg
 ---
