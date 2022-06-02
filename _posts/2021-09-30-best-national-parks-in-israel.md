@@ -164,4 +164,54 @@ content-blocks:
       09:00-18:00</li></ul>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/114.jpg
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: >-
+      <h2><strong>NIMROD'S FORTRESS</strong></h2><p>If you're planning to visit
+      northern Israel you don't want to miss this spot!</p><p>Lying at the foot
+      of Mt. Hermon is the largest fortress remaining in Israel from the Middle
+      Ages! It was built in the 13th century and is with breathtaking views of
+      the Golan.</p><p>Below the fortress are the lush Banias forests with
+      rivers and waterfalls.</p><p>&nbsp;</p><h3>Things to know before you
+      go:</h3><ul><li>Entrance Fee: Nimrod fortress: Adult 6.7$ Nimrod fortress
+      + Banias 9.7$ (highly recommended)</li><li>Opening hours:<br
+      />April-September: Sunday&ndash;Thursday and Saturday: 08:00 - 17:00<br
+      />Friday and holiday eves: 08:00 - 16:00 October-March:
+      Sunday&ndash;Thursday and Saturday: 08:00 - 16:00 Friday and holiday eves:
+      08:00 - 15:00</li><li>Located: 212km from Tel Aviv. (North of
+      Israel)</li></ul>
+  - _section-type: blog-window
+    right_image: /uploads/20210818-154955.jpg
+    left_image: /uploads/dscn1384.JPG
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h2><strong>GAN HA'SHLOSHA (SAHNE)</strong></h2><p>For the water lovers
+      among you, this is a place that tourists are not so familiar with and it
+      is located in an area called the Valley of the springs, with its jewel
+      being a place called Gan Hashlosha - the Sahne.</p><p>Sahne comes from the
+      Arabic word Sakhne which means Hot! 🔥</p><p>It is a very beautiful
+      national park that gives the feeling that you are in an oasis.</p><p>For
+      those who have been to Mexico this place is pretty similar to a
+      Cenote.</p><p>&nbsp;</p><h3>Things to know before you
+      go:</h3><ul><li>Entrance fee: this park is pretty expensive compared to
+      others. Even if you have the Israeli national park pass you have to pay
+      50% of the price!</li><li>Adult - 12$</li><li>Opening hours: &bull;Summer
+      hours: Saturday-Thursday 8:00-17:00, Friday 8:00-16:00. &bull;Winter
+      hours: Saturday-Thursday 8:00-16:00, Friday 8:00-15:00.</li><li>Location:
+      Bet She'an Valley, 1.5 hours away from Tel-Aviv.</li><li>There is no
+      trail, you park your car and find a spot to put your things and just enjoy
+      the water.</li><li>Best time to visit: Spring, fall, and winter. During
+      the summer it is unbearably crowded!</li><li>There is grass and picnic
+      tables all around. Best to find a picnic table at the second pool because
+      it's less crowded there.</li><li>The temperature of the spring water is a
+      constant 28&deg;C, all year round, even during the winter.</li><li>︎It's a
+      place to bring your floaties and just relax.</li></ul>
+  - _section-type: gallery
+    1_image: /uploads/153.jpg
+    2_image: /uploads/154.jpg
+    3_image: /uploads/180.jpg
+    4_image: /uploads/188.jpg
+    5_image: /uploads/20210726-092941aaa.jpg
+    6_image: /uploads/20210726-090226.jpg
+  - _section-type: signature
+    signature_html: <h3>Have fun,</h3><h3>&nbsp;</h3><h3>Elizabeth xxx</h3>
 ---
