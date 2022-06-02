@@ -54,8 +54,8 @@ content-blocks:
       red sea and borders Egypt. The coral reef is a national reserve and it is
       my favorite beach because it is the best place in Israel to go snorkeling
       or scuba diving. Throughout the years I've seen amazing creatures and it
-      never stops to amaze me.</p><h4>Things you should know about the Coral
-      reef:</h4><ul><li><strong>Location: </strong>South</li><li><strong>Our
+      never stops to amaze me.</p><h4>Things to know before you
+      visit:</h4><ul><li><strong>Location: </strong>South</li><li><strong>Our
       rating: </strong>#1 best beach! Don't miss it!</li><li><strong>Entrance
       fee:</strong> Adults 10$, kids 6.5$</li><li><strong>Parking fee:</strong>
       about 1.5$ per hour.</li><li>If you have National card membership: Free
@@ -176,52 +176,62 @@ content-blocks:
     blog-cover_image: /uploads/83.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
-      <h2><strong>NIMROD'S FORTRESS</strong></h2><p>If you're planning to visit
-      northern Israel you don't want to miss this spot!</p><p>Lying at the foot
-      of Mt. Hermon is the largest fortress remaining in Israel from the Middle
-      Ages! It was built in the 13th century and is with breathtaking views of
-      the Golan.</p><p>Below the fortress are the lush Banias forests with
-      rivers and waterfalls.</p><p>&nbsp;</p><h3>Things to know before you
-      go:</h3><ul><li>Entrance Fee: Nimrod fortress: Adult 6.7$ Nimrod fortress
-      + Banias 9.7$ (highly recommended)</li><li>Opening hours:<br
-      />April-September: Sunday&ndash;Thursday and Saturday: 08:00 - 17:00<br
-      />Friday and holiday eves: 08:00 - 16:00 October-March:
-      Sunday&ndash;Thursday and Saturday: 08:00 - 16:00 Friday and holiday eves:
-      08:00 - 15:00</li><li>Located: 212km from Tel Aviv. (North of
-      Israel)</li></ul>
+      <h2><strong>Herzliya:</strong></h2><p>Herzliya has great beaches and is a
+      little less populated than TLV beaches.</p><p>My favorite beaches there
+      are Apollonia beach and Acadia.</p><p>Acadia Beach is right next to the
+      marina and I love the vibes of this beach but if you are looking for a
+      quieter beach right under Apollonia national park there is a beach that is
+      so mesmerizing.</p><h3>Things to know before you
+      visit:</h3><ul><li><strong>Location: </strong>Center</li><li><strong>Our
+      Rating: </strong>#6 best beach.</li><li><strong>Entrance fee:</strong>
+      Free</li><li><strong>Parking fee:&nbsp;</strong><br /><strong><em>*Acadia
+      -</em></strong> About 9$ for a whole day in the beach parking lot but you
+      can sometimes find parking in the streets nearby for free if you come
+      during the weekdays. if you come during the week you can usually find
+      parking in the streets nearby for around 1.5$ an hour.
+      <strong><em>*Apollonia -</em></strong> free
+      parking.</li><li><strong>Services: </strong>There are bathrooms and
+      lifeguard (during the season).</li><li><strong>Location:</strong> just a
+      15-45 minute drive from TLV (depends from where in Tel Aviv)</li><li>A
+      great place to surf.</li><li>A few bars and restuarants on the beach and a
+      mall near by.</li><li>You can rent beach chairs with an umbrella for about
+      4.5$.</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/20210818-154955.jpg
-    left_image: /uploads/dscn1384.JPG
+    right_image: /uploads/121.jpg
+    left_image: /uploads/155.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>GAN HA'SHLOSHA (SAHNE)</strong></h2><p>For the water lovers
-      among you, this is a place that tourists are not so familiar with and it
-      is located in an area called the Valley of the springs, with its jewel
-      being a place called Gan Hashlosha - the Sahne.</p><p>Sahne comes from the
-      Arabic word Sakhne which means Hot! 🔥</p><p>It is a very beautiful
-      national park that gives the feeling that you are in an oasis.</p><p>For
-      those who have been to Mexico this place is pretty similar to a
-      Cenote.</p><p>&nbsp;</p><h3>Things to know before you
-      go:</h3><ul><li>Entrance fee: this park is pretty expensive compared to
-      others. Even if you have the Israeli national park pass you have to pay
-      50% of the price!</li><li>Adult - 12$</li><li>Opening hours: &bull;Summer
-      hours: Saturday-Thursday 8:00-17:00, Friday 8:00-16:00. &bull;Winter
-      hours: Saturday-Thursday 8:00-16:00, Friday 8:00-15:00.</li><li>Location:
-      Bet She'an Valley, 1.5 hours away from Tel-Aviv.</li><li>There is no
-      trail, you park your car and find a spot to put your things and just enjoy
-      the water.</li><li>Best time to visit: Spring, fall, and winter. During
-      the summer it is unbearably crowded!</li><li>There is grass and picnic
-      tables all around. Best to find a picnic table at the second pool because
-      it's less crowded there.</li><li>The temperature of the spring water is a
-      constant 28&deg;C, all year round, even during the winter.</li><li>︎It's a
-      place to bring your floaties and just relax.</li></ul>
+      <h2><strong>&nbsp;Beit Yanai
+      beach:</strong></h2><p>&nbsp;</p><h3><strong>Nature
+      reserve</strong></h3><p>This is one of the most beautiful and well-kept
+      beaches in the country. It is a very versatile beach, with many water
+      sports. The Alexander stream meets the sea here and it is simply
+      remarkable.</p><h3>Things to know before you
+      visit:</h3><ul><li><strong>Location: </strong>North<br />About a 45-minute
+      drive from TLV.</li><li><strong>Our Rating: </strong>#8 best
+      beach.</li><li><strong>Entrance and parking fee:</strong> Free!! Yes, This
+      nature reserve is actually free.</li><li><strong>Services:</strong> There
+      is a lifeguard and bathrooms.</li><li><strong>Opening season:</strong>
+      Mid-March-Mid October.</li><li><strong>Sea turtle season:</strong> August
+      it is a turtle-hatching season and you can witness this here.</li></ul>
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h2><strong>Caesarea Beach:</strong></h2><p>If you enjoy historic ruins
+      and the ocean, this is a beach you don't want to miss.</p><p>This beach is
+      called Aquaduct beach and it is located by the historic site of Caesarea
+      it is the perfect beach for a picnic.</p><h3>Things to know before you
+      visit:</h3><ul><li><strong>Location: </strong>North</li><li><strong>Our
+      Rating: </strong>#7 best beach.</li><li><strong>Entrance and parking
+      fee:</strong> Free of charge.</li><li><strong>Services: </strong>No
+      bathrooms or life guard.</li><li>This is a trendy spot to surf although
+      there is no life gaurd so I wouldn't recommend it.</li></ul>
   - _section-type: gallery
-    1_image: /uploads/153.jpg
-    2_image: /uploads/154.jpg
-    3_image: /uploads/180.jpg
-    4_image: /uploads/188.jpg
-    5_image: /uploads/20210726-092941aaa.jpg
-    6_image: /uploads/20210726-090226.jpg
+    1_image: /uploads/20210225-180043.jpg
+    2_image: /uploads/2021204-164555.jpg
+    3_image: /uploads/136.jpg
+    4_image: /uploads/20210225-165119.jpg
+    5_image: /uploads/20210225-164555.jpg
+    6_image: /uploads/133.jpg
   - _section-type: signature
     signature_html: <h3>Have fun,</h3><h3>&nbsp;</h3><h3>Elizabeth xxx</h3>
 ---
