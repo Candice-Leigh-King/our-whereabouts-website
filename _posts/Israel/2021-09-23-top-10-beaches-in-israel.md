@@ -13,7 +13,7 @@ seo:
 author: Elizabeth
 blog-summary: Best beaches in Israel
 cta: Read More →
-blog_image: /uploads/100.jpg
+blog_image: /uploads/104.jpg
 date: 2021-09-23 00:00:00
 categories:
   - travel
@@ -28,12 +28,12 @@ content-blocks:
       <h2><strong>The Dead sea:</strong></h2><p>This is one of my favorites too.
       Honestly, there is nothing like the feeling you get after spending time
       inside these salty waters!</p><h4>Things to know before you
-      visit:</h4><ul><li><strong>Location:
-      </strong>South</li><li><strong>Rating:</strong> 2nd to favorite beach.
-      Must-see beach!</li><li><strong>Entrance fee:</strong> depends on which
-      beach you go to, there are many options (it verays between free entrance
-      to 15$ fee).</li><li>Ein Bokek Beach - this beach is free of charge with
-      toilets, all you need to do is pay for parking which is about 1.5$ per
+      visit:</h4><ul><li><strong>Location: </strong>South</li><li><strong>Our
+      Rating:</strong>&nbsp;#2 best beach. Must-see
+      beach!</li><li><strong>Entrance fee:</strong> depends on which beach you
+      go to, there are many options (it verays between free entrance to 15$
+      fee).</li><li>Ein Bokek Beach - this beach is free of charge with toilets,
+      all you need to do is pay for parking which is about 1.5$ per
       hour.</li><li>Don't forget to buy the dead sea mud <strong>before</strong>
       you get to the dead sea. Dead sea mud in the dead sea is double the price
       and sometimes even x3 the price. You can easily find dead sea products all
@@ -48,16 +48,18 @@ content-blocks:
     left_image: /uploads/20220507-185706-2.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>Coral Reef, Eilat
-      (South):</strong></h2><p>&nbsp;</p><h3><strong>Nature
+      <h2><strong>Coral Reef,
+      Eilat:</strong></h2><p>&nbsp;</p><h3><strong>Nature
       reserve</strong></h3><p>Eilat is a city located in southern Israel by the
       red sea and borders Egypt. The coral reef is a national reserve and it is
       my favorite beach because it is the best place in Israel to go snorkeling
       or scuba diving. Throughout the years I've seen amazing creatures and it
-      never stops to amaze me.</p><p>Things you should know about the Coral
-      reef:</p><ul><li><strong>Entrance fee:</strong> Adults 10$, kids
-      6.5$</li><li><strong>Parking fee:</strong> about 1.5$ per hour.</li><li>If
-      you have National card membership: Free entrance for more info<a
+      never stops to amaze me.</p><h4>Things you should know about the Coral
+      reef:</h4><ul><li><strong>Location: </strong>South</li><li><strong>Our
+      rating: </strong>#1 best beach! Don't miss it!</li><li><strong>Entrance
+      fee:</strong> Adults 10$, kids 6.5$</li><li><strong>Parking fee:</strong>
+      about 1.5$ per hour.</li><li>If you have National card membership: Free
+      entrance for more info<a
       href="https://fe.sales.parks.org.il/subscriptions"> click
       here</a></li><li>The water is pretty cold all year long.</li><li>You can
       rent snorkeling equipment, but best bring your own to save
@@ -74,25 +76,26 @@ content-blocks:
     6_image: /uploads/dsc00158.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>MITZPEH RAMON:</strong></h2><p>Mitzprh Ramon is the viewpoint
-      where you can see the Maktesh Ramon - the largest erosion crater in the
-      world!</p><p>We always enjoy visiting this place on the way down south of
-      Israel.</p><p>This is a unique place you don't want to
-      miss.</p><p>&nbsp;</p><h4>Things to know before you
-      go:</h4><ul><li>︎Entrance fee: &bull; If you want to just enjoy the view
-      it is free you can walk around. &bull; For 8.4$ (kids costs 4$) you can go
-      into the Mitzpeh Ramon visitor Crater which tells the geological story of
-      the formation of the makhtesh, the largest landform of its type in the
-      world. As part of the exhibition is the Ilan Ramon Memorial, telling the
-      story of Israel&rsquo;s first astronaut, Ilan Ramon who died in the 2003
-      Colombia Disaster, and loved the Ramon Crater and surrounding desert area.
-      I recommend this for first-timers!</li><li>︎Fun tip - there are mountain
-      goats all around there, they are used to people and will come up close. I
-      usually pack some carrots and feed them</li><li>︎My best tip, go during
-      sunrise or sunset!!! With a view like this, a sunrise/sunset can add so
-      much</li></ul>
+      <h2><strong>Palmachin Beach National Park
+      (center):</strong></h2><p>&nbsp;</p><h3><strong><em>Nature
+      reserve</em></strong></h3><p>This is one of my favorite beaches! This
+      beach offers fresh sand, seashells all around, and crystal clear
+      water.</p><h4>Things to know before you
+      visit:</h4><ul><li><strong>Location: </strong>Center</li><li><strong>Our
+      Rating:</strong> #3 best beach.</li><li><strong>Entrance and parking
+      fee:</strong> depends on the season. in the summer it's around 8$ per car
+      and in the winter it's 3$ per car (not per person).</li><li>Sea turtle
+      season - May-June If you're lucky and you come during the season you might
+      see sea turtles.</li><li><strong>Location:</strong> around 25-50 minute
+      drive from Tel Aviv and around 45-75 minutes from Jerusalem depending on
+      the traffic.</li><li>It is more than just a beach, there is also a path to
+      walk around and enjoy the area.</li><li>This place is
+      family-friendly.</li><li><strong>Services:</strong> There are bathrooms
+      and a lifeguard.</li><li><strong>Best time to visit:</strong> Avoid coming
+      on the weekend since this beach is very popular among the
+      Israelis.</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/98.jpg
+    blog-cover_image: /uploads/24.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>LITTLE SWITZERLAND, MOUNT CARMEL</strong></h2><p>In the Carmel
