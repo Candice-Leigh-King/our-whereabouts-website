@@ -24,7 +24,10 @@ content-blocks:
       <p>Many visitors to Sintra overlook the Moorish Castle, but you shouldn't
       because it offers one of the best views of Sintra! The Moorish castle was
       built in the 8th century and resembles the wall of China, making it a
-      fantastic location to explore.</p>
+      fantastic location to explore.</p><p>In this post I cover The history of
+      the castle, entrance fees, opening hours,when to arrive, duration of stay,
+      how to get there, tickets, parking, food, restrooms, accessibility, main
+      attractions, why you should visit and our top tips!</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Sintra, Portugal
