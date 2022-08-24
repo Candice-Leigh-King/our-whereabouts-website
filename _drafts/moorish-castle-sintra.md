@@ -62,7 +62,11 @@ content-blocks:
       but they get full pretty quickly, so if you're driving, arrive
       early.</p><h1>Food:</h1><p>There is a little cafe near the entrance with
       drinks, snacks and sandwiches.</p><h1>Restrooms:</h1><p>Right next to the
-      cafe you'll find the restroom.</p>
+      cafe you'll find the restroom.</p><h1>Acessibility:</h1><p>Manual
+      wheelchairs with folding chassis are available <strong><em>upon
+      reservation</em></strong>, as well as a traction equipment adaptable to
+      the vast majority of manual wheelchairs. This allows, with less effort and
+      greater speed, to go through the routes.</p>
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>Why you should visit:</h1><p>&bull;Organised tour groups of Sintra
@@ -73,6 +77,12 @@ content-blocks:
       walking up steps to climb the castle walls. The climb isn't easy, but it
       is manageable.<br />&bull;Bring a hat and water - there isn't much shade
       here, and it can get hot, especially in the summer.</p>
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: >-
+      <h1>Main Attractions:</h1><p>&bull;Church of S&atilde;o Pedro de
+      Canaferrim<br />&bull;Tomb<br />&bull;Medieval Christian Necropolis<br
+      />&bull;Main Gate to Moorish Castle<br />&bull;Alcazaba (citadel)<br
+      />&bull;Royal Tower</p>
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
