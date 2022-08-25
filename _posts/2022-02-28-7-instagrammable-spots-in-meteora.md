@@ -92,5 +92,5 @@ content-blocks:
     5_image: /uploads/274-1.jpg
     6_image: /uploads/screenshot.jpg
   - _section-type: signature
-    signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
+    signature_html: <h3><strong>Have fun exploring Meteora xxx</strong></h3>
 ---
