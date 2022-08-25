@@ -48,8 +48,8 @@ content-blocks:
       driving from Varlaam Monastery towards the Holy Trinity Monastery, you'll
       see a small observation point on the right side of the road.<br
       /><em><strong>Coordinates: 39.718103,
-      21.640311</strong></em></p><p>&nbsp;</p><h3><strong>Meteora
-      Panorama:</strong></h3><p>This viewpoint is located between the Holy
+      21.640311</strong></em></p><p>&nbsp;</p><h2><strong>Meteora
+      Panorama:</strong></h2><p>This viewpoint is located between the Holy
       Trinity Monastery and the St. Stephan Monastery.<br
       /><em><strong>Coordinates: 39.712885, 21.638121</strong></em></p>
   - _section-type: gallery
