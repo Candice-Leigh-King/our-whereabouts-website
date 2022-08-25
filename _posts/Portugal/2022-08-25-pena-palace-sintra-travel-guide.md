@@ -86,24 +86,6 @@ content-blocks:
       there are nice clean restrooms.</p>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/43-1.jpg
-  - _section-type: blog-textarea
-    textarea_html: >-
-      <h1><strong>How to get there:</strong></h1><p>Check out my blog<a
-      href="https://ourwhereabouts.com/travel/2022/08/10/sintra-travel-guide.html">
-      Sintra Travel Guide</a> for more
-      information</p><h1><strong>Tickets:</strong></h1><p>It's best to buy
-      tickets online to save time waiting in line; however, If you don't, there
-      are a few electronic ticket
-      booths.</p><h2><strong>Shuttles:</strong></h2><p>Once you arrive at the
-      entrance to Pena Palace, you've got to walk uphill. To avoid walking
-      uphill and to save time, you can buy shuttle tickets (the shuttle tickets
-      can be purchased with an entrance ticket
-      online)</p><h1><strong>Parking:</strong></h1><p>There are several parking
-      lots nearby, but they get full quickly, so if you're driving, arrive
-      early.</p><h1><strong>Food:</strong></h1><p>&bull;Palace Restaurant<br
-      />&bull;Palace Cafeteria<br />&bull;Terrace Bar<br />&bull;Riding Ring
-      Kiosk</p><h1><strong>Restrooms:</strong></h1><p>Right next to the Palace,
-      there are nice clean restrooms.</p>
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h1><strong>Our tips:</strong></h1><p>&bull;Bring something small to eat
