@@ -22,7 +22,11 @@ content-blocks:
     textarea_html: >-
       <p>Pena Palace is the most visited palace in Sintra for a reasonable
       reason. This castle is like none you've ever seen. The beautiful vibrant
-      colors and magnificent views make you feel like you're in a fairytale.</p>
+      colors and magnificent views make you feel like you're in a
+      fairytale.</p><p>In this post I cover: History, Entrance fee, opening
+      hours, best time to arrive, duration of stay, how to get there, where to
+      purchase tickets, shuttles, parking, food, restrooms, our tips and main
+      attarctions.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Sintra, Portugal
