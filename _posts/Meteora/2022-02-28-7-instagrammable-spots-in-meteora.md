@@ -6,15 +6,15 @@ seo:
     Meteora is a whole different world, you won't find anything on google maps
     or Waze besides the monasteries, you have to drive around and find the views
     you like best. 
-  keywords: 'meteora '
+  keywords: meteora, Greece - Photography guide
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/272.jpg
+  social-share_image: /uploads/274-1.jpg
 author: Elizabeth
 blog-summary: Most beautiful photography spots in Meteora with coordinates
 cta: Read More →
-blog_image: /uploads/272.jpg
+blog_image: /uploads/274-1.jpg
 date: 2022-02-28 00:00:00
 categories:
   - travel
