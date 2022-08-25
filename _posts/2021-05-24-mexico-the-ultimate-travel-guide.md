@@ -67,8 +67,43 @@ content-blocks:
       (12,255 NIS)</p><p>&bull;<strong>Activities, Food &amp;
       Transportation:</strong><br />3,478$. This includes renting a car, scuba
       diving, and more.</p>
-  - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
   - _section-type: blog-cover-image
     blog-cover_image:
+  - _section-type: signature
+    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h1>Our top tips:</h1><p><strong>1. Book hotels &amp; flights as soon as
+      possible:</strong><br />In Mexico, the earlier you book your hotel, the
+      cheaper they will be.</p><p><strong>2. Always book a hotel with a
+      safe:</strong><br />It is so important to put your valuables in the safe.
+      Sadly we heard that hotel workers shouldn't be trusted in Mexico and steal
+      even things like makeup. We made sure to put all our valuables in the safe
+      and even locked our suitcases when we left for the day.</p><p><strong>3.
+      Leave your passport in the safe:</strong><br />There are so many
+      pickpocketers in Mexico, and the chance of you losing your passport is
+      higher if it is on you. Carry an ID or copy of your passport that should
+      be enough.</p><p><strong>4. Tell hotels that you are on your
+      honeymoon:</strong><br />If you are on your honeymoon, tell the hotels
+      ahead of time. They will decorate your room, and some hotels will even
+      give you champagne and dessert.</p><p><strong>5. What clothes to
+      bring:</strong><br />Bring clothes that you don't mind ruining. You're
+      going to be spending so much time in the ocean and we all know that the
+      ocean salts ruin our clothes. Make sure to pack a few nice outfits for
+      when you go out to a party or a fancy restaurant.</p><p><strong>6. Credit
+      cards:</strong><br />Always fly with 2 credit cards just in case you lose
+      one. One of them should be on you, and one should stay in the
+      safe.</p><p><strong>7. Cash:</strong><br />Always have small change on you
+      (5-10 Pesos) because in Mexico is acceptable to give tips, and it's always
+      more comfortable when you have it ready.</p><p><strong>8.
+      Bank:</strong><br />We recommend<strong><em> pulling out money only from
+      banks ATM! </em></strong>When we visited Cibanco had the lowest exchange
+      rate.</p><p><strong>9. Mosquito repellent:</strong><br />Don't bring
+      mosquito repellent from home! Mexico has mosquitos everywhere, but don't
+      worry, they also have the best mosquito repellent called 'OFF'. The orange
+      bottle has an orange smell, and the moment we started using it, we never
+      got bit by mosquitos.</p><p><strong>10. Cost of taxis:<br
+      />​​​​​</strong>There's a simple rule - How much does it cost to take a
+      taxi? A 1-minute drive costs about 10 Pesos. Use Google maps to calculate
+      the ride time.</p>
 ---
