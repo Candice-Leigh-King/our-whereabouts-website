@@ -68,19 +68,22 @@ content-blocks:
       get up to two hours.</p>
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1>How to get there:</h1><p>If you're coming from Pena Palace, it's a
-      10-minute walk downhill or take the 434 bus from the train station of
-      Sintra.</p><h1>Tickets:</h1><p>It's best to buy tickets online to save
-      time waiting in line, however, If you don't, there are a few electronic
-      ticket booths.</p><h1>Parking:</h1><p>There are a few parking lots nearby,
-      but they get full pretty quickly, so if you're driving, arrive
-      early.</p><h1>Food:</h1><p>There is a little cafe near the entrance with
-      drinks, snacks and sandwiches.</p><h1>Restrooms:</h1><p>Right next to the
-      cafe you'll find the restroom.</p><h1>Acessibility:</h1><p>Manual
-      wheelchairs with folding chassis are available <strong><em>upon
-      reservation</em></strong>, as well as a traction equipment adaptable to
-      the vast majority of manual wheelchairs. This allows, with less effort and
-      greater speed, to go through the routes.</p>
+      <h1><strong>How to get there:</strong></h1><p>Check out my blog<a
+      href="https://ourwhereabouts.com/travel/2022/08/10/sintra-travel-guide.html">
+      Sintra Travel Guide</a> for more
+      information</p><h1><strong>Tickets:</strong></h1><p>It's best to buy
+      tickets online to save time waiting in line; however, If you don't, there
+      are a few electronic ticket
+      booths.</p><h1><strong>Shuttles:</strong></h1><p>Once you arrive at the
+      entrance to Pena Palace, you've got to walk uphill. To avoid walking
+      uphill and to save time, you can buy shuttle tickets (the shuttle tickets
+      can be purchased with an entrance ticket
+      online)</p><h1><strong>Parking:</strong></h1><p>There are several parking
+      lots nearby, but they get full quickly, so if you're driving, arrive
+      early.</p><h1><strong>Food:</strong></h1><p>&bull;Palace Restaurant<br
+      />&bull;Palace Cafeteria<br />&bull;Terrace Bar<br />&bull;Riding Ring
+      Kiosk</p><h1><strong>Restrooms:</strong></h1><p>Right next to the Palace,
+      there are nice clean restrooms.</p>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/43-1.jpg
   - _section-type: blog-textarea
