@@ -42,27 +42,34 @@ content-blocks:
       April)<br />&bull;Shoulder seasons (July and August)<br />&bull;Low season
       (May, June, and September through early November)<br />&bull;We went to
       Mexico in September. We spent 22 days in Mexico and it only rained during
-      2 of those days.&nbsp;</p><h1>Duration of stay:</h1><p>Honestly, Mexico is
-      so large and has so much to offer. You could spend a week there, and you
-      could also spend 2 months. We stayed for 22 days and did plenty, but we
-      would have loved another week at least!</p><h1>Our
-      Itinerary:</h1><p>&bull;𝐶𝑎𝑛𝑐𝑢𝑛 ⇾ 𝑃𝑙𝑎𝑦𝑎 𝐷𝑒𝑙 𝑐𝑎𝑟𝑚𝑒𝑛.<br
-      />We stayed in Playa Del Carmen for 9 Nights.</p><p>&bull;𝑃𝑙𝑎𝑦𝑎
-      𝐷𝑒𝑙 𝐶𝑎𝑟𝑚𝑒𝑛 ⇾ 𝐶𝑜𝑧𝑢𝑚𝑒𝑙.<br />We stayed in Cozumel for 3
-      Nights.</p><p>&bull;𝐶𝑜𝑧𝑢𝑚𝑒𝑙 ⇾ 𝐵𝑎𝑐𝑎𝑙𝑎𝑟.<br />We stayed in
-      Bacalar for 2 Nights.</p><p>𝐵𝑎𝑐𝑎𝑙𝑎𝑟 ⇾ 𝑃𝑙𝑎𝑦𝑎 𝐷𝑒𝑙
-      𝐶𝑎𝑟𝑚𝑒𝑛.<br />We stopped in Playa Del Carmen for 1
-      Night.</p><p>&bull;𝑃𝑙𝑎𝑦𝑎 𝐷𝑒𝑙 𝐶𝑎𝑟𝑚𝑒𝑛 ⇾ 𝐻𝑜𝑙𝑏𝑜𝑥.<br />We
-      stayed in Holbox for 2 Nights, 3 days.</p><p>&bull;𝐻𝑜𝑙𝑏𝑜𝑥 ⇾ 𝐼𝑠𝑙𝑎
-      𝑀𝑢𝑗𝑒𝑟𝑒𝑠.<br />We stayed in Isla Mujeres for 2
-      Nights.</p><p>&bull;𝐼𝑠𝑙𝑎 𝑀𝑢𝑗𝑒𝑟𝑒𝑠 ⇾ 𝐶𝑎𝑛𝑐𝑢𝑛.<br />We stayed
-      in Cancun for 3 Nights.</p><p>&bull;𝐶𝑎𝑛𝑐𝑢𝑛 ⇾
-      𝑇𝑙𝑣</p><h1>Budget:</h1><h2>10,000$ (34,831
-      NIS).</h2><p>&bull;<strong>Flights:</strong><br />Since we decided to
-      combine our trip with Florida, here's a breakdown of our expenses: Flight
-      from TLV ⇾ Miami <strong>+</strong> From Cancun ⇾ TLV cost 2,353$ (7,298
-      NIS) Our tickets from Orlando ⇾ Cancun cost us just 369$ (1,340 NIS)
-      Altogether: 2,722$ on
+      2 of those days.&nbsp;</p><h1>Currency:&nbsp;</h1><p>​​​​​​The official
+      currency of Mexico is the peso
+      (MXN).</p><h1>Language:&nbsp;</h1><p>Spanish is the official language of
+      Mexico. However, many speak English.</p><h1>Safety:&nbsp;</h1><p>Mexico
+      has a reputation for being unsafe but just like in any other destination,
+      if you follow some safety steps you should be okay. Always be aware of
+      your surroundings, don't walk alone at night and let people know where
+      you're going and how long you're going for.&nbsp;</p><h1>Duration of
+      stay:</h1><p>Honestly, Mexico is so large and has so much to offer. You
+      could spend a week there, and you could also spend 2 months. We stayed for
+      22 days and did plenty, but we would have loved another week at
+      least!</p><h1>Our Itinerary:</h1><p>&bull;𝐶𝑎𝑛𝑐𝑢𝑛 ⇾ 𝑃𝑙𝑎𝑦𝑎 𝐷𝑒𝑙
+      𝑐𝑎𝑟𝑚𝑒𝑛.<br />We stayed in Playa Del Carmen for 9
+      Nights.</p><p>&bull;𝑃𝑙𝑎𝑦𝑎 𝐷𝑒𝑙 𝐶𝑎𝑟𝑚𝑒𝑛 ⇾ 𝐶𝑜𝑧𝑢𝑚𝑒𝑙.<br
+      />We stayed in Cozumel for 3 Nights.</p><p>&bull;𝐶𝑜𝑧𝑢𝑚𝑒𝑙 ⇾
+      𝐵𝑎𝑐𝑎𝑙𝑎𝑟.<br />We stayed in Bacalar for 2
+      Nights.</p><p>𝐵𝑎𝑐𝑎𝑙𝑎𝑟 ⇾ 𝑃𝑙𝑎𝑦𝑎 𝐷𝑒𝑙 𝐶𝑎𝑟𝑚𝑒𝑛.<br />We
+      stopped in Playa Del Carmen for 1 Night.</p><p>&bull;𝑃𝑙𝑎𝑦𝑎 𝐷𝑒𝑙
+      𝐶𝑎𝑟𝑚𝑒𝑛 ⇾ 𝐻𝑜𝑙𝑏𝑜𝑥.<br />We stayed in Holbox for 2 Nights, 3
+      days.</p><p>&bull;𝐻𝑜𝑙𝑏𝑜𝑥 ⇾ 𝐼𝑠𝑙𝑎 𝑀𝑢𝑗𝑒𝑟𝑒𝑠.<br />We stayed
+      in Isla Mujeres for 2 Nights.</p><p>&bull;𝐼𝑠𝑙𝑎 𝑀𝑢𝑗𝑒𝑟𝑒𝑠 ⇾
+      𝐶𝑎𝑛𝑐𝑢𝑛.<br />We stayed in Cancun for 3
+      Nights.</p><p>&bull;𝐶𝑎𝑛𝑐𝑢𝑛 ⇾ 𝑇𝑙𝑣</p><h1>Budget:</h1><h2>10,000$
+      (34,831 NIS).</h2><p>&bull;<strong>Flights:</strong><br />Since we decided
+      to combine our trip with Florida, here's a breakdown of our expenses:
+      Flight from TLV ⇾ Miami <strong>+</strong> From Cancun ⇾ TLV cost 2,353$
+      (7,298 NIS) Our tickets from Orlando ⇾ Cancun cost us just 369$ (1,340
+      NIS) Altogether: 2,722$ on
       flights.</p><p>&bull;<strong>Accommodations:</strong>&nbsp;<br />3,800 $
       (12,255 NIS)</p><p>&bull;<strong>Activities, Food &amp;
       Transportation:</strong><br />3,478$. This includes renting a car, scuba
