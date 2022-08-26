@@ -64,16 +64,47 @@ content-blocks:
       clean, it would also get pretty sandy in the room since the rooms are
       surrounded by sand, and there weren't many options for breakfast.<br />If
       that doesn't bother you, know that it is located right near the center,
-      has a beautiful beach, and has friendly staff.</p>
-  - _section-type: blog-textarea
-    textarea_html:
+      has a beautiful beach, and has friendly staff.</p><h2>WHERE TO EAT IN
+      HOLBOX:&nbsp;</h2><p>&bull;<strong>El Hornito Argento -</strong> Right in
+      the center is this Argentinian restaurant with the BEST PIZZA EVER!!!<br
+      />&bull;<strong>️Casa Nostra Roof Restaurant -</strong> Great location and
+      food.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Reduced/20180922_170318.jpg
+    2_image: /uploads/Reduced/20180922_145859.jpg
+    3_image: /uploads/Reduced/20180923_180727.jpg
+    4_image: /uploads/Reduced/20180923_130506.jpg
+    5_image: /uploads/Reduced/20180922_125306.jpg
+    6_image: /uploads/Reduced/20180922_165807.jpg
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h1>2 Day Itinerary:</h1><h2>&nbsp;</h2><h3><strong>Day
+      1:</strong></h3><h2>Playa de Holbox, City Center, and Bioluminescent
+      Phytoplanktons tour</h2><p><strong>City Center:</strong><br />Explore the
+      art around the city center of Isla Holbox.</p><p><strong>Playa de
+      Holbox:</strong><br />The beach with the holbox hammock (10 minute walk
+      from Alma bar) Location: L&aacute;zaro C&aacute;rdenas, Chetumal,
+      Q.R.</p><p><strong>Bioluminescent Phytoplanktons tour:</strong> Glowing
+      Planktons at night is a must must must!!! They pick you up at 4 AM for
+      this tour so get to bed early the night before. You can't catch the
+      planktons on camera so just go and enjoy the moment. It is
+      remarkable!</p><h2><strong>Day 2:</strong></h2><h2>Cabo Catoche Boat tour,
+      Beach clubs &amp; Bars.</h2><p><strong>Boat Tour Cabo Catoche:</strong><br
+      />Cabo Catoche is the point where the Caribbean Sea and the Gulf of Mexico
+      are found. In this area, you can see incredible scenery with pristine
+      beaches. Its lush marine life is the ideal place for fishing and
+      snorkeling. If you're lucky, you can spot dolphins and flamingos out in
+      the wild.</p><p><strong>El Velero Beach Club:</strong><br />Located close
+      to Holbox Dream hotel was this relaxing beach club. It is a great place to
+      relax and enjoy good food, shakes, and a beautiful
+      beach.</p><p><strong>Alma Bar:</strong><br />This bar has great live
+      music, good drinks, and an infinity pool with such a great view of the
+      ocean!</p><h2><strong>Don't miss!</strong></h2><p><strong>Whale shark
+      snorkeling:</strong></p><p>The season to do so is June until the middle of
+      September. Make sure you go when in the season because, after the season,
+      there is just NO WAY to see the whale sharks. Sadly we thought the season
+      was until the end f September, so we missed them. You Can also see the
+      whale sharks in Isla Mujeres.</p>
   - _section-type: signature
     signature_html: <p><strong>Have fun! xxx</strong></p>
 ---
