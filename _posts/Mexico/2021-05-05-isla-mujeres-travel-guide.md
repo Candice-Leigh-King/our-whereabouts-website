@@ -73,15 +73,42 @@ content-blocks:
       lasagne is DELICIOUS!!! The meals are so large we didn&rsquo;t even finish
       them so we took them back to the hotel since we had a fridge and a
       microwave.<br />&bull;<strong>Rooster &ndash;</strong> is a great place to
-      eat breakfast, they have a large variety of great breakfasts. Their menu
+      eat breakfast. They have a large variety of great breakfasts. Their menu
       is very similar to the Benedict chain in Israel. We ate breakfast there
       twice.<br />&bull;<strong>Rolandis Restaurant Bary Pizzeria &ndash;
-      </strong>Good food and really nice inside.<br />&bull;<strong>Lola
-      valentine &ndash;</strong> They are known for having such great desserts,
-      don't miss it out!<br />&bull;<strong>Panna e Cioccolato -</strong> A
-      great ice cream store right on the main road in Isla Mujeres.</p>
+      </strong>Good food and nice interior.<br />&bull;<strong>Lola valentine
+      &ndash;</strong> They are known for having such great desserts, don't miss
+      it!<br />&bull;<strong>Panna e Cioccolato -</strong> A great ice cream
+      store right on the main road in Isla Mujeres.</p>
   - _section-type: blog-textarea
-    textarea_html: <h2><strong>2-DAY ITINERARY:</strong></h2>
+    textarea_html: >-
+      <h2><strong>2-DAY ITINERARY:</strong></h2><p>&nbsp;</p><h3><strong>DAY 1 -
+      </strong></h3><h2>Playa Norte:</h2><p>We arrived in the late afternoon and
+      just enjoyed the hotel amenities and relaxed on Playa Norte, the most
+      beautiful beach in Isla Mujeres.</p><h3><strong>DAY 2 -
+      </strong></h3><h2>Snorkeling Tour:</h2><p>️We took a snorkeling day tour
+      to Musa underwater museum and lighthouse (El Farito). It was a great trip
+      and highly recommend for those who enjoy snorkeling. The trip includes
+      lunch.</p><h3><strong>DAY 3 - </strong></h3><h2>Punta Sur &amp; Albtros
+      Beach Club:</h2><p><strong>Punta Sur:</strong></p><p>One of the popular
+      things to do on this island is renting a golf cart to get around the
+      island. It costs about 42$ to rent the golf cart for 12 hours.<br />It is
+      a 20-minute drive from our hotel (located on playa note) to Punta Sur.<br
+      />After 5 minutes of driving, you'll see the very cool Isla Mujeres sign
+      called 'Monumento Tiburon ballena'. You can stop and take a photo.<br
+      />When you arrive in Punta Sur, it's free admission to enjoy the beautiful
+      view.<br />If you want to see more and enjoy the Mayan ruins they have
+      down there, I suggest you pay the 1.5$ admission fee.<br />Punta Sur is
+      one of the most beautiful spots on this island because this is where you
+      can see the Atlantic ocean meet the Caribbean.</p><p><strong>Albtros Beach
+      Club:</strong></p><p>Secret beach. Before our flight to Mexico, I saw this
+      really cool beach on Instagram and wrote it down.<br />After spending
+      hours in the heat in Punta Sur, all we wanted to do was dip in the water,
+      so we decided to look for this beach! This place was a little challenging
+      to find. Their address on Facebook isn't correct, you can't find it on
+      google maps or Waze. In the end, we did find it! Want to know how to find
+      it?<br />You put in Waze Playa Lancheros, and you'll see a tiny sign that
+      says 'Albatros sail away to Isla Mujeres.'</p>
   - _section-type: signature
-    signature_html: <p><strong>Hope this helps you plan your trip xxx</strong></p>
+    signature_html: <p><strong>Have fun! xxx</strong></p>
 ---
