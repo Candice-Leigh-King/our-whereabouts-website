@@ -163,6 +163,51 @@ content-blocks:
     4_image: /uploads/20180912-100118.jpg
     5_image: /uploads/20180911-153657-2.jpg
     6_image: /uploads/20180908-100028.jpg
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: >-
+      <h2><strong>Where to eat in Playa del
+      Carmen:</strong></h2><p>&bull;<strong>Eatitaly -</strong> Great place to
+      eat on 5th Avenue. You can actually see them make the pasta on the
+      spot.</p><p>&bull;<strong>La Famiglia Pizza -</strong> is another great
+      Italian restaurant right next to our hotel.</p><p>&bull;<strong>Tropical
+      -</strong> on 5th avenue, this Mexican restaurant/bar is delicious and a
+      great Instagram opportunity!!! It is so beautiful and
+      unique.</p><p>&bull;<strong>Bovinos Playa del Carmen Restaurant -</strong>
+      WOW! It's a Brazilian steakhouse. 96 USD for both of us for unlimited food
+      and a pitcher of lemonade. There is a round card at your setting one side
+      is green and the other is red. When you are ready to have meat served to
+      you, simply turn the card to green. At any time you can go to the buffet
+      that is very rich and has everything but red
+      meat.</p><p>&bull;<strong>Sushi Ken -</strong> Really great Asian food. We
+      loved their noodles, and their fried ice cream was
+      delicious!</p><p>&bull;<strong>Po Thai Restaurant -</strong> Another great
+      Asian restaurant</p><p>&nbsp;</p><h2><strong>Some helpful information
+      about Playa del Carmen:</strong></h2><h2>&bull;ATM: Cibanko</h2><p>That
+      was the best and cheapest place to pull out money. Do Not use ATMs. They
+      copy your credit card info and then use it!! We came to Mexico with 1,500
+      $ and pulled out money only from Cibanko. Take into consideration that
+      there isn't a proper bank everywhere in Mexico.<br
+      /><strong>Address:</strong> a Via Tendenza Calle 10 entre 14 y 14 bis,
+      Local 5, Centro, 77710 Playa del Carmen.</p><h2>&bull;RENTING A CAR:
+      Hertz</h2><p>Renting a car is pretty cheap. Most car rentals in Mexico
+      make you pay by credit card. We went to Hertz since they were the cheapest
+      and they're a worldwide chain, so we felt comfortable letting them use our
+      credit card and not worrying about them copying the number.</p><p>Some say
+      that driving in Mexico is dangerous because the police there are bribed
+      and try to catch you speeding even a tiny bit over the speed limit, so try
+      to stay under the speed limit and will ask you to pay in cash for the
+      ticket. If you're in that situation, it's very important that you do not
+      give your Passport, license, or cash! Demand to go to the police station
+      with the cops.</p><p>We weren't scared to rent a car since I'm Colombian
+      and Dan is Argentinian, so he speaks fluent Spanish, so it would be harder
+      for them to fool us.</p><p>&nbsp;</p><h2>SHOPPING: Walmart</h2><p>Near our
+      hotel, there were a Walmart, cheap prices good place to buy clothes,
+      souvenirs, snorkeling masks &amp; food.</p><p>&nbsp;</p><h2>MEDICAL
+      ASSISTANCE: Dr. Bernardo Javier Diaz Avila.</h2><p>Since I mentioned I got
+      sick - As a nurse who was worried about getting medical care in a third
+      world country, I would love to recommend a doctor that took excellent care
+      of me when I was sick and needed an I.V. My insurance paid back full
+      amount I spend on this doctor.</p>
   - _section-type: signature
-    signature_html: <p><strong>Enjoy paradise! xxx</strong></p>
+    signature_html: <p><strong>Hope this helps you plan your trip xxx</strong></p>
 ---
