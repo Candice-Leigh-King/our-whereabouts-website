@@ -158,7 +158,7 @@ content-blocks:
       children.</p>
   - _section-type: gallery
     1_image: /uploads/20180914-141970.jpg
-    2_image: /uploads/20180914-141946.jpg
+    2_image: /uploads/20180914-141946-2.jpg
     3_image: /uploads/20180908-100056.jpg
     4_image: /uploads/20180912-100118.jpg
     5_image: /uploads/20180911-153657-2.jpg
