@@ -32,9 +32,9 @@ content-blocks:
       to do, where to eat, and our 2.5-day itinerary.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
-    heading: Playa del Carmen, Mexico
+    heading: Isla Mujeres, Mexico
     google-embed-code: >-
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119468.42392931206!2d-87.14173734919855!3d20.653777820355135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e4323d22d4e61%3A0xe8c10b783bab4adc!2sPlaya%20del%20Carmen%2C%20Quintana%20Roo%2C%20Mexico!5e0!3m2!1sen!2sil!4v1661495311221!5m2!1sen!2sil"
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59503.902741085105!2d-86.76673806558148!3d21.232089637340476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c255cc7546269%3A0x31c329d38783bdbf!2sIsla%20Mujeres!5e0!3m2!1sen!2sil!4v1661503042532!5m2!1sen!2sil"
       width="100%" height="450" style="border:2;" allowfullscreen=""
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-featured-textarea
@@ -54,12 +54,12 @@ content-blocks:
       beach is Playa Norte which is the most famous beach in Isla Mujeres;
       it&rsquo;s so beautiful and has got amazing sunsets.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Reduced/20180926_150154(0).jpg
+    2_image: /uploads/Reduced/160.jpg
+    3_image: /uploads/Reduced/20180926_151214.jpg
+    4_image: /uploads/Reduced/20180926_135236.jpg
+    5_image: /uploads/Reduced/20180926_140619.jpg
+    6_image: /uploads/Reduced/20180926_124627.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>THINGS TO DO:</strong></h2><p>&bull;Whale shark
