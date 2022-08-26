@@ -18,12 +18,12 @@ content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
       <p>Holbox is a little piece of heaven for those of you debating whether or
-      not to go visit I highly recommend you do.<br />During the rainy season it
-      is a bit problematic on this island since they do not have cars, only mini
-      golfs, and these mini golfs aren't used during the rain since the roads
-      over there get way too muddy, and it ruins the mini golf engines on top of
-      all that the mosquitoes come out and eat you alive when it rains, so it is
-      no fun.</p>
+      not to go visit I highly recommend you do.</p><p>During the rainy season
+      it is a bit problematic on this island since they do not have cars, only
+      mini golfs, and these mini golfs aren't used during the rain since the
+      roads over there get way too muddy, and it ruins the mini golf engines on
+      top of all that the mosquitoes come out and eat you alive when it rains,
+      so it is no fun.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Holbox, Mexico
@@ -35,7 +35,7 @@ content-blocks:
     blog-featured-textarea_html: >-
       <h2>HOW TO GET TO HOLBOX:</h2><p>The easiest way to get to Holbox is from
       either Cancun or Playa del Carmen, but you can also get there from Tulum,
-      Meerida and Valladolid.<br />The cheapest way to get to Holbox is by
+      Merida, and Valladolid.<br />The cheapest way to get to Holbox is by
       public bus and a ferry.&nbsp;</p><h4><strong>Bus:</strong></h4><p>Take an
       ADO bus. Book your trip online because they fill up
       easily.</p><p><strong>From Cancun to Chiquila:</strong><br
@@ -51,21 +51,20 @@ content-blocks:
       &nbsp;</em></strong>The ferry to Holbox takes 15 minutes.&nbsp;<br
       /><strong>&bull;<em>Price: &nbsp;</em></strong>Tickets cost 150 MXN per
       person.<br /><strong>&bull;<em>Opening hours: &nbsp;</em></strong>The
-      ferries start at 5 am to 8.30
-      pm</p><p>​​​​​​</p><h4><strong>Car:</strong></h4><p>You can travel by car
-      to the Chiquila port, but once you get there you&rsquo;ll need to park
-      your rental and hop on the Holbox ferry. There are no official parking
-      lots and make sure you don't leave valuables in your
-      car.</p><p>​​​​​​</p><h2>WHERE TO STAY:</h2><h3>Holbox Dream Beachfront
-      Hotel</h3><p><br /><strong>Stars: </strong>☆☆☆<br /><strong>Price:
-      </strong>Avrage price is 170 USD per night.<br /><strong>Duration of stay:
-      </strong>2 nights<br /><strong>Our Experience: </strong>We were told that
-      this is a very great hotel for honeymooners and we were a little
-      disappointed. The rooms weren't so clean, it would also get pretty sandy
-      in the room since the rooms are surrounded by sand, and there wasn't much
-      options for breakfast.<br />If that doesn't bother you, do know that it is
-      located right near the center, has a beautiful beach and friendly
-      staff.</p>
+      ferries start from 5 am to 8.30
+      pm</p><h4>​​​​<strong>Car:</strong></h4><p>You can travel by car to the
+      Chiquila port, but once you get there, you&rsquo;ll need to park your
+      rental and hop on the Holbox ferry. There are no official parking lots so
+      make sure you don't leave valuables in your car.</p><p>​​​​​​</p><h2>WHERE
+      TO STAY:</h2><h3>Holbox Dream Beachfront Hotel</h3><p><br /><strong>Stars:
+      </strong>☆☆☆<br /><strong>Price: </strong>Avrage price is 170 USD per
+      night.<br /><strong>Duration of stay: </strong>2 nights<br /><strong>Our
+      Experience:&nbsp;</strong>We were told that this is a very excellent hotel
+      for honeymooners and we were a little disappointed. The rooms weren't so
+      clean, it would also get pretty sandy in the room since the rooms are
+      surrounded by sand, and there weren't many options for breakfast.<br />If
+      that doesn't bother you, know that it is located right near the center,
+      has a beautiful beach, and has friendly staff.</p>
   - _section-type: blog-textarea
     textarea_html:
   - _section-type: gallery
