@@ -192,7 +192,7 @@ content-blocks:
       Hertz</h2><p>Renting a car is pretty cheap. Most car rentals in Mexico
       make you pay by credit card. We went to Hertz since they were the cheapest
       and they're a worldwide chain, so we felt comfortable letting them use our
-      credit card and not worrying about them copying the number.</p><p>Some say
+      credit card and not worrying about them copying the number.<br />Some say
       that driving in Mexico is dangerous because the police there are bribed
       and try to catch you speeding even a tiny bit over the speed limit, so try
       to stay under the speed limit and will ask you to pay in cash for the
