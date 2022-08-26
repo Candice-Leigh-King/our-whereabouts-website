@@ -2,7 +2,15 @@
 layout: posts
 seo:
   title: 'Holbox: Mexico''s Hidden Gem'
-  description: 'Mexico is filled with so much '
+  description: >-
+    This was my first trip to Mexico and what can I say? I fell in love! Mexico
+    is rich with diversity and culture; it has got it all! Which makes it such
+    an excellent destination for any type of traveler.
+
+
+    From Mayan ruins and lush jungles to the pristine Pacific Coast, no matter
+    how many times you'll visit Mexico will keep you wanting to see more. One of
+    my favorite places in Mexico has to be Holbox!
   keywords: 'Holbox, Mexico''s hidden gem: Travel guide. '
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
@@ -18,12 +26,12 @@ content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
       <p>Holbox is a little piece of heaven for those of you debating whether or
-      not to go visit I highly recommend you do.</p><p>During the rainy season
-      it is a bit problematic on this island since they do not have cars, only
-      mini golfs, and these mini golfs aren't used during the rain since the
-      roads over there get way too muddy, and it ruins the mini golf engines on
-      top of all that the mosquitoes come out and eat you alive when it rains,
-      so it is no fun.</p>
+      not to go visit I highly recommend you do.<br />​​​​​​</p><p>During the
+      rainy season it is a bit problematic on this island since they do not have
+      cars, only mini golfs, and these mini golfs aren't used during the rain
+      since the roads over there get way too muddy, and it ruins the mini golf
+      engines on top of all that the mosquitoes come out and eat you alive when
+      it rains, so it is no fun.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Holbox, Mexico
