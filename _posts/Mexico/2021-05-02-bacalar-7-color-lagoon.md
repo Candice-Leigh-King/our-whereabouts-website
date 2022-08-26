@@ -78,12 +78,12 @@ content-blocks:
       with a beautiful view<br /><strong>Adress:&nbsp;</strong>Boulevard Costera
       Norte 1255, Bacalar 77930 Mexico.​​​​</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Reduced/20180920_170741-2.jpg
+    2_image: /uploads/Reduced/20180920_164335.jpg
+    3_image: /uploads/Reduced/20180920_145152.jpg
+    4_image: /uploads/Reduced/20180920_070753.jpg
+    5_image: /uploads/Reduced/20180920_142528.jpg
+    6_image: /uploads/Reduced/20180921_093733(0).jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>2 Day Itinerary:</h1><h2>&nbsp;</h2><h3><strong>Day
