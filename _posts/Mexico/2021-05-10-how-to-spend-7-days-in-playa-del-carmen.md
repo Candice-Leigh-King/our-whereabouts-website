@@ -156,6 +156,13 @@ content-blocks:
       sacred place, this is covered cenote, Cliff of Courage &ndash; cliff
       jumping, Cenotes, Jungle trails, Bike rides &amp; Activities for
       children.</p>
+  - _section-type: gallery
+    1_image: /uploads/20180914-141970.jpg
+    2_image: /uploads/20180914-141946.jpg
+    3_image: /uploads/20180908-100056.jpg
+    4_image: /uploads/20180912-100118.jpg
+    5_image: /uploads/20180911-153657-2.jpg
+    6_image: /uploads/20180908-100028.jpg
   - _section-type: signature
     signature_html: <p><strong>Enjoy paradise! xxx</strong></p>
 ---
