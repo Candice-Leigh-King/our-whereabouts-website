@@ -88,11 +88,11 @@ content-blocks:
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: "<h3><strong>Universal City Walk:</strong></h3><p>If you've never been to Universal Studios before, it's essential to know that before the Universal Studios park, there is a whole compound. It's nice to walk around and see all the stores and restaurants.</p><h3><strong>Event Rules:</strong></h3><p>&bull;Costumes of any kind are not allowed, but t-shirts and face painting are permitted.<br />&bull;Food, beverages, photography, videography, or any light-emitting devices are not allowed in houses.<br />&bull;Food isn't allowed into the park but if you have any food restrictions (health or religion) they will permit it.&nbsp;</p><h3><strong>Universal Studios App:</strong></h3><p>it's very important to have the app so you could see the wait time for the rides, and show times and it has a map of the place. <a href=\"\_https://play.google.com/store/apps/details…\">Tap here to download app&nbsp;</a></p><h3><strong>What to expect:</strong></h3><p>The park will be filled with scary props, people walking around dressed up trying to scare you, music from horror movies, and lots of spooky entertainment.</p>"
   - _section-type: gallery
-    1_image:
+    1_image: /uploads/Reduced/20191031_170012.jpg
     2_image: /uploads/Reduced/20191031_162318.jpg
     3_image: /uploads/Reduced/IMG-20191101-WA0005.jpg
-    4_image:
-    5_image:
+    4_image: /uploads/Reduced/20191101_001222.jpg
+    5_image: /uploads/Reduced/20191101_004912.jpg
     6_image: /uploads/Reduced/20191031_233257.jpg
   - _section-type: blog-textarea
     textarea_html: >-
