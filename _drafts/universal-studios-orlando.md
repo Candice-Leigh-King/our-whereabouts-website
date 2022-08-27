@@ -17,7 +17,7 @@ blog-summary: >-
   of our best tips.
 cta: Read More →
 blog_image: /uploads/Reduced/GOPR0275.jpg
-date: 2021-04-01 00:00:00
+date: 2021-04-30 00:00:00
 categories:
   - travel
 content-blocks:
@@ -28,19 +28,21 @@ content-blocks:
       some of our best tips.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
-    heading:
-    google-embed-code:
+    heading: Universal Studios Orlando
+    google-embed-code: >-
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.1735152577185!2d-81.47000798511037!3d28.4743206824806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e77edfac4210bd%3A0x1adc62268ae9b19!2sUniversal%20Orlando%20Resort!5e0!3m2!1sen!2sil!4v1661619848191!5m2!1sen!2sil"
+      width="100%" height="450" style="border:2;" allowfullscreen=""
+      loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>WHERE TO STAY ON A BUDGET:</strong></h2><p><strong>Westgate
-      Towers Resort </strong>☆☆☆☆ 225 NIS per night We stayed for five nights.
-      It&rsquo;s a nice, cute hotel, but honestly, we were never there! We were
-      so busy waking up early to the parks and coming back after midnight every
-      night. You don&rsquo;t need the best hotel. You just need a hotel that is
-      good, comfortable and close to the parks.</p><p>From our hotel to
-      Disneyworld it&rsquo;s an 18-minute drive and just a 27-minute drive to
-      Universal Studios.</p><h2><strong>PRICES:</strong></h2><p>We did 2 days
-      each day 232$ (797 NIS) for both of us. One day per park. Universal
+      Towers Resort </strong>☆☆☆☆ 225 NIS per night<br />We stayed for five
+      nights.<br />It&rsquo;s a nice, cute hotel, but we were never there! We
+      were so busy waking up early to the parks and coming back after midnight
+      every night. You don&rsquo;t need the best hotel. You just need a good,
+      comfortable hotel close to the parks.-minute drive and just a 27-minute
+      drive to Universal Studios.</p><h2><strong>PRICES:</strong></h2><p>We did
+      2 days each day 232$ (797 NIS) for both of us. One day per park. Universal
       studios have two parks. If you ask me which one is better, I can not
       answer that! I love them both
       equally.</p><p>&nbsp;</p><h2><strong>UNIVERSAL STUDIOS
