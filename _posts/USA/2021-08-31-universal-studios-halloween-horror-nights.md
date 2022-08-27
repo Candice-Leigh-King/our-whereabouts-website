@@ -85,6 +85,93 @@ content-blocks:
       Horror night at 5pm</strong>!!!!</em>&nbsp; Arrive at 4:45, get in line so
       you can be first in the park and get to the mazes before everyone. Don't
       forget to grab a map on your way in.</p>
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: "<h3><strong>Universal City Walk:</strong></h3><p>If you've never been to Universal Studios before, it's essential to know that before the Universal Studios park, there is a whole compound. It's nice to walk around and see all the stores and restaurants.</p><h3><strong>Event Rules:</strong></h3><p>&bull;Costumes of any kind are not allowed, but t-shirts and face painting are permitted.<br />&bull;Food, beverages, photography, videography, or any light-emitting devices are not allowed in houses.<br />&bull;Food isn't allowed into the park but if you have any food restrictions (health or religion) they will permit it.&nbsp;</p><h3><strong>Universal Studios App:</strong></h3><p>it's very important to have the app so you could see the wait time for the rides, and show times and it has a map of the place. <a href=\"\_https://play.google.com/store/apps/details…\">Tap here to download app&nbsp;</a></p><h3><strong>What to expect:</strong></h3><p>The park will be filled with scary props, people walking around dressed up trying to scare you, music from horror movies, and lots of spooky entertainment.</p>"
+  - _section-type: gallery
+    1_image:
+    2_image: /uploads/Reduced/20191031_162318.jpg
+    3_image: /uploads/Reduced/IMG-20191101-WA0005.jpg
+    4_image:
+    5_image:
+    6_image: /uploads/Reduced/20191031_233257.jpg
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h2>OUR ROUTE:&nbsp;</h2><p>The best way to start the night is to go to
+      the lower lot. since most people go to the mazes in order from the
+      entrance to the bottom, it makes more sense to go to the bottom first and
+      make your way up. The mazes change throughout the years and so does the
+      theme but there are some mazes that stay for a while. If you've been to
+      Universal Studios before, do know that the rides that are open during
+      Halloween Horror Nights have no scary effects added to them and are just
+      the regular rides that we know and love.</p><h2>1. Lower lot:</h2><p>We
+      started off with the stranger things maze since it was very popular. After
+      that, we went all the way to the mazes in the movie set area which was
+      really cool over there you've got Ghostbusters, Frankenstein, a creep
+      show, and a scare zone.</p><p>&bull;<strong>Stranger Things
+      (maze)</strong><br /><strong>Wait time: </strong>15-minute wait.<br
+      /><strong>Score:</strong> ⭐️⭐️⭐️⭐️ We love stranger Things, so we enjoyed
+      this.<br /><strong>Update 2021:</strong> This maze was the
+      Exorcist.</p><p>&bull;<strong>Ghostbusters (maze)</strong><br
+      /><strong>Wait time:</strong> 5 minutes wait.<br /><strong>Score:</strong>
+      ⭐️⭐️ This was a cute maze, but compared to the others it wasn't my
+      favorite.<br /><strong>Update 2021: </strong>The
+      purge.</p><p>&bull;<strong>Frankenstein (maze)</strong><br /><strong>Wait
+      time:</strong> 15 minutes wait.<br /><strong>Score:</strong> ⭐️⭐️⭐️ It Was
+      fun!<br /><strong>Update 2021: </strong>The
+      purge.</p><p>&bull;<strong>Creep Show (maze)</strong><br /><strong>Wait
+      time:</strong> None, we just walked in<br /><strong>Score:
+      </strong>⭐️⭐️⭐️⭐️⭐️ AMAZING!!!</p><p>&bull;<strong>All Hallows Evil Scare
+      Zone (maze)</strong><br /><strong>Wait time:</strong> 5-minute wait.<br
+      /><strong>Score:</strong> ⭐️⭐️⭐️⭐️⭐️ So scary and
+      AWESOME!</p><p>&bull;<strong>Killer Klowns from outer space
+      (maze)</strong><br /><strong>Wait time:</strong> 20-minute wait.<br
+      /><strong>Score:</strong> ⭐️⭐️⭐️⭐️ It was great!<br /><strong>Update
+      2021:</strong> Texas Chainsaw Massacre.</p><p>&bull;<strong>Jurassic World
+      (ride)</strong><br /><strong>Wait time: </strong>None, we just walked in.
+      No, wait. It was a chilly night, so we decided to sit in the back so we
+      wouldn't get wet.<br /><strong>Score: </strong>⭐️⭐️⭐️⭐️⭐️ They changed the
+      ride from Jurassic park to Jurassic world, and we loved it. You get wetter
+      on this ride than before so do consider that while riding at
+      night</p><p>&bull;<strong>The Mummy (ride)</strong><br /><strong>Wait
+      time:</strong> We walked in, but since there weren't so many people, we
+      waited a minute more so we could sit front row.<br
+      /><strong>Score:</strong> ⭐️⭐️⭐️⭐️⭐️ A classic and epic
+      ride.</p><p>&bull;<strong>Transformers (ride)</strong><br /><strong>Wait
+      time:</strong> 5-minute wait since we asked for the front row.<br
+      /><strong>Score:</strong> ⭐️⭐️⭐️⭐️⭐️ We always enjoy this
+      ride.</p><p>&nbsp;</p><h2><strong>2.</strong>&nbsp;Upper
+      lot:</h2><p>&bull;<strong>Harry Potter and the Forbidden Journey
+      (ride)</strong><br /><strong>Wait time: </strong>20-minute wait.<br
+      /><strong>Score:</strong> ⭐⭐️⭐️⭐️ We rode it twice in a row because the
+      ride broke down for 2 minutes in the middle.</p><p>&bull;<strong>Us
+      (maze)</strong><br /><strong>Wait time:</strong> 50-minute wait!!!<br
+      /><strong>Score:</strong> It wasn't as great as I thought it would be.
+      ⭐️⭐️⭐️<br /><strong>Update 2021: </strong>Haunting Hill
+      house.</p><p>&bull;<strong>The curse of Pandora's box (maze)<br
+      />W</strong><strong>ait time: </strong>35 minutes wait.<br
+      /><strong>Score: </strong>⭐️⭐️⭐️⭐️⭐️ This was our FAVOURITE!<br
+      /><strong>Update 2021:</strong> They had this
+      maze.</p><p>&bull;<strong>Harry Potter Dark Arts (show) - </strong>Night
+      light show on the castle. Don't miss it.</p><p>&bull;<strong>Holidayz in
+      Hell (maze)</strong><br /><strong>Wait time:</strong> 5-minute wait.<br
+      /><strong>Score:</strong> ⭐️⭐️⭐️<br /><strong>Update 2021:</strong>
+      Halloween - Michael Mayers.</p><p>&bull;<strong>The Walking Dead
+      (ride)</strong><br /><strong>Wait time: </strong>5-minute wait.<br
+      /><strong>Score: </strong>⭐️⭐️⭐️</p><p>&bull;<strong>House of 1,000
+      corpses (maze)</strong><br /><strong>Wait time:</strong> 5-minute wait<br
+      /><strong>Score: </strong>⭐️⭐️⭐️⭐️ We loved it!<br /><strong>Update
+      2021:</strong> Bride of Frankenstein lives.</p><p><em>It was already 1:00
+      AM and we were done with all the mazes and rides the park has to offer
+      during Halloween night beside the Simpson ride.</em></p><p><strong>The
+      Simpsons (ride)</strong><strong> -</strong> At 1:00 it had a 50-minute
+      wait that we just didn't think it was worth it since we have ridden that
+      ride a million times before.</p><p><strong>Jabbawockeez Show
+      (show)</strong><strong> - </strong>We didn't watch this since we heard it
+      isn't so great.</p><p>&nbsp;</p><p><strong>If you see that it's a crowded
+      night, DO NOT go on the rides (the walking dead, the mummy, Transformers,
+      Harry Potter, and the Simpsons) <em>Since they don't change the ride for
+      Halloween,</em> you can ride them on a regular day. The mazes, however,
+      are there only on Halloween night.</strong></p>
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <p><strong>Happy Halloween!</strong></p>
 ---
