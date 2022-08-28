@@ -20,9 +20,9 @@ categories:
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <p>In September 2021 we flew to Venice and decided to combine the
-      Dolomites with our trip. After spending 3 nights in Venice we rented a car
-      and drove up to the famous mountains and fell in love.</p>
+      <p>In September we flew to Venice and decided to combine the Dolomites
+      with our trip. After spending 3 nights in Venice we rented a car and drove
+      up to the famous mountains and fell in love.</p>
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>Dates:</strong></h2><p>We visited mid-September which is the
