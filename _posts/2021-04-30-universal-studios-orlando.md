@@ -92,12 +92,12 @@ content-blocks:
       it!</li><li>Dudley Do-Right&rsquo;s Ripsaw Falls - You must put all your
       belongings in a locker because you get soaked from head to toe!</li></ul>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Reduced/53-(2).jpg
+    2_image: /uploads/Reduced/64.jpg
+    3_image: /uploads/Reduced/20180904_173342.jpg
+    4_image: /uploads/Reduced/47-(1).jpg
+    5_image: /uploads/Reduced/20180904_192518.jpg
+    6_image: /uploads/Reduced/20180904_185024(0).jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>UNIVERSAL STUDIOS PARK:</strong></h2><p>This park has Diegon
@@ -112,12 +112,12 @@ content-blocks:
       when you get on the ride, you can choose a song you want to hear! I LOVED
       this ride so much that I did it twice in a row!</li></ul>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Reduced/20180904_170530.jpg
+    2_image: /uploads/Reduced/20180905_113855(0).jpg
+    3_image: /uploads/Reduced/78.jpg
+    4_image: /uploads/Reduced/20180905_091341.jpg
+    5_image: /uploads/Reduced/GOPR0610.jpg
+    6_image: /uploads/Reduced/20180905_190024.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <p>Universal studios here is way more impressive than the Universal
