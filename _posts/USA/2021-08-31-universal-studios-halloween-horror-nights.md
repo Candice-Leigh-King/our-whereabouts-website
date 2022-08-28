@@ -23,7 +23,7 @@ blog-summary: >-
   routes.
 cta: Read More →
 blog_image: /uploads/Reduced/20191031_165410.jpg
-date: 2021-08-31 00:00:00
+date: 2021-08-31 15:00:00
 categories:
   - travel
 content-blocks:
@@ -173,5 +173,5 @@ content-blocks:
       Halloween,</em> you can ride them on a regular day. The mazes, however,
       are there only on Halloween night.</strong></p>
   - _section-type: signature
-    signature_html: <p><strong>Happy Halloween!</strong></p>
+    signature_html: <h4><strong>Happy Halloween!</strong></h4>
 ---
