@@ -35,17 +35,18 @@ content-blocks:
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>WHERE TO STAY ON A BUDGET:</strong></h2><p><strong>Westgate
-      Towers Resort </strong>☆☆☆☆ 225 NIS per night<br />We stayed for five
-      nights.<br />It&rsquo;s a nice, cute hotel, but we were never there! We
-      were so busy waking up early to the parks and coming back after midnight
-      every night. You don&rsquo;t need the best hotel. You just need a good,
-      comfortable hotel close to the parks.-minute drive and just a 27-minute
-      drive to Universal Studios.</p><h2><strong>PRICES:</strong></h2><p>We did
-      2 days each day 232$ (797 NIS) for both of us. One day per park. Universal
-      studios have two parks. If you ask me which one is better, I can not
-      answer that! I love them both
-      equally.</p><p>&nbsp;</p><h2><strong>UNIVERSAL STUDIOS
+      <h2><strong>WHERE TO STAY ON A BUDGET:</strong></h2><h3><strong>Westgate
+      Towers Resort</strong></h3><p><br /><strong>Stars:</strong> ☆☆☆☆<br
+      /><strong>Price: </strong>Rooms start at 109$ per night.<br />We stayed
+      for five nights.<br />It&rsquo;s a nice, cute hotel, but we were never
+      there! We were so busy waking up early to the parks and coming back after
+      midnight every night. You don&rsquo;t need the best hotel. You just need a
+      good, comfortable hotel close to the parks.-minute drive and just a
+      27-minute drive to Universal
+      Studios.</p><h2><strong>PRICES:</strong></h2><p>We did 2 days each day
+      232$ (797 NIS) for both of us. One day per park. Universal studios have
+      two parks. If you ask me which one is better, I can not answer that! I
+      love them both equally.</p><p>&nbsp;</p><h2><strong>UNIVERSAL STUDIOS
       APP:</strong></h2><p>It's always great to have the universal app that way
       you can see how long of a wait there is for each ride. Also, you can see
       the hours for the shows and parades.</p><h2><strong>WHEN TO
