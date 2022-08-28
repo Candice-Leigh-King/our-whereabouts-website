@@ -74,8 +74,8 @@ content-blocks:
       monasteries apart from the staircases have to walk uphill in paved
       paths.</p>
   - _section-type: blog-window
-    right_image: /images/16.jpg
-    left_image: /images/meteora.jpg
+    right_image: /uploads/Meteora/263.jpg
+    left_image: /uploads/Meteora/262.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <p><strong>7. TAKING ROCKS HOME</strong></p><p>Do not take rocks home with
