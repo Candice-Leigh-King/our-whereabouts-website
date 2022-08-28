@@ -17,7 +17,7 @@ blog-summary: >-
   of our best tips.
 cta: Read More →
 blog_image: /uploads/Reduced/GOPR0275.jpg
-date: 2021-04-30 00:00:00
+date: 2021-08-30 00:00:00
 categories:
   - travel
 content-blocks:
