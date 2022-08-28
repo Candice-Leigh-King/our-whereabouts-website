@@ -35,12 +35,13 @@ content-blocks:
       <h3><strong>OUR EXPERIENCE:</strong></h3><p>We had 5 nights in Budapest
       and knew we wanted a great location and comfort, but we weren't looking
       for anything more since we barely spent any time in the hotel. We took
-      this hotel and loved it.</p><h3><strong>LOCATION:</strong></h3><p>1051
-      Budapest, Dorottya utca 8., Hungary.<br />40-50 minute drive from Budapest
-      Airport.<br />Metro access from the property.<br />4-minute walk to the
+      this hotel and loved
+      it.</p><h3><strong>LOCATION:</strong></h3><p>&bull;1051 Budapest, Dorottya
+      utca 8., Hungary.<br />&bull;40-50 minute drive from Budapest Airport.<br
+      />&bull;Metro access from the property.<br />&bull;4-minute walk to the
       famous Fashion Street in
-      Budapest.</p><p>&nbsp;</p><h3><strong>PARKING:</strong></h3><p>No parking
-      is available.</p>
+      Budapest.</p><h3><strong>PARKING:</strong></h3><p>No parking is
+      available.</p>
   - _section-type: blog-textarea
     textarea_html: >-
       <h3><strong>HOTEL DETAILS:</strong></h3><p>The <strong>D8 Hotel</strong>
