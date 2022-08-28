@@ -13,13 +13,13 @@ seo:
   keywords: dolomites italy
   social-alt:
   url: /
-  social-share_image: /uploads/217.JPG
+  social-share_image: /uploads/Dolomites/217.jpg
 author: Elizabeth
 blog-summary: >-
   There are a few ways to get to the dolomites and I will share them in this
   blog post.
 cta: Read More →
-blog_image: /uploads/217.JPG
+blog_image: /uploads/Dolomites/217.jpg
 date: 2021-12-02 00:00:00
 categories:
   - travel
@@ -65,7 +65,7 @@ content-blocks:
       car?</strong></p><p>No. Saying that, a car offers more flexibility and is
       a time saver.</p><ul><li>&nbsp;</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/218.JPG
+    blog-cover_image: /uploads/Dolomites/218.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>Trains:</strong></h2><p>The second best option is taking the
@@ -187,8 +187,6 @@ content-blocks:
       485. <strong>Total Time:</strong> 3 hours and 55 minutes.
       <strong>Cost:</strong> About 15-20 Euro, depending on the season, the hour
       you choose to leave and how far in advance you book tickets.</li></ul>
-  - _section-type: signature
-    signature_html: <h1>- Our Whereabouts</h1>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Dolomites, Italy
@@ -196,4 +194,6 @@ content-blocks:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11003.763953115738!2d11.83528034197325!3d46.410225610878335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4778435ff9d21431%3A0x674f270783f8d9bb!2sDolomites!5e0!3m2!1sen!2sth!4v1650431788024!5m2!1sen!2sth"
       width="100%" height="350" style="border:2;" allowfullscreen=""
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+  - _section-type: signature
+    signature_html: <h1>- Our Whereabouts</h1>
 ---
