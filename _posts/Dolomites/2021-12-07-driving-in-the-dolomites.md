@@ -12,13 +12,13 @@ seo:
   keywords: driving in the Dolomites, Italy
   social-alt:
   url: /
-  social-share_image: /uploads/221.JPG
+  social-share_image: /uploads/Dolomites/221.jpg
 author: Elizabeth
 blog-summary: >-
   In this blog post I will share some of our tips for driving in the Dolomites
   and more tips on renting a car in general.the best time..
 cta: Read More →
-blog_image: /uploads/221.JPG
+blog_image: /uploads/Dolomites/221.jpg
 date: 2021-12-07 00:00:00
 categories:
   - travel
@@ -130,7 +130,7 @@ content-blocks:
       depth.</p><p>Ask a lot of questions, make sure you know where to return
       the vehicle, and what happens if you are late</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/220.JPG
+    blog-cover_image: /uploads/Dolomites/220.jpg
   - _section-type: signature
     signature_html: <h1>Happy Travels and drive safely,</h1><h1>Our Whereabouts xxx</h1>
   - _section-type: map
