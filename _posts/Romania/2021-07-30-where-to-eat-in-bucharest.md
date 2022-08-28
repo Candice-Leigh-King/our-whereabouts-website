@@ -81,12 +81,12 @@ content-blocks:
       the place is pretty tiny.<br /><strong>Address:</strong> Strada Aviator
       Jean Texier 1, București 011901, Romania.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Reduced/51.jpg
+    2_image: /uploads/Reduced/53.jpg
+    3_image: /uploads/Reduced/20200214_223813.jpg
+    4_image: /uploads/Reduced/20200214_233810.jpg
+    5_image: /uploads/Reduced/20200214_134739.jpg
+    6_image: /uploads/Reduced/IMG_20200221_122526.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>KOSHER FOOD:</strong></h2><h2><strong>Moise Kosher
