@@ -10,13 +10,13 @@ seo:
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image:
+  social-share_image: /uploads/Venice/201.jpg
 author: Elizabeth
 blog-summary: >-
   Venice can be a very expensive destination. Here are a few things you could do
   around the city without having to tear your pocket.
 cta: Read More →
-blog_image:
+blog_image: /uploads/Venice/201.jpg
 date: 2021-11-16 00:00:00
 categories:
   - travel
@@ -79,12 +79,12 @@ content-blocks:
       but not least, get lost in the city. This really is the best way to find
       hidden gems and explore Venice properly.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Venice/20210907_103115.jpg
+    2_image: /uploads/Venice/20210907_172703.jpg
+    3_image: /uploads/Venice/207-(1).jpg
+    4_image: /uploads/Venice/20210907_083135.jpg
+    5_image: /uploads/Venice/DSCN0568.jpg
+    6_image: /uploads/Venice/212.jpg
   - _section-type: signature
     signature_html: <h3>Our Whereabouts xxx</h3>
 ---
