@@ -12,13 +12,13 @@ seo:
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/199.JPG
+  social-share_image: /uploads/Venice/199.jpg
 author: Elizabeth
 blog-summary: >-
   Located 50 minutes away from Venice are two islands you shouldn't miss during
   your visit.
 cta: Read More →
-blog_image: /uploads/199.JPG
+blog_image: /uploads/Venice/199.jpg
 date: 2021-11-18 00:00:00
 categories:
   - travel
@@ -61,7 +61,7 @@ content-blocks:
       Aqua Alta (it can flood any time between mid-October to January, but Nov
       is the prime time)</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/209.JPG
+    blog-cover_image: /uploads/Venice/DSCN0695.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2>MURANO:</h2><p>&nbsp;</p><p>On the way to Burano, The Vaporetto stops
@@ -99,8 +99,8 @@ content-blocks:
       Artisan ice cream. </strong>We got the pistachio and sorbet and it was
       absolutely incredible.</p><p>&nbsp;</p>
   - _section-type: blog-window
-    right_image: /uploads/20210906-124529-original.JPG
-    left_image: /uploads/shared-from-lightroom-mobile-5.jpg
+    right_image: /uploads/Venice/DSCN0721.jpg
+    left_image: /uploads/Venice/20210906_124529_Original.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2>BURANO:</h2><p>Burano is a small fishing island and is known for its
