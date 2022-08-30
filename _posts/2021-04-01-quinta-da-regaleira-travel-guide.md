@@ -16,7 +16,7 @@ cta: Read More →
 blog_image: /uploads/Portugal/42-(1).jpg
 date: 2021-04-01 00:00:00
 categories:
-  - tips
+  - travel
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
@@ -65,7 +65,7 @@ content-blocks:
       Garden<br />&bull;The Chapel</p>
   - _section-type: gallery
     1_image: /uploads/20220505-191859.jpg
-    2_image: /uploads/42-1.jpg
+    2_image: /uploads/30-1.jpg
     3_image: /uploads/47-1-1.jpg
     4_image: /uploads/20220505-180750.jpg
     5_image: /uploads/20220505-190854.jpg
