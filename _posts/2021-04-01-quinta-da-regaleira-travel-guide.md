@@ -14,7 +14,7 @@ author: Elizabeth
 blog-summary: 'Quinta da Regaleira: The Ultimate Guide'
 cta: Read More →
 blog_image: /uploads/Portugal/42-(1).jpg
-date: 2021-04-01 00:00:00
+date: 2022-08-30 00:00:00
 categories:
   - travel
 content-blocks:
