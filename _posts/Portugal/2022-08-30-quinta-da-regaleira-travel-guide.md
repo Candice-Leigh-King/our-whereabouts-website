@@ -11,7 +11,7 @@ seo:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/42-(1).jpg
 author: Elizabeth
-blog-summary: 'Quinta da Regaleira: The Ultimate Guide'
+blog-summary: Everything you need to know before your visit to Quinta da Regaleira
 cta: Read More →
 blog_image: /uploads/Portugal/42-(1).jpg
 date: 2022-08-30 00:00:00
