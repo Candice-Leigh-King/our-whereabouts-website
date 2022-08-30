@@ -9,11 +9,11 @@ seo:
   keywords: Quinta da Regaleira, Sintra, Lisbon, Portugal Travel Guide.
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/42-1.jpg
+  social-share_image: /uploads/Portugal/42-(1).jpg
 author: Elizabeth
 blog-summary: 'Quinta da Regaleira: The Ultimate Guide'
 cta: Read More →
-blog_image: /uploads/42-1.jpg
+blog_image: /uploads/Portugal/42-(1).jpg
 date: 2021-04-01 00:00:00
 categories:
   - tips
