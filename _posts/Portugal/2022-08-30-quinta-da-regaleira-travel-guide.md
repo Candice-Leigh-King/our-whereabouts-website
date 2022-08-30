@@ -25,8 +25,11 @@ content-blocks:
       surrealistic initiation well and ornate follies.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
-    heading:
-    google-embed-code:
+    heading: Quinta da Regaleira, Sintra
+    google-embed-code: >-
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3109.5780288198785!2d-9.398213084820565!3d38.79630687958643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1edac264c6d47b%3A0xbfe1c516d48a6523!2sQuinta%20da%20Regaleira!5e0!3m2!1sen!2sus!4v1661859362400!5m2!1sen!2sus"
+      width="100%" height="450" style="border:2;" allowfullscreen=""
+      loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-textarea
     textarea_html: >-
       <h1><strong>History of the Palace:</strong></h1><p>Quinta da Regaleira was
@@ -97,5 +100,5 @@ content-blocks:
       opening, don't worry just go an hour before they
       close.&nbsp;</strong></em></p>
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h4><strong>Our Whereabouts xxx</strong></h4>
 ---
