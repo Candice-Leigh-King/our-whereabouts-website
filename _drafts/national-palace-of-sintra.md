@@ -1,7 +1,7 @@
 ---
 layout: posts
 seo:
-  title: Sintra National Palace
+  title: National Palace of Sintra
   description:
   keywords: Sintra National Palace, Sintra, Lisbon, Portugal Travel Guide.
   social-alt:
@@ -11,30 +11,28 @@ author: Elizabeth
 blog-summary: 'Sintra National Palace: The Ultimate Guide'
 cta: Read More →
 blog_image:
-date: 2021-09-02 00:00:00
+date: 2022-09-01 00:00:00
 categories:
   - travel
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <p>This Gothic palace is a must-visit landmark visiting Sintra and has to
-      be our favorite palace. The opulent palace has spectacular gardens with a
-      surrealistic initiation well and ornate follies.</p>
+      <p>Let me start by saying that we didn't plan on visiting Sintra National
+      Palace, we wanted to visit Monserrate Palace. Still, we accidentally
+      purchased tickets to Sintra National Palace, so after grabbing lunch in
+      the center of town, we decided to hop on in to take a glance at the
+      interior of the palace.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading:
     google-embed-code:
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1><strong>History of the Palace:</strong></h1><p>Quinta da Regaleira was
-      designed &amp; built in the late 1800s. Initially, the property belonged
-      to the Viscondessa da Regaleira but was acquired and enlarged by
-      Ant&oacute;nio Augusto Carvalho Monteiro. Together with the virtuosity of
-      the Italian architect Luigi Manini, the culture and creativity of these
-      two personalities resulted in an eclectic-revivalist architectural
-      ensemble, with a particular focus on the Manueline, Renaissance, Medieval
-      and Classical styles. It is also one of the many UNESCO World Heritage
-      Sites in Portugal.</p>
+      <h1><strong>History of the Palace:</strong></h1><p>The National Palace
+      mainly dates back to the 15th and 16th centuries. This is the place that
+      Portuguese Royals would have called home. The site was chosen to be a
+      royal palace thanks to its proximity to the capital of Lisbon, the
+      agricultural quality of the area, and the well-stocked hunting ground.</p>
   - _section-type: blog-window
     right_image:
     left_image:
