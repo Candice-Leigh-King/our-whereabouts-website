@@ -131,12 +131,12 @@ content-blocks:
       href="https://www.disneylandparis.com/en-gb/faq/guests-with-disabilities/?fbclid=IwAR2Rp7_ohZNH_S1l1LvFpp0zTFIwQJH-e8fjib86XSoPFDddMt8qRPGP0d4">
       click here!</a></p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Disneyland_Paris_Reduced/33-(1).jpg
+    2_image: /uploads/Disneyland_Paris_Reduced/34_1.jpg
+    3_image: /uploads/Disneyland_Paris_Reduced/34-(1).jpg
+    4_image: /uploads/Disneyland_Paris_Reduced/29_2.jpg
+    5_image: /uploads/Disneyland_Paris_Reduced/20190523_135629(0).jpg
+    6_image: /uploads/Disneyland_Paris_Reduced/32-(1).jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2>Sleeping beauty's Castle and Maleficent under the
