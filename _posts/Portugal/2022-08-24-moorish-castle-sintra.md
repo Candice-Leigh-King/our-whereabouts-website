@@ -17,7 +17,7 @@ cta: Read More →
 blog_image: /uploads/40-1.jpg
 date: 2022-08-24 00:00:00
 categories:
-  - tips
+  - travel
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
