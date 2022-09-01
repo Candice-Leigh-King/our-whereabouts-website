@@ -6,11 +6,11 @@ seo:
   keywords: Sintra National Palace, Sintra, Lisbon, Portugal Travel Guide.
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image:
+  social-share_image: /uploads/Portugal/41-(1).jpg
 author: Elizabeth
 blog-summary: 'Sintra National Palace: The Ultimate Guide'
 cta: Read More →
-blog_image:
+blog_image: /uploads/Portugal/41-(1).jpg
 date: 2022-09-01 00:00:00
 categories:
   - travel
