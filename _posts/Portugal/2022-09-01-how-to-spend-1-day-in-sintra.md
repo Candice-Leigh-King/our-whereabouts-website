@@ -6,11 +6,11 @@ seo:
   keywords: 1 day Itinerary in Sintra, Lisbon, Portgual
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/47.jpg
+  social-share_image: /uploads/Portugal/IMG_8150.jpg
 author: Elizabeth
 blog-summary: A timed scheduled itinerary of our day in Sintra.
 cta: Read More →
-blog_image: /uploads/Portugal/47.jpg
+blog_image: /uploads/Portugal/IMG_8150.jpg
 date: 2022-09-01 00:00:00
 categories:
   - travel
@@ -37,14 +37,14 @@ content-blocks:
       Sintra</p><p>8:00 am - Arrive at Sintra and grab breakfast</p><p>8:45 am -
       Arrive at <strong>Pena Palace</strong></p><p>9:00 am - Enter Palace and
       take photos before crowds arrive.</p><p>11:00 am - Leave Pena
-      Palace</p><p>➠ <em>Walk to Castelo dos Mouros (Moorish Castle)<br />&nbsp;
-      &nbsp; 10- minute walk</em></p>
+      Palace</p><p>➠ 🚶🏽➠&nbsp;<em>Walk to Castelo dos Mouros (Moorish
+      Castle)<br />&nbsp; &nbsp; 10- minute walk</em></p>
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <p>11:10 am - Arrive at <strong>Castelo dos Mouros.</strong></p><p>12:40
       am - Make your way to the Royal Tower at the top of the castle
       wall.</p><p>13:10 pm - grab a snack at the Cafe before you make your way
-      down.</p><p>13:45 pm - Leave Castelo dos Mouros</p><p>➠ <em>Take a
+      down.</p><p>13:45 pm - Leave Castelo dos Mouros</p><p>➠🚌 ➠<em>Take a
       bus/taxi to the Old Town of Sintra</em>.<br /><em>&nbsp; &nbsp; &nbsp;
       15-minute drive</em></p>
   - _section-type: blog-textarea
@@ -52,14 +52,14 @@ content-blocks:
       <p>14:00 pm - Arrive at Old Town and Enter the National Palace of
       Sintra</p><p>14:45 pm - Leave the National Palace of Sintra and explore
       the gardens and view of Sintra's Old Town.</p><p>15:15 pm - Get lunch in
-      the Old Town of Sintra.</p><p>15:50 pm - Leave Old Town of
-      Sintra</p><p>&nbsp;</p><p>⇢<em> Walk to Quinta da Regaleira<br />&nbsp;
-      &nbsp; &nbsp;10-minute walk</em></p>
+      the Old Town of Sintra.</p><p>15:50 pm - Leave Old Town of Sintra</p><p>➠
+      🚶🏽➠ &nbsp;<em>Walk to Quinta da Regaleira<br />&nbsp; &nbsp;
+      &nbsp;10-minute walk</em></p>
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <p>16:00 pm - Arrive at Quinta da Regaleira</p><p>18:00 pm - Go to the
-      Initiation Well.</p><p>19:30 pm - Leave Quinta da Regaleira</p><p>⇢
-      <em>Take a Taxi or uber to Sintra Train Station<br />&nbsp; &nbsp;
+      Initiation Well.</p><p>19:30 pm - Leave Quinta da Regaleira</p><p>➠🚌
+      ➠&nbsp;<em>Take a Taxi or uber to Sintra Train Station<br />&nbsp; &nbsp;
       &nbsp;15-minute drive</em></p><p>Arrive at Sinta's Train
       Station</p><p>&bull; You have a train every 15 minutes.<br />&bull; There
       are a few restaurants nearby if you'd like to grab dinner.</p>
@@ -68,7 +68,7 @@ content-blocks:
     2_image: /uploads/Portugal/IMG_8197.jpg
     3_image: /uploads/Portugal/IMG_8150.jpg
     4_image: /uploads/34-1.jpg
-    5_image: /uploads/Portugal/31-(1).jpg
+    5_image: /uploads/Portugal/31.jpg
     6_image: /uploads/Portugal/IMG_8696.jpg
   - _section-type: signature
     signature_html: <h4><strong>Enjoy your day!&nbsp;</strong></h4>
