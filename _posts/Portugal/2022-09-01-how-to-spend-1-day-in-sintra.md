@@ -6,11 +6,11 @@ seo:
   keywords: 1 day Itinerary in Sintra, Lisbon, Portgual
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/47-(1).jpg
+  social-share_image: /uploads/Portugal/47.jpg
 author: Elizabeth
 blog-summary: A timed scheduled itinerary of our day in Sintra.
 cta: Read More →
-blog_image: /uploads/Portugal/47-(1).jpg
+blog_image: /uploads/Portugal/47.jpg
 date: 2022-09-01 00:00:00
 categories:
   - travel
