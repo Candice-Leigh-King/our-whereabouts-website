@@ -52,16 +52,15 @@ content-blocks:
       it. It is known to be one of the most beautiful places during Christmas
       time due to its Christmas markets. We came a little later, but they still
       had the ice right and the lights set
-      up.</p><p>&nbsp;</p><h3><strong>Rathaus:</strong></h3><p>Vienna City Hall
-      is the seat of the local government of Vienna, located on Rathausplatz. We
-      loved the design of the building that was built in a Neo-Gothic style. and
-      I recommend it to anyone visiting Vienna. We would have loved to have
-      taken a tour inside but didn't have time.<br /><strong>Entrance
-      Fee:</strong> 6 Euro per adult.<br /><strong>Guided tours:</strong>
-      Saturdays and Sundays at 10.30 am. They take one hour and cost 10 Euro.<br
-      /><strong>Opening hours:</strong> Daily from 10 am to 6
-      pm.</p><p>➠&nbsp;<em>Walk 300 m (4 minutes)
-      to....</em></p><p>&nbsp;</p><p>Admire <strong>Burgtheater,
+      up.</p><p>&nbsp;</p><h2>Rathaus:</h2><p>Vienna City Hall is the seat of
+      the local government of Vienna, located on Rathausplatz. We loved the
+      design of the building that was built in a Neo-Gothic style. and I
+      recommend it to anyone visiting Vienna. We would have loved to have taken
+      a tour inside but didn't have time.<br /><strong>Entrance Fee:</strong> 6
+      Euro per adult.<br /><strong>Guided tours:</strong> Saturdays and Sundays
+      at 10.30 am. They take one hour and cost 10 Euro.<br /><strong>Opening
+      hours:</strong> Daily from 10 am to 6 pm.</p><p>➠&nbsp;<em>Walk 300 m (4
+      minutes) to....</em></p><p>&nbsp;</p><p>Admire <strong>Burgtheater,
       Universit&auml;tsring</strong> from outside. It is the national theater of
       Austria, and it is a beauty.</p><p>➠<em>Walk 300 m (4 minutes)
       to....</em></p><h2>Volksgarten:</h2><p>The Volksgarten is a public park
