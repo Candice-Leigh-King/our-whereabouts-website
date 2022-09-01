@@ -14,11 +14,11 @@ seo:
   keywords: Disneyland paris, France, Travel guide
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Disneyland_Paris_Reduced/34-(1).jpg
+  social-share_image:
 author: Elizabeth
 blog-summary: All the tips you need to prepare for your vacation at Disneyland Paris
 cta: Read More →
-blog_image: /uploads/Disneyland_Paris_Reduced/34-(1).jpg
+blog_image:
 date: 2021-07-23 00:00:00
 categories:
   - travel
