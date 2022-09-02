@@ -27,7 +27,7 @@ content-blocks:
       thermal baths.</p><p>Here are 12 things you shouldn't miss during your
       visit to Budapest</p>
   - _section-type: blog-cover-image
-    blog-cover_image:
+    blog-cover_image: /uploads/Budapest_Austria/20190113_191822.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>CHAIN BRIDGE:</strong></h2><p>On the side of the hotel (D8,
@@ -47,40 +47,48 @@ content-blocks:
       that were murdered and whose bodies were dropped in the river in
       1944-1945.</p><h2><strong>ST. STEPHAN BASILICA:</strong></h2><p>It is one
       of Budapest's most significant landmarks built in 1906 and took 50 years
-      to build. The design was based on drawings by Jozsef
-      Hild.</p><p><strong>Entrance Fee:</strong> Free, but it&rsquo;s customary
-      to pay 200 Forint. (0.6 USD)</p><p><strong>Opening Hours:
-      </strong>Monday-Friday 9:00-17:00,</p><p>Saturday 9:00-13:00, Sunday
+      to build. The design was based on drawings by Jozsef Hild.<br
+      /><strong>Entrance Fee:</strong> Free, but it&rsquo;s customary to pay 200
+      Forint. (0.6 USD)<br /><strong>Opening Hours: </strong>Monday-Friday
+      9:00-17:00,<br />Saturday 9:00-13:00, Sunday
       13:00-17:00</p><h2><strong>FISHERMAN'S BASTION:</strong></h2><p>Free
       admission. It was supposedly named for the fishermen responsible for
       defending this stretch of the bank against invaders in the Middle Ages.
       This beautiful spot you can not miss makes you feel like a princess in a
-      castle with a gorgeous view of the Pest.</p><h3><strong>MATTHIAS
-      CHURCH:</strong></h3><p>The church of the Assumption of the Buda castle is
+      castle with a gorgeous view of the Pest.</p><h2><strong>MATTHIAS
+      CHURCH:</strong></h2><p>The church of the Assumption of the Buda castle is
       a Roman Catholic church located in Holy Trinity Square in front of the
       Fisherman's Bastion at the heart of Buda's Castle District. It was
       originally built in 1255 it is a beautiful church with a gorgeous roof
       with many colors. <strong>Entrance fee:</strong> 1,500 forint (5 USD)
-      <strong>Opening Hours: </strong>Monday-Friday 9:00-17:00,</p><p>Saturday
+      <strong>Opening Hours: </strong>Monday-Friday 9:00-17:00,<br />Saturday
       9:00-13:00, Sunday 13:00-17:00</p>
+  - _section-type: gallery
+    1_image: /uploads/Budapest_Austria/20190115_114154.jpg
+    2_image: /uploads/Budapest_Austria/20190114_115355.jpg
+    3_image: /uploads/Budapest_Austria/20190114_124034.jpg
+    4_image: /uploads/Budapest_Austria/20190115_124226.jpg
+    5_image: /uploads/Budapest_Austria/20190115_145957.jpg
+    6_image: /uploads/Budapest_Austria/20190115_101529.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>VAJDAHUNYAD CASTLE:</strong></h2><p>This castle is located in
       the City Park of Budapest. It is a copy of Hunyad Castle, known as Corvin
       Castle, in Hunedoara, Romania. It was built in 1896 as part of the
       Millennial Exhibition which celebrated the 1,000 years of Hungary since
-      the Hungarian Conquest of the Carpathian Basin in 895.<strong>Entrance
-      Fee:</strong> 1,100 Forint. (3.5 USD).</p><h2><strong>HEROES
-      SQUARE:</strong></h2><p>This is the city's largest square, noted for its
-      iconic Millennium monument with statues featuring the seven chieftains of
-      the Magyars and other important Hungarian national leaders. The square is
-      surrounded by museums and monuments and is not too far from Vajdahunyad
-      castle and Szechenyi Baths.</p><h2><strong>SZECHENYI
-      BATHS:</strong></h2><p>The first 19th-century thermal bath in Budapest. It
-      is one of the largest public baths in Europe and resembles a neo-Baroque
-      palace rather than a bath.</p><p><strong>Entrance Fee: </strong>1,700
-      Forint includes an entrance and a locker big enough to fit a big backpack,
-      coats, and boots. Take your time to relax and really enjoy all these
+      the Hungarian Conquest of the Carpathian Basin in 895.<br
+      /><strong>Entrance Fee:</strong> 1,100 Forint. (3.5
+      USD).</p><h2><strong>HEROES SQUARE:</strong></h2><p>This is the city's
+      largest square, noted for its iconic Millennium monument with statues
+      featuring the seven chieftains of the Magyars and other important
+      Hungarian national leaders. The square is surrounded by museums and
+      monuments and is not too far from Vajdahunyad castle and Szechenyi
+      Baths.</p><h2><strong>SZECHENYI BATHS:</strong></h2><p>The first
+      19th-century thermal bath in Budapest. It is one of the largest public
+      baths in Europe and resembles a neo-Baroque palace rather than a bath.<br
+      /><strong>Entrance Fee: </strong>1,700 Forint includes an entrance and a
+      locker big enough to fit a big backpack, coats, and boots. Take your time
+      to relax and really enjoy all these
       pools.</p><p>&nbsp;</p><h2><strong>BUDA PALACE:</strong></h2><p>This is
       one of the best views in Budapest. Buda Castle is the historical castle
       and palace complex of the Hungarian kings in Budapest. It was first
@@ -89,16 +97,16 @@ content-blocks:
       referred to as either the Royal Palace or the Royal
       Castle.</p><h2><strong>DOHANY STREET SYNAGOGUE:</strong></h2><p>The
       largest synagogue in Europe (2nd to largest in the world!!) This synagogue
-      is gorgeous It's a very unique synagogue.</p><p><strong>Entrance
+      is gorgeous It's a very unique synagogue.<br /><strong>Entrance
       fee:</strong> 4,000 Forint (12 USD) and includes a free tour that I highly
-      recommend.</p><p><strong>Opening hours: </strong>Sunday-Thursday
-      10:00-16:00</p><p>Friday 10:00-14:00</p><p>Saturday -
-      closed!</p><h2><strong>MARGARET ISLAND:</strong></h2><p>It is a small
-      island in the middle of the Danube in central Budapest. The island is
-      mostly covered by landscape parks and is a popular recreational area. Its
-      medieval ruins are reminders of its importance in the Middle Ages as a
-      religious center. Before the 14th century, the island was called the
-      <em>Insula leporum</em> (Island of Rabbits).</p>
+      recommend.<br /><strong>Opening hours: </strong>Sunday-Thursday
+      10:00-16:00<br />Friday 10:00-14:00</p><h2><strong>MARGARET
+      ISLAND:</strong></h2><p>It is a small island in the middle of the Danube
+      in central Budapest. The island is mostly covered by landscape parks and
+      is a popular recreational area. Its medieval ruins are reminders of its
+      importance in the Middle Ages as a religious center. Before the 14th
+      century, the island was called the <em>Insula leporum</em> (Island of
+      Rabbits).</p>
   - _section-type: signature
     signature_html: <p><strong>Happy travels</strong></p>
   - _section-type: map
