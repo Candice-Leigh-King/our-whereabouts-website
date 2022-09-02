@@ -39,11 +39,11 @@ content-blocks:
       are all lit up. The boat tour is 25 euros (100 shekels), and it includes
       an hour and a half boat tour around the Danube river, a guide about the
       history of Budapest, and champagne/beer/soft drink for your
-      choosing.&nbsp;</p><h2>DAY 2 - PEST SIDE:</h2><h3><strong>Chian Bridge,
-      Shoes on the Danube memorial, Parliament and St. Stephan
-      Basilica.&nbsp;</strong></h3><h3>Chain Bridge:</h3><p>On the side of the
-      hotel (D8, intercontinental, and the four seasons) that is the side of
-      Pest. The other side of the bridge is Buda.</p><h3>Shoes on the Danube
+      choosing.&nbsp;</p><h2><strong>DAY 2 - PEST SIDE:</strong></h2><h2>Chian
+      Bridge, Shoes on the Danube memorial, Parliament and St. Stephan
+      Basilica.&nbsp;</h2><h3>Chain Bridge:</h3><p>On the side of the hotel (D8,
+      intercontinental, and the four seasons) that is the side of Pest. The
+      other side of the bridge is Buda.</p><h3>Shoes on the Danube
       memorial:</h3><p>Once you get to the Chain Bridge, you make a right and
       continue walking straight on the river. as you walk on the river towards
       the parliament you can see the shoe memorial in memory of the Jews that
@@ -101,9 +101,9 @@ content-blocks:
       It's a unique synagogue.<br /><strong>Entrance fee:</strong> 4,000 Forint
       (12 USD) and includes a free tour that I highly recommend.<br
       /><strong>Opening hours: </strong>Sunday-Thursday 10:00-16:00.<br />Friday
-      10:00-14:00</p><p>&nbsp;</p><h2>DAY 4 - CENTER OF
-      BUDAPEST:</h2><h3><strong>Vajdahunyad Castle, Heroes Square, and Szechenyi
-      Baths:</strong></h3><p>We woke up and took the M1 To Sz&eacute;chenyi
+      10:00-14:00</p><p>&nbsp;</p><h2><strong>DAY 4 - CENTER OF
+      BUDAPEST:</strong></h2><h2>Vajdahunyad Castle, Heroes Square, and
+      Szechenyi Baths:</h2><p>We woke up and took the M1 To Sz&eacute;chenyi
       f&uuml;rdő (It's a 10-minute ride)</p><h3>Vajdahunyad Castle:</h3><p>This
       castle is located in the City Park of Budapest. It is a copy of Hunyad
       Castle, known as Corvin Castle, in Hunedoara, Romania. It was built in
