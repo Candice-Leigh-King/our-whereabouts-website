@@ -6,6 +6,9 @@ seo:
     Budapest is filled with incredible architecture, gorgeous castles, delicious
     food, plenty of thermal bathhouses, and cheap shopping. All this makes
     Budapest one of my favorite cities in Europe.
+
+
+    Here's how to spend 4 magical days in Budapest
   keywords: 4 day itinerary for Budapest, Hungary
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
@@ -22,7 +25,8 @@ content-blocks:
     textarea_html: >-
       <p>Budapest is filled with incredible architecture, gorgeous castles,
       delicious food, plenty of thermal bathhouses, and cheap shopping. All this
-      makes Budapest one of my favorite cities in Europe.</p>
+      makes Budapest one of my favorite cities in Europe.</p><p>Here's how to
+      spend 4 magical days in Budapest</p>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/Budapest_Austria/20190115_115134.jpg
   - _section-type: blog-textarea
