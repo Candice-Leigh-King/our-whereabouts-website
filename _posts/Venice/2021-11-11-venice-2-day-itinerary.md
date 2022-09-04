@@ -76,21 +76,22 @@ content-blocks:
       magnificent Ponte di Rialto. There are many ways to admire this bridge.<br
       />Coordination's for this spot: 45.4384198,
       12.3359621</p><p>&nbsp;</p><h2><strong>T Fondaco Rooftop
-      Terrance</strong></h2><p>Next to Rialto bridge there is a cool shopping
-      mall, inside this mall there is a secret viewpoint called T Fondaco
-      Rooftop Terrance. There is no entrance fee but you must reserve your 15
-      minute time slot online in advance! Opening hours: Daily, 10:30AM to
-      6:30PM.</p><h2>Trattproa Da Gigi Restuarant</h2><p>At this point we got
-      hungry and decided to sit down and eat. We found a beautiful garden
-      restaurant <strong>Trattoria Da Gigi</strong> which wasn't too far from
-      our next destination <strong>Libreria Acqua
-      Alta.</strong></p><h2><strong>Libreria Auqa Alta</strong></h2><p>The most
-      unique bookstore you'll ever visit. The magic starts the moment you enter.
-      You'll find hidden gems all around, friendly cats everywhere, a gondola in
-      the middle of the store and at the end of it is a photo op.<br
-      /><strong>Entrance Fee: </strong>Free.<br /><strong>Opening hours:
-      </strong>Daily, 9 AM &ndash; 7:45 PM.</p><p>We were very tired since we
-      woke up very early so we decided to end the day pretty early.</p>
+      Terrance</strong></h2><p>Next to the Rialto bridge there is a cool
+      shopping mall, inside this mall, there is a secret viewpoint called T
+      Fondaco Rooftop Terrance. There is no entrance fee but you must reserve
+      your 15-minute time slot online in advance!<br /><strong>Opening
+      hours:</strong> Daily, 10:30 AM to 6:30 PM.</p><h2>Trattproa Da Gigi
+      Restuarant</h2><p>At this point we got hungry and decided to sit down and
+      eat. We found a beautiful garden restaurant <strong>Trattoria Da
+      Gigi</strong> which wasn't too far from our next destination
+      <strong>Libreria Acqua Alta.</strong></p><h2><strong>Libreria Auqa
+      Alta</strong></h2><p>he most unique bookstore you'll ever visit. The magic
+      starts the moment you enter. You'll find hidden gems all around, friendly
+      cats everywhere, a gondola in the middle of the store and at the end of it
+      is a photo op.<br /><strong>Entrance Fee: </strong>Free.<br
+      /><strong>Opening hours: </strong>Daily, 9 AM &ndash; 7:45 PM.</p><p>We
+      were very tired since we woke up very early so we decided to end the day
+      pretty early.</p>
   - _section-type: gallery
     1_image:
     2_image:
@@ -111,13 +112,12 @@ content-blocks:
       href="https://ourwhereabouts.com/travel/2021/11/18/murano-burano.html">
       tap here!</a></p><h2>Castello</h2><p>Take Vaporetto back to Venice - Get
       off at Celestia and walk towards Arsenale di Venezia. Get 'lost' in the
-      authentic neighborhood of Castello, you'll find it less crowded and really
-      get to absorb how the locals live.</p><p>&nbsp;</p><h2>Arsenale Di
-      Venezia</h2><p>It is a beautiful complex of former shipyards and armories
-      clustered together in the city of Venice. Not many people go here and it's
-      a nice spot to just sit and relax. Unlike the rest of Venice there are a
-      few benches here and you can also find a water
-      fountain.</p><p>&nbsp;</p><h2><a
+      authentic neighborhood of Castello, you'll find it less crowded and get to
+      absorb how the locals live.</p><h2>Arsenale Di Venezia</h2><p>It is a
+      beautiful complex of former shipyards and armories clustered together in
+      the city of Venice. Not many people go here and it's a nice spot to just
+      sit and relax. Unlike the rest of Venice there are a few benches here and
+      you can also find a water fountain.</p><h2><a
       href="https://travel.usnews.com/Monterey_CA/">︎</a>Riva Degli
       Schiavoni</h2><p>From Arsenale di Venezia you'll walk on this famous
       promenade along the waterfront to San Marco. It is usually very busy and
@@ -128,8 +128,7 @@ content-blocks:
       November. The rest of the months the que isn't too bad so you can't
       preorder tickets. We recommend you go inside if possible, it is
       beautiful.<br /><strong>Entrance fee: </strong>3 Euro per adult.<br
-      /><strong>Opening hours:</strong> Daily 9:35 AM &ndash; 5:00
-      PM</p><p>&nbsp;</p><h2><a
+      /><strong>Opening hours:</strong> Daily 9:35 AM &ndash; 5:00 PM</p><h2><a
       href="https://travel.usnews.com/Monterey_CA/">︎</a>Campanile<strong>&nbsp;Di
       San Marco</strong></h2><p>Bell tower Go up &amp; enjoy the view of the
       city. Entrance fee: 10 Euro per adult. Opening hours: Daily, 9:30 AM to
@@ -141,17 +140,20 @@ content-blocks:
       Euro.<br /><strong>Opening hours: </strong>Mondays from 8:15 AM to 2 PM
       (ticket decks close at 1 PM).<br />Tuesdays-Sunday from 8:15 AM to 7:15
       PM. (tickets decks close at 6:15 PM).</p><h2>Ca'rezzonico</h2><p>We also
-      really wanted to enter but it is closed on Mondays and Tuesday which were
+      really wanted to enter but it is closed on Mondays and Tuesdays which were
       the only 2 days we were in Venice.<br /><strong>Entrance fee: </strong>7.5
       Euros per person.<br /><strong>Opening hours: </strong>Thursday to Sunday,
-      from 11:00 PM to 5:00 PM.</p><p>&nbsp;</p><h2>Basilica S. Maria
-      Gloriosa</h2><p>We admired the basilica from outside since our feet were
-      starting to ache and we were getting pretty hungry.<br /><strong>Entrance
-      fee: </strong>3 Euro per person.<br /><strong>Opening hours:
-      </strong>Monday to Saturday from 9 AM to 6 AM.</p><h2>Muro Frari
-      Restaurant</h2><p>We decided to end our day here, we had a good meal and
-      some great wine. It had a fine interior, wasn't too pricy, and served
-      great food with a great choice of wine.</p>
+      from 11:00 PM to 5:00 PM.</p><h2>Basilica S. Maria Gloriosa</h2><p>We
+      admired the basilica from outside since our feet were starting to ache and
+      we were getting pretty.<br /><strong>Entrance fee: </strong>3 Euro per
+      person.<br /><strong>Opening hours: </strong>Monday to Saturday from 9 AM
+      to 6 AM.</p><h2>Muro Frari Restaurant</h2><p>We decided to end our day
+      here, we had a good meal and some great wine. It had a fine interior,
+      wasn't too pricy and served great food with a great choice of wine.</p>
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: >-
+      <p>Places we missed we wish we didn't:</p><ul><li>Ca' d'Oro</li><li>We
+      didn't enter Doge's Palace</li><li>Ponte della croce.</li></ul>
   - _section-type: signature
     signature_html: <h3>Our Whereabouts xxx</h3>
 ---
