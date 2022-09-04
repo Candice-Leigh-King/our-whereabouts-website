@@ -13,11 +13,11 @@ seo:
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image:
+  social-share_image: /uploads/Venice/195.JPG
 author: Elizabeth
 blog-summary:
 cta: Read More →
-blog_image:
+blog_image: /uploads/Venice/195.JPG
 date: 2021-11-11 00:00:00
 categories:
   - travel
