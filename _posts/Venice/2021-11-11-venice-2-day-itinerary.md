@@ -15,7 +15,7 @@ seo:
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
   social-share_image: /uploads/Venice/195.JPG
 author: Elizabeth
-blog-summary:
+blog-summary: Venice is such a beautiful city. Here's what to do if you've got 2 days.
 cta: Read More →
 blog_image: /uploads/Venice/195.JPG
 date: 2021-11-11 00:00:00
@@ -93,12 +93,12 @@ content-blocks:
       were very tired since we woke up very early so we decided to end the day
       pretty early.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Venice/194.jpg
+    2_image: /uploads/Venice/198.jpg
+    3_image: /uploads/Venice/211.jpg
+    4_image: /uploads/Venice/203-(1).jpg
+    5_image: /uploads/Venice/21-(1).jpg
+    6_image: /uploads/Venice/209.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1><strong>Day 2 -</strong></h1><h2>Murano</h2><p><a
