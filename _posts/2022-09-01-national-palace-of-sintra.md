@@ -8,7 +8,7 @@ seo:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/41-(1).jpg
 author: Elizabeth
-blog-summary: 'Sintra National Palace: The Ultimate Guide'
+blog-summary: 'National Palace of Sintra: The Ultimate Guide'
 cta: Read More →
 blog_image: /uploads/Portugal/41-(1).jpg
 date: 2022-09-01 00:00:00
@@ -33,9 +33,6 @@ content-blocks:
       Portuguese Royals would have called home. The site was chosen to be a
       royal palace thanks to its proximity to the capital of Lisbon, the
       agricultural quality of the area, and the well-stocked hunting ground.</p>
-  - _section-type: blog-window
-    right_image:
-    left_image:
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>Entrance Fee:&nbsp;</h2><p>&bull;Adults: 10&euro;<br />&bull;Kids (age
@@ -59,12 +56,12 @@ content-blocks:
       Initiation Well - being the most popular spot<br />&bull;Tunnels in the
       Garden<br />&bull;The Chapel</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Portugal/45-(1).jpg
+    2_image: /uploads/Portugal/IMG_8150.jpg
+    3_image: /uploads/Portugal/IMG_8197.jpg
+    4_image: /uploads/Portugal/31-(1).jpg
+    5_image: /uploads/Portugal/20220505_150407.jpg
+    6_image: /uploads/Portugal/IMG_8264.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h1>Initiation Well&nbsp;</h1><p><br /><strong>About the well:</strong><br
