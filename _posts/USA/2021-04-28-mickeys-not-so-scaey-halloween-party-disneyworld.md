@@ -78,7 +78,7 @@ content-blocks:
       the fireworks. Get a seat on the sidewalk near Casey's Corner.</p>
   - _section-type: signature
     signature_html: >-
-      <p><strong>We love Disneyworld! Next time we go, we will stay in a Disney
-      hotel and go to the other parks. I highly recommend going to the Halloween
-      party.</strong></p>
+      <p>We love Disneyworld! Next time we go, we will stay in a Disney hotel
+      and go to the other parks. I highly recommend going to the Halloween
+      party.</p>
 ---
