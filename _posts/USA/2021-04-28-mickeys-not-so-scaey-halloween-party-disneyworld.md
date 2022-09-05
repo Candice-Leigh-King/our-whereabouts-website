@@ -14,13 +14,13 @@ seo:
   keywords: Mickey's not so scary halloween party in Orlando, Florida, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Florida/20180908_000206.jpg
+  social-share_image: /uploads/Florida/20180907_190806.jpg
 author: Elizabeth
 blog-summary: >-
   Everything you need to know about the halloween party in Walt Disneyworld,
   Orlando.
 cta: Read More →
-blog_image: /uploads/Florida/20180908_000206.jpg
+blog_image: /uploads/Florida/20180907_190806.jpg
 date: 2021-04-28 00:00:00
 categories:
   - travel
@@ -50,9 +50,9 @@ content-blocks:
   - _section-type: gallery
     1_image: /uploads/Florida/308.jpg
     2_image: /uploads/Florida/291.jpg
-    3_image: /uploads/Florida/20180907_190806.jpg
+    3_image: /uploads/Florida/20180908_000206.jpg
     4_image: /uploads/Florida/20180907_184137(0).jpg
-    5_image: /uploads/Florida/20180907_212944.jpg
+    5_image: /uploads/Florida/264.jpg
     6_image: /uploads/Florida/20180907_233615.jpg
   - _section-type: blog-textarea
     textarea_html: >-
