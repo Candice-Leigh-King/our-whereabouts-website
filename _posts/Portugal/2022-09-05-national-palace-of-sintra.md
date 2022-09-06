@@ -44,24 +44,13 @@ content-blocks:
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>Entrance Fee:&nbsp;</h2><p>&bull;Adults: 10&euro;<br />&bull;Kids (age
-      6 - 17): 5&euro;.</p><h2>Opening Hours:</h2><p>&bull;October - March 10:00
-      am - 06:30 pm<br />&bull;April - September 10:00 am - 07:30 pm<br
-      />&bull;The last Entrance is an hour before closing.</p><h2>Best time to
-      visit:</h2><p>This is one of the most popular stops in Sintra. Therefore,
-      the best time to come is early morning or before closing.</p><h2>Duration
-      of stay:</h2><p>You can easily spend 3-4 hours here. It's a large complex
-      with so much to see and do there.</p>
-  - _section-type: blog-textarea
-    textarea_html: >-
-      <h2>Tickets:&nbsp;</h2><p>Best to buy tickets online so you won't need to
-      wait in line. This is a popular place in Sintra and the lines can get long
-      and there is no shade while you wait in line.</p><h2>Parking:</h2><p>There
-      is no parking at Quinta except on side streets, usually taken. You could
-      take a taxi, bus, or tuk-tuk or walk to Quinta. It is a 1-mile walk from
-      Sintra Train Station.</p><h2>Main Attractions:</h2><p>&bull;Palace
-      Exterior<br />&bull;Palace Interior<br />&bull;The Garden Complex<br
-      />&bull;The Initiation Well - being the most popular spot<br
-      />&bull;Tunnels in the Garden<br />&bull;The Chapel</p>
+      6 - 17): 5&euro;.</p><h2>Opening Hours:</h2><p>&bull; 9:30am to 6:30
+      pm.<br />&bull; The ticket office is closed from 12 pm to 1 pm, but no
+      worries, automatic ticket vending machines are available on-site.<br
+      />&bull;The last Entrance is a half an hour before closing.</p><h2>Best
+      time to visit:</h2><p>It's not as popular as the other Palaces and castles
+      in Sintra so you can visit when it fits you.</p><h2>Duration of
+      stay:</h2><p>You can spend between 1-2 hours here.</p>
   - _section-type: gallery
     1_image: /uploads/Portugal/45-(1).jpg
     2_image: /uploads/Portugal/IMG_8150.jpg
@@ -69,32 +58,20 @@ content-blocks:
     4_image: /uploads/Portugal/31-(1).jpg
     5_image: /uploads/Portugal/20220505_150407.jpg
     6_image: /uploads/Portugal/IMG_8264.jpg
-  - _section-type: blog-featured-textarea
-    blog-featured-textarea_html: >-
-      <h2>Initiation Well&nbsp;</h2><p><br /><strong>About the well:</strong><br
-      />The Initiation Well is an 8-foot-deep spiral staircase that descends
-      into underground tunnels. The stone staircase is hollow in the center with
-      a compass-patterned floor at the bottom. The well was never built to serve
-      as a water resource and was never used as a well, it was actually built
-      for secret ceremonial purposes. It is believed that the spacing of these
-      landings, as well as the number of steps in between, are linked to Tarot
-      mysticism and Masonic principles.</p><p><strong>Location:</strong><br
-      />The Initiation Well is on the other side of the main house and near the
-      edge of the estate. Once you enter the estate, you'll make a right and
-      climb up a hill to get there.</p><p><strong>How to access:</strong><br
-      />You can only enter from above, not from the tunnels
-      below.</p><p><strong>Entrance and Rules:</strong><br />The well is so
-      popular that there is a spot to queue at the top and a staff member
-      manages traffic flow. There is a &ldquo;no stopping&rdquo; rule on the way
-      down.</p><p><strong>Our tips:</strong><br />When we arrived at Quinta da
-      Regaleira around 4 pm, we had to wait in the queue to enter the well. Once
-      we entered, we made our way down slowly with hundreds of people, which
-      took away from the magic.</p><p>There is no entrance to the park an hour
-      before closing, which means the crowds thin out, and that's when we
-      decided to go back to the well. We were surprised to find the place
-      deserted.<br /><em><strong>If you can't make it here early morning for
-      opening, don't worry just go an hour before they
-      close.&nbsp;</strong></em></p>
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h2>Why you should visit?</h2><p>&bull; Fewer crowds<br />&bull;Gardens:
+      The gardens are very beautiful and are free. Opening hours: 09:30 am to
+      6:30 pm.<br />&bull; Location in the Center of Sintra's old town, where
+      you'll find many shops, restaurants, and authenticity. It makes it the
+      perfect spot to explore after you get lunch, and it's only a 10-minute
+      walk from Quinta da Regaleira<br />&bull; The view is fantastic of the
+      hills and Moorish Castle.</p><h2>Our tip!</h2><p>Only visit if you are
+      planning on spending two days in Sintra. It is a beautiful palace, but it
+      wasn't as unique as the other Palaces and castles we visited in Sintra, so
+      this was our least favorite palace.</p><p>&nbsp;</p><h2>Main
+      Attractions:</h2><p>&bull;The Swan Room<br />&bull;The Palatine Chapel<br
+      />&bull;The Magpie Room<br />&bull;The coat of Arms Room</p>
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
