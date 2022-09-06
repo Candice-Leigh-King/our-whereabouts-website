@@ -14,7 +14,7 @@ author: Elizabeth
 blog-summary:
 cta: Read More →
 blog_image:
-date: 2021-04-01 00:00:00
+date: 2022-09-08 00:00:00
 categories:
   - travel
 content-blocks:
