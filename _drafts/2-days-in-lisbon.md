@@ -41,7 +41,7 @@ content-blocks:
       highest point in the neighborhood offers panoramic views of the city. It's
       one of the most beautiful viewpoints in the city. You can see the entire
       waterfront as well as the bridge.</p><p><strong>Miradouro da
-      Gra&ccedil;a</strong><br />Another great viewpoint. This terrace offers a
+      Gra&ccedil;a</strong><br />Another great viewpoint. This terrace offers
       dramatic, panoramic views of city rooftops &amp; the water
       beyond.</p><p><strong>Saint George&rsquo;s Castle</strong><br />Saint
       George's Castle is a historic castle that dates to at least the 8th
@@ -57,9 +57,9 @@ content-blocks:
       far from Miradouro de Santa Luzia, you'll find this beautiful viewpoint.
       We arrived early in the morning so the bar wasn't open yet and we had the
       place to ourselves.</p><p><strong>Explore Alfama District</strong><br
-      />Alfama is the oldest and most characterful district in Lisbon. It's got
-      a very interesting history and walking around here you'll see many of its
-      traditional houses.</p><p><strong>Se de
+      />Alfama is the oldest and most characteristic district in Lisbon. It's
+      got a very interesting history and walking around here you'll see many of
+      its traditional houses.</p><p><strong>Se de
       Lisboa</strong></p><p>&nbsp;</p><p>Eat breakfast at Csntinho da
       Se</p><p>Pra&ccedil;a do Com&eacute;rcio</p><p>Arco da Rua
       Augusta</p><p>Livraria Bertrand</p><p>Santa Justa elevator</p><p>Convent
