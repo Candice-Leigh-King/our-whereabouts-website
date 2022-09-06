@@ -6,15 +6,17 @@ seo:
     In this post I will cover the following: how to pick a destination, book
     your flight, research your destination, build an itinerary and book
     accommodation.
-  keywords:
+  keywords: 2 day itinerary for Lisbon, Portugal.
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image:
+  social-share_image: /uploads/Portugal/IMG_6737-3.jpg
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  If you're heading to Lisbon for 2 days and are looking for an itinerary here's
+  one (not including Sintra)
 cta: Read More →
-blog_image:
-date: 2022-09-08 00:00:00
+blog_image: /uploads/Portugal/IMG_6737-3.jpg
+date: 2022-09-06 00:00:00
 categories:
   - travel
 content-blocks:
@@ -118,8 +120,13 @@ content-blocks:
       2022</p><p>&nbsp;</p><p><strong>Restaurante Lisboa &eacute;
       Linda</strong></p><p>They have fresh food, good portions, and great
       service.</p>
-  - _section-type: blog-cover-image
-    blog-cover_image:
+  - _section-type: gallery
+    1_image: /uploads/19-1.jpg
+    2_image: /uploads/11.jpg
+    3_image: /uploads/23.jpg
+    4_image: /uploads/Portugal/IMG_8930.jpg
+    5_image: /uploads/Portugal/IMG_7318-3.jpg
+    6_image: /uploads/25-1.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>Day 2 -&nbsp;</h1><p><strong>Torre de Bel&eacute;m (Belem
