@@ -36,8 +36,10 @@ content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>Day 1 -</h1><p>Start your morning at some of the most beautiful
-      viewpoints in the city -&nbsp;</p><p>Miradouro da Senhora do
-      Monte</p><p>Miradouro da Gra&ccedil;a</p><p>Saint George&rsquo;s
+      viewpoints in the city.</p><p><strong>Miradouro da Senhora do
+      Monte</strong></p><p>This viewpoint is located in a churchyard, this
+      highest point in the neighborhood offers panoramic views of the
+      city.</p><p>Miradouro da Gra&ccedil;a</p><p>Saint George&rsquo;s
       Castle</p><p>Miradouro de Santa Luzia</p><p>Explore Alfama
       District</p><p>Se de Lisboa</p><p>Eat breakfast at Csntinho da
       Se</p><p>Pra&ccedil;a do Com&eacute;rcio</p><p>Arco da Rua
