@@ -37,11 +37,30 @@ content-blocks:
     textarea_html: >-
       <h1>Day 1 -</h1><p>Start your morning at some of the most beautiful
       viewpoints in the city.</p><p><strong>Miradouro da Senhora do
-      Monte</strong></p><p>This viewpoint is located in a churchyard, this
-      highest point in the neighborhood offers panoramic views of the
-      city.</p><p>Miradouro da Gra&ccedil;a</p><p>Saint George&rsquo;s
-      Castle</p><p>Miradouro de Santa Luzia</p><p>Explore Alfama
-      District</p><p>Se de Lisboa</p><p>Eat breakfast at Csntinho da
+      Monte</strong><br />This viewpoint is located in a churchyard, this
+      highest point in the neighborhood offers panoramic views of the city. It's
+      one of the most beautiful viewpoints in the city. You can see the entire
+      waterfront as well as the bridge.</p><p><strong>Miradouro da
+      Gra&ccedil;a</strong><br />Another great viewpoint. This terrace offers a
+      dramatic, panoramic views of city rooftops &amp; the water
+      beyond.</p><p><strong>Saint George&rsquo;s Castle</strong><br />Saint
+      George's Castle is a historic castle that dates to at least the 8th
+      century BC while the first fortifications built date from the 1st century
+      BC. It's a very beautiful place to explore and has a spectacular view of
+      the city.</p><p><strong>Miradouro de Santa Luzia</strong><br />We went to
+      many viewpoints in Lisbon, &nbsp;and this is our favorite one. It has
+      beautiful gardens and balcony view, and gorgeous azulejos (Portuguese and
+      Spanish painted tin-glazed ceramic tilework).<br />The best is to come for
+      sunset but know that it will be very crowded, that is why we advise you to
+      visit in the morning when it's just as beautiful and less
+      crowded.​​​​​​</p><p><strong>Miradouro das Portas do Sol</strong><br />Not
+      far from Miradouro de Santa Luzia, you'll find this beautiful viewpoint.
+      We arrived early in the morning so the bar wasn't open yet and we had the
+      place to ourselves.</p><p><strong>Explore Alfama District</strong><br
+      />Alfama is the oldest and most characterful district in Lisbon. It's got
+      a very interesting history and walking around here you'll see many of its
+      traditional houses.</p><p><strong>Se de
+      Lisboa</strong></p><p>&nbsp;</p><p>Eat breakfast at Csntinho da
       Se</p><p>Pra&ccedil;a do Com&eacute;rcio</p><p>Arco da Rua
       Augusta</p><p>Livraria Bertrand</p><p>Santa Justa elevator</p><p>Convent
       of Carmo</p><p>Rossio Square</p><p>Pink Street</p><p>Elevador da
