@@ -122,12 +122,51 @@ content-blocks:
     blog-cover_image:
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1>Day 2 -&nbsp;</h1><p>Torre de Bel&eacute;m (Belem
-      tower)</p><p>&nbsp;</p><p>Breakfast at Pasteis de
-      Belem</p><p>Padr&atilde;o dos Descobrimentos</p><p>Mosteiro dos
-      Jer&oacute;nimos</p><p>LX Factory</p><p>Ler Devagar
-      Bookstore</p><p>Santuario de Cristo Rei</p><p>Ponte 25 de
-      Abril</p><p>Museu Nacional do Azulejo</p>
+      <h1>Day 2 -&nbsp;</h1><p><strong>Torre de Bel&eacute;m (Belem
+      tower)</strong><br />This stunning UNESCO World Heritage tower dates back
+      to the 16th century and was once the port of embarkation for Portuguese
+      explorers and a ceremonial gateway to the capital. It&rsquo;s a must-visit
+      when in Lisbon, we were impressed to see the tower on the water with a
+      small beach where you can take a photo in front of the tower. It is
+      amazing how it's held up over time and the stories it could tell.<br />We
+      didn&rsquo;t enter because we read reviews that it isn&rsquo;t worth the
+      money or time, and even if you buy tickets online you still have to wait
+      in line in the sun for about an hour during rush hour.<br />&bull;Entrance
+      Fee: 6&euro;.</p><p>&nbsp;</p><p><strong>Breakfast at Pasteis de
+      Belem</strong><br />Rumor has it, that his is the best spot to get Pastel
+      de Nata, and we have to agree.</p><p>&nbsp;</p><p><strong>Padr&atilde;o
+      dos Descobrimentos</strong><br />This is a beautiful monument in honor of
+      the Portuguese maritime explorers.&nbsp; There is an entrance to the top
+      of the monument that provides incredible views.<br />&bull;Entrance Fee:
+      6&euro;.</p><p>&nbsp;</p><p><strong>Mosteiro dos
+      Jer&oacute;nimos</strong><br />The Jer&oacute;nimos Monastery or
+      Hieronymites Monastery is a former monastery of the Order of Saint Jerome.
+      You&rsquo;ll want to add this to your itinerary! The architecture of this
+      place is truly incredible. There is so much detail and ornamentation
+      packed into the arches and ceilings.<br />&bull;Entrance Fee: 10&euro;.<br
+      />&bull;Buy your ticket online because this is a popular place and the
+      lines can get long.</p><p>&nbsp;</p><p><strong>LX Factory</strong><br />LX
+      Factory is a hipster, industrial complex. These are industrial buildings
+      is home to designer shops, street art, and
+      restaurants.</p><p>&nbsp;</p><p><strong>Ler Devagar Bookstore</strong><br
+      />The highlight of LX Factory is this shop that is filled with books from
+      top to bottom. It has a small bar with a limited amount of choices in
+      drinks and snacks.</p><p>&nbsp;</p><p><strong>Santuario de Cristo
+      Rei</strong><br />The Sanctuary of Christ the King is a Catholic monument
+      and shrine dedicated to the Sacred Heart of Jesus Christ overlooking the
+      city of Lisbon and Ponte 25 de Abril.</p><p>&nbsp;</p><p><strong>Ponte 25
+      de Abril</strong><br />The 25 de Abril Bridge is a suspension bridge
+      connecting the city of Lisbon to the municipality of Almada on the left
+      bank of the Tagus river.&nbsp;<br />The 25 de Abril Bridge is a suspension
+      bridge connecting the city of Lisbon to the municipality of Almada on the
+      left bank of the Tagus river.Both the Bay Bridge and the 25 de Abril
+      Bridge were built by the same company and the paint is the same, which is
+      why the design is similar to the famous Golden Gate
+      Bridge.</p><p>&nbsp;</p><p><strong>Museu Nacional do Azulejo</strong><br
+      />Also known as the National Tile Museum, is an art museum dedicated to
+      the azulejo, traditional tilework of Portugal and the former Portuguese
+      Empire, as well as of other Iberophone cultures. The ceiling, paintings,
+      and tile work are remarkable.<br />&bull;Entrance Fee: 5&euro;.</p>
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
