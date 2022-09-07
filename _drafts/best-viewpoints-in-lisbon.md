@@ -2,15 +2,24 @@
 layout: posts
 seo:
   title: best viewpoints in Lisbon
-  description:
-  keywords:
+  description: >-
+    Lisbon, the capital of Portugal, is the perfect city for romantic getaways,
+    solo travelers, beach vacations, and foodies. It is a charming seaside
+    destination with so much history, but also a combination of cosmopolitan.
+
+
+    If you're planning a trip to Lisbon here are some viewpoints you shouldn't
+    miss!
+  keywords: best viewpoints in Lisbon, Portugal
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image:
+  social-share_image: /uploads/Portugal/20220504_075814.jpg
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  Heading to Lisbon? Here are some of the best viewpoints you shouldn't miss
+  during your trip!
 cta: Read More →
-blog_image:
+blog_image: /uploads/Portugal/20220504_075814.jpg
 date: 2022-09-08 00:00:00
 categories:
   - travel
@@ -57,12 +66,12 @@ content-blocks:
       one of the most beautiful viewpoints in the city. You can see the entire
       waterfront as well as the bridge.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/Portugal/IMG_7318-3.jpg
+    2_image: /uploads/32.jpg
+    3_image: /uploads/Portugal/20220504_063109.jpg
+    4_image: /uploads/Portugal/20220504_142603.jpg
+    5_image: /uploads/Portugal/IMG_6702.jpg
+    6_image: /uploads/Portugal/20220504_081737.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <p><strong>6. Mirador de Gra&ccedil;a</strong><br />Another great
