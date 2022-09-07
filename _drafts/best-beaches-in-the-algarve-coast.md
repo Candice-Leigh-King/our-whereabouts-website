@@ -9,13 +9,13 @@ seo:
   keywords: Best beaches in the Algarve Coast, Portugal
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/P-extra-IMG_4130.jpg
+  social-share_image: /uploads/Portugal/20220430_075936.jpg
 author: Elizabeth
 blog-summary: >-
   Planning a trip to the Algarve Coast? Here are our favorite beaches in the
   area.
 cta: Read More →
-blog_image: /uploads/Portugal/P-extra-IMG_4130.jpg
+blog_image: /uploads/Portugal/20220430_075936.jpg
 date: 2022-09-14 00:00:00
 categories:
   - travel
@@ -28,8 +28,12 @@ content-blocks:
       sunsets.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
-    heading:
-    google-embed-code:
+    heading: the Algarve coast, Portugal
+    google-embed-code: >-
+      "https://www.google.com/maps/d/embed?mid=1xpJATOWSJLniR8pUy34vAFbOiN4CXSg&ehbc=2E312F"
+      width="100%" height="480"
+  - _section-type: blog-cover-image
+    blog-cover_image: /uploads/Portugal/P-extra-IMG_4130.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2>Praia dos Tr&ecirc;s Irm&atilde;os</h2><p>This is one of our favorite
@@ -53,13 +57,6 @@ content-blocks:
       Caneiros</h2><p>It's a very small beach but a hidden gem. This beach has
       golden sand, great views, and a restaurant (with bathrooms) called Rei dos
       Praias with a rooftop</p>
-  - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>Albandeira Beach</h2><p>This beach has a stunning rock formation in
@@ -79,4 +76,13 @@ content-blocks:
       which linked the mainland with Pinhao Fortress. It's called the Student
       beach because it&rsquo;s a small beach that can fit a class of
       students</p>
+  - _section-type: gallery
+    1_image: /uploads/Portugal/22-(1).jpg
+    2_image: /uploads/Portugal/18.jpg
+    3_image: /uploads/Portugal/13-(1).jpg
+    4_image: /uploads/Portugal/8-01.jpg
+    5_image: /uploads/Portugal/IMG_4962.jpg
+    6_image: /uploads/15.jpg
+  - _section-type: signature
+    signature_html: <h3>Have fun!</h3>
 ---
