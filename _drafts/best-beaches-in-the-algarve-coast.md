@@ -2,23 +2,30 @@
 layout: posts
 seo:
   title: Best beaches in the Algarve Coast
-  description:
+  description: >-
+    The Algarve coast, located in southern Portugal, is a paradise for beach
+    lovers and surfers. You will fall in love the moment you arrive and will be
+    mesmerized by its beautiful rock formations, colors, and gorgeous sunsets.
   keywords: Best beaches in the Algarve Coast, Portugal
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image:
+  social-share_image: /uploads/Portugal/P-extra-IMG_4130.jpg
 author: Elizabeth
 blog-summary: >-
   Planning a trip to the Algarve Coast? Here are our favorite beaches in the
   area.
 cta: Read More →
 blog_image: /uploads/Portugal/P-extra-IMG_4130.jpg
-date: 2021-04-01 00:00:00
+date: 2022-09-14 00:00:00
 categories:
   - travel
 content-blocks:
   - _section-type: blog-textarea
-    textarea_html:
+    textarea_html: >-
+      <p>The Algarve coast, located in southern Portugal, is a paradise for
+      beach lovers and surfers. You will fall in love the moment you arrive and
+      will be mesmerized by its beautiful rock formations, colors, and gorgeous
+      sunsets.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading:
