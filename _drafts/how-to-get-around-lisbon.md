@@ -8,7 +8,9 @@ seo:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/IMG_7000.jpg
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  The best way to get around Lisbon is by public transportation, here's all you
+  need to know
 cta: Read More →
 blog_image: /uploads/Portugal/IMG_7000.jpg
 date: 2022-09-11 00:00:00
