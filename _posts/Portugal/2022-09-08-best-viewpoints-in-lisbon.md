@@ -33,8 +33,10 @@ content-blocks:
       viewpoints you shouldn't miss!</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
-    heading:
-    google-embed-code:
+    heading: Lisbon, Portugal
+    google-embed-code: >-
+      "https://www.google.com/maps/d/embed?mid=1-pIWPGTc1gl53ort1QOoshyD1WYVBLE&ehbc=2E312F"
+      width="100%" height="480"
   - _section-type: blog-textarea
     textarea_html: >-
       <p><strong>1. Elevador de Santa Justa</strong><br />The Santa Justa Lift,
