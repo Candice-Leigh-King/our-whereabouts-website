@@ -1,7 +1,7 @@
 ---
 layout: posts
 seo:
-  title: Getting around the Algarve Coast
+  title: How to get around the Algarve Coast
   description:
   keywords: how to get around the Algarve coast in Portgual
   social-alt:
