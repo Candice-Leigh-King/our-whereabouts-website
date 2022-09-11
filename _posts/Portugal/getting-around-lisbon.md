@@ -42,16 +42,19 @@ content-blocks:
       There are vending machines where you can purchase and add credit to the
       card.</p><h3>Buses</h3><p>Buses are also a great option to get around but
       they tend to get very croswded by locals, so avoid rush
-      hours.</p><h3>Uber</h3><p>This is the easiest ways to get around. An Uber
-      ride in Lisbon is relatively low and can cost an average of 6 USD for a
-      10-20 minute ride.</p><p>&bull;We spent in total 63 Euro on 12 rides
-      within the 2.5 days we spent in Lisbon.</p><p>&bull;When you order an
-      Uber, you have to be at the pick up spot or he will charge you and not
-      wait for you.</p><p>&bull;At the airport you can't take an Uber, only
-      taxis. The taxis aren't too expensive, a drive from the airport to the
-      city center of about 25 minutes, cost us 12.75 Euros (about 13.7$). UBER,
-      very simple and easy to use, Just sign up, put in a credit card and you
-      are ready.</p>
+      hours.</p><h3>Metro</h3><p>This is a really great and quick option to get
+      around the city. The entrances to the Metro are marked with a large
+      &ldquo;M,&rdquo; and the stations are air-conditioned and
+      clean.</p><p>&nbsp;</p><h3>Uber</h3><p>This is the easiest ways to get
+      around. An Uber ride in Lisbon is relatively low and can cost an average
+      of 6 USD for a 10-20 minute ride.</p><p>&bull;We spent in total 63 Euro on
+      12 rides within the 2.5 days we spent in Lisbon.</p><p>&bull;When you
+      order an Uber, you have to be at the pick up spot or he will charge you
+      and not wait for you.</p><p>&bull;At the airport you can't take an Uber,
+      only taxis. The taxis aren't too expensive, a drive from the airport to
+      the city center of about 25 minutes, cost us 12.75 Euros (about 13.7$).
+      UBER, very simple and easy to use, Just sign up, put in a credit card and
+      you are ready.</p>
   - _section-type: blog-window
     right_image: /uploads/Reduced/IMG_7312.jpg
     left_image: /uploads/19-1.jpg
