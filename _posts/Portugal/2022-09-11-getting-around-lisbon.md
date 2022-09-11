@@ -34,13 +34,15 @@ content-blocks:
       <h2>Walking:</h2><p>Although walking around Lisbon can be very tiring due
       to it's hills, steep inclines and many steps, it is very easy city to
       navigate.</p><p>Don't forget to wearing comfortable shoes and have
-      water.</p><h2>Tram 28:</h2><p>Riding the Tram 28 is iconic but isn't the
-      most practical way of getting around the city.</p><p>Also, beware, it gets
-      VERY crowded and there are many pickpockets on the tram.</p><h2>Public
-      Transportation:</h2><p>There is a travel card called Viva Viagem that
-      costs 0.50 Euro(0.60$) and you can use it on ALL transpotation in Lisbon.
-      There are vending machines where you can purchase and add credit to the
-      card.</p><h3>Buses</h3><p>Buses are also a great option to get around but
+      water.</p><h2>&nbsp;</h2><h2>Public Transportation:</h2><p>There is a
+      travel card called Viva Viagem that costs 0.50 Euro(0.60$) and you can use
+      it on ALL transpotation in Lisbon. There are vending machines where you
+      can purchase and add credit to the card.<br />You can also get a 24-hour
+      unlimited pass for 6.40 Euros. This fare includes all Lisbon buses and
+      trams.</p><h3>Tram 28:</h3><p>Riding the Tram 28 is iconic but isn't the
+      most practical way of getting around the city.<br />Also, beware, it gets
+      VERY crowded and there are many pickpockets on the
+      tram.</p><h3>Buses</h3><p>Buses are also a great option to get around but
       they tend to get very croswded by locals, so avoid rush
       hours.</p><h3>Metro</h3><p>This is a really great and quick option to get
       around the city. The entrances to the Metro are marked with a large
