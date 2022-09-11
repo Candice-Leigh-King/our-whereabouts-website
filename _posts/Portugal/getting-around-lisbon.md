@@ -1,7 +1,7 @@
 ---
 layout: posts
 seo:
-  title: How to get around Lisbon
+  title: Getting around Lisbon
   description: "If you're planning a trip to Lisbon, know that renting a car and driving it around here could be tricky. The best way to get around Lisbon is public transportation and they are very easy to use.\_"
   keywords: How to get around in Lisbon, Portgual
   social-alt:
