@@ -56,5 +56,5 @@ content-blocks:
     right_image: /uploads/Reduced/IMG_7312.jpg
     left_image: /uploads/19-1.jpg
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h3>Our Whereabouts xxx</h3>
 ---
