@@ -36,11 +36,12 @@ content-blocks:
       towns that have a train are: Lagos, Portim&atilde;o, and
       Faro</p><p>&nbsp;</p><h2>Bus:&nbsp;</h2><p>There are a few buses that
       connect you to most of the towns. The main bus company in the Algarve is
-      <a target="_blank" rel="noopener" href="https://vamusalgarve.pt/">Vamus
-      Algarve</a> but most buses run only in the summer so make sure to check
-      before you go</p><p>&nbsp;</p><h2>Uber/Taxi:&nbsp;</h2><p>Uber is common
-      in coastal towns like Albufeira, and if you&rsquo;re somewhere more remote
-      you might have to wait longer.</p><h2>Car:&nbsp;</h2><p>The best way to
+      <a target="_blank" rel="noopener"
+      href="https://vamus.pt/en/home-en/">Vamus Algarve</a> but most buses run
+      only in the summer so make sure to check before you
+      go</p><p>&nbsp;</p><h2>Uber/Taxi:&nbsp;</h2><p>Uber is common in coastal
+      towns like Albufeira, and if you&rsquo;re somewhere more remote you might
+      have to wait longer.</p><p>&nbsp;</p><h2>Car:&nbsp;</h2><p>The best way to
       get around is in the Algarve. They say that driving in Portugal isn't
       advised, but actually, the Algarve is one of the easiest places to drive
       in Portugal. It's very convenient to rent a car here because you are
