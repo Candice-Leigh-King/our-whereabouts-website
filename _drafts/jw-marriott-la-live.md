@@ -111,12 +111,12 @@ content-blocks:
       state is accessible, making hikes and outdoor adventures in the northern
       regions possible with mild, comfortable temperatures.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/California/20220926_185152.jpg
+    2_image: /uploads/California/20220928183439_IMG_1929.jpg
+    3_image: /uploads/California/IMG_1765.jpg
+    4_image: /uploads/California/20220928171155_IMG_1835.jpg
+    5_image: /uploads/California/IMG_1197-2.jpg
+    6_image: /uploads/California/IMG_1158.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
