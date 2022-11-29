@@ -24,7 +24,7 @@ blog-summary: >-
   star. The JW Marriott LA Live will take care of that!
 cta: Read More →
 blog_image: /uploads/California/20220929173635_IMG_2489.jpg
-date: 2022-11-30 00:00:00
+date: 2022-11-29 00:00:00
 categories:
   - accommodation
 content-blocks:
