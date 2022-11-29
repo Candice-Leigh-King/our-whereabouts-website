@@ -78,7 +78,7 @@ content-blocks:
       We were on the 19th floor and we could see Griffith Observatory and the
       Hollywood Sign from the window.</p>
   - _section-type: blog-cover-image
-    blog-cover_image:
+    blog-cover_image: /uploads/USA_2022/IMG_2251.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>Dining:</strong></h2><p>I was thoroughly impressed with the
