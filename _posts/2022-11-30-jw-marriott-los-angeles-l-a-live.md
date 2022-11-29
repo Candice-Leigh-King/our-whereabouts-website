@@ -118,5 +118,5 @@ content-blocks:
     5_image: /uploads/California/IMG_1197-2.jpg
     6_image: /uploads/California/IMG_1158.jpg
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---
