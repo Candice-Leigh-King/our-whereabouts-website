@@ -82,7 +82,7 @@ content-blocks:
     1_image: /uploads/California/20220925_152424.jpg
     2_image: /uploads/California/20220925_141906.jpg
     3_image: /uploads/California/20220925_142049.jpg
-    4_image:
+    4_image: /uploads/California/20220925_150509(0)-2.jpg
     5_image: /uploads/California/20220925_160724.jpg
     6_image: /uploads/California/20220925_155948.jpg
   - _section-type: signature
