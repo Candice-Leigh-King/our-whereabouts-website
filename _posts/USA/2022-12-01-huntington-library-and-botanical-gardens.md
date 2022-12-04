@@ -45,7 +45,7 @@ content-blocks:
       massive.</p><p>&nbsp;</p><h2>Parking:&nbsp;</h2><p>Parking is free but the
       parking lot fills up pretty quickly, so come early.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/California/20220925_151918.jpg
+    blog-cover_image: /uploads/California/IMG_0650.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2>Things to do:&nbsp;</h2><p>&bull;The Huntington Library - It has more
@@ -82,7 +82,7 @@ content-blocks:
     1_image: /uploads/California/20220925_152424.jpg
     2_image: /uploads/California/20220925_141906.jpg
     3_image: /uploads/California/20220925_142049.jpg
-    4_image: /uploads/California/20220925_150509(0)-2.jpg
+    4_image: /uploads/California/20220925_151918.jpg
     5_image: /uploads/California/20220925_160724.jpg
     6_image: /uploads/California/20220925_155948.jpg
   - _section-type: signature
