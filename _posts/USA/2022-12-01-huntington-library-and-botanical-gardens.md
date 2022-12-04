@@ -50,14 +50,25 @@ content-blocks:
     textarea_html: >-
       <h2>Things to do:&nbsp;</h2><p>&bull;The Huntington Library - It has more
       than 430,000 rare books &amp; millions of manuscripts!<br
-      />&bull;Huntington Art Gallery (European Art)<br />&bull;Virginia Steele
-      Scott Galleries (American
-      Art)</p><p>&nbsp;</p><h3>Gardens:&nbsp;</h3><p>There are a total of 16
-      gardens! Sadly we didn't have time to visit them all but here are the ones
-      you shouldn't miss:</p><p>&bull;Desert Garden - This is a must because
-      it's one of the oldest and largest cacti and succulent collections in the
-      world.<br />&bull;Japanese Garden<br />&bull;Chinese Garden<br
-      />&bull;Rose Garden<br />&bull;Jungle Garden</p>
+      />&bull;Huntington Art Gallery - This gallery displays European Art<br
+      />&bull;Virginia Steele Scott Galleries - This gallery displays&nbsp;
+      American Art</p><p>&nbsp;</p><h3>Gardens:&nbsp;</h3><p>There are a total
+      of 16 gardens! Sadly we didn't have time to visit them all but here are
+      the ones you shouldn't miss:</p><p>&bull;Desert Garden - This is a must
+      because it's one of the oldest and largest cacti and succulent collections
+      in the world.<br />&bull;Japanese Garden - I absolutely loved the Japanese
+      garden. It closely resembled the authentic Gardens in Japan.<br
+      />&bull;Chinese Garden - This garden was just as beautiful as the Japanese
+      Garden. It has plants,&nbsp; flowers, and lakes.<br />&bull;Rose Garden -
+      he garden was designed primarily for display, providing copious quantities
+      of cut blooms for the large elaborate floral arrangements favored in their
+      home. Household records indicate that in one year alone more than 30,000
+      flowers were used in these massive bouquets, 9,700 of which were roses.<br
+      />&bull;Jungle Garden - The Jungle Garden features a high forest canopy,
+      an understory of trees and shrubs, climbing vines, and leaves of giant
+      proportions. Plants commonly associated with the tropics grow here,
+      including orchids, bromeliads, gingers, ferns, palms, bamboos, and even a
+      waterfall.</p>
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>Tips:&nbsp;</h2><p>&bull;Bring mosquito repellent, there are many
