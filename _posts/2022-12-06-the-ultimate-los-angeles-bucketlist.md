@@ -60,12 +60,12 @@ content-blocks:
       Fame</h2><p>Spanning 18 blocks of Hollywood Blvd and Vine Street the Walk
       of Fame now includes about 2,600 stars and is a must.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/California/20171007_143021.jpg
+    2_image: /uploads/California/20220925_111226.jpg
+    3_image: /uploads/California/20191031_165410-2.jpg
+    4_image: /uploads/California/20220927_205332.jpg
+    5_image: /uploads/California/20170926_163423.jpg
+    6_image: /uploads/189.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2>6. Visit The Last Bookstore</h2><p>This book store has an amazing
@@ -82,12 +82,14 @@ content-blocks:
       Six Flags Magic Mountain, Universal Studios, and Disneyland are the
       top.</p>
   - _section-type: gallery
-    1_image:
-    2_image:
-    3_image:
-    4_image:
-    5_image:
-    6_image:
+    1_image: /uploads/California/20220928_181500-2.jpg
+    2_image: /uploads/California/IMG_1790.jpg
+    3_image: /uploads/California/20220925_145654.jpg
+    4_image: /uploads/California/IMG_0461.jpg
+    5_image: /uploads/California/19062012193.jpg
+    6_image: /uploads/California/20221017_203638-3.jpg
   - _section-type: signature
-    signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
+    signature_html: >-
+      <h3>Have fun!</h3><p>&nbsp;</p><h3><strong>Our Whereabouts
+      xxx</strong></h3>
 ---
