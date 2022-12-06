@@ -2,7 +2,20 @@
 layout: posts
 seo:
   title: The Ultimate Los Angeles Bucketlist
-  description:
+  description: >-
+    Los Angeles is mostly famous for Hollywood stars, the TV & Movie industries
+    and incredible beaches.
+
+
+    From the moment you land in Los Angeles, you can feel the glamour in the
+    air.
+
+
+    While you drive through LA you'll see palm trees, clear blue skies, fancy
+    cars, and luxurious stores. You might even spot a celebrity if you're lucky.
+
+
+    Here are some things you shouldn't miss while visiting this famous city.
   keywords: Los Angeles bucketlist, California, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
@@ -13,22 +26,25 @@ blog-summary: >-
   must add to your bucketlist
 cta: Read More →
 blog_image: /uploads/California/IMG_0421.jpg
-date: 2022-12-05 00:00:00
+date: 2022-12-06 00:00:00
 categories:
   - travel
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <p>Looking to book a trip but you're not sure where to start? Planning a
-      trip could be a little overwhelming but it doesn't have to be. I'm here to
-      give you a step-by-step guide on how to book and plan the perfect
-      trip.</p><p>In this post I will cover the following: how to pick a
-      destination, book your flight, research your destination, build an
-      itinerary and book accommodation.</p>
+      <p>Los Angeles is mostly famous for Hollywood stars, the TV &amp; Movie
+      industries and incredible beaches.</p><p>From the moment you land in Los
+      Angeles, you can feel the glamour in the air.</p><p>While you drive
+      through LA you'll see palm trees, clear blue skies, fancy cars, and
+      luxurious stores. You might even spot a celebrity if you're
+      lucky.</p><p>Here are some things you shouldn't miss while visiting this
+      famous city.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
-    heading:
-    google-embed-code:
+    heading: Los Angeles, California
+    google-embed-code: >-
+      "https://www.google.com/maps/d/embed?mid=1M1Z5WYsdvGjkFLImCGPNlXhxR5jYUbA&ehbc=2E312F"
+      width="100%" height="480"
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>1. Scope out the Griffith Observatory</h2><p>One of our favorite spots
