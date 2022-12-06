@@ -68,19 +68,20 @@ content-blocks:
     6_image: /uploads/189.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2>6. Visit The Last Bookstore</h2><p>This book store has an amazing
+      <h2>6. Visit The Last Bookstore</h2><p>This bookstore has an amazing
       collection of books. Theme decorated throughout. There's also art
       displayed by different artists.</p><p>&nbsp;</p><h2>7. Stay at a luxurious
       hotel</h2><p>What better way to blend into the LA glam than staying at a
-      luxurious hotel like the @jwlalive</p><p>&nbsp;</p><h2>8. Explore the
-      botanical gardens at The Huntington Library</h2><p>The Huntington Library
-      opened in 1919 and is home to one of California&rsquo;s most beautiful
-      botanical gardens.</p><p>&nbsp;</p><h2>9.&nbsp; Get up close to the
-      Hollywood Sign</h2><p>You can do so from Lake Hollywood Park, North
-      Beachwood Drive, and from Griffith Observatory.</p><p>&nbsp;</p><h2>10.
-      Visit a big theme park&nbsp;</h2><p>There are so many great options, but
-      Six Flags Magic Mountain, Universal Studios, and Disneyland are the
-      top.</p>
+      luxurious hotel like the <a
+      href="https://ourwhereabouts.com/accommodation/2022/11/29/jw-marriott-la-live.html">JW
+      Marriott L.A. Live</a></p><p>&nbsp;</p><h2>8. Explore the botanical
+      gardens at The Huntington Library</h2><p>The Huntington Library opened in
+      1919 and is home to one of California&rsquo;s most beautiful botanical
+      gardens.</p><p>&nbsp;</p><h2>9.&nbsp; Get up close to the Hollywood
+      Sign</h2><p>You can do so from Lake Hollywood Park, North Beachwood Drive,
+      and from Griffith Observatory.</p><p>&nbsp;</p><h2>10. Visit a big theme
+      park&nbsp;</h2><p>There are so many great options, but Six Flags Magic
+      Mountain, Universal Studios, and Disneyland are the top.</p>
   - _section-type: gallery
     1_image: /uploads/California/20220928_181500-2.jpg
     2_image: /uploads/California/IMG_1790.jpg
