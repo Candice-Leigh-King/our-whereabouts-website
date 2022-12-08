@@ -85,7 +85,7 @@ content-blocks:
       Bryce Canyon</strong></em></p>
   - _section-type: gallery
     1_image: /uploads/2022_Utah/IMG_4692-2.jpg
-    2_image: /uploads/2022_Utah/IMG_5223.jpg
+    2_image: /uploads/2022_Utah/IMG_4753.jpg
     3_image: /uploads/2022_Utah/IMG_5854.jpg
     4_image: /uploads/2022_Utah/IMG_6741.jpg
     5_image: /uploads/2022_Utah/IMG_7167.jpg
