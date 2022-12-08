@@ -1,18 +1,27 @@
 ---
 layout: posts
 seo:
-  title: Utah's mighty 5 itinerary
-  description: "The Utah national parks road trip, also known as \"The Mighty 5 road trip\" is great in any season and it has a\_scenery unlike anything you’ll see on this earth. Besides the 5 most beautiful national parks you'll find monuments, stunning state parks, and some amazing off-road locations that are out of this world.\n\nIf you're planning a Utah national parks road trip, here's an itinerary you should consider."
+  title: 10 day utah mighty 5 itinerary
+  description: >-
+    The Utah national parks road trip, also known as "The Mighty 5 road trip" is
+    great in any season and it has scenery, unlike anything you’ll see on this
+    earth. Besides the 5 most beautiful national parks you'll find monuments,
+    stunning state parks, and some amazing off-road locations that are out of
+    this world.
+
+
+    If you're planning a Utah national parks road trip, here's an itinerary you
+    should consider.
   keywords: Utah 5 national parks, southwest roadtrip.  USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/2022_Utah/Elizabeth-&-Dan-36-(1).jpg
+  social-share_image: /uploads/2022_Utah/IMG_4753.jpg
 author: Elizabeth
 blog-summary: >-
   If you're planning a road trip to Utah's 5 National Parks, here's a 10-day
   itinerary
 cta: Read More →
-blog_image: /uploads/2022_Utah/Elizabeth-&-Dan-36-(1).jpg
+blog_image: /uploads/2022_Utah/IMG_4753.jpg
 date: 2022-12-08 00:00:00
 categories:
   - travel
@@ -20,12 +29,11 @@ content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
       <p>The Utah national parks road trip, also known as "The Mighty 5 road
-      trip" is great in any season and it has a<strong>&nbsp;</strong>scenery
-      unlike anything you&rsquo;ll see on this earth. Besides the 5 most
-      beautiful national parks you'll find monuments, stunning state parks, and
-      some amazing off-road locations that are out of this world.</p><p>If
-      you're planning a Utah national parks road trip, here's a 10-day
-      itinerary</p>
+      trip" is great in any season and it has scenery, unlike anything
+      you&rsquo;ll see on this earth. Besides the 5 most beautiful national
+      parks you'll find monuments, stunning state parks, and some amazing
+      off-road locations that are out of this world.</p><p>If you're planning a
+      Utah national parks road trip, here's a 10-day itinerary</p>
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>Day 1 - Monument Valley:</h2><p>Monument Valley isn&rsquo;t exactly
@@ -77,7 +85,7 @@ content-blocks:
       Bryce Canyon</strong></em></p>
   - _section-type: gallery
     1_image: /uploads/2022_Utah/IMG_4692-2.jpg
-    2_image: /uploads/2022_Utah/IMG_4753.jpg
+    2_image: /uploads/2022_Utah/IMG_5223.jpg
     3_image: /uploads/2022_Utah/IMG_5854.jpg
     4_image: /uploads/2022_Utah/IMG_6741.jpg
     5_image: /uploads/2022_Utah/IMG_7167.jpg
