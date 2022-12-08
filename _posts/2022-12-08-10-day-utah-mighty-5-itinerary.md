@@ -15,13 +15,13 @@ seo:
   keywords: Utah 5 national parks, southwest roadtrip.  USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/2022_Utah/IMG_4753.jpg
+  social-share_image: /uploads/2022_Utah/IMG_4671.jpg
 author: Elizabeth
 blog-summary: >-
   If you're planning a road trip to Utah's 5 National Parks, here's a 10-day
   itinerary
 cta: Read More →
-blog_image: /uploads/2022_Utah/IMG_4753.jpg
+blog_image: /uploads/2022_Utah/IMG_4671.jpg
 date: 2022-12-08 00:00:00
 categories:
   - travel
