@@ -76,6 +76,12 @@ content-blocks:
       attempts to add in order to make money off you.</p><p><strong>Of course
       today one has to make sure that everything related to Corona is covered in
       terms of insurance.</strong></p>
+  - _section-type: map
+    description: make sure to set width to 100%, height to 350 and style to border 2
+    heading: Utah, USA
+    google-embed-code: >-
+      "https://www.google.com/maps/d/embed?mid=1x8mPQQ_h0_hYsreGVZgWzF8DQtVZqyU&ehbc=2E312F"
+      width="100%" height="480"
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h4><strong>Our Whereabouts xxx</strong></h4>
 ---
