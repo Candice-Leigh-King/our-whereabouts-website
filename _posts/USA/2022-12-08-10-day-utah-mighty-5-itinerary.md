@@ -48,10 +48,10 @@ content-blocks:
       Point, Totem Pole, Artist's Point.</p><p>Then head on to Forrest Gump
       Point - This is the most famous spot. It's best to visit this spot in the
       morning or early afternoon because, in the late afternoon and early
-      evening, you'll be facing the sun. The speed limit on this road is low,
-      but it's still important to watch for cars because this road gets busy,
-      especially in the afternoon.</p><p>You'll finish your day at The Mexican
-      Hat is a weird and cool natural formation located outside of the formal
+      evening, you'll be facing the sun. The speed limit on this road is 65 mph,
+      so it's important to watch for cars since this road gets busy, especially
+      in the afternoon.</p><p>You'll finish your day at The Mexican Hat is a
+      weird and cool natural formation located outside of the formal
       park.</p><p><strong><em>⇢ Drive 3 hours to Moab<br />🏨Sleep in:
       Moab</em></strong></p>
   - _section-type: blog-cover-image
