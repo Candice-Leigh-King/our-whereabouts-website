@@ -8,7 +8,9 @@ seo:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image:
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  If you're going on a road trip in the Southwest of the US, here's a list of
+  things you must add to your bucketlist!
 cta: Read More →
 blog_image:
 date: 2022-12-04 00:00:00
