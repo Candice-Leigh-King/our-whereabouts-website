@@ -5,17 +5,17 @@ seo:
   description: >-
     There are a few ways to get to Meteora and I am going to cover how to get
     there from Thessaloniki or Athens.
-  keywords:
+  keywords: How to get to Meteora, Northern Greece
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/247.jpg
+  social-share_image: /uploads/Meteora/IMG_1802-(1).jpg
 author: Elizabeth
 blog-summary: >-
   There are a few ways to get to Meteora and I am going to cover how to get
   there from Thessaloniki or Athens.
 cta: Read More →
-blog_image: /uploads/247.jpg
+blog_image: /uploads/Meteora/IMG_1802-(1).jpg
 date: 2022-03-08 00:00:00
 categories:
   - travel
@@ -31,13 +31,8 @@ content-blocks:
       of Kastraki, and east of the Pindus (P&iacute;ndos)</p><p>There are a few
       ways to get to Meteora and I am going to cover how to get there from
       Thessaloniki or Athens.</p>
-  - _section-type: map
-    description: make sure to set width to 100%, height to 350 and style to border 2
-    heading: Meteora, Greece
-    google-embed-code: >-
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.798606323952!2d21.628400915538794!3d39.721708505537755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13590faee8327f39%3A0x7127add4d8bc32ff!2sMeteora!5e0!3m2!1sen!2sth!4v1650431576319!5m2!1sen!2sth"
-      width="100%" height="350" style="border:2;" allowfullscreen=""
-      loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+  - _section-type: blog-cover-image
+    blog-cover_image: /uploads/Meteora/269.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>PLANE:</strong></h2><p>There are no international airports in
@@ -144,8 +139,16 @@ content-blocks:
       water, Local taxes</li><li>Doesn't include: Hotel pick-up and drop-off
       service in Athens, Food and drinks, Entrance fees of the
       Monasteries</li></ul>
-  - _section-type: blog-cover-image
-    blog-cover_image: /uploads/269.jpg
+  - _section-type: blog-window
+    right_image: /uploads/Meteora/279.jpg
+    left_image: /uploads/Meteora/276.jpg
+  - _section-type: map
+    description: make sure to set width to 100%, height to 350 and style to border 2
+    heading: Meteora, Greece
+    google-embed-code: >-
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.798606323952!2d21.628400915538794!3d39.721708505537755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13590faee8327f39%3A0x7127add4d8bc32ff!2sMeteora!5e0!3m2!1sen!2sth!4v1650431576319!5m2!1sen!2sth"
+      width="100%" height="350" style="border:2;" allowfullscreen=""
+      loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---
