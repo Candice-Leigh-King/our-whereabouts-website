@@ -86,12 +86,12 @@ content-blocks:
       visited a week after a snowstorm and during the morning and night it was
       cold (6c) but mid-day it was sunny and warm.</p>
   - _section-type: gallery
-    1_image: /uploads/img-2877.jpg
-    2_image: /uploads/img-2874.jpg
-    3_image: /uploads/img-2869.jpg
-    4_image: /uploads/img-2859.jpg
-    5_image: /uploads/img-1137.jpg
-    6_image: /uploads/img-1190.jpg
+    1_image: /uploads/Meteora/IMG_2877-(1).jpg
+    2_image: /uploads/Meteora/IMG_2874-(1)-(1).jpg
+    3_image: /uploads/Meteora/IMG_2869-(1).jpg
+    4_image: /uploads/Meteora/IMG_2859-(1).jpg
+    5_image: /uploads/Meteora/IMG_1190.jpg
+    6_image: /uploads/Meteora/IMG_1137.jpg
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---
