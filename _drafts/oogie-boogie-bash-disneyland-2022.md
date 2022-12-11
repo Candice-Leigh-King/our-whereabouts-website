@@ -8,11 +8,13 @@ seo:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image:
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  Halloween at the Disney Parks is one of our favorite times to visit. Here's
+  everything you need to know about the 2022 party
 cta: Read More →
 blog_image: >-
   /uploads/California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(2).jpg
-date: 2022-12-22 00:00:00
+date: 2022-12-11 00:00:00
 categories:
   - travel
 content-blocks:
