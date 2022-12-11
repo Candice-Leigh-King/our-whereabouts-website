@@ -7,20 +7,20 @@ seo:
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/dscn1416.jpg
+  social-share_image: /uploads/DSCN1416.jpg
 author: Elizabeth
 blog-summary: Great and affordable hotel in Playa del Carmen
 cta: Read More →
-blog_image: /uploads/dscn1416.jpg
+blog_image: /uploads/DSCN1416.jpg
 date: 2021-01-09 00:00:00
 categories:
   - accommodation
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>OUR EXPERIENCE:</strong></h2><p>If you're looking for a great
-      but affordable hotel definitely consider the Flamingo hotel. Between the
-      atmosphere, location, the rooms, and pools we had a great stay.</p>
+      <p>If you're looking for a great but affordable hotel definitely consider
+      the Flamingo hotel. Between the atmosphere, location, the rooms, and pools
+      we had a great stay.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Flamingo Las Vegas Hotel & Casino, USA
@@ -80,8 +80,8 @@ content-blocks:
       offer the most moderate weather. We visited in October and it was
       perfect.</p>
   - _section-type: blog-window
-    right_image: /uploads/dscn1416.jpg
-    left_image: /uploads/dscn1238.jpg
+    right_image: /uploads/DSCN1238.jpg
+    left_image: /uploads/DSCN1416.jpg
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---

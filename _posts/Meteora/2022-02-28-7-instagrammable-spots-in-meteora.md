@@ -10,11 +10,11 @@ seo:
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/274-1.jpg
+  social-share_image: /uploads/Meteora/274.jpg
 author: Elizabeth
 blog-summary: Most beautiful photography spots in Meteora with coordinates
 cta: Read More →
-blog_image: /uploads/274-1.jpg
+blog_image: /uploads/Meteora/274.jpg
 date: 2022-02-28 00:00:00
 categories:
   - travel
@@ -53,12 +53,12 @@ content-blocks:
       Trinity Monastery and the St. Stephan Monastery.<br
       /><em><strong>Coordinates: 39.712885, 21.638121</strong></em></p>
   - _section-type: gallery
-    1_image: /uploads/269-1.jpg
-    2_image: /uploads/247-1.jpg
-    3_image: /uploads/263-1.jpg
-    4_image: /uploads/267-1.jpg
-    5_image: /uploads/img-1973.jpg
-    6_image: /uploads/img-1728.jpg
+    1_image: /uploads/Meteora/269.jpg
+    2_image: /uploads/Meteora/IMG_1802-(1).jpg
+    3_image: /uploads/Meteora/263.jpg
+    4_image: /uploads/Meteora/267.jpg
+    5_image: /uploads/Meteora/IMG_1973-2.jpg
+    6_image: /uploads/Meteora/IMG_1728-2.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>VIEWS YOU WON'T FIND IN GOOGLE
@@ -85,11 +85,11 @@ content-blocks:
       Meteoron and walk down the path below.<br /><em><strong>Coordinates:
       39.726326, 21.629323</strong></em></p>
   - _section-type: gallery
-    1_image: /uploads/262.jpg
-    2_image: /uploads/256-1.jpg
-    3_image: /uploads/20220206-163549.jpg
-    4_image: /uploads/272-1.jpg
-    5_image: /uploads/274-1.jpg
+    1_image: /uploads/Meteora/262.jpg
+    2_image: /uploads/Meteora/256.jpg
+    3_image: /uploads/Meteora/272.jpg
+    4_image: /uploads/Meteora/274.jpg
+    5_image: /uploads/Meteora/Shared-from-Lightroom-mobile-(6).jpg
     6_image: /uploads/screenshot.jpg
   - _section-type: signature
     signature_html: <h3><strong>Have fun exploring Meteora xxx</strong></h3>

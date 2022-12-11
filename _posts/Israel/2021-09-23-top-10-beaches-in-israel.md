@@ -9,11 +9,11 @@ seo:
   keywords: best beaches in Israel
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/104.jpg
+  social-share_image: /uploads/Israel/104.jpg
 author: Elizabeth
 blog-summary: Best beaches in Israel
 cta: Read More →
-blog_image: /uploads/104.jpg
+blog_image: /uploads/Israel/104.jpg
 date: 2021-09-23 00:00:00
 categories:
   - travel
@@ -23,6 +23,12 @@ content-blocks:
       <p><strong>Israel has so many beautiful beaches, most tourists stick to
       the beaches in Tel Aviv but there are so many great ones that aren't as
       popular. Here are our favorites that you shouldn't miss.</strong></p>
+  - _section-type: map
+    description: make sure to set width to 100%, height to 350 and style to border 2
+    heading: Beaches in Israel
+    google-embed-code: >-
+      "https://www.google.com/maps/d/embed?mid=1uDZUC51hBImT1pWR5hVp5KP5MTQZG9Y&ehbc=2E312F"
+      width="100%" height="480"
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>The Dead sea:</strong></h2><p>This is one of my favorites too.
@@ -44,8 +50,8 @@ content-blocks:
       sea you can just make it a day trip there from Tel Aviv or Jerusalem or
       wherever your hotel/Airbnb is.</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/shared-from-lightroom-mobile-8-1.jpg
-    left_image: /uploads/20220507-185706-2.jpg
+    right_image: /uploads/Israel/20220507_182331.jpg
+    left_image: /uploads/Israel/20220507_185758-3.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>Coral Reef,
@@ -68,12 +74,12 @@ content-blocks:
       family-friendly place and we have never felt the need to use a locker but
       if need be a locker is about 3$)</li></ul>
   - _section-type: gallery
-    1_image: /uploads/20220525-093613.jpg
-    2_image: /uploads/20220525-093558.jpg
-    3_image: /uploads/g1346559.jpg
-    4_image: /uploads/20220525-143958.jpg
-    5_image: /uploads/gopr3003.jpg
-    6_image: /uploads/dsc00158.jpg
+    1_image: /uploads/Israel/20220525_093613.jpg
+    2_image: /uploads/Israel/GOPR2984.jpg
+    3_image: /uploads/Israel/G1346559.jpg
+    4_image: /uploads/Israel/20220525_143958.jpg
+    5_image: /uploads/Israel/GOPR3003.jpg
+    6_image: /uploads/Israel/DSC00158.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>Palmachin Beach National Park
@@ -95,7 +101,7 @@ content-blocks:
       on the weekend since this beach is very popular among the
       Israelis.</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/24.jpg
+    blog-cover_image: /uploads/Israel/24-(1).jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>Maagan Michael beach:</strong></h2><p>This beach has always
@@ -115,8 +121,8 @@ content-blocks:
       family-friendly, and the water is very clear and
       clean.</li></ul><p>&nbsp;</p>
   - _section-type: blog-window
-    right_image: /uploads/79.jpg
-    left_image: /uploads/91.jpg
+    right_image: /uploads/Israel/79.jpg
+    left_image: /uploads/Israel/91.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>Habonim-Dor
@@ -132,12 +138,12 @@ content-blocks:
       bathrooms.</li><li><strong>Best time to visit:</strong> This beach is
       pretty big and spacious, even during the weekends.</li></ul>
   - _section-type: gallery
-    1_image: /uploads/dscn0457.jpg
-    2_image: /uploads/122.jpg
-    3_image: /uploads/dscn0412.jpg
-    4_image: /uploads/20210309-145446.jpg
-    5_image: /uploads/20210309-142719.jpg
-    6_image: /uploads/137.jpg
+    1_image: /uploads/Israel/DSCN0455.jpg
+    2_image: /uploads/Israel/DSCN0473.jpg
+    3_image: /uploads/Israel/DSCN0412-2.jpg
+    4_image: /uploads/Israel/20210309_145446-2.jpg
+    5_image: /uploads/Israel/20210309_142719.jpg
+    6_image: /uploads/Israel/DSCN0525.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>Netanya beach:</strong></h2><p>I can't help but share this
@@ -173,7 +179,7 @@ content-blocks:
       transportation that reach Tel Aviv beaches so it is advices to get there
       by a bus).</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/83.jpg
+    blog-cover_image: /uploads/Israel/83.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>Herzliya:</strong></h2><p>Herzliya has great beaches and is a
@@ -197,8 +203,8 @@ content-blocks:
       mall near by.</li><li>You can rent beach chairs with an umbrella for about
       4.5$.</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/121.jpg
-    left_image: /uploads/155.jpg
+    right_image: /uploads/Israel/155.jpg
+    left_image: /uploads/Israel/121.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>&nbsp;Beit Yanai
@@ -226,12 +232,12 @@ content-blocks:
       bathrooms or life guard.</li><li>This is a trendy spot to surf although
       there is no life gaurd so I wouldn't recommend it.</li></ul>
   - _section-type: gallery
-    1_image: /uploads/20210225-180043.jpg
-    2_image: /uploads/2021204-164555.jpg
-    3_image: /uploads/136.jpg
-    4_image: /uploads/20210225-165119.jpg
-    5_image: /uploads/20210225-164555.jpg
-    6_image: /uploads/133.jpg
+    1_image: /uploads/Israel/20210225_180043.jpg
+    2_image: /uploads/Israel/2021204_164555.jpg
+    3_image: /uploads/Israel/136.jpg
+    4_image: /uploads/Israel/20210225_165119.jpg
+    5_image: /uploads/Israel/20210225_164555.jpg
+    6_image: /uploads/Israel/133.jpg
   - _section-type: signature
     signature_html: <h3>Have fun,</h3><h3>&nbsp;</h3><h3>Elizabeth xxx</h3>
 ---

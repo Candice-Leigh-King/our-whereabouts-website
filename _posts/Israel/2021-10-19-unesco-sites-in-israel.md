@@ -8,11 +8,11 @@ seo:
   keywords: unesco world heritage sites in Israel
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/120.jpg
+  social-share_image: /uploads/Israel/120.jpg
 author: Elizabeth
 blog-summary: All the details you need about the UNESCO sites in Israel
 cta: Read More →
-blog_image: /uploads/120.jpg
+blog_image: /uploads/Israel/120.jpg
 date: 2021-10-19 00:00:00
 categories:
   - travel
@@ -50,7 +50,7 @@ content-blocks:
       dangerous.</li><li>Located: An hour's drive from Tel Aviv, half an hour
       from Haifa.</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/112.jpg
+    blog-cover_image: /uploads/Israel/112.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>2. CAVES OF MARESHA AND BEIT GUVRIN:</strong></h2><p>The
@@ -72,8 +72,8 @@ content-blocks:
       site.</li><li>When entering you get a very understandable map to
       use.</li><li>The site is open daily from 8:00 a.m. to 4:00 p.m.</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/116.jpg
-    left_image: /uploads/107.jpg
+    right_image: /uploads/Israel/107.jpg
+    left_image: /uploads/Israel/116.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>3. OLD CITY OF ARCE</strong></h2><p>Acre is a historic walled
@@ -88,8 +88,8 @@ content-blocks:
       food, and beautiful sites.</p><ul><li>Admission Fee:
       <strong>Free.</strong></li></ul>
   - _section-type: blog-window
-    right_image: /uploads/akko-2.jpg
-    left_image: /uploads/20210216-134017.jpg
+    right_image: /uploads/Israel/akko-2.jpg
+    left_image: /uploads/Israel/20210216_134017.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>4. MASADA:</strong></h2><p>Masada is a rugged natural
@@ -117,8 +117,8 @@ content-blocks:
       <strong>Cable car - </strong>A round trip costs 23$! You need to make a
       reservation! Starts working at 8 AM!</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/20210209-0622540.jpg
-    left_image: /uploads/20210209-084722.jpg
+    right_image: /uploads/Israel/20210209_062254(0).jpg
+    left_image: /uploads/Israel/20210209_084722-(1).jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>5. WHITE CITY OF TEL-AVIV:</strong></h2><p>The central White
@@ -146,8 +146,8 @@ content-blocks:
       open until 12:00.</li><li>In rainy weather, the gardens may close due to
       the danger of slipping on the wet paths.</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/20201110-121251.jpg
-    left_image: /uploads/92.jpg
+    right_image: /uploads/Israel/20160430_131701.jpg
+    left_image: /uploads/Israel/20201110_121252.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>7. NECROPOLIS BIET SHEARIM:</strong></h2><p>Consisting of a
@@ -247,12 +247,12 @@ content-blocks:
       have been many reports of cars getting broken into and you need a 4x4 in
       order to get there.</li></ul>
   - _section-type: gallery
-    1_image: /uploads/dsc00173.jpg
-    2_image: /uploads/mamshit.jpg
-    3_image: /uploads/dscn0757.jpg
-    4_image: /uploads/picsart-07-20-10-56-48.jpg
-    5_image: /uploads/20201222-084201.jpg
-    6_image: /uploads/109.jpg
+    1_image: /uploads/Israel/DSC00173.jpg
+    2_image: /uploads/Israel/Mamshit.jpg
+    3_image: /uploads/Israel/DSCN0757.jpg
+    4_image: /uploads/Israel/PicsArt_07-20-10.56.48.jpg
+    5_image: /uploads/Israel/20201222_092547.jpg
+    6_image: /uploads/Israel/109.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---

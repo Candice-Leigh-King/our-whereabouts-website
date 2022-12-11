@@ -8,13 +8,13 @@ seo:
   keywords: national parks in Israel
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/100.jpg
+  social-share_image: /uploads/Israel/100.jpg
 author: Elizabeth
 blog-summary: >-
   Israel has 49 National Parks and in this post, I will share 8 that you
   shouldn't miss!
 cta: Read More →
-blog_image: /uploads/100.jpg
+blog_image: /uploads/Israel/100.jpg
 date: 2021-09-30 00:00:00
 categories:
   - travel
@@ -37,8 +37,8 @@ content-blocks:
       beach: On the left side of the park is a dirt path that brings you to a
       magnificent and isolated beach.</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/121.jpg
-    left_image: /uploads/148-1.jpg
+    right_image: /uploads/Israel/148.jpg
+    left_image: /uploads/Israel/121.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>BEIT GUVRIN CAVES</strong></h2><p>Beit Guvrin is not only a
@@ -59,12 +59,12 @@ content-blocks:
       taken into account that the caves close for safety reasons, so it is
       recommended to check before if the caves open.</li></ul>
   - _section-type: gallery
-    1_image: /uploads/82.jpg
-    2_image: /uploads/107.jpg
-    3_image: /uploads/109.jpg
-    4_image: /uploads/111.jpg
-    5_image: /uploads/116.jpg
-    6_image: /uploads/20201215-083456.jpg
+    1_image: /uploads/Israel/82.jpg
+    2_image: /uploads/Israel/107.jpg
+    3_image: /uploads/Israel/109.jpg
+    4_image: /uploads/Israel/111.jpg
+    5_image: /uploads/Israel/20201215_083456.jpg
+    6_image: /uploads/Israel/116.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>MITZPEH RAMON:</strong></h2><p>Mitzprh Ramon is the viewpoint
@@ -85,7 +85,7 @@ content-blocks:
       sunrise or sunset!!! With a view like this, a sunrise/sunset can add so
       much</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/98.jpg
+    blog-cover_image: /uploads/Israel/98.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>LITTLE SWITZERLAND, MOUNT CARMEL</strong></h2><p>In the Carmel
@@ -114,8 +114,8 @@ content-blocks:
       visit: Midweek, any season, just make sure not to visit during the rainy
       season.</li></ul><p>&nbsp;</p>
   - _section-type: blog-window
-    right_image: /uploads/88.jpg
-    left_image: /uploads/84.jpg
+    right_image: /uploads/Israel/20201116_140829.jpg
+    left_image: /uploads/Israel/84.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>MASADA</strong></h2><p>Masada is one of the most important and
@@ -140,12 +140,12 @@ content-blocks:
       AM! ︎Services - There are restrooms at the top but not much
       shade.</li></ul>
   - _section-type: gallery
-    1_image: /uploads/140.jpg
-    2_image: /uploads/144.jpg
-    3_image: /uploads/139.jpg
-    4_image: /uploads/128.jpg
-    5_image: /uploads/20210209-084722-1.jpg
-    6_image: /uploads/20210209-061523.jpg
+    1_image: /uploads/Israel/140.jpg
+    2_image: /uploads/Israel/20210209_071810.jpg
+    3_image: /uploads/Israel/139.jpg
+    4_image: /uploads/Israel/128.jpg
+    5_image: /uploads/Israel/20210209_084722-(1).jpg
+    6_image: /uploads/Israel/20210209_061523.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>ROSH HA'NIKRA</strong></h2><p>If you drive up Israel&rsquo;s
@@ -163,7 +163,7 @@ content-blocks:
       09:00-18:00 Friday and Holiday Eves: 09:00-16:00 Saturdays and Holidays:
       09:00-18:00</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/114.jpg
+    blog-cover_image: /uploads/Israel/114.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>NIMROD'S FORTRESS</strong></h2><p>If you're planning to visit
@@ -180,8 +180,8 @@ content-blocks:
       08:00 - 15:00</li><li>Located: 212km from Tel Aviv. (North of
       Israel)</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/20210818-154955.jpg
-    left_image: /uploads/dscn1384.JPG
+    right_image: /uploads/Israel/20210818_154955.jpg
+    left_image: /uploads/Israel/DSCN1384.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>GAN HA'SHLOSHA (SAHNE)</strong></h2><p>For the water lovers
@@ -206,12 +206,12 @@ content-blocks:
       constant 28&deg;C, all year round, even during the winter.</li><li>︎It's a
       place to bring your floaties and just relax.</li></ul>
   - _section-type: gallery
-    1_image: /uploads/153.jpg
-    2_image: /uploads/154.jpg
-    3_image: /uploads/180.jpg
-    4_image: /uploads/188.jpg
-    5_image: /uploads/20210726-092941aaa.jpg
-    6_image: /uploads/20210726-090226.jpg
+    1_image: /uploads/Israel/153.jpg
+    2_image: /uploads/Israel/154.jpg
+    3_image: /uploads/Israel/180.jpg
+    4_image: /uploads/Israel/188.jpg
+    5_image: /uploads/Israel/20210726_092941AAA.jpg
+    6_image: /uploads/Israel/20210726_090226.jpg
   - _section-type: signature
     signature_html: <h3>Have fun,</h3><h3>&nbsp;</h3><h3>Elizabeth xxx</h3>
 ---
