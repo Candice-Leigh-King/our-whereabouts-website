@@ -82,10 +82,10 @@ content-blocks:
       allowed.</p><p>&bull;If you're exploring the needles and maze make sure to
       beware of flash floods.</p><p>&bull;Leave no trace</p>
   - _section-type: gallery
-    1_image: /uploads/2022_Utah/USA-FEED-(1).png
+    1_image: /uploads/img-4934.jpg
     2_image: /uploads/2022_Utah/IMG_5174.jpg
     3_image: /uploads/2022_Utah/IMG_5223.jpg
-    4_image: /uploads/2022_Utah/USA-FEED-(2).png
+    4_image: /uploads/2022_Utah/IMG_5068-2.jpg
     5_image: /uploads/2022_Utah/IMG_4754.jpg
     6_image: /uploads/2022_Utah/20221005_072243.jpg
   - _section-type: signature
