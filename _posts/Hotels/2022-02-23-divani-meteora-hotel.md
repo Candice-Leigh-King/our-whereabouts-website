@@ -3,21 +3,19 @@ layout: posts
 seo:
   title: Divani Meteora Hotel
   description: >
-    OUR EXPERIENCE:
-
     We had 3 nights in Meteora. Before we arrived we wanted a hotel that offers
     a great location, relaxation, and comfort. Divani Meteora is the perfect
     hotel to pamper yourself while sightseeing and enjoying magnificent views of
     Meteora.
-  keywords:
+  keywords: Divani Meteora Hotel, Greece
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/252.jpg
+  social-share_image: /uploads/Media_Kit/252.jpg
 author: Elizabeth
 blog-summary: Looking for a place to stay in Meteora? This post is for you!
 cta: Read More →
-blog_image: /uploads/252.jpg
+blog_image: /uploads/Media_Kit/252.jpg
 date: 2022-02-23 00:00:00
 categories:
   - accommodation
