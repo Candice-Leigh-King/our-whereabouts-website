@@ -16,11 +16,13 @@ seo:
   keywords: Meteora, Unesco site, Northern Greece.
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/253.jpg
+  social-share_image: /uploads/Meteora/253.jpg
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  If you're planning on spending more than one day in Meteora, excellent! Here's
+  how to spend 2 days in Meteora
 cta: Read More →
-blog_image: /uploads/253.jpg
+blog_image: /uploads/Meteora/253.jpg
 date: 2022-04-02 00:00:00
 categories:
   - travel
@@ -96,8 +98,8 @@ content-blocks:
       dinner at <strong>Restaurant Meteora </strong>which has great local
       food.</p>
   - _section-type: gallery
-    1_image: /uploads/251.jpg
-    2_image: /uploads/257.jpg
+    1_image: /uploads/Meteora/251.jpg
+    2_image: /uploads/Meteora/257.jpg
     3_image: /uploads/Meteora/260.jpg
     4_image: /uploads/Meteora/259.jpg
     5_image: /uploads/Meteora/278.jpg
