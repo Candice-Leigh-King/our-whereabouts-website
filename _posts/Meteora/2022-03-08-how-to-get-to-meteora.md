@@ -9,13 +9,13 @@ seo:
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/Meteora/IMG_1802-(1).jpg
+  social-share_image: /uploads/Meteora/IMG_2063_Original.jpg
 author: Elizabeth
 blog-summary: >-
   There are a few ways to get to Meteora and I am going to cover how to get
   there from Thessaloniki or Athens.
 cta: Read More →
-blog_image: /uploads/Meteora/IMG_1802-(1).jpg
+blog_image: /uploads/Meteora/IMG_2063_Original.jpg
 date: 2022-03-08 00:00:00
 categories:
   - travel
