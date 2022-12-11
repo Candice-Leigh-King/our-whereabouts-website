@@ -3,6 +3,9 @@ layout: posts
 seo:
   title: Canyonlands National Park mini guide
   description: >-
+    If you're visiting Canyonlands National Park in Utah, here are some things
+    you should know.
+
     I came with low expectations for Canyonlands and fell in love! It has to be
     one of the most underrated parks we've been to in Utah and I hope that you
     add it to your bucketlist. The Colorado River and Green River both go
@@ -12,10 +15,12 @@ seo:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Utah/IMG_4768-2.jpg
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  If you're visiting Canyonlands National Park in Utah, here are some things you
+  should know
 cta: Read More →
 blog_image: /uploads/2022_Utah/IMG_4768-2.jpg
-date: 2021-04-01 00:00:00
+date: 2022-12-11 00:00:00
 categories:
   - travel
 content-blocks:
@@ -55,21 +60,34 @@ content-blocks:
       Canyonlands. You can explore remote terrain with deep cairns that are
       truly a maze.</p><p>You won't find a visitor center here.</p>
   - _section-type: blog-cover-image
-    blog-cover_image:
+    blog-cover_image: /uploads/2022_Utah/IMG_4959.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
-      <h2><strong>Things to do:</strong></h2><p>&bull;Watch the sunrise at Mesa
-      Arch - it's an easy hike and sunrises here is a must.</p><p><br
-      />&bull;Visit the Overlooks at Island in the Sky Shafer Canyon Overlook<br
-      />Candlestick Tower Overlook<br />Buck Canyon Overlook<br />Grand
-      Viewpoint Overlook<br />Green River Overlook</p><p><br />&bull;Whale
-      Rock</p>
+      <h2><strong>Things to do:</strong></h2><p><strong>&bull;Watch the sunrise
+      at Mesa Arch -</strong> it's an easy hike and sunrises here is a
+      must.</p><p><strong>&bull;Grand View Hike - </strong>2 miles trail that
+      takes about an hour and provides beautiful
+      views.</p><p><strong>&bull;White Rim Overlook Hike -&nbsp;</strong>1.8
+      miles trail.</p><p><strong>&bull;Whale Rock trail -</strong> 1 mile. Park
+      at Upheaval Dome Road</p><p><br /><strong>&bull;Visit the Overlooks at
+      Island in the Sky - </strong>Shafer Canyon Overlook<br />Candlestick Tower
+      Overlook<br />Buck Canyon Overlook<br />Grand Viewpoint Overlook<br
+      />Green River Overlook</p><p><strong>&bull;Visitor Center Viewpoint
+      -</strong> if you park your car at the Visitor Center and cross the street
+      you'll find a beautiful viewpoint.</p><p>&nbsp;</p><p>&nbsp;</p>
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>Tips:</strong></h2><p>&bull;There's no food around, not even a
       vending machine. Bring your own snacks and food</p><p>&bull;No Pets
       allowed.</p><p>&bull;If you're exploring the needles and maze make sure to
       beware of flash floods.</p><p>&bull;Leave no trace</p>
+  - _section-type: gallery
+    1_image: /uploads/2022_Utah/USA-FEED.png
+    2_image: /uploads/2022_Utah/IMG_5174.jpg
+    3_image: /uploads/2022_Utah/IMG_5223.jpg
+    4_image: /uploads/2022_Utah/IMG_5068-2.jpg
+    5_image: /uploads/2022_Utah/IMG_4754.jpg
+    6_image: /uploads/2022_Utah/20221005_072243.jpg
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h4><strong>Our Whereabouts xxx</strong></h4>
 ---
