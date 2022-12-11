@@ -9,11 +9,11 @@ seo:
   keywords: best beaches in Israel
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/104.jpg
+  social-share_image: /uploads/Israel/104.jpg
 author: Elizabeth
 blog-summary: Best beaches in Israel
 cta: Read More →
-blog_image: /uploads/104.jpg
+blog_image: /uploads/Israel/104.jpg
 date: 2021-09-23 00:00:00
 categories:
   - travel
@@ -23,6 +23,12 @@ content-blocks:
       <p><strong>Israel has so many beautiful beaches, most tourists stick to
       the beaches in Tel Aviv but there are so many great ones that aren't as
       popular. Here are our favorites that you shouldn't miss.</strong></p>
+  - _section-type: map
+    description: make sure to set width to 100%, height to 350 and style to border 2
+    heading: Beaches in Israel
+    google-embed-code: >-
+      "https://www.google.com/maps/d/embed?mid=1uDZUC51hBImT1pWR5hVp5KP5MTQZG9Y&ehbc=2E312F"
+      width="100%" height="480"
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>The Dead sea:</strong></h2><p>This is one of my favorites too.
@@ -44,8 +50,8 @@ content-blocks:
       sea you can just make it a day trip there from Tel Aviv or Jerusalem or
       wherever your hotel/Airbnb is.</li></ul>
   - _section-type: blog-window
-    right_image: /uploads/shared-from-lightroom-mobile-8-1.jpg
-    left_image: /uploads/20220507-185706-2.jpg
+    right_image: /uploads/Israel/20220507_182331.jpg
+    left_image: /uploads/Israel/20220507_185758-3.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>Coral Reef,
