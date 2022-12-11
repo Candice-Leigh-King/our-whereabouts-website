@@ -8,13 +8,13 @@ seo:
   keywords: national parks in Israel
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Israel/100-(1).jpg
+  social-share_image: /uploads/Israel/100.jpg
 author: Elizabeth
 blog-summary: >-
   Israel has 49 National Parks and in this post, I will share 8 that you
   shouldn't miss!
 cta: Read More →
-blog_image: /uploads/Israel/100-(1).jpg
+blog_image: /uploads/Israel/100.jpg
 date: 2021-09-30 00:00:00
 categories:
   - travel
