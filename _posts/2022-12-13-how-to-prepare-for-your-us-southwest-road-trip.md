@@ -1,14 +1,14 @@
 ---
 layout: posts
 seo:
-  title: how to prepare for your US southwest road trip
+  title: how to prepare for your U.S. southwest road trip
   description: >-
     Going on your first US southwest roadtrip? How exciting!
 
 
     Planning a road trip can be a little overwhelming, here are some things you
     should know to help you start planning the perfect trip
-  keywords: US Southwest Road trip, USA
+  keywords: U.S. Southwest Road trip, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Utah/IMG_6515.jpg
