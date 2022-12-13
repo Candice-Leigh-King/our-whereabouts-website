@@ -38,29 +38,35 @@ content-blocks:
       <h2><strong>1. Decide what you want to see &amp; what you want to
       do:</strong></h2><p>You'll want to see everything, but it's not always
       possible and it's better to concentrate on one or two areas and not regret
-      staying somewhere longer &amp; therefore want to go back in the
-      future.</p><p>&nbsp;</p><h2><strong>2. Calculate the time needed to
+      staying somewhere longer &amp; therefore want to go back in the future.
+      Each state is unique and has so much to offer. Besides cities and national
+      parks there are also state parks and hidden gems to
+      explore.</p><p>&nbsp;</p><h2><strong>2. Calculate the time needed to
       drive:</strong></h2><p>Know that the US is a very large place &amp;
       getting around from one place to another can take a few hours, even if on
       the map they look close by. Calculate how far away it is from where you're
       staying to the places you are visiting and decide how much driving you
-      want to do per day.</p>
+      want to do per day. You'll have to "kill" some days on driving if you're
+      not taking flights.</p>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/2022_Utah/20221009_074600.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>3. Maps:</strong></h2><p>Pay for the Alltrails Pro plan, it is
-      worth it.</p><p>Before you leave for the day, download the maps of all the
-      hikes you plan on doing that day because most places don't have reception
-      and you can start losing reception as early as an hour away from the
+      <h2><strong>3. Navigation:</strong></h2><p>My best tip is download the
+      Alltrails app and pay for the Alltrails Pro plan, it is worth
+      it.</p><p>Before you leave for the day, download the maps of all the hikes
+      you plan on doing that day because most places don't have reception and
+      you can start losing reception as early as an hour away from the
       destination. Now, most places do have signs on the trail, and as long as
       you know which trails to follow you are okay, but not all have signs and
       if you don't have a map you CAN get lost!</p><p>For instance, Birthing
-      Cave in Sedona has no signs and we got lost</p><p>&nbsp;</p><h2><strong>4.
-      Plan ahead:</strong></h2><p>Thanks to Covid, Most of the people hiking in
-      the US are Americans, and Americans tend to plan their trips years in
-      advance so do take that into consideration when you're planning a trip,
-      especially if you're traveling during the busy season. If you don't plan
+      Cave in Sedona has no signs and we passed by it and ended up walking for 2
+      hours in the hear with no reception. That is NO
+      FUN!</p><p>&nbsp;</p><h2><strong>4. Plan ahead:</strong></h2><p>Thanks to
+      Covid, Most of the people hiking in the US are the locals, and Americans
+      tend to plan their trips years in advance so do take that into
+      consideration when you're planning a trip, especially if you're traveling
+      during the busy season (vacation days and holidays). If you don't plan
       ahead it might be hard for you to find accommodation, book activities, or
       even find campgrounds available.</p><p>You can always make reservations
       with free cancelation if need be, and change plans while on the go, just
@@ -71,13 +77,16 @@ content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>5. Check the hike's level of difficulty:</strong></h2><p>When
-      you decide on the hikes you want to take, find out the level of difficulty
-      and prepare yourself for it. Some hikes can be short but very strenuous.
-      We started training months before our trip</p><p>&nbsp;</p><h2><strong>6.
-      Luggage:</strong></h2><p>If you&rsquo;re planning multiple overnight pit
-      stops, have a small backpack ready each time, instead of having to carry
-      your whole</p><p>suitcase with you each time you</p><p>check into
-      accommodation.</p>
+      you decide on the hikes you want to do, do your research on that hike.
+      Find out the level of difficulty, read peoples reviews on this hike and
+      prepare yourself for it. If you don't read you wont know because some
+      hikes might be short but can be very strenuous. We started training months
+      before our trip because we wanted to be able to do hard hike like the
+      Narrows in Zion, Angel's Landing in Zion, Cathedral Rock in Sedona and
+      more..</p><p>&nbsp;</p><h2><strong>6. Luggage:</strong></h2><p>If
+      you&rsquo;re planning multiple overnight pit stops, have a small backpack
+      ready each time, instead of having to carry your whole suitcase with you
+      each time you check into your accommodation.</p>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/2022_California/IMG_8417-2.jpg
   - _section-type: blog-textarea
