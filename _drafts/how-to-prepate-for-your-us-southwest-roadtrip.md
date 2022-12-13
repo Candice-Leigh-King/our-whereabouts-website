@@ -23,8 +23,8 @@ content-blocks:
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading:
     google-embed-code:
-  - _section-type: blog-featured-textarea
-    blog-featured-textarea_html: >-
+  - _section-type: blog-textarea
+    textarea_html: >-
       <h2><strong>1. Decide what you want to see &amp; what you want to
       do:</strong></h2><p>You'll want to see everything, but it's not always
       possible and it's better to concentrate on one or two areas and not regret
@@ -35,6 +35,8 @@ content-blocks:
       the map they look close by. Calculate how far away it is from where you're
       staying to the places you are visiting and decide how much driving you
       want to do per day.</p>
+  - _section-type: blog-cover-image
+    blog-cover_image: /uploads/2022_Utah/20221009_074600.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>3. Maps:</strong></h2><p>Pay for the Alltrails Pro plan, it is
@@ -44,20 +46,18 @@ content-blocks:
       destination. Now, most places do have signs on the trail, and as long as
       you know which trails to follow you are okay, but not all have signs and
       if you don't have a map you CAN get lost!</p><p>For instance, Birthing
-      Cave in Sedona</p><p>has no signs and we got lost</p>
-  - _section-type: blog-featured-textarea
-    blog-featured-textarea_html: >-
-      <h2><strong>4. Plan ahead:</strong></h2><p>Thanks to Covid, Most of the
-      people hiking in the US are Americans, and Americans tend to plan their
-      trips years in advance so do take that into consideration when you're
-      planning a trip, especially if you're traveling during the busy season. If
-      you don't plan ahead it might be hard for you to find accommodation, book
-      activities, or even find campgrounds available.</p><p>You can always make
-      reservations with free cancelation if need be, and change plans while on
-      the go, just make sure to get free cancelation up to 24 hours before your
-      stay.</p>
-  - _section-type: blog-cover-image
-    blog-cover_image:
+      Cave in Sedona has no signs and we got lost</p><p>&nbsp;</p><h2><strong>4.
+      Plan ahead:</strong></h2><p>Thanks to Covid, Most of the people hiking in
+      the US are Americans, and Americans tend to plan their trips years in
+      advance so do take that into consideration when you're planning a trip,
+      especially if you're traveling during the busy season. If you don't plan
+      ahead it might be hard for you to find accommodation, book activities, or
+      even find campgrounds available.</p><p>You can always make reservations
+      with free cancelation if need be, and change plans while on the go, just
+      make sure to get free cancelation up to 24 hours before your stay.</p>
+  - _section-type: blog-window
+    right_image: /uploads/2022_Utah/IMG_4894.jpg
+    left_image: /uploads/2022_Utah/IMG_6915-3.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>5. Check the hike's level of difficulty:</strong></h2><p>When
@@ -68,8 +68,10 @@ content-blocks:
       stops, have a small backpack ready each time, instead of having to carry
       your whole</p><p>suitcase with you each time you</p><p>check into
       accommodation.</p>
-  - _section-type: blog-featured-textarea
-    blog-featured-textarea_html: >-
+  - _section-type: blog-cover-image
+    blog-cover_image:
+  - _section-type: blog-textarea
+    textarea_html: >-
       <h2><strong>7. Consider renting a 4x4:</strong></h2><p>If you're looking
       to explore off-road you'll need a 4x4. There are so many beautiful spots
       in Utah-Arizona that you can't get to unless you have a 4x4 so rent one
@@ -78,12 +80,10 @@ content-blocks:
       Bentonite Hills near Capitol Reef, I know of people who have done it, but
       if it rains your car probably won't be able to make it and you'll regret
       it. Plus, if you take a regular car and get into car trouble going on a
-      road made for 4x4 that could be very costly.</p>
-  - _section-type: blog-textarea
-    textarea_html: >-
-      <h2>8. Buy an American is Beautiful National Park Pass</h2><p>If you're
-      going to visit a few parks, or visit one for various days, it is best to
-      buy the pass for 80$.</p>
+      road made for 4x4 that could be very costly.</p><p>&nbsp;</p><h2>8. Buy an
+      American is Beautiful National Park Pass</h2><p>If you're going to visit a
+      few parks, or visit one for various days, it is best to buy the pass for
+      80$.</p>
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
