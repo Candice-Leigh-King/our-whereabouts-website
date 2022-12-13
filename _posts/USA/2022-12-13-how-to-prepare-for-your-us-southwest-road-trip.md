@@ -40,7 +40,7 @@ content-blocks:
       possible and it's better to concentrate on one or two areas and not regret
       staying somewhere longer &amp; therefore want to go back in the future.
       Each state is unique and has so much to offer. Besides cities and national
-      parks there are also state parks and hidden gems to
+      parks there are also state parks, and hidden gems to
       explore.</p><p>&nbsp;</p><h2><strong>2. Calculate the time needed to
       drive:</strong></h2><p>Know that the US is a very large place &amp;
       getting around from one place to another can take a few hours, even if on
@@ -52,7 +52,7 @@ content-blocks:
     blog-cover_image: /uploads/2022_Utah/20221009_074600.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>3. Navigation:</strong></h2><p>My best tip is download the
+      <h2><strong>3. Navigation:</strong></h2><p>My best tip is to download the
       Alltrails app and pay for the Alltrails Pro plan, it is worth
       it.</p><p>Before you leave for the day, download the maps of all the hikes
       you plan on doing that day because most places don't have reception and
