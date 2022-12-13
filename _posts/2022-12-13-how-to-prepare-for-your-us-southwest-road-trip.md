@@ -2,13 +2,20 @@
 layout: posts
 seo:
   title: how to prepare for your US southwest road trip
-  description:
-  keywords:
+  description: >-
+    Going on your first US southwest roadtrip? How exciting!
+
+
+    Planning a road trip can be a little overwhelming, here are some things you
+    should know to help you start planning the perfect trip
+  keywords: US Southwest Road trip, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Utah/IMG_6515.jpg
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  If you're planning a Southwest road trip and don't know where to start, this
+  post is for you
 cta: Read More →
 blog_image: /uploads/2022_Utah/IMG_6515.jpg
 date: 2022-12-13 00:00:00
@@ -17,12 +24,15 @@ categories:
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <p>Going on your first US southwest roadtrip?</p><p>Here are some things
-      you should know before you go.</p>
+      <p>Going on your first US southwest roadtrip? How exciting!</p><p>Planning
+      a road trip can be a little overwhelming, here are some things you should
+      know to help you start planning the perfect trip</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
-    heading:
-    google-embed-code:
+    heading: Southwest Road trip 2022
+    google-embed-code: >-
+      "https://www.google.com/maps/d/embed?mid=1uD-oU-dj9UWPen2kSs1Klh4b2Xz8XiE&ehbc=2E312F"
+      width="100%" height="480"
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>1. Decide what you want to see &amp; what you want to
