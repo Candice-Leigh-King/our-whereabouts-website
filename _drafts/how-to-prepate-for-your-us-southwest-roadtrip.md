@@ -69,7 +69,7 @@ content-blocks:
       your whole</p><p>suitcase with you each time you</p><p>check into
       accommodation.</p>
   - _section-type: blog-cover-image
-    blog-cover_image:
+    blog-cover_image: /uploads/2022_California/IMG_8417-2.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>7. Consider renting a 4x4:</strong></h2><p>If you're looking
