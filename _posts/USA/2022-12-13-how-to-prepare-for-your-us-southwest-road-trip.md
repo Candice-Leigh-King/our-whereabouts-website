@@ -11,13 +11,13 @@ seo:
   keywords: U.S. Southwest Road trip, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/2022_Utah/IMG_6515.jpg
+  social-share_image: /uploads/2022_California/IMG_3999.jpg
 author: Elizabeth
 blog-summary: >-
   If you're planning a Southwest road trip and don't know where to start, this
   post is for you
 cta: Read More →
-blog_image: /uploads/2022_Utah/IMG_6515.jpg
+blog_image: /uploads/2022_California/IMG_3999.jpg
 date: 2022-12-13 00:00:00
 categories:
   - travel
