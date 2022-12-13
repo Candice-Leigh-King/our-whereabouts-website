@@ -40,7 +40,7 @@ content-blocks:
       possible and it's better to concentrate on one or two areas and not regret
       staying somewhere longer &amp; therefore want to go back in the future.
       Each state is unique and has so much to offer. Besides cities and national
-      parks there are also state parks and hidden gems to
+      parks there are also state parks, and hidden gems to
       explore.</p><p>&nbsp;</p><h2><strong>2. Calculate the time needed to
       drive:</strong></h2><p>Know that the US is a very large place &amp;
       getting around from one place to another can take a few hours, even if on
@@ -52,7 +52,7 @@ content-blocks:
     blog-cover_image: /uploads/2022_Utah/20221009_074600.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>3. Navigation:</strong></h2><p>My best tip is download the
+      <h2><strong>3. Navigation:</strong></h2><p>My best tip is to download the
       Alltrails app and pay for the Alltrails Pro plan, it is worth
       it.</p><p>Before you leave for the day, download the maps of all the hikes
       you plan on doing that day because most places don't have reception and
@@ -78,11 +78,11 @@ content-blocks:
     textarea_html: >-
       <h2><strong>5. Check the hike's level of difficulty:</strong></h2><p>When
       you decide on the hikes you want to do, do your research on that hike.
-      Find out the level of difficulty, read peoples reviews on this hike and
-      prepare yourself for it. If you don't read you wont know because some
+      Find out the level of difficulty, read people's reviews on this hike, and
+      prepare yourself for it. If you don't read you won't know because some
       hikes might be short but can be very strenuous. We started training months
-      before our trip because we wanted to be able to do hard hike like the
-      Narrows in Zion, Angel's Landing in Zion, Cathedral Rock in Sedona and
+      before our trip because we wanted to be able to do a hard hike like the
+      Narrows in Zion, Angel's Landing in Zion, Cathedral Rock in Sedona, and
       more..</p><p>&nbsp;</p><h2><strong>6. Luggage:</strong></h2><p>If
       you&rsquo;re planning multiple overnight pit stops, have a small backpack
       ready each time, instead of having to carry your whole suitcase with you
@@ -99,10 +99,11 @@ content-blocks:
       Bentonite Hills near Capitol Reef, I know of people who have done it, but
       if it rains your car probably won't be able to make it and you'll regret
       it. Plus, if you take a regular car and get into car trouble going on a
-      road made for 4x4 that could be very costly.</p><p>&nbsp;</p><h2>8. Buy an
-      America is Beautiful National Park Pass</h2><p>If you're going to visit a
-      few parks, or visit one for various days, it is best to buy the pass for
-      80$.</p><p>Usually it costs 35$ to enter a national park.</p>
+      road made for 4x4 that could be very
+      costly.</p><p>&nbsp;</p><h2><strong>8. Buy an America is Beautiful
+      National Park Pass</strong></h2><p>If you're going to visit a few parks or
+      visit one for various days, it is best to buy the pass for 80$.Usually, it
+      costs 35$ to enter a national park.</p>
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
