@@ -78,11 +78,11 @@ content-blocks:
     textarea_html: >-
       <h2><strong>5. Check the hike's level of difficulty:</strong></h2><p>When
       you decide on the hikes you want to do, do your research on that hike.
-      Find out the level of difficulty, read peoples reviews on this hike and
-      prepare yourself for it. If you don't read you wont know because some
+      Find out the level of difficulty, read people's reviews on this hike, and
+      prepare yourself for it. If you don't read you won't know because some
       hikes might be short but can be very strenuous. We started training months
-      before our trip because we wanted to be able to do hard hike like the
-      Narrows in Zion, Angel's Landing in Zion, Cathedral Rock in Sedona and
+      before our trip because we wanted to be able to do a hard hike like the
+      Narrows in Zion, Angel's Landing in Zion, Cathedral Rock in Sedona, and
       more..</p><p>&nbsp;</p><h2><strong>6. Luggage:</strong></h2><p>If
       you&rsquo;re planning multiple overnight pit stops, have a small backpack
       ready each time, instead of having to carry your whole suitcase with you
