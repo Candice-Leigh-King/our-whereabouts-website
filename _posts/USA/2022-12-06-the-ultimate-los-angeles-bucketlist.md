@@ -19,13 +19,13 @@ seo:
   keywords: Los Angeles bucketlist, California, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/California/IMG_0421.jpg
+  social-share_image: /uploads/2022_California/20220925_111226.jpg
 author: Elizabeth
 blog-summary: >-
   If you're visiting Los Angeles for the first time, here are some things you
   must add to your bucketlist
 cta: Read More →
-blog_image: /uploads/California/IMG_0421.jpg
+blog_image: /uploads/2022_California/20220925_111226.jpg
 date: 2022-12-06 00:00:00
 categories:
   - travel
@@ -60,11 +60,11 @@ content-blocks:
       Fame</h2><p>Spanning 18 blocks of Hollywood Blvd and Vine Street the Walk
       of Fame now includes about 2,600 stars and is a must.</p>
   - _section-type: gallery
-    1_image: /uploads/California/20171007_143021.jpg
-    2_image: /uploads/California/20220925_111226.jpg
-    3_image: /uploads/California/20191031_165410-2.jpg
-    4_image: /uploads/California/20220927_205332.jpg
-    5_image: /uploads/California/20170926_163423.jpg
+    1_image: /uploads/2022_California/20171007_143021.jpg
+    2_image: /uploads/2022_California/IMG_0548-2.jpg
+    3_image: /uploads/2022_California/20191031_165410-2.jpg
+    4_image: /uploads/2022_California/20170926_163423.jpg
+    5_image: /uploads/2022_California/20220927_205332.jpg
     6_image: /uploads/189.jpg
   - _section-type: blog-textarea
     textarea_html: >-
@@ -83,12 +83,12 @@ content-blocks:
       park&nbsp;</h2><p>There are so many great options, but Six Flags Magic
       Mountain, Universal Studios, and Disneyland are the top.</p>
   - _section-type: gallery
-    1_image: /uploads/California/20220928_181500-2.jpg
-    2_image: /uploads/California/IMG_1790.jpg
-    3_image: /uploads/California/20220925_145654.jpg
-    4_image: /uploads/California/IMG_0461.jpg
-    5_image: /uploads/California/19062012193.jpg
-    6_image: /uploads/California/20221017_203638-3.jpg
+    1_image: /uploads/2022_California/20220928_181500-2.jpg
+    2_image: /uploads/2022_California/20220929173635_IMG_2489.jpg
+    3_image: /uploads/2022_California/20220925_151918.jpg
+    4_image: /uploads/2022_California/20220925_161251.jpg
+    5_image: /uploads/2022_California/IMG_0461.jpg
+    6_image: /uploads/2022_California/20221017_203638-3.jpg
   - _section-type: signature
     signature_html: >-
       <h3>Have fun!</h3><p>&nbsp;</p><h3><strong>Our Whereabouts

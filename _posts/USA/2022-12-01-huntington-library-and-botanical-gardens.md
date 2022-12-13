@@ -9,13 +9,13 @@ seo:
   keywords: Huntington Library and Botanical gardens, Pasedena, CA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/California/20220925_145654.jpg
+  social-share_image: /uploads/2022_California/20220925_145654.jpg
 author: Elizabeth
 blog-summary: >-
   Looking for a hidden gem right outside of Los Angeles? Check out Huntington
   Library Museum and Botanical Gardens.
 cta: Read More →
-blog_image: /uploads/California/20220925_145654.jpg
+blog_image: /uploads/2022_California/20220925_145654.jpg
 date: 2022-12-01 00:00:00
 categories:
   - travel
@@ -45,7 +45,7 @@ content-blocks:
       massive.</p><p>&nbsp;</p><h2>Parking:&nbsp;</h2><p>Parking is free but the
       parking lot fills up pretty quickly, so come early.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/California/IMG_0650.jpg
+    blog-cover_image: /uploads/2022_California/IMG_0650.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2>Things to do:&nbsp;</h2><p>&bull;The Huntington Library - It has more
@@ -79,12 +79,12 @@ content-blocks:
       picnicking is allowed in the gardens</p><p>&bull;Drones are not
       allowed.</p>
   - _section-type: gallery
-    1_image: /uploads/California/20220925_152424.jpg
-    2_image: /uploads/California/20220925_141906.jpg
-    3_image: /uploads/California/20220925_142049.jpg
-    4_image: /uploads/California/20220925_151918.jpg
-    5_image: /uploads/California/20220925_160724.jpg
-    6_image: /uploads/California/20220925_155948.jpg
+    1_image: /uploads/2022_California/20220925_152424.jpg
+    2_image: /uploads/2022_California/20220925_141906.jpg
+    3_image: /uploads/2022_California/20220925_142049.jpg
+    4_image: /uploads/2022_California/20220925_155433.jpg
+    5_image: /uploads/2022_California/20220925_160724.jpg
+    6_image: /uploads/2022_California/20220925_151918.jpg
   - _section-type: signature
     signature_html: <h4><strong>Our Whereabouts xxx</strong></h4>
 ---
