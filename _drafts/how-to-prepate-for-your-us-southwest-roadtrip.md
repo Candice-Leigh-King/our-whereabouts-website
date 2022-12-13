@@ -81,9 +81,9 @@ content-blocks:
       if it rains your car probably won't be able to make it and you'll regret
       it. Plus, if you take a regular car and get into car trouble going on a
       road made for 4x4 that could be very costly.</p><p>&nbsp;</p><h2>8. Buy an
-      American is Beautiful National Park Pass</h2><p>If you're going to visit a
+      America is Beautiful National Park Pass</h2><p>If you're going to visit a
       few parks, or visit one for various days, it is best to buy the pass for
-      80$.</p>
+      80$.</p><p>Usually it costs 35$ to enter a national park.</p>
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
