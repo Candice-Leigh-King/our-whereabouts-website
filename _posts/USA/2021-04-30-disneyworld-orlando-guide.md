@@ -12,7 +12,8 @@ seo:
   keywords: Walt Disneyworld, Magic Kingdom, Orlando, USA.
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Florida/209.jpg
+  social-share_image: /uploads/Florida/209.jpg  
+title: Disneyworld Orlando
 author: Elizabeth
 blog-summary: The Ultimate guide for Walt DisneyWorld, Orlando.
 cta: Read More →

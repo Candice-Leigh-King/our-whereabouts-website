@@ -14,6 +14,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Utah/IMG_4768-2.jpg
+title: Canyonlands National Park mini guide
 author: Elizabeth
 blog-summary: >-
   If you're visiting Canyonlands National Park in Utah, here are some things you

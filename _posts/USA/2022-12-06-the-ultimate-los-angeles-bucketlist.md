@@ -20,6 +20,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_California/20220925_111226.jpg
+title: The Ultimate Los Angeles Bucketlist
 author: Elizabeth
 blog-summary: >-
   If you're visiting Los Angeles for the first time, here are some things you

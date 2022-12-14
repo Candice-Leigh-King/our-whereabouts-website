@@ -14,6 +14,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/USA_2022/IMG_7938-3.jpg
+title: Valley of Fire State Park, Nevada
 author: Elizabeth
 blog-summary: Travel guide for your trip to Valley Of Fire
 cta: Read More →
