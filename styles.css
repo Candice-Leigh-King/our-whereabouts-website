@@ -569,6 +569,7 @@ input:focus, textarea:focus
   width: 100%;
   margin: 0;
   display: block;
+  text-transform: none;
   }
 
 .blog-masonry
