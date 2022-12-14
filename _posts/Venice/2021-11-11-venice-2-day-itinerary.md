@@ -14,6 +14,7 @@ seo:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
   social-share_image: /uploads/Venice/195.JPG
+title: 2 day Itinerary Venice
 author: Elizabeth
 blog-summary: Venice is such a beautiful city. Here's what to do if you've got 2 days.
 cta: Read More →

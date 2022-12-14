@@ -9,6 +9,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/romania/20200212_164709.jpg
+title: 5 days in Romania
 author: Elizabeth
 blog-summary: >-
   The best places to eat in Bucharest, including vegan and Kosher
