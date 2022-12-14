@@ -15,6 +15,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/36.jpg
+title: Disneyland Paris
 author: Elizabeth
 blog-summary: All the tips you need to prepare for your vacation at Disneyland Paris
 cta: Read More →

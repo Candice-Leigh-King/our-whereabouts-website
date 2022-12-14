@@ -9,6 +9,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Israel/120.jpg
+title: UNESCO sites in Israel
 author: Elizabeth
 blog-summary: All the details you need about the UNESCO sites in Israel
 cta: Read More →

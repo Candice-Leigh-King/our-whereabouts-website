@@ -13,6 +13,7 @@ seo:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
   social-share_image: /uploads/Venice/199.jpg
+title: Murano & Burano
 author: Elizabeth
 blog-summary: >-
   Located 50 minutes away from Venice are two islands you shouldn't miss during

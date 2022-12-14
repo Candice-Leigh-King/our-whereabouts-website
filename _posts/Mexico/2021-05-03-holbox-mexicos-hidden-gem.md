@@ -15,6 +15,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Reduced/185.jpg
+title: 'Holbox: Mexico''s Hidden Gem'
 author: Elizabeth
 blog-summary: Isla Holbox is such a gem and a must-see when visiting Quintana Roo, Mexico
 cta: Read More →

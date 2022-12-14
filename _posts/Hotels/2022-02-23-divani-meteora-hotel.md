@@ -12,6 +12,7 @@ seo:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
   social-share_image: /uploads/Media_Kit/252.jpg
+title: Divani Meteora Hotel
 author: Elizabeth
 blog-summary: Looking for a place to stay in Meteora? This post is for you!
 cta: Read More →

@@ -9,6 +9,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Reduced/20190117_122032.jpg
+title: D8 Hotel, Budapest
 author: Elizabeth
 blog-summary: >-
   If you're looking for a great, clean place to stay in the center of Budapest,

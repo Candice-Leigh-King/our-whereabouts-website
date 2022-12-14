@@ -9,6 +9,7 @@ seo:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
   social-share_image: /uploads/20180918-121207-1.jpg
+title: Grand Park Royal Cozumel Hotel
 author: Elizabeth
 blog-summary: Looking for a place to stay in Cozumel? This post is for you!
 cta: Read More →

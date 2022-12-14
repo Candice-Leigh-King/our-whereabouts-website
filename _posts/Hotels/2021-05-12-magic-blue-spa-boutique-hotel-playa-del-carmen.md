@@ -8,6 +8,7 @@ seo:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
   social-share_image: /uploads/20180909-125354.jpg
+title: Magic Blue Spa Boutique Hotel, Playa del Carmen
 author: Elizabeth
 blog-summary: Great and affordable hotel in Playa del Carmen
 cta: Read More →

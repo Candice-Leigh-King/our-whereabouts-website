@@ -10,6 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/224.JPG
+title: 4 days in the Dolomites
 author: Elizabeth
 blog-summary: How to spend 4 days in the Dolomites
 cta: Read More →

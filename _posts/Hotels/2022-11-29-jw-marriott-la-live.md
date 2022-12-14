@@ -18,6 +18,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/California/20220929173635_IMG_2489.jpg
+title: JW Marriott Los Angeles L.A. LIVE
 author: Elizabeth
 blog-summary: >-
   If you're visiting the city of stars, it's only suiting that you feel like a

@@ -13,6 +13,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/20180908-100056.jpg
+title: How to spend 7 Days in Playa del Carmen
 author: Elizabeth
 blog-summary: >-
   Playa del Carmen is a great place to base yourself for a few days. Here's how
