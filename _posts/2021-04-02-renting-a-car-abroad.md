@@ -9,6 +9,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/shared-from-lightroom-mobile-3-1.jpg
+title: Tips for renting a car
 author: Elizabeth
 blog-summary: >-
   If you're looking to rent a car during your travels here are some tips you
