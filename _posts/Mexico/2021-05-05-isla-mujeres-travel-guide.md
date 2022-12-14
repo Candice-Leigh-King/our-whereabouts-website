@@ -13,6 +13,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/20180926-135042.jpg
+title: Isla Mujeres Travel Guide
 author: Elizabeth
 blog-summary: Everything you need to know before you visit Isla Mujeres, Mexico
 cta: Read More →
