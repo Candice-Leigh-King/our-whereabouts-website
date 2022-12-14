@@ -10,6 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/36-1.jpg
+title: Pena Palace, Sintra
 author: Elizabeth
 blog-summary: 'The Ultimate Guide: Pena Palace'
 cta: Read More →
