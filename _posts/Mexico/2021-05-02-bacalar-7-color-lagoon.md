@@ -15,6 +15,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Reduced/152.jpg
+title: Bacalar, 7 color lagoon
 author: Elizabeth
 blog-summary: >-
   Bacalar, 7 color Lagoon, is a hidden gem in Quintana Roo that you should add
