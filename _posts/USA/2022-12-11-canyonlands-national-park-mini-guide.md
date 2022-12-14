@@ -1,7 +1,7 @@
 ---
 layout: posts
 seo:
-  title: Canyonlands National Park mini guide
+  title: 'Canyonlands National Park: Mini Guide'
   description: >-
     If you're visiting Canyonlands National Park in Utah, here are some things
     you should know.
