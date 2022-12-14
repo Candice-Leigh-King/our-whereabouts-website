@@ -12,6 +12,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/IMG_8286.jpg
+title: National Palace of Sintra
 author: Elizabeth
 blog-summary: 'National Palace of Sintra: The Ultimate Guide'
 cta: Read More →

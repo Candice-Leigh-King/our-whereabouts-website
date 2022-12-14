@@ -10,6 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/IMG_6737-3.jpg
+title: 2-days in Lisbon
 author: Elizabeth
 blog-summary: >-
   If you're heading to Lisbon for 2 days and are looking for an itinerary here's

@@ -10,6 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/42.jpg
+title: Quinta da Regaleira
 author: Elizabeth
 blog-summary: Everything you need to know before your visit to Quinta da Regaleira
 cta: Read More →

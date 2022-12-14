@@ -7,6 +7,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/P-extra-IMG_4130.jpg
+title: How to get around the Algarve Coast
 author: Elizabeth
 blog-summary: four ways you can get around the Algarve coast, Portugal
 cta: Read More →

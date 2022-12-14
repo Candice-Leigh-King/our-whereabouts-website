@@ -11,6 +11,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Reduced/49_2.jpg
+title: Where to eat in Bucharest
 author: Elizabeth
 blog-summary: >-
   The best places to eat in Bucharest, including vegan and Kosher
