@@ -10,6 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/20180927-104711.jpg
+title: 'Mexico: The ultimate travel guide'
 author: Elizabeth
 blog-summary: Everything you need to know before your trip to Mexico + 20 of our top tips
 cta: Read More →
