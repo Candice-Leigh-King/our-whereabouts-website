@@ -1,7 +1,7 @@
 ---
 layout: posts
 seo:
-  title: 10 day utah mighty 5 itinerary
+  title: 10-Day Utah Mighty 5 Itinerary
   description: >-
     The Utah national parks road trip, also known as "The Mighty 5 road trip" is
     great in any season and it has scenery, unlike anything you’ll see on this
