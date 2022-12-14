@@ -13,6 +13,7 @@ seo:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
   social-share_image: /uploads/166.jpg
+title: Hyatt Ziva All-Inclusive, Cancun
 author: Elizabeth
 blog-summary: The best hotel in Cancun!
 cta: Read More →
