@@ -11,6 +11,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/40-1.jpg
+title: Moorish Castle, Sintra  
 author: Elizabeth
 blog-summary: 'Moorish Castle: The ultimate Guide. Don''t miss this beautiful castle in Sintra'
 cta: Read More →
