@@ -7,6 +7,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/IMG_7000.jpg
+title: Getting around Lisbon
 author: Elizabeth
 blog-summary: >-
   The best way to get around Lisbon is by public transportation, here's all you
