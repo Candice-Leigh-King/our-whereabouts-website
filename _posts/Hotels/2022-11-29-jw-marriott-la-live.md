@@ -17,14 +17,14 @@ seo:
   keywords: JW Marriott Los Angeles L.A. LIVE, California
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/California/20220929173635_IMG_2489.jpg
+  social-share_image: /uploads/2022_California/20220929173635_IMG_2489.jpg
 title: JW Marriott Los Angeles L.A. LIVE
 author: Elizabeth
 blog-summary: >-
   If you're visiting the city of stars, it's only suiting that you feel like a
   star. The JW Marriott LA Live will take care of that!
 cta: Read More →
-blog_image: /uploads/California/20220929173635_IMG_2489.jpg
+blog_image: /uploads/2022_California/20220929173635_IMG_2489.jpg
 date: 2022-11-29 00:00:00
 categories:
   - accommodation
@@ -112,12 +112,12 @@ content-blocks:
       state is accessible, making hikes and outdoor adventures in the northern
       regions possible with mild, comfortable temperatures.</p>
   - _section-type: gallery
-    1_image: /uploads/California/20220926_185152.jpg
-    2_image: /uploads/California/20220928183439_IMG_1929.jpg
-    3_image: /uploads/California/IMG_1765.jpg
-    4_image: /uploads/California/20220928171155_IMG_1835.jpg
-    5_image: /uploads/California/IMG_1197-2.jpg
-    6_image: /uploads/California/IMG_1158.jpg
+    1_image: /uploads/2022_California/20220926_185152.jpg
+    2_image: /uploads/2022_California/IMG_1765.jpg
+    3_image: /uploads/2022_California/20220928183439_IMG_1929.jpg
+    4_image: /uploads/2022_California/IMG_1158.jpg
+    5_image: /uploads/2022_California/IMG_1462.jpg
+    6_image: /uploads/2022_California/IMG_1790.jpg
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---
