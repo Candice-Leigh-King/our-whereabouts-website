@@ -11,6 +11,7 @@ seo:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
   social-share_image: /uploads/Venice/201.jpg
+title: Free Things to do in Venice
 author: Elizabeth
 blog-summary: >-
   Venice can be a very expensive destination. Here are a few things you could do
