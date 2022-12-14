@@ -189,6 +189,7 @@ h4, h6 {color: #5F4F45;}
   font-family: 'Libre Baskerville', serif;
   color: #5F4F45;
   font-size: 1.5rem;
+  text-transform: none;
   }
 
 .libre h3 {font-family: 'Libre Baskerville', serif;}
