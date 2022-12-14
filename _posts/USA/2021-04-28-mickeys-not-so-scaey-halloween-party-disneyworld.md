@@ -15,6 +15,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Florida/20180907_190806.jpg
+title: Mickey's Not so scary halloween Party at disneyworld
 author: Elizabeth
 blog-summary: >-
   Everything you need to know about the halloween party in Walt Disneyworld,
