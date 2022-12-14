@@ -10,6 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Reduced/GOPR0275.jpg
+title: Universal Studios Orlando
 author: Elizabeth
 blog-summary: >-
   Everything you need to know about Universal studios Orlando, where to stay on
