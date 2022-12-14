@@ -10,6 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Israel/104.jpg
+title: Top 10 Beaches in Israel
 author: Elizabeth
 blog-summary: Best beaches in Israel
 cta: Read More →
