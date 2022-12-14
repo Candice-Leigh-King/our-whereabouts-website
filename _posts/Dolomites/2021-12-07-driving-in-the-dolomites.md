@@ -13,6 +13,7 @@ seo:
   social-alt:
   url: /
   social-share_image: /uploads/Dolomites/221.jpg
+title: Driving in the Dolomites
 author: Elizabeth
 blog-summary: >-
   In this blog post I will share some of our tips for driving in the Dolomites
