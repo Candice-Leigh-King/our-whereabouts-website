@@ -17,6 +17,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Meteora/253.jpg
+title: Meteora 2-Day Itinerary
 author: Elizabeth
 blog-summary: >-
   If you're planning on spending more than one day in Meteora, excellent! Here's
