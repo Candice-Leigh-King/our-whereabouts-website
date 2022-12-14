@@ -13,6 +13,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Budapest_Austria/20190116_112908-2.jpg
+title: Day trip from Budapest to Vienna
 author: Elizabeth
 blog-summary: Looking to plan a trip but don't know where to start? I've got you!
 cta: Read More →
