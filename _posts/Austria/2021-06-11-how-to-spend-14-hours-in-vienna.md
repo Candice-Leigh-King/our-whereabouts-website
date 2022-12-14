@@ -12,6 +12,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Budapest_Austria/20190116_132208.jpg
+title: How to spend 14 hours in Vienna
 author: Elizabeth
 blog-summary: In you've only got a day in Vienna, here's what you should do
 cta: Read More →

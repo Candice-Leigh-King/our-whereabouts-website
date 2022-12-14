@@ -14,6 +14,7 @@ seo:
   social-alt:
   url: /
   social-share_image: /uploads/Dolomites/217.jpg
+title: How to get to the Dolomites  
 author: Elizabeth
 blog-summary: >-
   There are a few ways to get to the dolomites and I will share them in this
