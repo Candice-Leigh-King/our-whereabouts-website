@@ -12,6 +12,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Budapest_Austria/20190115_101539.jpg
+title: 12 must-see in Budapest
 author: Elizabeth
 blog-summary: When visiting Budapest here are 12 must-see in this magical city
 cta: Read More →
