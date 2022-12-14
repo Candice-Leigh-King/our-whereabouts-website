@@ -189,12 +189,13 @@ h4, h6 {color: #5F4F45;}
   font-family: 'Libre Baskerville', serif;
   color: #5F4F45;
   font-size: 1.5rem;
+  text-transform: none;
   }
 
 .blog
-{
-text-transform: none;  
-}
+  {
+  text-transform: none;  
+  }
 
 .libre h3 {font-family: 'Libre Baskerville', serif;}
 
@@ -596,6 +597,7 @@ input:focus, textarea:focus
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
+  text-transform: none;
   }
 
 .blog-fixed-banner
@@ -612,7 +614,10 @@ input:focus, textarea:focus
   min-height: 320px;
 }
 
-.blog h1 {font-size: 1.5rem;}
+.blog h1 
+  {
+  font-size: 1.5rem; text-transform: none;
+  }
 
 .beige-text h1 {color: #B89E8E;}
 
