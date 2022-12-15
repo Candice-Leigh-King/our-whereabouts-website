@@ -1,7 +1,7 @@
 ---
 layout: posts
 seo:
-  title: 'Canyonlands National Park: Mini Guide'
+  title: 'Canyonlands National Park: Mini-Guide'
   description: >-
     If you're visiting Canyonlands National Park in Utah, here are some things
     you should know.
@@ -14,7 +14,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Utah/IMG_4768-2.jpg
-title: Canyonlands National Park mini guide
+title: 'Canyonlands National Park: Mini-Guide'
 author: Elizabeth
 blog-summary: >-
   If you're visiting Canyonlands National Park in Utah, here are some things you
