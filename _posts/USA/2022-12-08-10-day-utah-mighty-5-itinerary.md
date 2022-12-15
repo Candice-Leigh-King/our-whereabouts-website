@@ -16,7 +16,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Utah/IMG_4671.jpg
-title: 10 day utah mighty 5 itinerary
+title: 10-Day Utah Mighty 5 Itinerary
 author: Elizabeth
 blog-summary: >-
   If you're planning a road trip to Utah's 5 National Parks, here's a 10-day
