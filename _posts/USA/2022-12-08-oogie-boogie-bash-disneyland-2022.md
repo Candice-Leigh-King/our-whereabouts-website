@@ -19,7 +19,7 @@ blog-summary: >-
   everything you need to know about the 2022 party
 cta: Read More →
 blog_image: /uploads/2022_California/2022-10-18---Special-Events-at.jpg
-date: 2022-12-08 00:00:00
+date: 2022-12-07 00:00:00
 categories:
   - travel
 content-blocks:
