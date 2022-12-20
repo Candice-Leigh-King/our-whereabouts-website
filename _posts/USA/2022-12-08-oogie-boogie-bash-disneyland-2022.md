@@ -27,8 +27,10 @@ content-blocks:
     blog-featured-textarea_html: >-
       <p>Happy Halloween!</p><p>The Halloween parties at Disneyland are some of
       the most popular events of the year and for a good reason. They are so
-      much fun for both adults and kids.</p><p><em><strong>(Updated
-      2022)</strong></em></p>
+      much fun for both adults and kids.</p><p>In this post, I cover tickets,
+      hours, costume rules, trick or Treat, Character Meet &amp; Greets, tips
+      for Frightfully Fun Parade, and Villain's Grove Oogie Boogie
+      Bash</p><p><em><strong>(Updated 2022)</strong></em></p>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/2022_California/20221018_204152.jpg
   - _section-type: blog-textarea
@@ -44,7 +46,7 @@ content-blocks:
       pm (People start getting in line as early as 2:30)</p><p>𝐖𝐚𝐫𝐧𝐢𝐧𝐠:
       If you're visiting during September/October and don't have tickets for the
       event you will be "kicked out" of California Adventure Park at 6 pm for
-      the event</p><p>&nbsp;</p><h2>Cosume Rules:</h2><p>The best part of the
+      the event</p><p>&nbsp;</p><h2>Costume Rules:</h2><p>The best part of the
       event is seeing everyone's beautiful &amp; creative
       costumes.</p><p>Costumes must be family-friendly, Guests who dress like
       characters may not pose for pictures/sign autographs for others, costumes
@@ -59,7 +61,7 @@ content-blocks:
       parade!</p><p>The best spot to watch the parade is near 'The Little
       mermaid' ride, across from Pixar Pier.</p><p>They have 2 shows, always go
       for the second show because there are way fewer
-      people</p><p>&nbsp;</p><h2>Villain's Grive Oogie Boogie
+      people</p><p>&nbsp;</p><h2>Villain's Grove Oogie Boogie
       Bash:</h2><p>Redwood Creek Challenge Trail is transformed into a mystical
       villain-inspired maze. The color, lights, and sound are mesmerizing</p>
   - _section-type: gallery
