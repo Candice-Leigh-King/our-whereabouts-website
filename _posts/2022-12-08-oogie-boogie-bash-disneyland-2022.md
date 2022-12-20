@@ -2,19 +2,26 @@
 layout: posts
 seo:
   title: Oogie Boogie Bash, Disneyland
-  description:
-  keywords:
+  description: >-
+    Happy Halloween!
+
+
+    The Halloween parties at Disneyland are some of the most popular events of
+    the year and for a good reason. They are so much fun for both adults and
+    kids.
+  keywords: Oogie Boogie Halloween Bash, Disneyland California
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image:
+  social-share_image: >-
+    /uploads/2022_California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(2).jpg
 author: Elizabeth
 blog-summary: >-
   Halloween at the Disney Parks is one of our favorite times to visit. Here's
   everything you need to know about the 2022 party
 cta: Read More →
 blog_image: >-
-  /uploads/California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(2).jpg
-date: 2022-12-11 00:00:00
+  /uploads/2022_California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(2).jpg
+date: 2022-12-08 00:00:00
 categories:
   - travel
 content-blocks:
@@ -25,7 +32,7 @@ content-blocks:
       much fun for both adults and kids.</p><p><em><strong>(Updated
       2022)</strong></em></p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/California/20221018_232346.jpg
+    blog-cover_image: /uploads/2022_California/20221018_204152.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>Tickets:&nbsp;</strong></h2><p>&bull;It is a special event so
@@ -59,13 +66,13 @@ content-blocks:
       villain-inspired maze. The color, lights, and sound are mesmerizing</p>
   - _section-type: gallery
     1_image: >-
-      /uploads/California/2022-10-18---Disney-California-Adventure-Park---Buena-Vista-Street-(2).jpg
+      /uploads/2022_California/2022-10-18---Disney-California-Adventure-Park---Buena-Vista-Street-(2).jpg
     2_image: >-
-      /uploads/California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(7).jpg
-    3_image: /uploads/California/20221018_150440.jpg
-    4_image: /uploads/California/20221018_150650.jpg
-    5_image: /uploads/California/20221018_222154.jpg
-    6_image: /uploads/California/20221018_233322.jpg
+      /uploads/2022_California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(7).jpg
+    3_image: /uploads/2022_California/20221018_150440.jpg
+    4_image: /uploads/2022_California/20221018_150650.jpg
+    5_image: /uploads/2022_California/20221018_222154.jpg
+    6_image: /uploads/2022_California/20221018_233322.jpg
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: California Adventure, Disneyland, California
