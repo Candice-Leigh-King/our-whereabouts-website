@@ -70,8 +70,9 @@ content-blocks:
       because, in the late afternoon and early evening, you'll be facing the
       sun. The speed limit on this road is 65 mph, so it is important to watch
       for cars because this road gets busy, especially in the afternoon.</p>
-  - _section-type: blog-cover-image
-    blog-cover_image: /uploads/2022_Utah/IMG_4395.jpg
+  - _section-type: blog-window
+    right_image: /uploads/2022_Utah/IMG_4408.jpg
+    left_image: /uploads/2022_Utah/IMG_4395.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>3. The Mexican Hat:</strong></h2><p>The Mexican Hat is a
