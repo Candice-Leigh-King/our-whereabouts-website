@@ -12,13 +12,13 @@ seo:
   keywords: Oogie Boogie Halloween Bash, Disneyland California
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image:
+  social-share_image: /uploads/2022_California/2022-10-18---Special-Events-at.jpg
 author: Elizabeth
 blog-summary: >-
   Halloween at the Disney Parks is one of our favorite times to visit. Here's
   everything you need to know about the 2022 party
 cta: Read More →
-blog_image:
+blog_image: /uploads/2022_California/2022-10-18---Special-Events-at.jpg
 date: 2022-12-08 00:00:00
 categories:
   - travel
@@ -63,8 +63,8 @@ content-blocks:
       Bash:</h2><p>Redwood Creek Challenge Trail is transformed into a mystical
       villain-inspired maze. The color, lights, and sound are mesmerizing</p>
   - _section-type: gallery
-    1_image:
-    2_image:
+    1_image: /uploads/2022_California/2022-10-18---Disney-California.jpg
+    2_image: /uploads/2022_California/2022-10-18---Special-Events-at-DCA.jpg
     3_image: /uploads/2022_California/20221018_150440.jpg
     4_image: /uploads/2022_California/20221018_150650.jpg
     5_image: /uploads/2022_California/20221018_222154.jpg
