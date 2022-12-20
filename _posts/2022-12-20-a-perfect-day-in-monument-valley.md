@@ -73,8 +73,8 @@ content-blocks:
   - _section-type: blog-window
     right_image: /uploads/2022_Utah/IMG_4408.jpg
     left_image: /uploads/2022_Utah/IMG_4395.jpg
-  - _section-type: blog-featured-textarea
-    blog-featured-textarea_html: >-
+  - _section-type: blog-textarea
+    textarea_html: >-
       <h2><strong>3. The Mexican Hat:</strong></h2><p>The Mexican Hat is a
       unique natural rock formation that looks like a Mexican hat located
       outside of the formal park.</p>
