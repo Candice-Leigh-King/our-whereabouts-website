@@ -12,15 +12,13 @@ seo:
   keywords: Oogie Boogie Halloween Bash, Disneyland California
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: >-
-    /uploads/2022_California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(2).jpg
+  social-share_image:
 author: Elizabeth
 blog-summary: >-
   Halloween at the Disney Parks is one of our favorite times to visit. Here's
   everything you need to know about the 2022 party
 cta: Read More →
-blog_image: >-
-  /uploads/2022_California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(2).jpg
+blog_image:
 date: 2022-12-08 00:00:00
 categories:
   - travel
@@ -41,20 +39,20 @@ content-blocks:
       quickly. This year all the events sold out within only 2 days, so make
       sure to order fast</p><p>&bull;Ticket includes admission to Disney
       California Adventure Park, a small bag for trick or treating, and a
-      PhotoPass during the event</p><p>&nbsp;</p><p>Hours:&nbsp;</p><p>The event
-      officially starts at 6 pm, but you can enter the park as early as 3 pm
-      (People start getting in line as early as 2:30)</p><p>𝐖𝐚𝐫𝐧𝐢𝐧𝐠: If
-      you're visiting during September/October and don't have tickets for the
+      PhotoPass during the event</p><p>&nbsp;</p><h2>Hours:&nbsp;</h2><p>The
+      event officially starts at 6 pm, but you can enter the park as early as 3
+      pm (People start getting in line as early as 2:30)</p><p>𝐖𝐚𝐫𝐧𝐢𝐧𝐠:
+      If you're visiting during September/October and don't have tickets for the
       event you will be "kicked out" of California Adventure Park at 6 pm for
-      the event</p><p>&nbsp;</p><p>Cosume Rules:</p><p>The best part of the
+      the event</p><p>&nbsp;</p><h2>Cosume Rules:</h2><p>The best part of the
       event is seeing everyone's beautiful &amp; creative
       costumes.</p><p>Costumes must be family-friendly, Guests who dress like
       characters may not pose for pictures/sign autographs for others, costumes
       may not contain sharp objects, and Costumes may not reach or drag on the
-      ground.</p><p>&nbsp;</p><p>Trick or Treat:</p><p>Across the park are Treat
-      Trails where you can collect candy and meet villains at the end of the
-      trail</p><p>&nbsp;</p><p>Character Meet &amp; Greets:</p><p>One of the
-      best things at the event is that Mickey and his friends are dressed up
+      ground.</p><p>&nbsp;</p><h2>Trick or Treat:</h2><p>Across the park are
+      Treat Trails where you can collect candy and meet villains at the end of
+      the trail</p><p>&nbsp;</p><h2>Character Meet &amp; Greets:</h2><p>One of
+      the best things at the event is that Mickey and his friends are dressed up
       each year differently and you can meet characters that you don't often see
       in the park like Oogie Boogie, Maleficent, Cruella, Madam Mim, and
       more</p><p>&nbsp;</p><h2>Frightfully Fun Parade:&nbsp;</h2><p>We love this
@@ -65,10 +63,8 @@ content-blocks:
       Bash:</h2><p>Redwood Creek Challenge Trail is transformed into a mystical
       villain-inspired maze. The color, lights, and sound are mesmerizing</p>
   - _section-type: gallery
-    1_image: >-
-      /uploads/2022_California/2022-10-18---Disney-California-Adventure-Park---Buena-Vista-Street-(2).jpg
-    2_image: >-
-      /uploads/2022_California/2022-10-18---Special-Events-at-DCA---Disney-California-Adventure-Park-(7).jpg
+    1_image:
+    2_image:
     3_image: /uploads/2022_California/20221018_150440.jpg
     4_image: /uploads/2022_California/20221018_150650.jpg
     5_image: /uploads/2022_California/20221018_222154.jpg
