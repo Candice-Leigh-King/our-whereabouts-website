@@ -17,7 +17,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Reduced/20191031_165410.jpg
-title: 'Universal Studios: Halloween Horror nights'
+title: 'Universal Studios: Halloween Horror Nights'
 author: Elizabeth
 blog-summary: >-
   Everything you need to know: Dates, prices, rules, VIP tickets, time, and

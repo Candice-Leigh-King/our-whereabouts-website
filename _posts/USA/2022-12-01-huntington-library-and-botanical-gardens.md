@@ -10,7 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_California/20220925_145654.jpg
-title: Huntington Library and Botanical gardens, CA
+title: Huntington Library and Botanical Gardens, CA
 author: Elizabeth
 blog-summary: >-
   Looking for a hidden gem right outside of Los Angeles? Check out Huntington
