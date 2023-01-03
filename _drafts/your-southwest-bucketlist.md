@@ -7,7 +7,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Utah/20221009_074600.jpg
-title: Your Southwest Bucketlist
+title: Your Southwest Road Trip Bucketlist
 author: Elizabeth
 blog-summary:
 cta: Read More →
