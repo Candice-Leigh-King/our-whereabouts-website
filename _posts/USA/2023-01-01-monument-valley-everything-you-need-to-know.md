@@ -38,10 +38,14 @@ content-blocks:
       />&bull;Las Vegas &ndash; 400 miles.<br />&bull;Salt Lake City &ndash; 385
       miles.</p><h3>Driving:</h3><p>&bull;Page, AZ &ndash; 127 miles.<br
       />&bull;Grand Canyon (South Rim) &ndash; 178 miles.<br
-      />&nbsp;</p><h2>Entrance Fee:&nbsp;</h2><p>If you're driving the Navajo
-      Tribal Park it's 8$ per person, if you're just driving through, it's
-      free.</p><p>&bull;They don't accept cash, so bring your credit card.<br
-      />&nbsp;</p><h2>Opening Hours:</h2><p>8 am to 3 pm.</p>
+      />&nbsp;</p><h2>Entrance Fee:&nbsp;</h2><p>&bull;If you're just driving
+      through Monument Valley, it's free.<br />&bull;If you're driving the
+      Navajo Tribal Park it's 8$ per person for a 1-day pass.<br />&bull;6 years
+      &amp; under - Free entrance.<br />&bull;They don't accept cash, so bring
+      your credit card.<br />&nbsp;</p><h2>Opening Hours:</h2><p>8 am to 3
+      pm.</p><p>&nbsp;</p><h2>Cars allowed in Monument Valley Navajo Tribal
+      Park:</h2><p>&bull;No Motorcycle/dirt bike<br />&bull;No ATV<br />&bull;No
+      RV</p>
   - _section-type: gallery
     1_image: /uploads/2022_Utah/IMG_4408-2.jpg
     2_image: /uploads/2022_Utah/IMG_4010.jpg
