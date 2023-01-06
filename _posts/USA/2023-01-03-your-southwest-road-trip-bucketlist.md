@@ -44,27 +44,36 @@ content-blocks:
       Mesa: 3 miles.</p><p>&nbsp;</p><h2><strong>2. Explore Slot Canyons in
       Page, Arizona</strong></h2><p>Almost all of the Page slot canyons
       (Antelope Canyon) are east of the Colorado River &amp; are made of Navajo
-      sandstone, and they are beautiful.<br />There are two sections of Slot
-      Canyon, Upper or Lower Canyon.<br />&bull;<strong>Prices: </strong>Upper
-      Antelope Canyon 139$<br />Lower Antelope Canyon is 88$ and just as
+      sandstone, and they are beautiful. Antelope Canyon is protected by the
+      Navajo Parks and Recreation and only authorized tour companies can take
+      visitors to the canyon. There are two sections of Slot Canyon, Upper or
+      Lower Canyon.<br /><strong>&bull;Entrance Fee:&nbsp;</strong><br />Upper
+      Antelope Canyon 139$<br />Lower Antelope Canyon is 88$<br />If you're on a
+      budget we suggest going to Lower Antelope Canyon because it's just as
       beautiful as Upper Antelope Canyon.&nbsp;<br />​​​​&bull;<strong>Best time
       to visit: </strong>Mid-day for good
       lighting.</p><p>&nbsp;</p><h2><strong>3. Drive the 17-mile loop in
       Monument Valley Navajo Loop Trail</strong></h2><p>Most people drive
       through Monument Valley and stop only at the Forrest Gump spot, but
       Monument Valley, Navajo Tribal Park has a beautiful 17-mile loop road and
-      it's worth visiting.<br />&bull;<strong>Price:</strong> 8$ per
-      person.</p><p>&nbsp;</p><h2><strong>4. Play the lottery to hike 'The
+      it's worth visiting.<br /><strong>&bull;Entrance Fee: </strong>8$ per
+      person.<br />For more information about Monument Valley - <a
+      target="_blank" rel="noopener"
+      href="https://ourwhereabouts.com/travel/2023/01/01/monument-valley-everything-you-need-to-know.html">Click
+      here!</a></p><p>&nbsp;</p><h2><strong>4. Play the lottery to hike 'The
       Wave'</strong></h2><p>The Wave is the premier photographic destination and
-      is located in the Coyote Buttes.<br />&bull;It's a strenuous
-      <strong>6.4-mile</strong> round-trip hike.</p><p>&nbsp;</p><h2><strong>5.
-      Visit the Grand Canyon, Arizona</strong></h2><p>One of the Seven Wonders
-      of the World, the Grand Canyon is an unbelievable spectacle of nature. It
-      is a great, huge slash in the surface of the earth - 217 miles long, 4 to
-      18 miles wide, and a mile deep, with the Colorado River flowing at the
+      is located in the Coyote Buttes.<br />&bull;It's a strenuous 6.4-mile
+      round-trip hike.</p><p>&nbsp;</p><h2><strong>5. Visit the Grand Canyon,
+      Arizona</strong></h2><p>One of the Seven Wonders of the World, the Grand
+      Canyon is an unbelievable spectacle of nature. It is a great, huge slash
+      in the surface of the earth - 217 miles long, 4 to 18 miles wide, and a
+      mile deep, with the Colorado River flowing at the
       bottom.</p><p>&nbsp;</p><h2><strong>6. Visit the Mighty 5 in
       Utah</strong></h2><p>Utah has 5 incredible national parks: Arches,
-      Canyonlands, Capitol Reef, Bryce Canyon &amp; Zion.</p>
+      Canyonlands, Capitol Reef, Bryce Canyon &amp; Zion.<br /><a
+      target="_blank" rel="noopener"
+      href="https://ourwhereabouts.com/travel/2022/12/08/10-day-utah-mighty-5-itinerary.html">For
+      a 10-day&nbsp; Utah Mighty 5 itinerary - click here!&nbsp;</a></p>
   - _section-type: gallery
     1_image: /uploads/USA_Arizona/20221010_101602.jpg
     2_image: /uploads/USA_Arizona/20221001_125705.jpg
@@ -86,16 +95,17 @@ content-blocks:
       that look like goblins, and short hiking
       trails.</p><p>&nbsp;</p><h2><strong>9. Explore off-road in Hanksville,
       Utah</strong></h2><p>There are so many hidden gems in Utah that can be
-      found when exploring off-road.</p><p>&bull; Long Dong Silver.<br />&bull;
-      Factory Butte.<br />&bull; Goblin Valley State Park.<br />&bull; Bentonite
-      Hills.<br />&bull; Moonscape Overlook.<br />&bull; Mars Desert Research
+      found when exploring off-road.</p><p>Places you shouldn't miss:<br
+      />&bull; Long Dong Silver.<br />&bull; Factory Butte.<br />&bull; Goblin
+      Valley State Park.<br />&bull; Bentonite Hills.<br />&bull; Moonscape
+      Overlook.<br />&bull; Mars Desert Research
       Center.</p><p>&nbsp;</p><h2><strong>10. Hike the Navajo Loop at sunrise in
       Bryce Canyon, Utah</strong></h2><p>Navajo Loop Trail is one of the most
       beautiful hikes in Bryce Canyon. It connects to Queens Garden which is
       definitely worth checking out too so you can start the hike from either
       Sunset Point (Navajo Loop Trail) or from Sunrise Point (Queens Garden
       Trail).<br /><strong>&bull;Best time to hike: </strong>Sunrises are
-      incredible here and less crowded.<br /><strong>&bull;Best wat to hike:
+      incredible here and less crowded.<br /><strong>&bull;Best way to hike:
       </strong>Both involve a steep elevation, but if you'd like to get that
       cool Instagram photo of the hairpin paths better start with Navajo Loop
       Trail.<br /><strong>&bull;Length: </strong>2.9 miles.<br
