@@ -52,15 +52,20 @@ content-blocks:
       October-May.</p><p>&nbsp;</p><h2>How long to stay:</h2><p>You should spend
       at least 2 full days in Moab to be able to visit the National Parks and
       surrounding areas.</p><p>&nbsp;</p><h2>Where to stay in Moab:</h2><p>Moab
-      is a pretty small town and there are many places to
-      stay.</p><p>&nbsp;</p><h2>Where to do Laundry:&nbsp;</h2><p>Moab
+      is a pretty small town and there are many places to stay.<br />&bull;The
+      Radcliffe Hotel<br />&bull; Hyatt Place Moab<br />&bull;Hoodoo
+      Moab</p><p>&nbsp;</p><h2>Where to do Laundry:&nbsp;</h2><p>Moab
       Laundry.</p><p>&nbsp;</p><h2>Grocery stores:</h2><p>&bull; City Market<br
       />&bull; Dave&rsquo;s Corner Market<br />&bull; Moonflower Community
       Cooperative<br />&bull; T&amp;H Corner Store<br />&bull; Village Market<br
       />&bull; Walker Drug General Store</p><p>&nbsp;</p><h2>Where to
       eat:</h2><p>&bull; Moab Food Truck Park<br />&bull; Antica Forma<br
       />&bull; Zax Restaurant</p><p>&nbsp;</p><h2>Coffee Shops:</h2><p>&bull;
-      Starbucks<br />&bull; Jailhouse Caf&eacute;<br />&bull; Doughbird</p>
+      Starbucks<br />&bull; Jailhouse Caf&eacute;<br />&bull;
+      Doughbird</p><p>&nbsp;</p><h2>Nightlife:</h2><p>Moab isn't just about
+      having fun during the day there are plenty of things to do in Moab at
+      night.<br />&bull; Moab Backyard Theater<br />​​​​​&bull; The Alley Sports
+      Pub and Grill<br />&bull; The Blu Pig<br />&bull; Woody&rsquo;s Tavern</p>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/2022_Utah/IMG_4602.jpg
   - _section-type: blog-featured-textarea
@@ -85,7 +90,12 @@ content-blocks:
       />Canyoneering is the ultimate adventure! It utilizes different techniques
       such as hiking, rappelling, and climbing.</p><p><strong>&bull;Jeep
       Tours:</strong><br />Moab has so much to offer, what better way to do so
-      then by jeep?</p>
+      then by jeep?</p><p><strong>&bull;Moab Museum:</strong><br />The Moab
+      Museum is a cultural and natural history museum interpreting the stories
+      of the Moab area through exhibits and program</p><p><strong>&bull;Moab
+      Giants Dinosaur Museum:</strong><br />Moab Giants Dinosaur Park is the
+      first of its kind worldwide! ​​​​The life size dinosaurs with the
+      breathtaking cliffs make a beautiful backdrop for the statues</p>
   - _section-type: signature
     signature_html: <h3>Our Whereabouts xxx</h3>
 ---
