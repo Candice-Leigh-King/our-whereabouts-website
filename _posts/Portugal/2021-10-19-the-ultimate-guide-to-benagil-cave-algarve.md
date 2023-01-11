@@ -14,12 +14,12 @@ seo:
   keywords: Benagil Cave, Algarve Coast, Portugal. Travel Guide
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/46-(1).jpg
+  social-share_image: /uploads/Portugal/20220503_142245-yes-2.jpg
 title: The Ultimate Guide to Benagil Cave, Algarve
 author: Elizabeth
 blog-summary: Looking to plan a trip but don't know where to start? I've got you!
 cta: Read More →
-blog_image: /uploads/Portugal/46-(1).jpg
+blog_image: /uploads/Portugal/20220503_142245-yes-2.jpg
 date: 2022-10-19 00:00:00
 categories:
   - travel
