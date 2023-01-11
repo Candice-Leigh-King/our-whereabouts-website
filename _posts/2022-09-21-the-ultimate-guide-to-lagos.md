@@ -28,9 +28,17 @@ content-blocks:
     blog-featured-textarea_html: >-
       <h2>How to get to Lagos:&nbsp;</h2><p>The nearest airport to Lagos is
       Faro, only a 1-hour drive away.<br />Another option is Lisbon, which is a
-      2:45 hour drive.</p><h2>Where to stay:&nbsp;</h2><p>The best place to stay
-      is in the Old Town of Lagos. It is filled with restaurants and hotels, and
-      close to the main attractions.</p>
+      2:45 hour drive.</p><p>&nbsp;</p><h2>When to visit:</h2><p>&bull;Peak
+      Season is June to September so best to avoid these months because Portugal
+      is a very popular summer destination and streets, beaches, and historical
+      sites will be busy and prices will increase by around 40%.<br />&bull;The
+      best time to visit Portugal is March-May and September-October when the
+      weather is warm, prices are lower and many of the crowds have gone.<br
+      />&bull;November-February is the rainy season so do know that a lot of
+      resorts shut down for winter.</p><p>&nbsp;</p><h2>Where to
+      stay:&nbsp;</h2><p>The best place to stay is in the Old Town of Lagos. It
+      is filled with restaurants and hotels, and close to the main
+      attractions.</p>
   - _section-type: blog-window
     right_image: /uploads/Portugal/IMG_4962.jpg
     left_image: /uploads/Portugal/P-Extra-20220502_143356.jpg
