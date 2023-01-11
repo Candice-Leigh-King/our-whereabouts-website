@@ -6,11 +6,11 @@ seo:
   keywords: Lagos, The Algarve Coast, Portugal
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/14-(1).jpg
+  social-share_image: /uploads/Portugal/IMG_5488.jpg
 author: Elizabeth
 blog-summary: Looking to plan a trip but don't know where to start? I've got you!
 cta: Read More →
-blog_image: /uploads/Portugal/14-(1).jpg
+blog_image: /uploads/Portugal/IMG_5488.jpg
 date: 2022-09-21 00:00:00
 categories:
   - travel
