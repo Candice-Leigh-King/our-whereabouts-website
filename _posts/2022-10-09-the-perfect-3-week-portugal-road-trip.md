@@ -192,7 +192,7 @@ content-blocks:
       palace. The opulent palace has spectacular gardens with a surrealistic
       initiation well and ornate follies.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/Portugal/43-(1)reduced.jpg
+    blog-cover_image: /uploads/43-1.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>Day 14-15:<br />Lisbon&nbsp;</h1><h2><strong>Day 14:</strong>
