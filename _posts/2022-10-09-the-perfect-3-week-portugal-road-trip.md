@@ -23,8 +23,8 @@ date: 2022-10-09 00:00:00
 categories:
   - travel
 content-blocks:
-  - _section-type: blog-textarea
-    textarea_html: >-
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: >-
       <p>Portugal is such a great country to visit and has so much to offer.
       It's a great destination for a road trip because the country is so diverse
       and it is cheap, and it's safe. It has white sandy beaches with dramatic
@@ -126,10 +126,10 @@ content-blocks:
     4_image: /uploads/Portugal/IMG_20230112_112227_251.jpg
     5_image: /uploads/Portugal/IMG_20230112_112245_554.jpg
     6_image: /uploads/Portugal/IMG_20230112_112053_414.jpg
-  - _section-type: blog-featured-textarea
-    blog-featured-textarea_html: >-
-      <h1>Days 9-11:<br />Northern Portugal</h1><h2><strong>Day 9:
-      </strong>Obidos, Fatima &amp; Coimbra</h2><p><strong>🚗 <em>Rent a car
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h1><strong>Days 9-11:</strong><br />Northern Portugal</h1><h2><strong>Day
+      9: </strong>Obidos, Fatima &amp; Coimbra</h2><p><strong>🚗 <em>Rent a car
       from Lisbon and drive 1.5 hours from Lisbon to
       Obidos.&nbsp;</em></strong></p><p><br /><strong>&bull;Obidos:</strong> A
       town and a municipality in the Oeste region, the historical province of
@@ -265,10 +265,10 @@ content-blocks:
       the former Portuguese Empire.</p>
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/Portugal/25-(1).jpg
-  - _section-type: blog-featured-textarea
-    blog-featured-textarea_html: >-
-      <h1>Day 16-21:<br />The Algarve Coast</h1><h2><strong>Day 16:</strong>
-      Segres</h2><p>Sagres Fortress, Praia das Arrifana &amp; Costa
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h1><strong>Day 16-21:</strong><br />The Algarve Coast</h1><h2><strong>Day
+      16:</strong> Segres</h2><p>Sagres Fortress, Praia das Arrifana &amp; Costa
       Vicentina</p><h2><strong>Day 17:</strong>
       Albufeira</h2><p><strong>&bull;Sunrise at Marinha Beach -</strong> just
       for the experience.<br /><strong>&bull;Marina de Albufeira -</strong> Go
