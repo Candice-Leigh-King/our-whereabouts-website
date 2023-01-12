@@ -39,7 +39,7 @@ content-blocks:
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1>Days 1-8:<br />​​​​​AZORES ISLANDS</h1><h2><strong>Day 1:
+      <h1>Days 1-8:<br />​​​​​Azores Islands</h1><h2><strong>Day 1:
       </strong>S&atilde;o Miguel</h2><p><strong>&bull;Arruda pineapple
       plantation:</strong>&nbsp;Small plantation, where you will have a free
       self-guided tour and taste pineapple free of charge.<br
