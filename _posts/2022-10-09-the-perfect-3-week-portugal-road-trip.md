@@ -39,8 +39,8 @@ content-blocks:
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2>DAYS 1-8:<br />AZORES ISLANDS</h2><h3><strong>Day 1:
-      </strong>S&atilde;o Miguel</h3><p><strong>&bull;Arruda pineapple
+      <h1>DAYS 1-8:<br />AZORES ISLANDS</h1><h2><strong>Day 1:
+      </strong>S&atilde;o Miguel</h2><p><strong>&bull;Arruda pineapple
       plantation:</strong>&nbsp;Small plantation, where you will have a free
       self-guided tour and taste pineapple free of charge.<br
       /><strong>&bull;Ponta Delgada:</strong>&nbsp;The City Gate was situated
