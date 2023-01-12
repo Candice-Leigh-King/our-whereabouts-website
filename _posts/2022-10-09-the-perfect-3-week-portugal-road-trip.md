@@ -128,33 +128,34 @@ content-blocks:
     6_image: /uploads/Portugal/IMG_20230112_112053_414.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1><strong>Days 9-11: </strong>Northern Portugal</h1><h2>Day 9: Obidos,
-      Fatima &amp; Coimbra</h2><p>🚗 <em>Rent a car from Lisbon and drive 1.5
-      hours from Lisbon to Obidos.&nbsp;</em></p><p><br />&bull;Obidos: A town
-      and a municipality in the Oeste region, the historical province of
-      Estremadura. It's a medieval town with a well-preserved castle and white
-      houses.</p><p><br /><em>➟ Drive an hour from Obidos to
-      Fatima.</em></p><p><br /><strong style="font-size: var(--font-size);
-      color: var(--color-carbon); font-family: var(--font-family);
-      letter-spacing: 0.01rem;">&bull;Fatima:</strong><span style="font-size:
+      <h1><strong>Days 9-11: </strong>Northern Portugal​​​​​​</h1><h2>Day 9:
+      Obidos, Fatima &amp; Coimbra</h2><p>🚗 <em>Rent a car from Lisbon and
+      drive 1.5 hours from Lisbon to Obidos.&nbsp;</em><br /><br
+      /><strong>&bull;Obidos:</strong> A town and a municipality in the Oeste
+      region, the historical province of Estremadura. It's a medieval town with
+      a well-preserved castle and white houses.<br /><br /><em>➟ Drive an hour
+      from Obidos to Fatima.</em><br /><br /><strong style="font-size:
       var(--font-size); color: var(--color-carbon); font-family:
-      var(--font-family); letter-spacing: 0.01rem;">&nbsp;Fatima is the most
-      important pilgrimage site in Portugal.<br />​​​​​</span></p><p><span
+      var(--font-family); letter-spacing: 0.01rem;">&bull;Fatima:</strong><span
+      style="font-size: var(--font-size); color: var(--color-carbon);
+      font-family: var(--font-family); letter-spacing: 0.01rem;">&nbsp;Fatima is
+      the most important pilgrimage site in Portugal.​​</span></p><p><span
       style="font-size: var(--font-size); color: var(--color-carbon);
       font-family: var(--font-family); letter-spacing: 0.01rem;"></span><em>➟
-      Drive 55 mintures from Fatima to Coimbra.</em></p><p>&bull;Coimbra: This
-      stunning town was Portugal&rsquo;s medieval capital for more than a
-      century and it's home to the country&rsquo;s oldest and most prestigious
+      Drive 55 mintures from Fatima to
+      Coimbra.</em></p><p><strong>&bull;Coimbra:</strong> This stunning town was
+      Portugal&rsquo;s medieval capital for more than a century and it's home to
+      the country&rsquo;s oldest and most prestigious
       university.</p><p>&nbsp;</p><h2>Day 10: Aveiro &amp;
-      Porto</h2><p>&bull;Aveiro: This colorful and charming town is also known
-      as "Portugals Little Venice".<br />Places you shouldn't miss: Cais dos
-      Botiroes, Marinha da Troncalhada, Costa Nova, Beira-Mar, Canal Central,
-      and Museu de Aveiro.</p><p>&bull;Porto: This is the second-largest city in
-      Portugal and a must-see. some spend 2 days here.<br />Places you shouldn't
-      miss: Igreja de Santo Ildefonso, Rua de Santa, Catarina, Capela das Almas,
-      Estacao de S. Bento, Igreja de Sao Nicolau, Livraria Lello, Se do Porto,
-      Ponte Luis, Mosterio da Serra do Pilar&nbsp;</p><p>&nbsp;</p><h2>Day 11:
-      Guimaraes &amp; Duoro
+      Porto</h2><p><strong>&bull;Aveiro: </strong>This colorful and charming
+      town is also known as "Portugals Little Venice".<br />Places you shouldn't
+      miss: Cais dos Botiroes, Marinha da Troncalhada, Costa Nova, Beira-Mar,
+      Canal Central, and Museu de Aveiro.<br />​​​​​​​<strong>&bull;Porto:
+      </strong>This is the second-largest city in Portugal and a must-see. some
+      spend 2 days here.<br />Places you shouldn't miss: Igreja de Santo
+      Ildefonso, Rua de Santa, Catarina, Capela das Almas, Estacao de S. Bento,
+      Igreja de Sao Nicolau, Livraria Lello, Se do Porto, Ponte Luis, Mosterio
+      da Serra do Pilar&nbsp;</p><p>&nbsp;</p><h2>Day 11: Guimaraes &amp; Duoro
       Valley</h2><p><strong>&bull;Guimaraes:&nbsp;</strong>&nbsp;It's known for
       well-preserved medieval buildings like the hilltop, and 10th-century
       Guimar&atilde;es Castle, with its sweeping city views.<br
