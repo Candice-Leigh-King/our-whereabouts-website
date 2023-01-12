@@ -52,8 +52,8 @@ content-blocks:
       Late Gothic style but changed later.<br /><strong>&bull;Jardim
       Bot&acirc;nico Ant&oacute;nio Borges:</strong>&nbsp;Beautiful botanical
       gardens located just a few minutes away from the city center of Ponta
-      Delgada.</p><h3>​​​<strong>Day 2: </strong>S&atilde;o
-      Miguel</h3><p><strong>&bull;Caldeiras das Furnas:</strong>&nbsp;The
+      Delgada.</p><h2>​​​<strong>Day 2: </strong>S&atilde;o
+      Miguel</h2><p><strong>&bull;Caldeiras das Furnas:</strong>&nbsp;The
       Caldeiras Vulcanicas are situated in the pretty village of Furnas.<br
       /><strong>&bull;Parque Terra Nostra:</strong>&nbsp;Gorgeous park with hot
       springs.<br /><strong>&bull;Furnas Fumaroles: </strong>Furnas is reputed
@@ -64,24 +64,24 @@ content-blocks:
       probably the most important landowner in S&acirc;o Miguel of his time,
       Jos&eacute; do Canto<br /><strong>&bull;Viewpoints you shouldn't miss:
       </strong>Miradouro da Ponta da Madrugada, Miradouro da Ponta do Sossego
-      &amp; Miradouro do Pico do Ferro.</p><h3><strong>Day 3:
-      </strong>S&atilde;o Miguel</h3><p><strong>&bull;Gorreana tea
+      &amp; Miradouro do Pico do Ferro.</p><h2><strong>Day 3:
+      </strong>S&atilde;o Miguel</h2><p><strong>&bull;Gorreana tea
       plantation:</strong>&nbsp;You can visit the entire plantation and tea
       factory for free and taste 3 types of tea too.<br /><strong>&bull;Parque
       Natural da Ribeira dos Caldeir&otilde;es:</strong>&nbsp;A beautiful park
       filled with waterfalls, canals, and old mills transformed into museums,<br
       /><strong>&bull;Lagoa:</strong>&nbsp;Lagoa is the municipality in the
       southwestern part of S&atilde;o Miguel. Explore the downtown area in
-      search of museums and boutiques</p><h3><strong>Day 4: </strong>S&atilde;o
-      Miguel</h3><p><strong>&bull;Cascada Salto del Cabrito:</strong>&nbsp;One
+      search of museums and boutiques</p><h2><strong>Day 4: </strong>S&atilde;o
+      Miguel</h2><p><strong>&bull;Cascada Salto del Cabrito:</strong>&nbsp;One
       of the most beautiful waterfalls. It's an easy and accessible trail. You
       can go swimming at the waterfall, arrive early to beat the crowds.<br
       /><strong>&bull;Caldeira Velha:</strong>&nbsp;3 thermal pools and a
       waterfall inside a forest.<br /><strong>&bull;Our lady of peace
       chapel:&nbsp;</strong>Ermida de Nossa Senhora da Paz, is a white chapel on
       a hilltop with panoramic views, built in the 18th century &amp; reached by
-      a stairway.</p><h3><strong>Day 5: </strong>S&atilde;o
-      Miguel</h3><p><strong>&bull;Whale watching:</strong>&nbsp;The main
+      a stairway.</p><h2><strong>Day 5: </strong>S&atilde;o
+      Miguel</h2><p><strong>&bull;Whale watching:</strong>&nbsp;The main
       'season' runs from April-October and during these months different species
       pass by the Azores on their migratory paths. April-May is usually the best
       time to see the larger whales.<br /><strong>&bull;Lagoa das sete
@@ -94,13 +94,13 @@ content-blocks:
       beautiful trees.<br /><strong>&bull;Mosteiros:</strong>&nbsp;a marine town
       located, in the West of S&atilde;o Miguel.<br /><strong>&bull;Viewpoints
       you shouldn't miss:</strong> Miradouro da Vista do Rei, Miradouro da Ponta
-      do Escalvado &amp; Boca do Inferno</p><h3><strong>Day 6: </strong>Terceira
-      island</h3><p><em><strong>✈ Flight From Sao Miguel to Terceira
+      do Escalvado &amp; Boca do Inferno</p><h2><strong>Day 6: </strong>Terceira
+      island</h2><p><em><strong>✈ Flight From Sao Miguel to Terceira
       Island.</strong><br />Flights vary between $139-$250 and the flight takes
       45 minutes.</em><br /><strong>&bull;Algar do Carv&atilde;o: </strong>An
       ancient lava tube or volcanic vent. It is 90 meters (300 feet) deep and
-      about 360 stairs one way down.</p><h3><strong>Day 7: </strong>Terceira
-      island</h3><p><strong>&bull;Monte Brasil:</strong>&nbsp;Remnants of a
+      about 360 stairs one way down.</p><h2><strong>Day 7: </strong>Terceira
+      Island</h2><p><strong>&bull;Monte Brasil:</strong>&nbsp;Remnants of a
       volcano connecting the south coast of Terceira in the central Azores,
       overlooking the city of Angra do Hero&iacute;smo.<br
       />&bull;<strong>Furnas do Enxofre:&nbsp;</strong>The smell of sulfur
@@ -110,8 +110,8 @@ content-blocks:
       </strong>A cheese factory where you can taste great cheeses and delicious
       wine.<br /><strong>&bull;Viewpoints you shouldn't miss:</strong> Miradouro
       da Ponta do Queimado, Mata da Serreta &amp; Miradouro do
-      Raminho.</p><h3><strong>Day 8: </strong>Terceira
-      Island</h3><p><strong>&bull;Angra do
+      Raminho.</p><h2><strong>Day 8: </strong>Terceira
+      Island</h2><p><strong>&bull;Angra do
       Hero&iacute;smo:</strong>&nbsp;Explore the municipality on Terceira
       Island. It is one of the three capital cities of the Azores.<br
       /><strong>&bull;Viewpoints you shouldn't miss: </strong>Miradouro da Serra
