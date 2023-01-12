@@ -39,8 +39,8 @@ content-blocks:
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1>Days 1-8:<br />​​​​​Azores Islands</h1><h2><strong>Day 1:
-      </strong>S&atilde;o Miguel</h2><p><strong>&bull;Arruda pineapple
+      <h1><strong>Days 1-8: ​​​​​Azores Islands</strong></h1><h2>Day 1:
+      S&atilde;o Miguel</h2><p><strong>&bull;Arruda pineapple
       plantation:</strong>&nbsp;Small plantation, where you will have a free
       self-guided tour and taste pineapple free of charge.<br
       /><strong>&bull;Ponta Delgada:</strong>&nbsp;The City Gate was situated
@@ -128,37 +128,33 @@ content-blocks:
     6_image: /uploads/Portugal/IMG_20230112_112053_414.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1><strong>Days 9-11:</strong><br />Northern Portugal</h1><h2><strong>Day
-      9: </strong>Obidos, Fatima &amp; Coimbra</h2><p><strong>🚗 <em>Rent a car
-      from Lisbon and drive 1.5 hours from Lisbon to
-      Obidos.&nbsp;</em></strong></p><p><br /><strong>&bull;Obidos:</strong> A
-      town and a municipality in the Oeste region, the historical province of
+      <h1><strong>Days 9-11: </strong>Northern Portugal</h1><h2>Day 9: Obidos,
+      Fatima &amp; Coimbra</h2><p>🚗 <em>Rent a car from Lisbon and drive 1.5
+      hours from Lisbon to Obidos.&nbsp;</em></p><p><br />&bull;Obidos: A town
+      and a municipality in the Oeste region, the historical province of
       Estremadura. It's a medieval town with a well-preserved castle and white
-      houses.</p><p><br /><strong><em>➟ Drive an hour from Obidos to
-      Fatima.</em></strong></p><p><br /><strong style="font-size:
+      houses.</p><p><br /><em>➟ Drive an hour from Obidos to
+      Fatima.</em></p><p><br /><strong style="font-size: var(--font-size);
+      color: var(--color-carbon); font-family: var(--font-family);
+      letter-spacing: 0.01rem;">&bull;Fatima:</strong><span style="font-size:
       var(--font-size); color: var(--color-carbon); font-family:
-      var(--font-family); letter-spacing: 0.01rem;">&bull;Fatima:</strong><span
+      var(--font-family); letter-spacing: 0.01rem;">&nbsp;Fatima is the most
+      important pilgrimage site in Portugal.<br />​​​​​</span></p><p><span
       style="font-size: var(--font-size); color: var(--color-carbon);
-      font-family: var(--font-family); letter-spacing: 0.01rem;">&nbsp;Fatima is
-      the most important pilgrimage site in Portugal.<br
-      />​​​​​</span></p><p><span style="font-size: var(--font-size); color:
-      var(--color-carbon); font-family: var(--font-family); letter-spacing:
-      0.01rem;"></span><strong><em>➟ Drive 55 mintures from Fatima to
-      Coimbra.</em></strong></p><p><strong>&bull;Coimbra:</strong> This stunning
-      town was Portugal&rsquo;s medieval capital for more than a century and
-      it's home to the country&rsquo;s oldest and most prestigious
-      university.</p><p>&nbsp;</p><h2><strong>Day 10:&nbsp;</strong>Aveiro &amp;
-      Porto</h2><p><strong>&bull;Aveiro: </strong>This colorful and charming
-      town is also known as "Portugals Little Venice".<br />Places you shouldn't
-      miss: Cais dos Botiroes, Marinha da Troncalhada, Costa Nova, Beira-Mar,
-      Canal Central, and Museu de Aveiro.</p><p><strong>&bull;Porto:
-      </strong>This<strong>&nbsp;</strong>is the second-largest city in Portugal
-      and a must-see. some spend 2 days here.<br />Places you shouldn't miss:
-      Igreja de Santo Ildefonso, Rua de Santa, Catarina, Capela das Almas,
+      font-family: var(--font-family); letter-spacing: 0.01rem;"></span><em>➟
+      Drive 55 mintures from Fatima to Coimbra.</em></p><p>&bull;Coimbra: This
+      stunning town was Portugal&rsquo;s medieval capital for more than a
+      century and it's home to the country&rsquo;s oldest and most prestigious
+      university.</p><p>&nbsp;</p><h2>Day 10: Aveiro &amp;
+      Porto</h2><p>&bull;Aveiro: This colorful and charming town is also known
+      as "Portugals Little Venice".<br />Places you shouldn't miss: Cais dos
+      Botiroes, Marinha da Troncalhada, Costa Nova, Beira-Mar, Canal Central,
+      and Museu de Aveiro.</p><p>&bull;Porto: This is the second-largest city in
+      Portugal and a must-see. some spend 2 days here.<br />Places you shouldn't
+      miss: Igreja de Santo Ildefonso, Rua de Santa, Catarina, Capela das Almas,
       Estacao de S. Bento, Igreja de Sao Nicolau, Livraria Lello, Se do Porto,
-      Ponte Luis, Mosterio da Serra do
-      Pilar&nbsp;</p><p>&nbsp;</p><h2><strong>Day 11:&nbsp;</strong>Guimaraes
-      &amp; Duoro
+      Ponte Luis, Mosterio da Serra do Pilar&nbsp;</p><p>&nbsp;</p><h2>Day 11:
+      Guimaraes &amp; Duoro
       Valley</h2><p><strong>&bull;Guimaraes:&nbsp;</strong>&nbsp;It's known for
       well-preserved medieval buildings like the hilltop, and 10th-century
       Guimar&atilde;es Castle, with its sweeping city views.<br
@@ -170,8 +166,8 @@ content-blocks:
     left_image: /uploads/Portugal/IMG_20230112_112208_554-2.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1>Day 12-13:<br />Sintra</h1><h2><strong>Day 12: </strong>Pena Palace,
-      Pena Gardens &amp; Moorish Castle</h2><p><strong>&bull;Pena
+      <h1><strong>Day 12-13: Sintra</strong></h1><h2>Day 12: Pena Palace, Pena
+      Gardens &amp; Moorish Castle</h2><p><strong>&bull;Pena
       Palace:&nbsp;</strong>Pena Palace is the most visited palace in Sintra for
       a reasonable reason. This castle is like none you've ever seen. The
       beautiful vibrant colors and magnificent views make you feel like you're
@@ -195,7 +191,7 @@ content-blocks:
     blog-cover_image: /uploads/43-1.jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1>Day 14-15:<br />Lisbon&nbsp;</h1><h2><strong>Day 14:</strong>
+      <h1><strong>Day 14-15: Lisbon&nbsp;</strong></h1><h2>Day 14:
       Lisbon</h2><p><strong>&bull;Miradouro da Senhora do Monte: </strong>One of
       the most beautiful viewpoints in the city. You can see the entire
       waterfront as well as the bridge.<br
@@ -237,8 +233,8 @@ content-blocks:
       Nova do Carvalho, located in the popular neighborhood of Cais do Sodre.
       This neighborhood is known for its nightlife and during the day there are
       many coffee shops.<br /><strong>&bull;Elevador da Bica:&nbsp;</strong>This
-      19th-century tram is one of the most popular in Lisbon.</p><h2><strong>Day
-      15: </strong>Belem</h2><p><strong>&bull;Torre de Bel&eacute;m (Belem
+      19th-century tram is one of the most popular in Lisbon.</p><h2>Day 15:
+      Belem</h2><p><strong>&bull;Torre de Bel&eacute;m (Belem
       tower):&nbsp;</strong>This tower dates back to the 16th century and was
       once the port of embarkation for Portuguese explorers and a ceremonial
       gateway to the capital.<br /><strong>&bull;Padr&atilde;o dos
@@ -267,24 +263,24 @@ content-blocks:
     blog-cover_image: /uploads/Portugal/25-(1).jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1><strong>Day 16-21:</strong><br />The Algarve Coast</h1><h2><strong>Day
-      16:</strong> Segres</h2><p>Sagres Fortress, Praia das Arrifana &amp; Costa
-      Vicentina</p><h2><strong>Day 17:</strong>
-      Albufeira</h2><p><strong>&bull;Sunrise at Marinha Beach -</strong> just
-      for the experience.<br /><strong>&bull;Marina de Albufeira -</strong> Go
-      to the Marina and take a dolphin tour<br /><strong>&bull;Explore Albufeira
-      Old Town - </strong>The old town is so charming and beautiful.<br
-      /><strong>&bull;Praia do Barranco das Belharucas:</strong> Spectacular
-      red/orange cliff view from the beach, with white clay and turquoise
-      waters.<br /><strong>&bull;Praia da Fal&eacute;sia: </strong>This beach is
-      so unique with beautiful orange cliffs.</p><h2>Day 18:
-      Alvor</h2><p><strong>&bull;</strong>Sunrise at Praia dos Tr&ecirc;s
-      Irm&atilde;os.<br /><strong>&bull;</strong>Explore Benagil Cave (by Kayak,
-      boat or SUP)<br /><strong>&bull;</strong>Ferragudo old Town<br
-      /><strong>&bull;</strong>Queda Do Vigario waterfall</p><h2>Day 19: Lagoa
-      &amp; Carvoeiro</h2><p><strong>&bull;</strong>Praia da Marinha<br
-      /><strong>&bull;</strong>Algar Seco<br /><strong>&bull;</strong>Praia do
-      Para&iacute;so<br /><strong>&bull;</strong>Praia dos Caneiros<br
+      <h1><strong>Day 16-21: The Algarve Coast</strong></h1><h2>Day 16:
+      Segres</h2><p>Sagres Fortress, Praia das Arrifana &amp; Costa
+      Vicentina</p><h2>Day 17: Albufeira</h2><p><strong>&bull;Sunrise at Marinha
+      Beach -</strong> just for the experience.<br /><strong>&bull;Marina de
+      Albufeira -</strong> Go to the Marina and take a dolphin tour<br
+      /><strong>&bull;Explore Albufeira Old Town - </strong>The old town is so
+      charming and beautiful.<br /><strong>&bull;Praia do Barranco das
+      Belharucas:</strong> Spectacular red/orange cliff view from the beach,
+      with white clay and turquoise waters.<br /><strong>&bull;Praia da
+      Fal&eacute;sia: </strong>This beach is so unique with beautiful orange
+      cliffs.</p><h2>Day 18: Alvor</h2><p><strong>&bull;</strong>Sunrise at
+      Praia dos Tr&ecirc;s Irm&atilde;os.<br /><strong>&bull;</strong>Explore
+      Benagil Cave (by Kayak, boat or SUP)<br /><strong>&bull;</strong>Ferragudo
+      old Town<br /><strong>&bull;</strong>Queda Do Vigario waterfall</p><h2>Day
+      19: Lagoa &amp; Carvoeiro</h2><p><strong>&bull;</strong>Praia da
+      Marinha<br /><strong>&bull;</strong>Algar Seco<br
+      /><strong>&bull;</strong>Praia do Para&iacute;so<br
+      /><strong>&bull;</strong>Praia dos Caneiros<br
       /><strong>&bull;</strong>Praia Nova<br /><strong>&bull;</strong>Church of
       Igreja de Nossa Senhora da Rocha<br /><strong>&bull;</strong>Sunset at
       Albandeira Beach.<br /><strong>&bull;</strong>Praia do Carvalho</p><h2>Day
