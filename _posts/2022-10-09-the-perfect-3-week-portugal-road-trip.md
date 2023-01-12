@@ -13,12 +13,12 @@ seo:
   keywords: 'How to spend 3-weeks in Portugal, '
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/33-(1).jpg
+  social-share_image:
 title: The Perfect 3-Week Portugal Road Trip
 author: Elizabeth
 blog-summary: A 3-week itinerary for Portugal
 cta: Read More →
-blog_image: /uploads/Portugal/33-(1).jpg
+blog_image:
 date: 2022-10-09 00:00:00
 categories:
   - travel
@@ -267,34 +267,34 @@ content-blocks:
     blog-cover_image: /uploads/Portugal/25-(1).jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
-      <h1>Day 16-21:<br />The Algarve Coast</h1><h3><strong>Day 16:</strong>
-      Segres</h3><p>Sagres Fortress, Praia das Arrifana &amp; Costa
-      Vicentina</p><h3>Day 17: Albufeira</h3><p><strong>&bull;Sunrise at Marinha
-      Beach -</strong> just for the experience.<br /><strong>&bull;Marina de
-      Albufeira -</strong> Go to the Marina and take a dolphin tour<br
-      /><strong>&bull;Explore Albufeira Old Town - </strong>The old town is so
-      charming and beautiful.<br /><strong>&bull;Praia do Barranco das
-      Belharucas:</strong> Spectacular red/orange cliff view from the beach,
-      with white clay and turquoise waters.<br /><strong>&bull;Praia da
-      Fal&eacute;sia: </strong>This beach is so unique with beautiful orange
-      cliffs.</p><h3>Day 18: Alvor</h3><p><strong>&bull;</strong>Sunrise at
-      Praia dos Tr&ecirc;s Irm&atilde;os.<br /><strong>&bull;</strong>Explore
-      Benagil Cave (by Kayak, boat or SUP)<br /><strong>&bull;</strong>Ferragudo
-      old Town<br /><strong>&bull;</strong>Queda Do Vigario waterfall</p><h3>Day
-      19: Lagoa &amp; Carvoeiro</h3><p><strong>&bull;</strong>Praia da
-      Marinha<br /><strong>&bull;</strong>Algar Seco<br
-      /><strong>&bull;</strong>Praia do Para&iacute;so<br
-      /><strong>&bull;</strong>Praia dos Caneiros<br
+      <h1>Day 16-21:<br />The Algarve Coast</h1><h2><strong>Day 16:</strong>
+      Segres</h2><p>Sagres Fortress, Praia das Arrifana &amp; Costa
+      Vicentina</p><h2><strong>Day 17:</strong>
+      Albufeira</h2><p><strong>&bull;Sunrise at Marinha Beach -</strong> just
+      for the experience.<br /><strong>&bull;Marina de Albufeira -</strong> Go
+      to the Marina and take a dolphin tour<br /><strong>&bull;Explore Albufeira
+      Old Town - </strong>The old town is so charming and beautiful.<br
+      /><strong>&bull;Praia do Barranco das Belharucas:</strong> Spectacular
+      red/orange cliff view from the beach, with white clay and turquoise
+      waters.<br /><strong>&bull;Praia da Fal&eacute;sia: </strong>This beach is
+      so unique with beautiful orange cliffs.</p><h2>Day 18:
+      Alvor</h2><p><strong>&bull;</strong>Sunrise at Praia dos Tr&ecirc;s
+      Irm&atilde;os.<br /><strong>&bull;</strong>Explore Benagil Cave (by Kayak,
+      boat or SUP)<br /><strong>&bull;</strong>Ferragudo old Town<br
+      /><strong>&bull;</strong>Queda Do Vigario waterfall</p><h2>Day 19: Lagoa
+      &amp; Carvoeiro</h2><p><strong>&bull;</strong>Praia da Marinha<br
+      /><strong>&bull;</strong>Algar Seco<br /><strong>&bull;</strong>Praia do
+      Para&iacute;so<br /><strong>&bull;</strong>Praia dos Caneiros<br
       /><strong>&bull;</strong>Praia Nova<br /><strong>&bull;</strong>Church of
       Igreja de Nossa Senhora da Rocha<br /><strong>&bull;</strong>Sunset at
-      Albandeira Beach.<br /><strong>&bull;</strong>Praia do Carvalho</p><h3>Day
-      20: Lagos</h3><p><strong>&bull;</strong>Sunrise at Praia dos Estudantes<br
+      Albandeira Beach.<br /><strong>&bull;</strong>Praia do Carvalho</p><h2>Day
+      20: Lagos</h2><p><strong>&bull;</strong>Sunrise at Praia dos Estudantes<br
       /><strong>&bull;</strong>Old Town Lagos<br /><strong>&bull;</strong>Praia
       Dona Ana<br /><strong>&bull;</strong>Praia do Camilo<br
       /><strong>&bull;</strong>Ponta da Camilo<br /><strong>&bull;</strong>Ponta
       da Piedade<br /><strong>&bull;</strong>Sagres Fortress<br
-      /><strong>&bull;</strong>Praia das Arrifana and Costa Vicentina</p><h3>Day
-      21:&nbsp;&nbsp;</h3><p>Drive to Lisbon</p>
+      /><strong>&bull;</strong>Praia das Arrifana and Costa Vicentina</p><h2>Day
+      21:&nbsp;&nbsp;</h2><p>Drive to Lisbon</p>
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
     2_image: /uploads/Portugal/18-(1).jpg
