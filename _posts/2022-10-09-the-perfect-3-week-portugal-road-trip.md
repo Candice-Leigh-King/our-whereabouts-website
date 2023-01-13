@@ -268,23 +268,29 @@ content-blocks:
     textarea_html: >-
       <h1><strong>Day 16-21: The Algarve Coast</strong></h1><h2>Day 16: Arrive
       &amp; Carvoeiro</h2><p><em>➟ Drive 2.5 hours from Lisbon to
-      Carvoeiro.</em><br /><strong>&bull;</strong>Praia Nova:<br
-      /><strong>&bull;</strong>Church of Igreja de Nossa Senhora da Rocha<br
-      /><strong>&bull;</strong>Sunset at Albandeira Beach.</p><h2>Day 17: Lagoa
-      &amp; Carvoeiro</h2><p><strong>&bull;Sunrise at Praia da Marinha:
-      </strong>One of the most popular spots in the Algarve and for a good
-      reason. Sunsets here are magical.<br /><strong>&bull;Hike The Seven
-      Hanging Valleys Trail:</strong> You can do it either as a 3.5-mile (5.7
-      km) hike, and get a taxi/Uber on the way back or a 7-mile (11.4 km) return
-      hike.&nbsp;<br /><strong>&bull;Algar Seco: </strong>Man-made cave with two
-      windows, benches, and a great view of the ocean. It is very accessible,
-      and the whole area offers great views.<br /><strong>&bull;Praia do
-      Para&iacute;so: </strong>Beautiful beach accessed by a series of stone
-      steps.<br /><strong>&bull;Praia dos Caneiros: </strong>This beach has
-      beautiful a cave, cliffs, white sand, a rooftop bar, restrooms, and a
-      great hike. It's pretty small so come early.<br /><strong>&bull;Praia do
-      Carvalho: </strong>Another great beach near Benagil cave. You have to walk
-      down some steps through a tunnel to get to the beach.</p><h2>Day 18:
+      Carvoeiro.</em><br /><strong>&bull;</strong>P<strong>raia
+      Nova:</strong>&nbsp;Praia Nova is a small beach near Praia da Senhora da
+      Rocha on the Atlantic coast, Porches.<br /><strong>&bull;Church of Igreja
+      de Nossa Senhora da Rocha:&nbsp;</strong>A small and charming white Chapel
+      on the top of a cliff overlooking beaches from both sides.<b> </b>Sunrises
+      and sunsets are magical here.<br /><strong>&bull;Sunset at Albandeira
+      Beach:</strong>&nbsp;This beach has a stunning rock formation in the shape
+      of an arch. There are plenty of cool caves nearby that you can explore.
+      The beach is so quiet and secluded.</p><h2>Day 17: Lagoa &amp;
+      Carvoeiro</h2><p><strong>&bull;Sunrise at Praia da Marinha: </strong>One
+      of the most popular spots in the Algarve and for a good reason. Sunsets
+      here are magical.<br /><strong>&bull;Hike The Seven Hanging Valleys
+      Trail:</strong> You can do it either as a 3.5-mile (5.7 km) hike, and get
+      a taxi/Uber on the way back or a 7-mile (11.4 km) return hike.&nbsp;<br
+      /><strong>&bull;Algar Seco: </strong>Man-made cave with two windows,
+      benches, and a great view of the ocean. It is very accessible, and the
+      whole area offers great views.<br /><strong>&bull;Praia do Para&iacute;so:
+      </strong>Beautiful beach accessed by a series of stone steps.<br
+      /><strong>&bull;Praia dos Caneiros: </strong>This beach has beautiful a
+      cave, cliffs, white sand, a rooftop bar, restrooms, and a great hike. It's
+      pretty small so come early.<br /><strong>&bull;Praia do Carvalho:
+      </strong>Another great beach near Benagil cave. You have to walk down some
+      steps through a tunnel to get to the beach.</p><h2>Day 18:
       Albufeira</h2><p><strong>&bull;Sunrise at Marinha Beach -</strong> just
       for the experience.<br /><strong>&bull;Marina de Albufeira -</strong> Go
       to the Marina and take a dolphin tour<br /><strong>&bull;Explore Albufeira
@@ -293,19 +299,37 @@ content-blocks:
       red/orange cliff view from the beach, with white clay and turquoise
       waters.<br /><strong>&bull;Praia da Fal&eacute;sia: </strong>This beach is
       so unique with beautiful orange cliffs.</p><h2>Day 19:
-      Alvor</h2><p><strong>&bull;</strong>Sunrise at Praia dos Tr&ecirc;s
-      Irm&atilde;os.<br /><strong>&bull;</strong>Explore Benagil Cave (by Kayak,
-      boat or SUP)<br /><strong>&bull;</strong>Ferragudo old Town<br
+      Alvor</h2><p><strong>&bull;Sunrise at Praia dos Tr&ecirc;s
+      Irm&atilde;os:&nbsp;</strong>This is one of our favorite beaches. Tucked
+      away in Portim&atilde;o, you'll find this beach with dramatic rock
+      formations, pure golden sand, and clear blue water.<br
+      /><strong>&bull;Explore Benagil Cave:</strong> by Kayak, boat or SUP<br
+      /><strong>&bull;</strong>Ferragudo old Town<br
       /><strong>&bull;</strong>Queda Do Vigario
-      waterfall</p><h2>&nbsp;</h2><h2>Day 20:
-      Lagos</h2><p><strong>&bull;</strong>Sunrise at Praia dos Estudantes<br
-      /><strong>&bull;</strong>Old Town Lagos<br /><strong>&bull;</strong>Praia
-      Dona Ana<br /><strong>&bull;</strong>Praia do Camilo<br
-      /><strong>&bull;</strong>Ponta da Camilo<br /><strong>&bull;</strong>Ponta
-      da Piedade<br /><strong>&bull;</strong>Sagres Fortress<br
-      /><strong>&bull;</strong>Praia das Arrifana and Costa Vicentina</p><h2>Day
-      21:&nbsp; Segres</h2><p>Sagres Fortress, Praia das Arrifana &amp; Costa
-      Vicentina<br />Drive to Lisbon</p>
+      waterfall</p><h2>&nbsp;</h2><h2>Day 20: Lagos</h2><p><strong>&bull;Sunrise
+      at Praia dos Estudantes:&nbsp;</strong>This is one of Lagos&rsquo;s most
+      photographed beaches due to the famous Roman Bridge, which linked the
+      mainland with Pinhao Fortress. It's called the Student beach because
+      it&rsquo;s a small beach that can fit a class of students<br
+      />​​​​​<strong>&bull;Praia Dona Ana:&nbsp;</strong>This beach has golden
+      sand and many beautiful shells. It is best to come for sunrise.<br
+      /><strong>&bull;Praia do Camilo:</strong>&nbsp;a very scenic beach, but
+      quite narrow, so it gets busy very quickly. You can access 2 other small
+      beaches from there. Before you go down to the beach, you can enjoy the
+      view from above. It is stunning.<br /><strong>&bull;Ponta da Camilo:
+      </strong>A great viewpoint<br /><strong>&bull;Ponta da
+      Piedade:&nbsp;</strong>Once you park, you'll find a path with many steps
+      that leads to a small platform in the ocean where you can rent a boat and
+      explore caves. Walking down, you'll enjoy the beautiful view and natural
+      arches. Take into consideration that if you come mid-day it gets very
+      crowded and it isn't as magical.<br /><strong>&bull;Old Town
+      Lagos:</strong> Explore Old Town Lagos, it is a charming place filled with
+      nightlife, restaurants, and gift shops.</p><h2>Day 21:&nbsp;
+      Sagres</h2><p><strong>&bull;</strong>Sagres Fortress:&nbsp;<br
+      /><strong>&bull;</strong>Praia das Arrifana and Costa Vicentina<br
+      /><strong>&bull;Cabo S&atilde;o Vicente: </strong>Considered the edge of
+      the world, this spot is definitely worth visiting.</p><p><em>➟ Drive 3
+      hours from Sagres to Lisbon</em></p>
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
     2_image: /uploads/Portugal/18-(1).jpg
