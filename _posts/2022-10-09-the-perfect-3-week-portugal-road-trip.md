@@ -325,11 +325,18 @@ content-blocks:
       crowded and it isn't as magical.<br /><strong>&bull;Old Town
       Lagos:</strong> Explore Old Town Lagos, it is a charming place filled with
       nightlife, restaurants, and gift shops.</p><h2>Day 21:&nbsp;
-      Sagres</h2><p><strong>&bull;</strong>Sagres Fortress:&nbsp;<br
-      /><strong>&bull;</strong>Praia das Arrifana and Costa Vicentina<br
-      /><strong>&bull;Cabo S&atilde;o Vicente: </strong>Considered the edge of
-      the world, this spot is definitely worth visiting.</p><p><em>➟ Drive 3
-      hours from Sagres to Lisbon</em></p>
+      Sagres</h2><p><strong>&bull;Sagres Fortress:&nbsp;</strong>Known as the
+      edge of the world, this fortress was built to protect Portugal against the
+      Moors. However, the original structure was severely damaged by the 1755
+      earthquake. It's got dramatic cliffs, a small church, a maze, and
+      beautiful views. I would definitely recommend visiting if you're in the
+      area, however, I wouldn't go out of my way to visit.<br />Entrance Fee: 3
+      Euro per person<br />Duration of stay: You'll need more than an hour to
+      properly stroll around and see ​​​​​​​<br /><strong>&bull;</strong>Praia
+      das Arrifana and Costa Vicentina<br /><strong>&bull;Cabo S&atilde;o
+      Vicente: </strong>Considered the edge of the world, this spot is
+      definitely worth visiting.</p><p><em>➟ Drive 3 hours from Sagres to
+      Lisbon</em></p>
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
     2_image: /uploads/Portugal/18-(1).jpg
