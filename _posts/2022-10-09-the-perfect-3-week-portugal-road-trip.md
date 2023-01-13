@@ -146,16 +146,18 @@ content-blocks:
       Coimbra.</em></p><p><strong>&bull;Coimbra:</strong> This stunning town was
       Portugal&rsquo;s medieval capital for more than a century and it's home to
       the country&rsquo;s oldest and most prestigious
-      university.</p><p>&nbsp;</p><h2>Day 10: Aveiro &amp;
-      Porto</h2><p><strong>&bull;Aveiro: </strong>This colorful and charming
-      town is also known as "Portugals Little Venice".<br />Places you shouldn't
-      miss: Cais dos Botiroes, Marinha da Troncalhada, Costa Nova, Beira-Mar,
-      Canal Central, and Museu de Aveiro.<br />​​​​​​​<strong>&bull;Porto:
-      </strong>This is the second-largest city in Portugal and a must-see. some
-      spend 2 days here.<br />Places you shouldn't miss: Igreja de Santo
-      Ildefonso, Rua de Santa, Catarina, Capela das Almas, Estacao de S. Bento,
-      Igreja de Sao Nicolau, Livraria Lello, Se do Porto, Ponte Luis, Mosterio
-      da Serra do Pilar&nbsp;</p><p>&nbsp;</p><h2>Day 11: Guimaraes &amp; Duoro
+      university.</p><p>&nbsp;</p><h2>Day 10: Aveiro &amp; Porto</h2><p><em>➟
+      Drive 1 hour from Coimbra to Aveiro.</em><br /><strong>&bull;Aveiro:
+      </strong>This colorful and charming town is also known as "Portugals
+      Little Venice".<br />Places you shouldn't miss: Cais dos Botiroes, Marinha
+      da Troncalhada, Costa Nova, Beira-Mar, Canal Central, and Museu de
+      Aveiro.<br /><em>➟ Drive 1 hour from Aveiro to Porto.</em><br
+      /><strong>&bull;Porto: </strong>This is the second-largest city in
+      Portugal and a must-see. some spend 2 days here.<br />Places you shouldn't
+      miss: Igreja de Santo Ildefonso, Rua de Santa, Catarina, Capela das Almas,
+      Estacao de S. Bento, Igreja de Sao Nicolau, Livraria Lello, Se do Porto,
+      Ponte Luis, Mosterio da Serra do Pilar&nbsp;</p><p>&nbsp;</p><h2>Day 11:
+      Guimaraes &amp; Duoro
       Valley</h2><p><strong>&bull;Guimaraes:&nbsp;</strong>&nbsp;It's known for
       well-preserved medieval buildings like the hilltop, and 10th-century
       Guimar&atilde;es Castle, with its sweeping city views.<br
@@ -264,34 +266,46 @@ content-blocks:
     blog-cover_image: /uploads/Portugal/25-(1).jpg
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1><strong>Day 16-21: The Algarve Coast</strong></h1><h2>Day 16:
-      Segres</h2><p>Sagres Fortress, Praia das Arrifana &amp; Costa
-      Vicentina</p><h2>Day 17: Albufeira</h2><p><strong>&bull;Sunrise at Marinha
-      Beach -</strong> just for the experience.<br /><strong>&bull;Marina de
-      Albufeira -</strong> Go to the Marina and take a dolphin tour<br
-      /><strong>&bull;Explore Albufeira Old Town - </strong>The old town is so
-      charming and beautiful.<br /><strong>&bull;Praia do Barranco das
-      Belharucas:</strong> Spectacular red/orange cliff view from the beach,
-      with white clay and turquoise waters.<br /><strong>&bull;Praia da
-      Fal&eacute;sia: </strong>This beach is so unique with beautiful orange
-      cliffs.</p><h2>Day 18: Alvor</h2><p><strong>&bull;</strong>Sunrise at
-      Praia dos Tr&ecirc;s Irm&atilde;os.<br /><strong>&bull;</strong>Explore
-      Benagil Cave (by Kayak, boat or SUP)<br /><strong>&bull;</strong>Ferragudo
-      old Town<br /><strong>&bull;</strong>Queda Do Vigario waterfall</p><h2>Day
-      19: Lagoa &amp; Carvoeiro</h2><p><strong>&bull;</strong>Praia da
-      Marinha<br /><strong>&bull;</strong>Algar Seco<br
-      /><strong>&bull;</strong>Praia do Para&iacute;so<br
-      /><strong>&bull;</strong>Praia dos Caneiros<br
-      /><strong>&bull;</strong>Praia Nova<br /><strong>&bull;</strong>Church of
-      Igreja de Nossa Senhora da Rocha<br /><strong>&bull;</strong>Sunset at
-      Albandeira Beach.<br /><strong>&bull;</strong>Praia do Carvalho</p><h2>Day
-      20: Lagos</h2><p><strong>&bull;</strong>Sunrise at Praia dos Estudantes<br
+      <h1><strong>Day 16-21: The Algarve Coast</strong></h1><h2>Day 16: Arrive
+      &amp; Carvoeiro</h2><p><em>➟ Drive 2.5 hours from Lisbon to
+      Carvoeiro.</em><br /><strong>&bull;</strong>Praia Nova:<br
+      /><strong>&bull;</strong>Church of Igreja de Nossa Senhora da Rocha<br
+      /><strong>&bull;</strong>Sunset at Albandeira Beach.</p><h2>Day 17: Lagoa
+      &amp; Carvoeiro</h2><p><strong>&bull;Sunrise at Praia da Marinha:
+      </strong>One of the most popular spots in the Algarve and for a good
+      reason. Sunsets here are magical.<br /><strong>&bull;Hike The Seven
+      Hanging Valleys Trail:</strong> You can do it either as a 3.5-mile (5.7
+      km) hike, and get a taxi/Uber on the way back or a 7-mile (11.4 km) return
+      hike.&nbsp;<br /><strong>&bull;Algar Seco: </strong>Man-made cave with two
+      windows, benches, and a great view of the ocean. It is very accessible,
+      and the whole area offers great views.<br /><strong>&bull;Praia do
+      Para&iacute;so: </strong>Beautiful beach accessed by a series of stone
+      steps.<br /><strong>&bull;Praia dos Caneiros: </strong>This beach has
+      beautiful a cave, cliffs, white sand, a rooftop bar, restrooms, and a
+      great hike. It's pretty small so come early.<br /><strong>&bull;Praia do
+      Carvalho: </strong>Another great beach near Benagil cave. You have to walk
+      down some steps through a tunnel to get to the beach.</p><h2>Day 18:
+      Albufeira</h2><p><strong>&bull;Sunrise at Marinha Beach -</strong> just
+      for the experience.<br /><strong>&bull;Marina de Albufeira -</strong> Go
+      to the Marina and take a dolphin tour<br /><strong>&bull;Explore Albufeira
+      Old Town - </strong>The old town is so charming and beautiful.<br
+      /><strong>&bull;Praia do Barranco das Belharucas:</strong> Spectacular
+      red/orange cliff view from the beach, with white clay and turquoise
+      waters.<br /><strong>&bull;Praia da Fal&eacute;sia: </strong>This beach is
+      so unique with beautiful orange cliffs.</p><h2>Day 19:
+      Alvor</h2><p><strong>&bull;</strong>Sunrise at Praia dos Tr&ecirc;s
+      Irm&atilde;os.<br /><strong>&bull;</strong>Explore Benagil Cave (by Kayak,
+      boat or SUP)<br /><strong>&bull;</strong>Ferragudo old Town<br
+      /><strong>&bull;</strong>Queda Do Vigario
+      waterfall</p><h2>&nbsp;</h2><h2>Day 20:
+      Lagos</h2><p><strong>&bull;</strong>Sunrise at Praia dos Estudantes<br
       /><strong>&bull;</strong>Old Town Lagos<br /><strong>&bull;</strong>Praia
       Dona Ana<br /><strong>&bull;</strong>Praia do Camilo<br
       /><strong>&bull;</strong>Ponta da Camilo<br /><strong>&bull;</strong>Ponta
       da Piedade<br /><strong>&bull;</strong>Sagres Fortress<br
       /><strong>&bull;</strong>Praia das Arrifana and Costa Vicentina</p><h2>Day
-      21:&nbsp;&nbsp;</h2><p>Drive to Lisbon</p>
+      21:&nbsp; Segres</h2><p>Sagres Fortress, Praia das Arrifana &amp; Costa
+      Vicentina<br />Drive to Lisbon</p>
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
     2_image: /uploads/Portugal/18-(1).jpg
