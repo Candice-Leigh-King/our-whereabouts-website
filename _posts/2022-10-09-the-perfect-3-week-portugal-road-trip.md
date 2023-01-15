@@ -359,7 +359,7 @@ content-blocks:
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
     2_image: /uploads/Portugal/18.jpg
-    3_image:
+    3_image: /uploads/Portugal/4-(1).jpg
     4_image: /uploads/Portugal/20220430093048_IMG_4069.jpg
     5_image: /uploads/Portugal/20220430_121404-2.jpg
     6_image: /uploads/Portugal/8-01-3.jpg
