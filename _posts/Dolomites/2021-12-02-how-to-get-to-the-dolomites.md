@@ -34,19 +34,19 @@ content-blocks:
       will share them in this blog post.</p>
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>Plane:</strong></h2><p>There are no international airports in
+      <h1><strong>Plane:</strong></h1><p>There are no international airports in
       the Dolomites therefore if you're coming from out of the country
       <strong>the best airport</strong> to land in is <strong>Venice Marco Polo
-      Airport.</strong> It is the closest, about 160km
-      away.</p><p>&nbsp;</p><p>The other options include:</p><ul><li>Bologna
-      Airport is about 300km away.</li><li>Milan Airport is 318km
-      away.</li><li>Munich, Germany Airport is about 368km
-      away.</li></ul><p>&nbsp;</p><h2><strong>Car:</strong></h2><p>The best way
+      Airport.</strong> It is the closest, about 160km away.</p><p>The other
+      options include:</p><ul><li>Bologna Airport is about 300km
+      away.</li><li>Milan Airport is 318km away.</li><li>Munich, Germany Airport
+      is about 368km
+      away.</li></ul><p>&nbsp;</p><h1><strong>Car:</strong></h1><p>The best way
       of getting around in the Dolomites is by car! Getting around by public
       transportation isn't easy in the Dolomites and if you truly want to
       experience this area to its fullest you need to rent a
-      car.</p><p>&nbsp;</p><p>&nbsp;</p><h3><strong>Renting a
-      car:</strong></h3><p><strong>Where?</strong> Mestre, Venice (It isn't
+      car.</p><p>&nbsp;</p><p>&nbsp;</p><h2><strong>Renting a
+      car:</strong></h2><p><strong>Where?</strong> Mestre, Venice (It isn't
       really Venice, but it's a short bus ride away from Venice).<br
       /><strong>Company:</strong> We rented the car through Europcar.<br
       /><strong>Cost:</strong> Since we booked our trip last minute it was a bit
@@ -69,7 +69,7 @@ content-blocks:
     blog-cover_image: /uploads/Dolomites/218.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
-      <h2><strong>Trains:</strong></h2><p>The second best option is taking the
+      <h1><strong>Trains:</strong></h1><p>The second best option is taking the
       train to the Dolomites. The trains will take you to Belluno or Bolzano.
       <strong>Do take into consideration when using traveling by train, bus
       transportation will be required, adding more time to your
@@ -77,8 +77,8 @@ content-blocks:
       Dolomites but it's closer to Lago di Sorapiss, Cinque Torri, Tre Cime,
       Rifugio Lagazuoi &amp; Lago di Misurina.</li><li>Bolzano - is closer to
       Val di gardena (Seceda &amp; Alpe di Siusi), Val di Funes and Lago di
-      Carezza.</li></ul><p>&nbsp;</p><h4><strong>Trains to
-      Belluno:</strong></h4><ul><li><strong>From Venice -</strong> Take the
+      Carezza.</li></ul><p>&nbsp;</p><h2><strong>Trains to
+      Belluno:</strong></h2><ul><li><strong>From Venice -</strong> Take the
       direct train from Venezia S. Lucia to Belluno.<br /><strong>Total
       Time:</strong> 2hrs and 4 mins.<br /><strong>Cost:</strong> About 7-14
       euros, depending on the season, the hour you choose to leave, and how far
@@ -105,8 +105,8 @@ content-blocks:
       take a train to Belluno, it takes about 2hr and 15mins.<br /><strong>Total
       Time:</strong> 3hrs and 55mins.<br /><strong>Cost:</strong> About 26-132
       euros, depending on the season, the hour you choose to leave, and how far
-      in advance you book tickets.</li></ul><h4><strong>Trains to
-      Bolzano:</strong></h4><ul><li><strong>From Venice - </strong>Take the
+      in advance you book tickets.</li></ul><h2><strong>Trains to
+      Bolzano:</strong></h2><ul><li><strong>From Venice - </strong>Take the
       train from Venezia S. Lucia to Verona Porta Nuova, which will take 1hr and
       28mins, From Verona take a train to Bolzano Bozen, which takes about 1hr
       and 40mins.<br /><strong>Total Time:</strong> 3hrs and 8mins.<br
@@ -135,14 +135,14 @@ content-blocks:
       tickets.</li></ul>
   - _section-type: blog-textarea
     textarea_html: >-
-      <h2><strong>Buses:</strong></h2><p>The buses will get you to either
+      <h1><strong>Buses:</strong></h1><p>The buses will get you to either
       Cortina d'Ampezzo or Bolzano South.</p><ul><li>Cortina d'Ampezzo is
       located in the northern area of Belluno province, you'll find Lago di
       Braies and Tre Cime Lavaredo, and Passo Giau around this
       area.</li><li>Bolzano - is closer to Val di gardena (Seceda &amp; Alpe di
       Siusi), Val di Funes and Lago di
-      Carezza.</li></ul><p>&nbsp;</p><h4><strong>Buses to Belluno (Cortina
-      d'Ampezzo):</strong></h4><ul><li><strong>From Venice -</strong> Take a bus
+      Carezza.</li></ul><p>&nbsp;</p><h2><strong>Buses to Belluno (Cortina
+      d'Ampezzo):</strong></h2><ul><li><strong>From Venice -</strong> Take a bus
       from Venezia Piazzale Roma To Feltre. From Feltre take lines 13,20 or 17
       to Belluno.<br /><strong>Total Time:</strong> 2 hours and 50 minutes.<br
       /><strong>Cost:</strong> About 7-12 euros, depending on the season, the
@@ -164,8 +164,8 @@ content-blocks:
       d'Ampezzo, which takes 2.5 hours.<br /><strong>Total Time:</strong> 3hrs
       and 40mins.<br /><strong>Cost:</strong> About 24-44 euros, depending on
       the season, the hour you choose to leave, and how far in advance you book
-      tickets.</li></ul><p>&nbsp;</p><h4><strong>Buses to
-      Bolzano:</strong></h4><ul><li><strong>From Venice - </strong>Take the
+      tickets.</li></ul><p>&nbsp;</p><h2><strong>Buses to
+      Bolzano:</strong></h2><ul><li><strong>From Venice - </strong>Take the
       direct bus from Venice (Tronchetto) to Bolzano South (Stazione FS).<br
       /><strong>Total Time:</strong> 4 hours and 10 minutes.<br
       /><strong>Cost:</strong> About 14-18 Euro, depending on the season, the
