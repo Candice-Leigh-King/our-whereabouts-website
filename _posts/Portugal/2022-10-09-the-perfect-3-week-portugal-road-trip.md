@@ -161,21 +161,25 @@ content-blocks:
       Guimaraes.</em><br /><br /><strong>&bull;Guimaraes</strong><br />It's
       known for well-preserved medieval buildings like the hilltop, and
       10th-century Guimar&atilde;es Castle, with its sweeping city views.<br
-      /><strong>Guimaraes Castle:&nbsp;</strong><br /><strong>Church of San
-      Miguel do Castelo:&nbsp;</strong><br /><strong>Igreja de Nossa Senhora do
-      Carmo:&nbsp;<br />Guimaraes Town Hall:<br />&nbsp;Largo da
-      Oliveira:</strong><br /><br /><em>➟ Drive 40 minutes from Guimaraes to
-      Duoro Valley.</em><br /><br /><strong>&bull;Duoro
-      Valley:&nbsp;</strong>The Douro Wine Region Valley, up to Barca de Alva,
-      is the oldest demarcated wine region in the world.<br /><strong>Sao
-      Salvador do Mundo:&nbsp;</strong>A view over the Douro river, more
-      specifically over the Ferradosa pier and the dam of Val&eacute;ria, and
-      visit the chapel of Senhora da Peneda.<br /><strong>Miradouro Sao
-      Domingos:&nbsp;</strong>It has fantastic views over the Douro landscape.
-      It is considered one of the most spectacular viewpoints in the entire
-      Douro region<br /><strong>S&atilde;o Leonardo da Galafura: </strong>A
-      breathtaking view of the Douro river, it is easily accessible by car and
-      it is not too difficult to park.<br />&nbsp;</p>
+      /><strong>Guimaraes Castle:&nbsp;</strong> The palace is original and
+      underwent some renovations but the castle was completely rebuilt in the
+      1940s. There's not much to see actually and the outside is way better than
+      the inside.<br /><strong>Church of San Miguel do Castelo: </strong>Small
+      church not far from the castle with free entrance.<br /><strong>Igreja de
+      Nossa Senhora do Carmo: </strong>A beautiful church. The outside has a
+      beautiful tile wall, with a very charming square in front.<br
+      /><strong>Guimaraes Town Hall: </strong>A great place to explore.<br /><br
+      /><em>➟ Drive 40 minutes from Guimaraes to Duoro Valley.</em><br /><br
+      /><strong>&bull;Duoro Valley:&nbsp;</strong>The Douro Wine Region Valley,
+      up to Barca de Alva, is the oldest demarcated wine region in the world.<br
+      /><strong>Sao Salvador do Mundo:&nbsp;</strong>A view over the Douro
+      river, more specifically over the Ferradosa pier and the dam of
+      Val&eacute;ria, and visit the chapel of Senhora da Peneda.<br
+      /><strong>Miradouro Sao Domingos:&nbsp;</strong>It has fantastic views
+      over the Douro landscape. It is considered one of the most spectacular
+      viewpoints in the entire Douro region<br /><strong>S&atilde;o Leonardo da
+      Galafura: </strong>A breathtaking view of the Douro river, it is easily
+      accessible by car and it is not too difficult to park.</p>
   - _section-type: blog-window
     right_image: /uploads/Portugal/IMG_20230112_112209_138.jpg
     left_image: /uploads/Portugal/IMG_20230112_112208_554-2.jpg
