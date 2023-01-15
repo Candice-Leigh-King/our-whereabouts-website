@@ -13,12 +13,12 @@ seo:
   keywords: 'How to spend 3-weeks in Portugal, '
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/29-(1).jpg
+  social-share_image: /uploads/Portugal/13-(1).jpg
 title: The Perfect 3-Week Portugal Road Trip
 author: Elizabeth
 blog-summary: A 3-week itinerary for Portugal
 cta: Read More →
-blog_image: /uploads/Portugal/29-(1).jpg
+blog_image: /uploads/Portugal/13-(1).jpg
 date: 2022-10-09 00:00:00
 categories:
   - travel
