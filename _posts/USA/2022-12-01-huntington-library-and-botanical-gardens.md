@@ -23,9 +23,10 @@ categories:
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <p>The Hungtington Library has museums, libraries, shops, dining, and
-      amazing gardens. It is located only a 18 min drive from DTLA and is a
-      great way to get away from the big city.</p>
+      <p>If you're visiting Los Angeles, California anytime soon, here's a place
+      you need to add to your itinerary.<br />The Hungtington Library has
+      museums, libraries, shops, dining, and unique gardens. It is only an 18
+      min drive from DTLA and is a great way to get away from the big city.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Huntington Library, Art Gallery and Botanical Gardens, CA
