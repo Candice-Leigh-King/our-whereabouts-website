@@ -147,23 +147,35 @@ content-blocks:
       Portugal&rsquo;s medieval capital for more than a century and it's home to
       the country&rsquo;s oldest and most prestigious
       university.</p><p>&nbsp;</p><h2>Day 10: Aveiro &amp; Porto</h2><p><em>➟
-      Drive 1 hour from Coimbra to Aveiro.</em><br /><strong>&bull;Aveiro:
+      Drive 1 hour from Coimbra to Aveiro.</em><br /><br /><strong>&bull;Aveiro:
       </strong>This colorful and charming town is also known as "Portugals
       Little Venice".<br />Places you shouldn't miss: Cais dos Botiroes, Marinha
       da Troncalhada, Costa Nova, Beira-Mar, Canal Central, and Museu de
-      Aveiro.<br /><em>➟ Drive 1 hour from Aveiro to Porto.</em><br
+      Aveiro.<br /><br /><em>➟ Drive 1 hour from Aveiro to Porto.</em><br /><br
       /><strong>&bull;Porto: </strong>This is the second-largest city in
       Portugal and a must-see. some spend 2 days here.<br />Places you shouldn't
       miss: Igreja de Santo Ildefonso, Rua de Santa, Catarina, Capela das Almas,
       Estacao de S. Bento, Igreja de Sao Nicolau, Livraria Lello, Se do Porto,
       Ponte Luis, Mosterio da Serra do Pilar&nbsp;</p><p>&nbsp;</p><h2>Day 11:
-      Guimaraes &amp; Duoro
-      Valley</h2><p><strong>&bull;Guimaraes:&nbsp;</strong>&nbsp;It's known for
-      well-preserved medieval buildings like the hilltop, and 10th-century
-      Guimar&atilde;es Castle, with its sweeping city views.<br
-      /><strong>&bull;Duoro Valley:&nbsp;</strong>The Douro Wine Region Valley,
-      up to Barca de Alva, is the oldest demarcated wine region in the
-      world.</p>
+      Guimaraes &amp; Duoro Valley</h2><p><em>➟ Drive 40 minutes from Porto to
+      Guimaraes.</em><br /><br /><strong>&bull;Guimaraes</strong><br />It's
+      known for well-preserved medieval buildings like the hilltop, and
+      10th-century Guimar&atilde;es Castle, with its sweeping city views.<br
+      /><strong>Guimaraes Castle:&nbsp;</strong><br /><strong>Church of San
+      Miguel do Castelo:&nbsp;</strong><br /><strong>Igreja de Nossa Senhora do
+      Carmo:&nbsp;<br />Guimaraes Town Hall:<br />&nbsp;Largo da
+      Oliveira:</strong><br /><br /><em>➟ Drive 40 minutes from Guimaraes to
+      Duoro Valley.</em><br /><br /><strong>&bull;Duoro
+      Valley:&nbsp;</strong>The Douro Wine Region Valley, up to Barca de Alva,
+      is the oldest demarcated wine region in the world.<br /><strong>Sao
+      Salvador do Mundo:&nbsp;</strong>A view over the Douro river, more
+      specifically over the Ferradosa pier and the dam of Val&eacute;ria, and
+      visit the chapel of Senhora da Peneda.<br /><strong>Miradouro Sao
+      Domingos:&nbsp;</strong>It has fantastic views over the Douro landscape.
+      It is considered one of the most spectacular viewpoints in the entire
+      Douro region<br /><strong>S&atilde;o Leonardo da Galafura: </strong>A
+      breathtaking view of the Douro river, it is easily accessible by car and
+      it is not too difficult to park.<br />&nbsp;</p>
   - _section-type: blog-window
     right_image: /uploads/Portugal/IMG_20230112_112209_138.jpg
     left_image: /uploads/Portugal/IMG_20230112_112208_554-2.jpg
@@ -268,12 +280,12 @@ content-blocks:
     textarea_html: >-
       <h1><strong>Day 16-21: The Algarve Coast</strong></h1><h2>Day 16: Arrive
       &amp; Carvoeiro</h2><p><em>➟ Drive 2.5 hours from Lisbon to
-      Carvoeiro.</em><br /><strong>&bull;</strong>P<strong>raia
-      Nova:</strong>&nbsp;Praia Nova is a small beach near Praia da Senhora da
-      Rocha on the Atlantic coast, Porches.<br /><strong>&bull;Church of Igreja
-      de Nossa Senhora da Rocha:&nbsp;</strong>A small and charming white Chapel
-      on the top of a cliff overlooking beaches from both sides.<b> </b>Sunrises
-      and sunsets are magical here.<br /><strong>&bull;Sunset at Albandeira
+      Carvoeiro.</em><br /><strong>&bull;Praia Nova:</strong>&nbsp;Praia Nova is
+      a small beach near Praia da Senhora da Rocha on the Atlantic coast,
+      Porches.<br /><strong>&bull;Church of Igreja de Nossa Senhora da
+      Rocha:&nbsp;</strong>A small and charming white Chapel on the top of a
+      cliff overlooking beaches from both sides.<b> </b>Sunrises and sunsets are
+      magical here.<br /><strong>&bull;Sunset at Albandeira
       Beach:</strong>&nbsp;This beach has a stunning rock formation in the shape
       of an arch. There are plenty of cool caves nearby that you can explore.
       The beach is so quiet and secluded.</p><h2>Day 17: Lagoa &amp;
@@ -304,39 +316,46 @@ content-blocks:
       away in Portim&atilde;o, you'll find this beach with dramatic rock
       formations, pure golden sand, and clear blue water.<br
       /><strong>&bull;Explore Benagil Cave:</strong> by Kayak, boat or SUP<br
-      /><strong>&bull;</strong>Ferragudo old Town<br
-      /><strong>&bull;</strong>Queda Do Vigario
-      waterfall</p><h2>&nbsp;</h2><h2>Day 20: Lagos</h2><p><strong>&bull;Sunrise
-      at Praia dos Estudantes:&nbsp;</strong>This is one of Lagos&rsquo;s most
-      photographed beaches due to the famous Roman Bridge, which linked the
-      mainland with Pinhao Fortress. It's called the Student beach because
-      it&rsquo;s a small beach that can fit a class of students<br
-      />​​​​​<strong>&bull;Praia Dona Ana:&nbsp;</strong>This beach has golden
-      sand and many beautiful shells. It is best to come for sunrise.<br
-      /><strong>&bull;Praia do Camilo:</strong>&nbsp;a very scenic beach, but
-      quite narrow, so it gets busy very quickly. You can access 2 other small
-      beaches from there. Before you go down to the beach, you can enjoy the
-      view from above. It is stunning.<br /><strong>&bull;Ponta da Camilo:
-      </strong>A great viewpoint<br /><strong>&bull;Ponta da
-      Piedade:&nbsp;</strong>Once you park, you'll find a path with many steps
-      that leads to a small platform in the ocean where you can rent a boat and
-      explore caves. Walking down, you'll enjoy the beautiful view and natural
-      arches. Take into consideration that if you come mid-day it gets very
-      crowded and it isn't as magical.<br /><strong>&bull;Old Town
-      Lagos:</strong> Explore Old Town Lagos, it is a charming place filled with
-      nightlife, restaurants, and gift shops.</p><h2>Day 21:&nbsp;
-      Sagres</h2><p><strong>&bull;Sagres Fortress:&nbsp;</strong>Known as the
-      edge of the world, this fortress was built to protect Portugal against the
-      Moors. However, the original structure was severely damaged by the 1755
-      earthquake. It's got dramatic cliffs, a small church, a maze, and
-      beautiful views. I would definitely recommend visiting if you're in the
-      area, however, I wouldn't go out of my way to visit.<br />Entrance Fee: 3
-      Euro per person<br />Duration of stay: You'll need more than an hour to
-      properly stroll around and see ​​​​​​​<br /><strong>&bull;</strong>Praia
-      das Arrifana and Costa Vicentina<br /><strong>&bull;Cabo S&atilde;o
-      Vicente: </strong>Considered the edge of the world, this spot is
-      definitely worth visiting.</p><p><em>➟ Drive 3 hours from Sagres to
-      Lisbon</em></p>
+      /><strong>&bull;Ferragudo Old Town:&nbsp;</strong>The scenery in the small
+      town is beautiful with pink flowers and coloful houses by the beach.<br
+      /><strong>&bull;Queda Do Vigario waterfall:</strong>&nbsp;From Alte head
+      out along the N124 towards the cemetery; at the roundabout turn left and
+      park by the cemetery. Follow the track downhill until you reach the pool
+      below. ​​​​​​It'll be a 10 minute walk.</p><p>&nbsp;</p><h2>Day 20:
+      Lagos</h2><p><strong>&bull;Sunrise at Praia dos
+      Estudantes:&nbsp;</strong>This is one of Lagos&rsquo;s most photographed
+      beaches due to the famous Roman Bridge, which linked the mainland with
+      Pinhao Fortress. It's called the Student beach because it&rsquo;s a small
+      beach that can fit a class of students<br />​​​​​<strong>&bull;Praia Dona
+      Ana:&nbsp;</strong>This beach has golden sand and many beautiful shells.
+      It is best to come for sunrise.<br /><strong>&bull;Praia do
+      Camilo:</strong>&nbsp;a very scenic beach, but quite narrow, so it gets
+      busy very quickly. You can access 2 other small beaches from there. Before
+      you go down to the beach, you can enjoy the view from above. It is
+      stunning.<br /><strong>&bull;Ponta da Camilo: </strong>A great
+      viewpoint<br /><strong>&bull;Ponta da Piedade:&nbsp;</strong>Once you
+      park, you'll find a path with many steps that leads to a small platform in
+      the ocean where you can rent a boat and explore caves. Walking down,
+      you'll enjoy the beautiful view and natural arches. Take into
+      consideration that if you come mid-day it gets very crowded and it isn't
+      as magical.<br /><strong>&bull;Old Town Lagos:</strong> Explore Old Town
+      Lagos, it is a charming place filled with nightlife, restaurants, and gift
+      shops.</p><h2>Day 21:&nbsp; Sagres</h2><p><strong>&bull;Sagres
+      Fortress:&nbsp;</strong>Known as the edge of the world, this fortress was
+      built to protect Portugal against the Moors. However, the original
+      structure was severely damaged by the 1755 earthquake. It's got dramatic
+      cliffs, a small church, a maze, and beautiful views. I would definitely
+      recommend visiting if you're in the area, however, I wouldn't go out of my
+      way to visit.<br />Entrance Fee: 3 Euro per person<br />Duration of stay:
+      You'll need more than an hour to properly stroll around and see<br
+      /><strong>&bull;Praia das Arrifana:&nbsp;</strong>One of the most
+      beautiful view, beach towns, on the coast of Portugal, with a spectacular
+      cliff view, a little restaurant, and surfing.<br /><strong>&bull;Costa
+      Vicentina:&nbsp;</strong>Well maintained, beautiful trails with beautiful
+      views of the ocean. Breathtaking cliffs, caves, Garrison, and a chapel.<br
+      /><strong>&bull;Cabo S&atilde;o Vicente: </strong>Considered the edge of
+      the world, this spot is definitely worth visiting.</p><p><em>➟ Drive 3
+      hours from Sagres to Lisbon</em></p>
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
     2_image: /uploads/Portugal/18-(1).jpg
