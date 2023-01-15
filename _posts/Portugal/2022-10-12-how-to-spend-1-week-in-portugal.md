@@ -13,12 +13,12 @@ seo:
   keywords: 'How to spend 1-week in Portugal, '
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/IMG_7423-(2)-2.jpg
+  social-share_image: /uploads/33.jpg
 title: How to spend 1 week in Portugal
 author: Elizabeth
 blog-summary: If you're looking for a way to spend 1 week in Portugal, here's an itinerary
 cta: Read More →
-blog_image: /uploads/Portugal/IMG_7423-(2)-2.jpg
+blog_image: /uploads/33.jpg
 date: 2022-10-12 00:00:00
 categories:
   - travel
