@@ -13,12 +13,12 @@ seo:
   keywords: 'How to spend 3-weeks in Portugal, '
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/33-(1).jpg
+  social-share_image: /uploads/Portugal/33-(2).jpg
 title: The Perfect 3-Week Portugal Road Trip
 author: Elizabeth
 blog-summary: A 3-week itinerary for Portugal
 cta: Read More →
-blog_image: /uploads/Portugal/33-(1).jpg
+blog_image: /uploads/Portugal/33-(2).jpg
 date: 2022-10-09 00:00:00
 categories:
   - travel
@@ -275,7 +275,7 @@ content-blocks:
       museum dedicated to the azulejo, the traditional tilework of Portugal, and
       the former Portuguese Empire.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/Portugal/25-(1).jpg
+    blog-cover_image: /uploads/25-1.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1><strong>Day 16-21: The Algarve Coast</strong></h1><h2>Day 16: Arrive
@@ -358,7 +358,7 @@ content-blocks:
       hours from Sagres to Lisbon</em></p>
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
-    2_image: /uploads/Portugal/18-(1).jpg
+    2_image: /uploads/Portugal/18.jpg
     3_image: /uploads/Portugal/4-(1).jpg
     4_image: /uploads/Portugal/20220430093048_IMG_4069.jpg
     5_image: /uploads/Portugal/20220430_121404-2.jpg
