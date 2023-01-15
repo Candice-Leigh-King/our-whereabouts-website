@@ -13,12 +13,12 @@ seo:
   keywords: 'How to spend 1-week in Portugal, '
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/33-(1).jpg
+  social-share_image: /uploads/Portugal/IMG_7423-(2)-2.jpg
 title: How to spend 1 week in Portugal
 author: Elizabeth
 blog-summary: If you're looking for a way to spend 1 week in Portugal, here's an itinerary
 cta: Read More →
-blog_image: /uploads/Portugal/33-(1).jpg
+blog_image: /uploads/Portugal/IMG_7423-(2)-2.jpg
 date: 2022-10-12 00:00:00
 categories:
   - travel
@@ -29,14 +29,13 @@ content-blocks:
       It's a great destination for a road trip because the country is so diverse
       and it is cheap, and it's safe. It has white sandy beaches with dramatic
       rock formations, beautiful cities, and great food and wine.</p><p>Here's
-      how to spend 3 weeks in Portugal</p>
+      how to spend 1 week in Portugal</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Portugal
     google-embed-code: >-
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13300796.835873066!2d-29.443716811183883!3d35.522452121569835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xb32242dbf4226d5%3A0x2ab84b091c4ef041!2sPortugal!5e0!3m2!1sen!2sil!4v1673514066856!5m2!1sen!2sil"
-      width="100%" height="450" style="border:2;" allowfullscreen=""
-      loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+      "https://www.google.com/maps/d/embed?mid=1VexV0cDoU8bcY7y1oHXBF6aCsy9KdpU&ehbc=2E312F"
+      width="100%" height="480"
   - _section-type: blog-textarea
     textarea_html: >-
       <h1><strong>Day 1-4: The Algarve Coast</strong></h1><h2><strong>Day
@@ -111,7 +110,7 @@ content-blocks:
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
     2_image: /uploads/Portugal/18.jpg
-    3_image: /uploads/Portugal/4-(1).jpg
+    3_image: /uploads/Portugal/20220503_142245-yes-2.jpg
     4_image: /uploads/Portugal/20220430093048_IMG_4069.jpg
     5_image: /uploads/Portugal/20220430_121404-2.jpg
     6_image: /uploads/Portugal/8-01-3.jpg
@@ -182,7 +181,7 @@ content-blocks:
       and ornate follies.</p>
   - _section-type: blog-window
     right_image: /uploads/Portugal/31.jpg
-    left_image: /uploads/Portugal/38-(1).jpg
+    left_image: /uploads/Portugal/43-(1)reduced.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1><strong>Day 7: Lisbon -&nbsp;</strong>Belem</h1><p><strong>&bull;Torre
@@ -213,5 +212,5 @@ content-blocks:
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/11.jpg
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h3>Have fun!</h3>
 ---
