@@ -6,12 +6,12 @@ seo:
   keywords:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image:
+  social-share_image: /uploads/Portugal/IMG_4948-2.jpg
 title: Travel Guide to Roman Bridge, Lagos
 author: Elizabeth
 blog-summary:
 cta: Read More →
-blog_image:
+blog_image: /uploads/Portugal/IMG_4948-2.jpg
 date: 2021-04-01 00:00:00
 categories:
   - travel
