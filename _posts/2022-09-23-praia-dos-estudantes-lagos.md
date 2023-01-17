@@ -20,7 +20,8 @@ content-blocks:
     textarea_html: >-
       <p><strong>Praia dos Estudantes</strong>&nbsp;is one of Lagos&rsquo;s most
       photographed beaches due to the famous Roman Bridge which linked the
-      mainland with Pinhao Fortress.&nbsp;</p>
+      mainland with Pinhao Fortress.&nbsp;</p><p>Here's everything you need to
+      know about this beach</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Beach Estudantes, Portugal
