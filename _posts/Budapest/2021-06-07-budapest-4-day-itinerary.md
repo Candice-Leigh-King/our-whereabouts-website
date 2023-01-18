@@ -13,7 +13,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Budapest_Austria/20190115_113019.jpg
-title: Budapest 4-day Itinerarya  
+title: Budapest 4-day Itinerary
 author: Elizabeth
 blog-summary: Here's how to spend 4 days in the magical city of Budapest
 cta: Read More →
