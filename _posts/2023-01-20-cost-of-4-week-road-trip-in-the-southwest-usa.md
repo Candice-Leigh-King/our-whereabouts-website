@@ -16,7 +16,7 @@ author: Elizabeth
 blog-summary: This post breaks down the costs of a 4 week's road trip.
 cta: Read More →
 blog_image: /uploads/USA_Arizona/20221001_125705.jpg
-date: 2023-01-20 00:00:00
+date: 2023-01-19 00:00:00
 categories:
   - travel
 content-blocks:
