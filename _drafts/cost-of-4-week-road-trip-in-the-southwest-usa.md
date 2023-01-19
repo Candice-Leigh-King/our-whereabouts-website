@@ -1,17 +1,21 @@
 ---
 layout: posts
 seo:
-  title:
-  description:
-  keywords:
+  title: Cost of 4 week Road Trip in the Southwest, USA
+  description: >-
+    Wondering how much a road trip around California, Arizona, Utah & Nevada
+    will cost? This post breaks down the costs of a 4 week's road trip.
+  keywords: >-
+    Cost of 4 week Road Trip in the Southwest, USA. California, Utah, Arizona &
+    Nevada
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: ''
+  social-share_image: /uploads/USA_Arizona/20221001_125705.jpg
 title: Cost of 4 week Road Trip in the Southwest, USA
 author: Elizabeth
-blog-summary:
+blog-summary: This post breaks down the costs of a 4 week's road trip.
 cta: Read More →
-blog_image: ''
+blog_image: /uploads/USA_Arizona/20221001_125705.jpg
 date: 2023-01-20 00:00:00
 categories:
   - travel
@@ -19,8 +23,8 @@ content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
       <p>Wondering how much a road trip around California, Arizona, Utah &amp;
-      Nevada will cost? This budget post breaks down the costs of a 4 week's
-      road trip.</p>
+      Nevada will cost? This post breaks down the costs of a 4 week's road
+      trip.</p>
   - _section-type: blog-textarea
     textarea_html: "<h1>Accommodation</h1><h2>Accomodation total:</h2><p>$5,624.44 for a couple | $2,812.22 per person</p><h2>Daily Average:&nbsp;</h2><p>$200.5 for a couple | $100.25 per person.</p><p>\_</p><p><strong>•7 nights in Los Angeles, CA: </strong>$2,008.6<br />•3 nights in JW Marriott L.A. Live: $1,530.12<br />• 4 nights in Hollywood Historic Hotel $470.67&nbsp;</p><p><strong>•2 nights in Sedona, AZ:</strong> $281.64<br />Airbnb that we can’t really recommend.</p><p><strong>•2 nights in Page, AZ: </strong>$226.04<br />Super 8 by Wyndham Page/Lake Powell</p><p><strong>•3 nights in Moab, UT: </strong>$525.38<br />Red Stone Inn</p><p><strong>•1 night in Hanksville, UT: </strong>$166.39<br />Whispering Sand Motel&nbsp;</p><p><strong>•2 nights in Tropic, UT (Bryce Canyon):</strong> $234<br />Bryce Pioneer village</p><p><strong>•2 nights in Kanab, UT: </strong>$173.07<br />Red canyon cabins</p><p><strong>•2 nights in Springdale, UT (Zion):</strong> $1,281.16<br />Cable Mountain Lodge</p><p><strong>•2 nights in Las Vegas, NV: </strong>$285.62<br />Downtown Grand Hotel &amp; Casino</p><p><strong>•2 nights in Amargosa Valley, NV (Death Valley): </strong>$235.4<br />Longstreet Inn &amp; Casino</p><p><strong>•3 nights in Anaheim, CA (Disneyland):</strong> $298.35</p><p>Days Inn by Wyndham Anaheim Near the Park</p>"
   - _section-type: blog-featured-textarea
