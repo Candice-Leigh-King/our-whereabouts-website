@@ -70,9 +70,9 @@ content-blocks:
       $17<br />•SIM Cards: $130/ $65 each<br />•All trails Pro: $28</p>
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
-      <h1>Grand total:</h1><p>So the overall cost for a 4-week trip was
-      $10,240.46 | $5,120.23 per person.</p><p>This sums up to $182.86 per
-      person per day.</p>
+      <h1>Grand total:</h1><h2>So the overall cost for a 4-week trip was
+      $10,240.46 | $5,120.23 per person.</h2><h2>This sums up to $182.86 per
+      person per day.</h2>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: The United States
