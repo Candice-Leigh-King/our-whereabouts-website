@@ -6,12 +6,12 @@ seo:
   keywords:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/2022_Utah/IMG_4671.jpg
+  social-share_image: /uploads/2022_Utah/IMG_4558.jpg
 title: How to Spend 1 Day in Arches National Park
 author: Elizabeth
 blog-summary:
 cta: Read More →
-blog_image: /uploads/2022_Utah/IMG_4671.jpg
+blog_image: /uploads/2022_Utah/IMG_4558.jpg
 date: 2023-01-30 00:00:00
 categories:
   - travel
