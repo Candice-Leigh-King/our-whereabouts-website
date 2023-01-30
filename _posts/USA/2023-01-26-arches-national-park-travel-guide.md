@@ -20,9 +20,10 @@ content-blocks:
     textarea_html: >-
       <p>Arches National Park is one of Utah's Mighty 5 which contains the
       world’s largest concentration of natural sandstone arches. There are over
-      2,000 documented arches in the park, plus pinnacles, balanced rocks, fins,
-      and other geologic formations. Besides Arches, the park offers many
-      viewpoints and great trails.&nbsp;</p>
+      2,000 natural sandstone arches in the park, plus pinnacles, balanced
+      rocks, fins, and other geologic formations. The park is popular for its
+      unique geology, as well as outdoor recreation activities such as hiking,
+      rock climbing, and photography.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Arches National Park, Utah
