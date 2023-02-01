@@ -24,7 +24,8 @@ content-blocks:
       world’s largest concentration of natural sandstone arches. There are over
       2,000 documented arches in the park, plus pinnacles, balanced rocks, fins,
       and other geologic formations. Besides Arches, the park offers many
-      viewpoints and great trails.&nbsp;</p>
+      viewpoints and great trails.&nbsp;</p><p>If you have one day in Arches
+      National Park, here's how I'd spend it</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Arches National Park, Utah
