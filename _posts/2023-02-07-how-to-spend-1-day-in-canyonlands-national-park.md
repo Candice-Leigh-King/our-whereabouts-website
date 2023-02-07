@@ -71,5 +71,5 @@ content-blocks:
     5_image: /uploads/2022_Utah/IMG_4934.jpg
     6_image: /uploads/2022_Utah/IMG_5174.jpg
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h3>Our Whereabouts xxx</h3>
 ---
