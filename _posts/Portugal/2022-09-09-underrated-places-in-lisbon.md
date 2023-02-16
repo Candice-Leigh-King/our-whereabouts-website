@@ -3,21 +3,27 @@ layout: posts
 seo:
   title: Underrated Places in Lisbon
   description: >-
-    Benagil Cave is one of the most popular places to visit during your trip to
-    the Algarve coast. It is just 200 meters from Benagil Beach, considered one
-    of the best beaches in the Algarve, and is well worth visiting if you ask
-    us.
+    Lisbon is the capital city of Portugal, located on the Atlantic coast of the
+    country. It is one of the oldest cities in Europe, with a history dating
+    back to Roman times, and has a rich cultural heritage.
 
 
-    In this post, I cover the location, when to visit, how to get there, and
-    tips.
+    The city is known for its beautiful architecture, with buildings that range
+    from ancient Roman ruins to traditional Portuguese tile-covered buildings
+    and modern skyscrapers.
+
+
+    Everyone knows about Belem Tower, Miradouro de Santa Luzia, Se de Lisboa,
+    but here are some spots that don't get enough credit.
   keywords: Underrated places to visit in Lisbon, Portugal
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/IMG_7000.jpg
 title: Underrated Places in Lisbon
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  Everyone knows about Belem Tower & Se de Lisboa, but here are some spots that
+  don't get enough credit that you should visit
 cta: Read More →
 blog_image: /uploads/Portugal/IMG_7000.jpg
 date: 2022-09-09 00:00:00
