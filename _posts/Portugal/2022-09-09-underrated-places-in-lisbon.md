@@ -14,12 +14,12 @@ seo:
   keywords: Underrated places to visit in Lisbon, Portugal
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: ''
+  social-share_image: /uploads/Portugal/IMG_7000.jpg
 title: Underrated Places in Lisbon
 author: Elizabeth
 blog-summary:
 cta: Read More →
-blog_image: ''
+blog_image: /uploads/Portugal/IMG_7000.jpg
 date: 2022-09-09 00:00:00
 categories:
   - travel
