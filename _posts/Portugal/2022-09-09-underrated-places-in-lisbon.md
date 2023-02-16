@@ -55,7 +55,7 @@ content-blocks:
     3_image: >-
       /uploads/Portugal/DALLE-2023-02-16-13.35.20---National-Tile-Museum-lisbon.jpg
     4_image: /uploads/Portugal/DALLE-2023-02-16-14.30.57---Jerónimos-Monastery.jpg
-    5_image:
+    5_image: /uploads/Portugal/export.jpg
     6_image: /uploads/Portugal/DALLE-2023-02-16-14.27.48---Miradouro-da-Graça-.jpg
   - _section-type: signature
     signature_html: <h3>Our Whereabouts xxx</h3>
