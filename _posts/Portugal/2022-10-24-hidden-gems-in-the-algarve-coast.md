@@ -14,7 +14,7 @@ seo:
     Algarve also boasts a rich cultural heritage, with a history dating back to
     ancient times, and has many historical sites and museums that are worth
     exploring.
-  keywords:
+  keywords: Hidden gems in the Algarve Coast, Southern Portugal
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/13-(1).jpg
