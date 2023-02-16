@@ -18,14 +18,14 @@ seo:
   keywords: Underrated places to visit in Lisbon, Portugal
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Portugal/IMG_7000.jpg
+  social-share_image: /uploads/Portugal/29-(1).jpg
 title: Underrated Places in Lisbon
 author: Elizabeth
 blog-summary: >-
   Everyone knows about Belem Tower & Se de Lisboa, but here are some spots that
   don't get enough credit that you should visit
 cta: Read More →
-blog_image: /uploads/Portugal/IMG_7000.jpg
+blog_image: /uploads/Portugal/29-(1).jpg
 date: 2022-09-09 00:00:00
 categories:
   - travel
