@@ -13,7 +13,9 @@ seo:
   social-share_image: /uploads/2022_Utah/IMG_5510-3.jpg
 title: Hidden Gems in Hanksville, Utah
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  Most people drive through Hanksville, but if you stirck around this area wont
+  disappoint you!
 cta: Read More →
 blog_image: /uploads/2022_Utah/IMG_5510-3.jpg
 date: 2023-02-21 00:00:00
