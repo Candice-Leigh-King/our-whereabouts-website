@@ -17,7 +17,7 @@ seo:
   social-share_image: /uploads/2022_Utah/IMG_5325-2.jpg
 title: Goblin Valley State Park
 author: Elizabeth
-blog-summary: Everything you need to know for your trip to Goblin Valley State Park
+blog-summary: Everything you need to know for your trip to Goblin Valley State Park, Utah
 cta: Read More →
 blog_image: /uploads/2022_Utah/IMG_5325-2.jpg
 date: 2023-02-24 00:00:00
