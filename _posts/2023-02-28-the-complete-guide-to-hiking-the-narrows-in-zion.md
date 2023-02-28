@@ -16,12 +16,12 @@ seo:
   keywords: The complete Guide to hiking the Narrows, Zion National Park, Utah, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/2022_Utah/IMG_7538-2.jpg
+  social-share_image: /uploads/2022_Utah/IMG_7538-3.jpg
 title: The Complete Guide to hiking the Narrows in Zion
 author: Elizabeth
 blog-summary: Everything you need to know before hiking the Narrows in Zion National Park
 cta: Read More →
-blog_image: /uploads/2022_Utah/IMG_7538-2.jpg
+blog_image: /uploads/2022_Utah/IMG_7538-3.jpg
 date: 2023-02-28 00:00:00
 categories:
   - travel
