@@ -2,16 +2,26 @@
 layout: posts
 seo:
   title: The Complete Guide to hiking the Narrows in Zion
-  description:
-  keywords:
+  description: >-
+    The Narrows is a popular hiking trail in Zion National Park, Utah, USA. It
+    is a challenging and scenic hike that takes you through the narrow slot
+    canyons of the Virgin River. The Narrows hike is a unique and unforgettable
+    experience that takes you through some of the most beautiful natural scenery
+    in the United States. However, it is important to be prepared and cautious
+    when hiking in this area, as the conditions can be challenging and
+    potentially dangerous.
+
+
+    Here's everything you need to know before hiking the Narrows.
+  keywords: The complete Guide to hiking the Narrows, Zion National Park, Utah, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: ''
+  social-share_image: /uploads/2022_Utah/IMG_7538-2.jpg
 title: The Complete Guide to hiking the Narrows in Zion
 author: Elizabeth
-blog-summary:
+blog-summary: Everything you need to know before hiking the Narrows in Zion National Park
 cta: Read More →
-blog_image: ''
+blog_image: /uploads/2022_Utah/IMG_7538-2.jpg
 date: 2023-02-28 00:00:00
 categories:
   - travel
@@ -24,7 +34,8 @@ content-blocks:
       unforgettable experience that takes you through some of the most beautiful
       natural scenery in the United States. However, it is important to be
       prepared and cautious when hiking in this area, as the conditions can be
-      challenging and potentially dangerous.</p>
+      challenging and potentially dangerous.</p><p>Here's everything you need to
+      know before hiking the Narrows.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading:
