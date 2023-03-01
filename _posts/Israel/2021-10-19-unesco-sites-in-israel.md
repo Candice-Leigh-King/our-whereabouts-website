@@ -19,9 +19,7 @@ categories:
   - travel
 content-blocks:
   - _section-type: blog-textarea
-    textarea_html: >-
-      <p><strong>Did you know that Israel has 9 UNESCO sites? Here's all you
-      need to know about them!</strong></p>
+    textarea_html: "<p>UNESCO World Heritage Sites are cultural or natural landmarks that have been recognized by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as having outstanding universal value to humanity. These sites are considered to be of exceptional importance and are protected by international treaties.</p><p>Israel has nine UNESCO World Heritage Sites, recognized for their cultural and historical significance. Here's everything you need to know about them.</p><p>\_</p>"
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Israel
