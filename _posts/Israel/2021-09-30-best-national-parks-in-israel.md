@@ -22,8 +22,10 @@ categories:
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <p><strong>Israel has 49 National Parks and in this post, I will share 8
-      that you shouldn't miss!</strong></p>
+      <p>I bet you didn't know, but Israel has 49 National Parks. &nbsp;Israel's
+      national parks are diverse and offer a wide range of experiences, from
+      ancient archaeological sites to natural wonders.<br />Here are some of our
+      favorite ones:</p>
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>APOLLONIA NATIONAL PARK</strong></h2><p>Apollonia is a hidden
