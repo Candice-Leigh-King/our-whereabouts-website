@@ -46,7 +46,7 @@ content-blocks:
     2_image: /uploads/Israel/136.jpg
     3_image: /uploads/Israel/83.jpg
     4_image: /uploads/Israel/20210225_165119.jpg
-    5_image: /uploads/Israel/20200718_184035-(1).jpg
+    5_image: /uploads/Israel/DSC00158.jpg
     6_image: /uploads/Israel/2021204_164555.jpg
   - _section-type: signature
     signature_html: <h3>Have fun,</h3><h3>&nbsp;</h3><h3>Elizabeth xxx</h3>
