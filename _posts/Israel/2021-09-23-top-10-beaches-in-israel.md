@@ -21,9 +21,10 @@ categories:
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <p>Israel has so many beautiful beaches, most tourists stick to the
-      beaches in Tel Aviv but there are so many great ones that aren't as
-      popular. Here are our favorites that you shouldn't miss.</p>
+      <p>Israel has many beautiful beaches along its Mediterranean coastline,
+      most tourists stick to the beaches in Tel Aviv but there are so many great
+      ones that aren't as popular. Here are our favorites that you shouldn't
+      miss.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Beaches in Israel
