@@ -129,7 +129,7 @@ content-blocks:
     3_image: /uploads/2022_Utah/IMG_5510-3.jpg
     4_image: /uploads/2022_Utah/IMG_6741.jpg
     5_image: /uploads/2022_Utah/20221012_103228.jpg
-    6_image: /uploads/2022_Utah/IMG_7690-(1).jpg
+    6_image: /uploads/2022_Utah/IMG_7690.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>13. Sunset at Valley of Fire, State Park,
