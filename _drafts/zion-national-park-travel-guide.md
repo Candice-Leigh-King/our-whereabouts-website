@@ -26,16 +26,48 @@ content-blocks:
       to the Virgin River, which runs through the center of the park and has
       carved out deep canyons over millions of years.</p><p>Visitors to Zion
       National Park can explore the park through a network of hiking trails,
-      ranging from easy walks to challenging multi-day backpacking trips. Some
-      of the most popular hikes include the Narrows, a stunning slot canyon that
-      requires hikers to wade through the river, and Angels Landing, a
-      challenging hike with breathtaking views of the park.</p><p>In addition to
-      hiking, visitors can also go rock climbing, canyoneering, and mountain
-      biking in the park. The park is home to a diverse array of wildlife,
-      including bighorn sheep, mule deer, and mountain lions.</p><p>Overall,
-      Zion National Park is a breathtakingly beautiful destination that offers
-      visitors a unique opportunity to explore some of the most spectacular
-      natural wonders in the United States.</p>
+      ranging from easy walks to challenging multi-day backpacking trips. In
+      addition to hiking, visitors can also go rock climbing, canyoneering, and
+      mountain biking in the park. The park is home to a diverse array of
+      wildlife, including bighorn sheep, mule deer, and mountain lions.</p>
+  - _section-type: map
+    description: make sure to set width to 100%, height to 350 and style to border 2
+    heading:
+    google-embed-code:
+  - _section-type: blog-featured-textarea
+    blog-featured-textarea_html: "<h2><strong>Location:</strong></h2><p>Zion National Park is located in the southwestern United States, in the state of Utah. The park is situated in Washington County</p><p><strong>• Moab, Utah: </strong>300 miles.</p><p><strong>• Page, Arizona: </strong>118 miles.</p><p><strong>•Las Vegas, Nevada: </strong>170 miles.</p><p><strong>•Salt Lake City, Utah: </strong>300 miles.</p><p>\_</p><h2><strong>Entrance Fee:</strong></h2><p>Weekly passes are non-transferable and are valid for 7 consecutive days including the date of purchase. Weekly passes may be upgraded to annual passes within 7 days of purchase.</p><p><strong>•Private Vehicle: </strong>$35. Valid for 7 days.<br /><strong>•Motorcycle:</strong> $30. Valid for 7 days.<br /><strong>•Per Person:</strong> $20. Valid for 7 days.</p><p><strong>•</strong>We suggest getting a USA National Parks Pass for just $80 and saving money if you’re planning on visiting multiple National Parks in a year.</p><p>\_</p><h2><strong>Opening Hours:</strong></h2><p>The park is open every day of the year.</p><p>Zion Canyon Visitor Center 8 a.m. - 5 p.m.</p><p>\_</p><h2><strong>Where to stay:</strong></h2><p>Springdale.</p><p><strong>Cable Mountain Lodge:</strong> We got a suite with a full kitchen, and a large living room with 2 couches, the bathroom was nice and clean and had everything we needed, the bed was so comfortable it was hard to leave in the morning and my favorite part of the lodge was our balcony with the beautiful view.</p><p><strong>•Price:</strong>&nbsp;About $640 per night.</p>"
+  - _section-type: blog-textarea
+    textarea_html: "<h2><strong>When to visit:</strong></h2><p>The best time to visit Zion National Park depends on your preferences and what activities you plan to do. We suggest visiting in the fall (Sep - Nov): The temperatures are cooler, the fall foliage is also beautiful during this time and the crowds have thinned out.</p><ul><li>Spring (March-May): This is a great time to visit Zion National Park, as the temperatures are mild and the wildflowers are blooming. However, it can be crowded during peak season.</li><li>Summer (June - August): This is the peak season, and the park can be very crowded. However, the weather is warm and there are more activities available, such as hiking and camping.</li><li>Winter (December - February): This is the least crowded time to visit, but be aware that some areas of the park may be closed due to snow and ice. The park's shuttle service also operates on a limited schedule during the winter.</li></ul><p>\_</p><h2><strong>How long to stay:</strong></h2><p>The amount of time you should stay in Zion National Park depends on your interests, what activities you want to do, and how much time you have available. Here are some general recommendations:</p><ul><li>Two to three days: With two to three days, you can explore more of the park and do longer hikes. You'll have time to see more viewpoints and take in the scenery at a more leisurely pace.</li><li>Four or more days: If you have more than four days, you can really immerse yourself in the park and explore more remote areas. You'll have time to do multi-day backpacking trips, canyoneering, and other outdoor activities.</li></ul><p>\_</p><h2>Reservations:</h2><p>Visitors don't need to make reservations to enter Zion, however, they are required to book reservations to hike Angel's <a target=\"_blank\" rel=\"noopener\" href=\"https://www.recreation.gov/permits/4675310\"> </a>Landing. Permits can be obtained by entering the permit lottery for $3 up to three months in advance.</p><p>\_</p><h2><strong>Shuttles:</strong></h2><p>The shuttles run regularly from March through November, on weekends in February, and the last week in December. Zion Canyon Scenic Drive (the road that starts north of Canyon Junction) is closed to private vehicles when park shuttles are operating. Shuttles can arrive at the stops every seven minutes during the busiest days.</p><p>The first shuttle from the Visitors Center starts at 6:00 am, they are free, and you'll take it to the last stop called \"Temple of Sinawava (the ride will take about 40 mins).</p><p>•Parking at the Visitor Center is limited and if you arrive after 9:00 am you'll probably have to park in Springdale and walk or take a shuttle to the Visitor Center.</p><p><strong>Shuttle Stops:</strong><br />•Zion Canyon Visitor Center&nbsp;<br />•Zion Human History Museum<br />•Canyon Junction<br />•Court of the Patriarchs<br />•Zion Lodge<br />​​​​​​•The Grotto<br />•Weeping Rock<br />•Big Bend&nbsp;<br />​​​​​​​•Temple of Sinawava - The Narrows.</p>"
+  - _section-type: blog-cover-image
+    blog-cover_image:
   - _section-type: signature
     signature_html: <h3>Our Whereabouts xxx</h3>
+  - _section-type: blog-textarea
+    textarea_html: >-
+      <h2>Things to do:</h2><p>Zion National Park is a stunning destination for
+      outdoor enthusiasts, with its red rock formations, canyons, waterfalls,
+      and diverse wildlife. Here are some of the top things to do in
+      Zion:</p><ul><li>Hike the Narrows: This is one of the most popular hikes
+      in Zion, where you can wade through the Virgin River in a narrow canyon
+      with towering walls on both sides.</li><li>Hike Angels Landing: This
+      challenging hike takes you up steep switchbacks and along a narrow ridge
+      to a lookout point with stunning views of the canyon.</li><li>Visit the
+      Emerald Pools: A series of three pools that vary in difficulty to reach,
+      each offering a different level of natural beauty.</li><li>Drive the
+      Zion-Mount Carmel Highway: This scenic road takes you through tunnels and
+      switchbacks with breathtaking views of the canyon.</li><li>Explore Kolob
+      Canyons: This is a lesser-known section of the park that features stunning
+      red rock formations and trails that are less crowded than other
+      areas.</li><li>Watch the Sunset at Canyon Overlook: A short hike will lead
+      you to a beautiful viewpoint overlooking the canyon where you can watch
+      the sunset.</li><li>Visit the Zion Human History Museum: Learn about the
+      history and culture of the people who have lived in and around Zion
+      National Park for thousands of years.</li><li>Go on a horseback ride: Many
+      outfitters offer guided horseback rides that take you through the
+      beautiful scenery of the park.</li><li>Take a ranger-led hike: The park
+      offers a variety of ranger-led hikes and walks, which are a great way to
+      learn about the park's ecology and geology.</li><li>Camping: Zion has
+      several campgrounds that offer a variety of camping options for both tent
+      and RV campers. Reservations are recommended as the park can get very
+      busy.</li></ul>
 ---
