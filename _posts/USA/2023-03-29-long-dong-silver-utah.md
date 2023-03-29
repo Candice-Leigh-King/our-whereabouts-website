@@ -1,7 +1,7 @@
 ---
 layout: posts
 seo:
-  title: Long Dong Silver, Utah
+  title: 'Long Dong Silver: The Uncharted Hike in Utah'
   description: >-
     Long Dong Silver is one of the coolest spots we've been to in Utah!! This
     place has two black spires that rise up and make you feel like you were
@@ -15,7 +15,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Utah/DJI_0087-5.jpg
-title: Long Dong Silver, Utah
+title: 'Long Dong Silver: The Uncharted Hike in Utah'
 author: Elizabeth
 blog-summary: Everything you need to know about this unmapped and epic hike
 cta: Read More →
