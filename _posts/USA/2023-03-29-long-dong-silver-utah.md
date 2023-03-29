@@ -14,12 +14,12 @@ seo:
   keywords: Long Dong Silver, Hanksville, Utah, USA
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/2022_Utah/DJI_0087-5.jpg
+  social-share_image: /uploads/2022_Utah/DJI_0087-7.jpg
 title: 'Long Dong Silver: The Uncharted Hike in Utah'
 author: Elizabeth
 blog-summary: Everything you need to know about this unmapped and epic hike
 cta: Read More →
-blog_image: /uploads/2022_Utah/DJI_0087-5.jpg
+blog_image: /uploads/2022_Utah/DJI_0087-7.jpg
 date: 2023-03-29 00:00:00
 categories:
   - travel
@@ -31,7 +31,7 @@ content-blocks:
       were pulled into a Lord of the Rings scene. it has no official name but is
       nicknamed “Long Dong Silver”, to us it looks like Mordor.</p><p>You won't
       find this place on any maps, so here's everything you need to know about
-      this epic hike</p>
+      this epic hike.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Hanksville, Utah
