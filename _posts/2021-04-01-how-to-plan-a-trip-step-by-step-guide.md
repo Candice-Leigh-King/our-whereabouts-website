@@ -1,12 +1,12 @@
 ---
 layout: posts
 seo:
-  title: 'How to Plan a Trip: Step-by-Step Guide'
+  title: How to Plan a Trip
   description: >-
     In this post I will cover the following: how to pick a destination, book
     your flight, research your destination, build an itinerary and book
     accommodation.
-  keywords:
+  keywords: 'how to plan a trip: Step-by-step guide'
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/dscn3450.jpg
