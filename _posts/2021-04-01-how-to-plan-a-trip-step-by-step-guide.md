@@ -1,7 +1,7 @@
 ---
 layout: posts
 seo:
-  title: 'How to Plan a Trip: Step-by-Step Guide'
+  title: How to Plan a Trip
   description: >-
     In this post I will cover the following: how to pick a destination, book
     your flight, research your destination, build an itinerary and book
