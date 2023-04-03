@@ -10,7 +10,7 @@ seo:
     Here's the perfect way to spend 14 hours in Vienna.
   keywords: how to spend 14 hours in Vienna, Austria
   social-alt:
-  url: /https://ourwhereabouts.com/tips/renting-a-car
+  url: https://ourwhereabouts.com/travel/how-to-spend-14-hours-in-vienna.html
   social-share_image: /uploads/Budapest_Austria/20190116_132208.jpg
 title: How To Spend 14 Hours in Vienna
 author: Elizabeth
