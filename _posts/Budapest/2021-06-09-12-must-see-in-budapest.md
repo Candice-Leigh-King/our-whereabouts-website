@@ -30,40 +30,7 @@ content-blocks:
   - _section-type: blog-cover-image
     blog-cover_image: /uploads/Budapest_Austria/20190113_191822.jpg
   - _section-type: blog-textarea
-    textarea_html: >-
-      <h2><strong>CHAIN BRIDGE:</strong></h2><p>On the side of the hotel (D8,
-      intercontinental, and the Four Seasons). The Sz&eacute;chenyi Chain Bridge
-      is a chain bridge that spans the River Danube between Buda and Pest, the
-      western and eastern sides of Budapest.</p><h2><strong>HUNGARIAN PARLIAMENT
-      BUILDING:</strong></h2><p>Inspired by the British parliament building,
-      with gothic, baroque and Renaissance elements it's the 3rd largest
-      Parliament in Europe.<br /><strong>Entrance Fee:</strong> 2,200 Forint (7
-      USD)<br /><strong>Opening hours:</strong> Monday-Friday 8:00-18:00.<br
-      />Saturday-Sunday 8:00-16:00.<br /><strong>Guards ceremony: </strong>Every
-      round hour, there's a guard change ceremony at the
-      entrance.</p><h2><strong>SHOES ON THE DANUBE
-      MEMORIAL:</strong></h2><p>Once you get to the Chain Bridge you make a
-      right and continue walking straight on the river. as you walk on the river
-      towards the parliament you can see the shoe memorial in memory of the Jews
-      that were murdered and whose bodies were dropped in the river in
-      1944-1945.</p><h2><strong>ST. STEPHAN BASILICA:</strong></h2><p>It is one
-      of Budapest's most significant landmarks built in 1906 and took 50 years
-      to build. The design was based on drawings by Jozsef Hild.<br
-      /><strong>Entrance Fee:</strong> Free, but it&rsquo;s customary to pay 200
-      Forint. (0.6 USD)<br /><strong>Opening Hours: </strong>Monday-Friday
-      9:00-17:00,<br />Saturday 9:00-13:00, Sunday
-      13:00-17:00</p><h2><strong>FISHERMAN'S BASTION:</strong></h2><p>Free
-      admission. It was supposedly named for the fishermen responsible for
-      defending this stretch of the bank against invaders in the Middle Ages.
-      This beautiful spot you can not miss makes you feel like a princess in a
-      castle with a gorgeous view of the Pest.</p><h2><strong>MATTHIAS
-      CHURCH:</strong></h2><p>The church of the Assumption of the Buda castle is
-      a Roman Catholic church located in Holy Trinity Square in front of the
-      Fisherman's Bastion at the heart of Buda's Castle District. It was
-      originally built in 1255 it is a beautiful church with a gorgeous roof
-      with many colors. <strong>Entrance fee:</strong> 1,500 forint (5 USD)
-      <strong>Opening Hours: </strong>Monday-Friday 9:00-17:00,<br />Saturday
-      9:00-13:00, Sunday 13:00-17:00</p>
+    textarea_html: "<h2><strong>Chain Bridge:</strong></h2><p>On the side of the hotel (D8, intercontinental, and the Four Seasons). The Széchenyi Chain Bridge is a chain bridge that spans the River Danube between Buda and Pest, the western and eastern sides of Budapest.</p><p>\_</p><h2><strong>Hungarian Parliament Building:</strong></h2><p>Inspired by the British parliament building, with gothic, baroque and Renaissance elements it's the 3rd largest Parliament in Europe.<br /><strong>Entrance Fee:</strong> 2,200 Forint (7 USD)<br /><strong>Opening hours:</strong> Monday-Friday 8:00-18:00.<br />Saturday-Sunday 8:00-16:00.<br /><strong>Guards ceremony: </strong>Every round hour, there's a guard change ceremony at the entrance.</p><p>\_</p><h2><strong>Shoes On The Danube Memorial:</strong></h2><p>Once you get to the Chain Bridge you make a right and continue walking straight on the river. as you walk on the river towards the parliament you can see the shoe memorial in memory of the Jews that were murdered and whose bodies were dropped in the river in 1944-1945.</p><p>\_</p><h2><strong>St. Stephan Basilica:</strong></h2><p>It is one of Budapest's most significant landmarks built in 1906 and took 50 years to build. The design was based on drawings by Jozsef Hild.<br /><strong>Entrance Fee:</strong> Free, but it’s customary to pay 200 Forint. (0.6 USD)<br /><strong>Opening Hours: </strong>Monday-Friday 9:00-17:00,<br />Saturday 9:00-13:00, Sunday 13:00-17:00,</p><p>\_</p><h2><strong>Fisherman's Bastion:</strong></h2><p>Free admission. It was supposedly named for the fishermen responsible for defending this stretch of the bank against invaders in the Middle Ages. This beautiful spot you can not miss makes you feel like a princess in a castle with a gorgeous view of the Pest.</p><p>\_</p><h2><strong>Mattias Church:</strong></h2><p>The church of the Assumption of the Buda castle is a Roman Catholic church located in Holy Trinity Square in front of the Fisherman's Bastion at the heart of Buda's Castle District. It was originally built in 1255 it is a beautiful church with a gorgeous roof with many colors. <strong>Entrance fee:</strong> 1,500 forint (5 USD) <strong>Opening Hours: </strong>Monday-Friday 9:00-17:00,<br />Saturday 9:00-13:00, Sunday 13:00-17:00</p>"
   - _section-type: gallery
     1_image: /uploads/Budapest_Austria/20190115_114154.jpg
     2_image: /uploads/Budapest_Austria/20190114_115355.jpg
