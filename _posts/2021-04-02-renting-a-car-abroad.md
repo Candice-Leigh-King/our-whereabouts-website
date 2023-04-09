@@ -72,5 +72,5 @@ content-blocks:
       <strong>must</strong> have the credit card with which you made the booking
       of the vehicle otherwise it can cause you problems.</p>
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h3>Our Whereabouts xxx</h3>
 ---
