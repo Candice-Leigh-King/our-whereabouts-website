@@ -1,18 +1,18 @@
 ---
 layout: posts
 seo:
-  title: 12 must-see in Budapest
+  title: 12 Must-See Places in Budapest
   description: >-
     Budapest has to be one of my favorite cities in Europe. It is filled with
     great architecture, gorgeous castles, good food, and plenty of thermal
     baths.
 
     Here are 12 things you shouldn't miss during your visit to Budapest
-  keywords:
+  keywords: 12 Must-See places in Budapest, Hungary, Europe
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Budapest_Austria/20190115_101539.jpg
-title: 12 must-see in Budapest
+title: 12 Must-See Places in Budapest
 author: Elizabeth
 blog-summary: When visiting Budapest here are 12 must-see in this magical city
 cta: Read More →
