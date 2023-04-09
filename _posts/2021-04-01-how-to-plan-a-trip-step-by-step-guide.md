@@ -6,15 +6,15 @@ seo:
     In this post I will cover the following: how to pick a destination, book
     your flight, research your destination, build an itinerary and book
     accommodation.
-  keywords: 'how to plan a trip: Step-by-step guide'
+  keywords: 'How to plan a trip: Step-by-step guide'
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/dscn3450.jpg
+  social-share_image: /uploads/ParisReduced/DSCN3450.jpg
 title: 'How to Plan a Trip: Step-by-Step Guide'
 author: Elizabeth
 blog-summary: Looking to plan a trip but don't know where to start? I've got you!
 cta: Read More →
-blog_image: /uploads/dscn3450.jpg
+blog_image: /uploads/ParisReduced/DSCN3450.jpg
 date: 2021-04-01 00:00:00
 categories:
   - tips
@@ -115,7 +115,7 @@ content-blocks:
       footage of the destination you're looking to visit. Sometimes it can
       really help to see the place you are going to before you go.</li></ul>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/dscn3435.jpg
+    blog-cover_image: /uploads/ParisReduced/DSCN3435.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h2><strong>4. DECIDE WHAT YOU MUST-SEE:</strong></h2><p>After you've done
@@ -157,5 +157,5 @@ content-blocks:
       today one has to make sure that everything related to Corona is covered in
       terms of insurance.</strong></p>
   - _section-type: signature
-    signature_html: <p><strong>Our Whereabouts xxx</strong></p>
+    signature_html: <h3>Elizabeth xxx</h3>
 ---
