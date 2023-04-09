@@ -9,11 +9,11 @@ seo:
 
 
     Here's how to spend 4 magical days in Budapest
-  keywords: 4 day itinerary for Budapest, Hungary
+  keywords: 4 day itinerary for Budapest, Hungary, Europe
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Budapest_Austria/20190115_113019.jpg
-title: Budapest 4-day Itinerary
+title: 'Budapest: 4-day Itinerary'
 author: Elizabeth
 blog-summary: Here's how to spend 4 days in the magical city of Budapest
 cta: Read More →
