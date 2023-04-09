@@ -5,17 +5,17 @@ seo:
   description: >-
     If you're looking to rent a car during your travels here are some tips you
     should take into consideration.
-  keywords:
+  keywords: Tips for renting a car abroad
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/Dolomites/Shared-from-Lightroom-mobile-(3).jpg
-title: Tips for renting a car
+  social-share_image: /uploads/Dolomites/20210909_183858(0).jpg
+title: Tips For Renting a Car
 author: Elizabeth
 blog-summary: >-
   If you're looking to rent a car during your travels here are some tips you
   should take into consideration.
 cta: Read More →
-blog_image: /uploads/Dolomites/Shared-from-Lightroom-mobile-(3).jpg
+blog_image: /uploads/Dolomites/20210909_183858(0).jpg
 date: 2021-04-02 00:00:00
 categories:
   - tips
@@ -26,7 +26,7 @@ content-blocks:
       some tips you should take into consideration.</strong></p>
   - _section-type: blog-window
     right_image: /uploads/Dolomites/20210908_105034.jpg
-    left_image: /uploads/Reduced/Shared-from-Lightroom-mobile-(4)-(1).jpg
+    left_image: /uploads/2022_California/20220925_092722-2.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h3><strong>Booking car rental:</strong></h3><p>You should rent the car as
