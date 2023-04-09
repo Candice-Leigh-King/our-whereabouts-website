@@ -97,7 +97,7 @@ content-blocks:
     3_image: /uploads/2022_Utah/DALLE-2023-04-09-12.00.54---angels-landing.jpg
     4_image: /uploads/2022_Utah/IMG_7081.jpg
     5_image: /uploads/2022_Utah/1680952303159.jpg
-    6_image: /uploads/2022_Utah/IMG_7690-(1).jpg
+    6_image: /uploads/2022_Utah/IMG_7690.jpg
   - _section-type: signature
     signature_html: <p>Elizabeth</p>
 ---
