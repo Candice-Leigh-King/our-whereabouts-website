@@ -3,7 +3,7 @@ layout: posts
 seo:
   title: Flamingo Las Vegas Hotel & Casino
   description: Our experience at Flamingo Las Vegas Hotel & Casino
-  keywords: Flamingo Las Vegas Hotel & Casino, USA
+  keywords: Flamingo Las Vegas Hotel & Casino, Nevada, USA
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
