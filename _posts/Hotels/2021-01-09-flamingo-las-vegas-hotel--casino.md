@@ -10,7 +10,7 @@ seo:
   social-share_image: /uploads/DSCN1416.jpg
 title: Flamingo Las Vegas Hotel & Casino
 author: Elizabeth
-blog-summary: Great and affordable hotel in Playa del Carmen
+blog-summary: Great and affordable hotel in Las Vegas, Nevada
 cta: Read More →
 blog_image: /uploads/DSCN1416.jpg
 date: 2021-01-09 00:00:00
