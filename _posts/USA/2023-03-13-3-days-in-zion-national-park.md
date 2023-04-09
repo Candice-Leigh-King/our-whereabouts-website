@@ -95,7 +95,7 @@ content-blocks:
     1_image: /uploads/2022_Utah/IMG_7167-3.jpg
     2_image: /uploads/2022_Utah/20221011_130847-2.jpg
     3_image: /uploads/2022_Utah/DALLE-2023-04-09-12.00.54---angels-landing.jpg
-    4_image: /uploads/2022_Utah/IMG_7081.jpg
+    4_image: /uploads/2022_Utah/IMG_7081-2.jpg
     5_image: /uploads/2022_Utah/1680952303159.jpg
     6_image: /uploads/2022_Utah/IMG_7690.jpg
   - _section-type: signature
