@@ -8,20 +8,25 @@ seo:
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/20180918-121207-1.jpg
+  social-share_image: /uploads/Reduced/20180918_121207.jpg
 title: Grand Park Royal Cozumel Hotel
 author: Elizabeth
 blog-summary: Looking for a place to stay in Cozumel? This post is for you!
 cta: Read More →
-blog_image: /uploads/20180918-121207-1.jpg
+blog_image: /uploads/Reduced/20180918_121207.jpg
 date: 2021-05-17 00:00:00
 categories:
   - accommodation
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1><strong>Looking for a place to stay in Cozumel? This post is for
-      you!</strong></h1>
+      <p>Cozumel, which is an island in the Caribbean Sea off the eastern coast
+      of Mexico's Yucatán Peninsula. It is a popular cruise ship port and is
+      known for its beautiful beaches, crystal clear waters, and vibrant marine
+      life.</p><p>Cozumel is also a popular destination for scuba diving and
+      snorkeling due to its location along the Mesoamerican Barrier Reef, the
+      second-largest coral reef system in the world.</p><p>If you're looking for
+      a place to stay, I'd consider Grand Park Royal.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Grand Park Royal Cozumel
@@ -105,12 +110,12 @@ content-blocks:
       visit is between April and October as there are fewer people around and
       the weather is ideal. The temperatures are also between 20-26 Celsius.</p>
   - _section-type: gallery
-    1_image: /uploads/20180917-185543.jpg
-    2_image: /uploads/20180917-193112.jpg
-    3_image: /uploads/20180918-121207-1.jpg
-    4_image: /uploads/20180918-104552.jpg
-    5_image: /uploads/gopr2099.jpg
-    6_image: /uploads/20180918-105228.jpg
+    1_image: /uploads/Reduced/20180917_185543.jpg
+    2_image: /uploads/Reduced/20180917_193112.jpg
+    3_image: /uploads/Reduced/20180918_151946.jpg
+    4_image: /uploads/Reduced/20180918_104552.jpg
+    5_image: /uploads/Reduced/GOPR2099-2.jpg
+    6_image: /uploads/Reduced/20180918_105228.jpg
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---

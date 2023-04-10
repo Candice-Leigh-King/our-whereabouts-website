@@ -9,12 +9,12 @@ seo:
   keywords: Mexico Travel guide
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/20180927-104711.jpg
-title: 'Mexico: The ultimate travel guide'
+  social-share_image: /uploads/Reduced/20180927_104711.jpg
+title: 'Mexico: The Ultimate Travel Guide'
 author: Elizabeth
 blog-summary: Everything you need to know before your trip to Mexico + 20 of our top tips
 cta: Read More →
-blog_image: /uploads/20180927-104711-1.jpg
+blog_image: /uploads/Reduced/20180927_104711.jpg
 date: 2021-05-24 00:00:00
 categories:
   - travel
@@ -75,6 +75,8 @@ content-blocks:
       (12,255 NIS)</p><p>&bull;<strong>Activities, Food &amp;
       Transportation:</strong><br />3,478$. This includes renting a car, scuba
       diving, and more.</p>
+  - _section-type: blog-cover-image
+    blog-cover_image: /uploads/Reduced/169.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>Our top tips:</h1><p><strong>1. Book hotels &amp; flights as soon as
@@ -109,29 +111,24 @@ content-blocks:
       got bit by mosquitos.</p><p><strong>10. Cost of taxis:<br
       />​​​​​</strong>There's a simple rule - How much does it cost to take a
       taxi? A 1-minute drive costs about 10 Pesos. Use Google maps to calculate
-      the ride time.</p>
-  - _section-type: blog-cover-image
-    blog-cover_image: /uploads/169-1.jpg
-  - _section-type: blog-textarea
-    textarea_html: >-
-      <p><strong>11. Tap water:</strong><br />You're not allowed to drink tap
-      water in Mexico. When you're brushing your teeth use mineral water, and
-      when you are at the restaurant, ask not to have ice cubes in your
-      drinks.</p><p><strong>12. Watch what you eat:</strong><br />To avoid food
-      poisoning/salmonella, don't eat from the food stalls outside. Try to eat
-      in restaurants that are full of people that way, you'll know that the
-      turnover of the food is higher and the food is fresher.</p><p><strong>13.
-      Waterproof bag:</strong><br />Bring a waterproof bag when going to the
-      beach. You put your valuables in there, including your phone, and that
-      way, you don't have to worry about your valuables getting
-      stolen.</p><p><strong>14. Where to exchange money:</strong><br />Always
-      exchange your USD or pull out Pesos in the big cities (Cancun/Playa del
-      Carmen) because in small places (like Holbox or Bacalar), it is very hard
-      to find bank ATMs, and when you do find them, the exchange rates are
-      higher.</p><p><strong>15. If you rent a car:</strong><br />Make sure to
-      drive within the speed limit! <strong>The police there
-      </strong><strong>are</strong><strong> corrupt,</strong> and they look for
-      tourists to take a bribe instead of getting a speeding
+      the ride time.</p><p><strong>11. Tap water:</strong><br />You're not
+      allowed to drink tap water in Mexico. When you're brushing your teeth use
+      mineral water, and when you are at the restaurant, ask not to have ice
+      cubes in your drinks.</p><p><strong>12. Watch what you eat:</strong><br
+      />To avoid food poisoning/salmonella, don't eat from the food stalls
+      outside. Try to eat in restaurants that are full of people that way,
+      you'll know that the turnover of the food is higher and the food is
+      fresher.</p><p><strong>13. Waterproof bag:</strong><br />Bring a
+      waterproof bag when going to the beach. You put your valuables in there,
+      including your phone, and that way, you don't have to worry about your
+      valuables getting stolen.</p><p><strong>14. Where to exchange
+      money:</strong><br />Always exchange your USD or pull out Pesos in the big
+      cities (Cancun/Playa del Carmen) because in small places (like Holbox or
+      Bacalar), it is very hard to find bank ATMs, and when you do find them,
+      the exchange rates are higher.</p><p><strong>15. If you rent a
+      car:</strong><br />Make sure to drive within the speed limit! <strong>The
+      police there </strong><strong>are</strong><strong> corrupt,</strong> and
+      they look for tourists to take a bribe instead of getting a speeding
       ticket!</p><p><strong>16. USD Vs. Peso: </strong><br />If you are asked if
       you want to pay by Peso or USD, always choose Peso because the exchange
       rate is always higher with USD.</p><p><strong>17. Rainy days:</strong><br

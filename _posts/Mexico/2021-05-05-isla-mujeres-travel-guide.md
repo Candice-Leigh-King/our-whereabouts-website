@@ -12,12 +12,12 @@ seo:
   keywords: 'Isla Mujeres, Mexico: Travel Guide'
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/20180926-135042.jpg
+  social-share_image: /uploads/Reduced/20180926_135042-Mexico.jpg
 title: Isla Mujeres Travel Guide
 author: Elizabeth
 blog-summary: Everything you need to know before you visit Isla Mujeres, Mexico
 cta: Read More →
-blog_image: /uploads/20180926-135042.jpg
+blog_image: /uploads/Reduced/20180926_135042-Mexico.jpg
 date: 2021-05-05 00:00:00
 categories:
   - travel
@@ -55,7 +55,7 @@ content-blocks:
       beach is Playa Norte which is the most famous beach in Isla Mujeres;
       it&rsquo;s so beautiful and has got amazing sunsets.</p>
   - _section-type: gallery
-    1_image: /uploads/Reduced/20180926_150154(0).jpg
+    1_image: /uploads/Reduced/20180926_150154-Mexico.jpg
     2_image: /uploads/Reduced/160.jpg
     3_image: /uploads/Reduced/20180926_151214.jpg
     4_image: /uploads/Reduced/20180926_135236.jpg
