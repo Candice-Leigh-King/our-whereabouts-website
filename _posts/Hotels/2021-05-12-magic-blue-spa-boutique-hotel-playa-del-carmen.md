@@ -82,7 +82,7 @@ content-blocks:
       between 20-26 Celsius.</p>
   - _section-type: blog-window
     right_image: /uploads/Reduced/20180910_160458.jpg
-    left_image: ''
+    left_image: /uploads/Reduced/20180910_171914.jpg
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---
