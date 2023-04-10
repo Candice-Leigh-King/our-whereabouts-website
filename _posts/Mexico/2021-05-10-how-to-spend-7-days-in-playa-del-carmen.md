@@ -161,7 +161,7 @@ content-blocks:
     1_image: /uploads/Reduced/20180914_141970-Mexico.jpg
     2_image: /uploads/Reduced/20180914_141946-2.jpg
     3_image: ''
-    4_image: ''
+    4_image: /uploads/Reduced/20180912_100118-Mexico.jpg
     5_image: ''
     6_image: ''
   - _section-type: blog-featured-textarea
