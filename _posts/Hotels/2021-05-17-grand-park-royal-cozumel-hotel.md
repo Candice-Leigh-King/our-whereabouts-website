@@ -20,8 +20,13 @@ categories:
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1><strong>Looking for a place to stay in Cozumel? This post is for
-      you!</strong></h1>
+      <p>Cozumel, which is an island in the Caribbean Sea off the eastern coast
+      of Mexico's Yucatán Peninsula. It is a popular cruise ship port and is
+      known for its beautiful beaches, crystal clear waters, and vibrant marine
+      life.</p><p>Cozumel is also a popular destination for scuba diving and
+      snorkeling due to its location along the Mesoamerican Barrier Reef, the
+      second-largest coral reef system in the world.</p><p>If you're looking for
+      a place to stay, I'd consider Grand Park Royal.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Grand Park Royal Cozumel
@@ -105,12 +110,12 @@ content-blocks:
       visit is between April and October as there are fewer people around and
       the weather is ideal. The temperatures are also between 20-26 Celsius.</p>
   - _section-type: gallery
-    1_image: /uploads/20180917-185543.jpg
-    2_image: /uploads/20180917-193112.jpg
-    3_image: /uploads/20180918-121207-1.jpg
-    4_image: /uploads/20180918-104552.jpg
-    5_image: /uploads/gopr2099.jpg
-    6_image: /uploads/20180918-105228.jpg
+    1_image: ''
+    2_image: ''
+    3_image: ''
+    4_image: ''
+    5_image: ''
+    6_image: ''
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---
