@@ -12,14 +12,14 @@ seo:
   keywords: How to spend 7 days in Playa del Carmen, Mexico
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/20180908-100056.jpg
+  social-share_image: /uploads/Reduced/20180908_100056-Mexico.jpg
 title: How to spend 7 Days in Playa del Carmen
 author: Elizabeth
 blog-summary: >-
   Playa del Carmen is a great place to base yourself for a few days. Here's how
   to spend 7 days there
 cta: Read More →
-blog_image: /uploads/20180908-100056.jpg
+blog_image: /uploads/Reduced/20180908_100056-Mexico.jpg
 date: 2021-05-10 00:00:00
 categories:
   - travel
@@ -158,12 +158,12 @@ content-blocks:
       jumping, Cenotes, Jungle trails, Bike rides &amp; Activities for
       children.</p>
   - _section-type: gallery
-    1_image: /uploads/20180914-141970.jpg
-    2_image: /uploads/20180914-141946-2.jpg
-    3_image: /uploads/20180908-100056.jpg
-    4_image: /uploads/20180912-100118.jpg
-    5_image: /uploads/20180911-153657-2.jpg
-    6_image: /uploads/20180908-100028.jpg
+    1_image: ''
+    2_image: ''
+    3_image: ''
+    4_image: ''
+    5_image: ''
+    6_image: ''
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>Where to eat in Playa del
