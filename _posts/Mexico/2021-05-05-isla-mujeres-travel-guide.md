@@ -55,7 +55,7 @@ content-blocks:
       beach is Playa Norte which is the most famous beach in Isla Mujeres;
       it&rsquo;s so beautiful and has got amazing sunsets.</p>
   - _section-type: gallery
-    1_image: /uploads/Reduced/20180926_150154(0).jpg
+    1_image: /uploads/Reduced/20180926_150154-Mexico.jpg
     2_image: /uploads/Reduced/160.jpg
     3_image: /uploads/Reduced/20180926_151214.jpg
     4_image: /uploads/Reduced/20180926_135236.jpg
