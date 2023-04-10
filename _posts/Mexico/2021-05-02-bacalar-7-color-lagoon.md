@@ -51,40 +51,39 @@ content-blocks:
       less than 45 minutes away.</p><h3>Bus:</h3><p>This is a very easy way of
       getting to Bacalar. You can take the ADO bus from Cancun or Playa del
       Carmen.</p><p><br /><strong>Canucn - Bacalar:</strong><br
-      />&bull;<strong>Cost:</strong>&nbsp;34 USD.<br />&bull;<strong>Duration:
-      </strong>5 hours and 40 minutes.</p><p>Playa del Carmen - Bacalar:<br
-      />&bull;<strong>Cost: </strong>25.8 USD.<br
-      />&bull;<strong>Duration:</strong> 4 hours.</p><h3>Car:</h3><p><br />You
-      can rent a car from Cancun or Playa del Carmen and drive to Bacalar.<br
-      />&bull;<strong>Duration: </strong><br />From Cancun - 4 hours<br />From
-      Playa del Carmen - 3 hours and 10 minutes.<br />&bull;<strong>Tip:
-      </strong>When driving in Yucatan, your cell signal will likely go in and
-      out. Make sure to also download an offline map via Google
-      Maps&nbsp;</p><p>​​​​​​</p><h2>WHERE TO STAY:</h2><h3>Hotel &amp; Suites
-      Oasis Bacalar</h3><p><br /><strong>Price: </strong>Avrage price is 70 USD
-      per night.<br /><strong>Duration of stay: </strong>2 nights<br
-      /><strong>Our Experience: </strong>Because we booked our trip last minute
-      we didn't have that many options of places to stay in.<br />Overall, it's
-      a great place to stay. Right in the center of bacalar. Huge rooms &amp;
-      full kitchen.</p><h2>TAXI DRIVER:</h2><p><strong>Rochalio.</strong><br
-      />When we arrived to Bacalar we took a taxi to our hotel because it was
-      late at night and very dark. Our driver was very kind, we got to talking
-      to him and he gave us his number and drove us around for a reasonable
-      price.<br />His name is Rochalio and he has whatsapp
-      +52-1-983-115-0042</p><h2>WHERE TO
-      EAT:&nbsp;</h2><p><strong>&bull;Pizzeria Bertilla y
+      />•<strong>Cost:</strong>&nbsp;34 USD.<br />•<strong>Duration: </strong>5
+      hours and 40 minutes.</p><p>Playa del Carmen - Bacalar:<br
+      />•<strong>Cost: </strong>25.8 USD.<br />•<strong>Duration:</strong> 4
+      hours.</p><h3>Car:</h3><p><br />You can rent a car from Cancun or Playa
+      del Carmen and drive to Bacalar.<br />•<strong>Duration: </strong><br
+      />From Cancun - 4 hours<br />From Playa del Carmen - 3 hours and 10
+      minutes.<br />•<strong>Tip: </strong>When driving in Yucatan, your cell
+      signal will likely go in and out. Make sure to also download an offline
+      map via Google Maps&nbsp;</p><p>​​​​​​</p><h2>WHERE TO STAY:</h2><h3>Hotel
+      &amp; Suites Oasis Bacalar</h3><p><br /><strong>Price: </strong>Avrage
+      price is 70 USD per night.<br /><strong>Duration of stay: </strong>2
+      nights<br /><strong>Our Experience: </strong>Because we booked our trip
+      last minute we didn't have that many options of places to stay in.<br
+      />Overall, it's a great place to stay. Right in the center of bacalar.
+      Huge rooms &amp; full kitchen.</p><h2>TAXI
+      DRIVER:</h2><p><strong>Rochalio.</strong><br />When we arrived to Bacalar
+      we took a taxi to our hotel because it was late at night and very dark.
+      Our driver was very kind, we got to talking to him and he gave us his
+      number and drove us around for a reasonable price.<br />His name is
+      Rochalio and he has whatsapp +52-1-983-115-0042</p><h2>WHERE TO
+      EAT:&nbsp;</h2><p><strong>•Pizzeria Bertilla y
       Luciano:</strong>&nbsp;​​​​Delicious Italian restaurant<br
       /><strong>Adress: </strong>Ave. 5 at Calle 20 on the corner of the
-      Zocalo.</p><p><strong>&bull;Jaguara Cocina Mexicana: </strong>Great food
-      with a beautiful view<br /><strong>Adress:&nbsp;</strong>Boulevard Costera
-      Norte 1255, Bacalar 77930 Mexico.​​​​</p>
+      Zocalo.</p><p><strong>•Jaguara Cocina Mexicana: </strong>Great food with a
+      beautiful view<br /><strong>Adress:&nbsp;</strong>Boulevard Costera Norte
+      1255, Bacalar 77930 Mexico.​​​​</p>
   - _section-type: gallery
     1_image: /uploads/Reduced/20180920_170741-2.jpg
     2_image: /uploads/Reduced/20180920_164335.jpg
     3_image: /uploads/Reduced/20180920_145152.jpg
     4_image: /uploads/Reduced/20180920_070753.jpg
     5_image: /uploads/Reduced/20180920_142528.jpg
-    6_image: /uploads/Reduced/20180921_093733(0).jpg
+    6_image: /uploads/Reduced/20180921_093733-Mexico.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>2 Day Itinerary:</h1><h2>&nbsp;</h2><h3><strong>Day
