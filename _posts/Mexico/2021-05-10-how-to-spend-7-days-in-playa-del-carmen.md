@@ -160,10 +160,10 @@ content-blocks:
   - _section-type: gallery
     1_image: /uploads/Reduced/20180914_141970-Mexico.jpg
     2_image: /uploads/Reduced/20180914_141946-2.jpg
-    3_image: ''
+    3_image: /uploads/Reduced/20180913_150125-Mexico.jpg
     4_image: /uploads/Reduced/20180912_100118-Mexico.jpg
     5_image: /uploads/Reduced/20180911_153657-Mexico.jpg
-    6_image: ''
+    6_image: /uploads/Reduced/20180908_100028.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>Where to eat in Playa del
