@@ -3,24 +3,27 @@ layout: posts
 seo:
   title: Magic Blue Spa Boutique Hotel, Playa del Carmen
   description: 'Our experience at Magic Blue Spa Boutique Hotel, Playa del Carmen. '
-  keywords: Magic Blue spa boutique hotel, playa del carmen, Mexico
+  keywords: Magic Blue spa boutique hotel, playa del carmen, Quintana Roo, Mexico
   social-alt:
   url: >-
     /https://ourwhereabouts.com/travel/accommodation/2022/04/20/dolomites-travel-guide.html
-  social-share_image: /uploads/20180909-125354.jpg
+  social-share_image: /uploads/Reduced/20180909_125354.jpg
 title: Magic Blue Spa Boutique Hotel, Playa del Carmen
 author: Elizabeth
 blog-summary: Great and affordable hotel in Playa del Carmen
 cta: Read More →
-blog_image: /uploads/20180909-125354.jpg
+blog_image: /uploads/Reduced/20180909_125354.jpg
 date: 2021-05-12 00:00:00
 categories:
   - accommodation
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <h1><strong>We based ourselves in Playa del Carmen for 9 nights and this
-      was the perfect hotel to do so.</strong></h1>
+      <p>Playa del Carmen is a popular tourist destination located in the state
+      of Quintana Roo, Mexico. It is situated along the Caribbean Sea and is
+      known for its stunning beaches, crystal clear waters, and vibrant
+      nightlife.</p><p>We based ourselves in Playa del Carmen for 9 nights and
+      this was the perfect hotel to do so.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Magic Blue Spa Boutique Hotel, Playa del Carmen
