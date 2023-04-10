@@ -9,12 +9,12 @@ seo:
   keywords: Mexico Travel guide
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/20180927-104711.jpg
-title: 'Mexico: The ultimate travel guide'
+  social-share_image: ''
+title: 'Mexico: The Ultimate Travel Guide'
 author: Elizabeth
 blog-summary: Everything you need to know before your trip to Mexico + 20 of our top tips
 cta: Read More →
-blog_image: /uploads/20180927-104711-1.jpg
+blog_image: ''
 date: 2021-05-24 00:00:00
 categories:
   - travel
