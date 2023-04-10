@@ -52,8 +52,8 @@ content-blocks:
     1_image: /uploads/Reduced/20180927_161339Mexico.jpg
     2_image: /uploads/Reduced/20180928_125016-Mexico.jpg
     3_image: /uploads/Reduced/20180927_170859-Mexico.jpg
-    4_image: ''
-    5_image: ''
+    4_image: /uploads/Reduced/20180927_182341.jpg
+    5_image: /uploads/Reduced/20180927_181527-Mexico.jpg
     6_image: /uploads/shared-from-lightroom-mobile-7.jpg
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
