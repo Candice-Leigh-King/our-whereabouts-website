@@ -112,10 +112,10 @@ content-blocks:
   - _section-type: gallery
     1_image: /uploads/Reduced/20180917_185543.jpg
     2_image: /uploads/Reduced/20180917_193112.jpg
-    3_image: ''
+    3_image: /uploads/Reduced/20180918_151946.jpg
     4_image: /uploads/Reduced/20180918_104552.jpg
     5_image: /uploads/Reduced/GOPR2099-2.jpg
-    6_image: ''
+    6_image: /uploads/Reduced/20180918_105228.jpg
   - _section-type: signature
     signature_html: <h3><strong>Our Whereabouts xxx</strong></h3>
 ---
