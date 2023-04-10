@@ -12,12 +12,12 @@ seo:
   keywords: 'Isla Mujeres, Mexico: Travel Guide'
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/20180926-135042.jpg
+  social-share_image: /uploads/Reduced/20180926_135042-Mexico.jpg
 title: Isla Mujeres Travel Guide
 author: Elizabeth
 blog-summary: Everything you need to know before you visit Isla Mujeres, Mexico
 cta: Read More →
-blog_image: /uploads/20180926-135042.jpg
+blog_image: /uploads/Reduced/20180926_135042-Mexico.jpg
 date: 2021-05-05 00:00:00
 categories:
   - travel
