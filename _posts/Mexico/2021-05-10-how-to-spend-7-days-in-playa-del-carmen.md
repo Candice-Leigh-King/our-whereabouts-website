@@ -158,7 +158,7 @@ content-blocks:
       jumping, Cenotes, Jungle trails, Bike rides &amp; Activities for
       children.</p>
   - _section-type: gallery
-    1_image: ''
+    1_image: /uploads/Reduced/20180914_141970-Mexico.jpg
     2_image: ''
     3_image: ''
     4_image: ''
