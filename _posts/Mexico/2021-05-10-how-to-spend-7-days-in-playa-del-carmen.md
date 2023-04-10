@@ -159,7 +159,7 @@ content-blocks:
       children.</p>
   - _section-type: gallery
     1_image: /uploads/Reduced/20180914_141970-Mexico.jpg
-    2_image: ''
+    2_image: /uploads/Reduced/20180914_141946-2.jpg
     3_image: ''
     4_image: ''
     5_image: ''
