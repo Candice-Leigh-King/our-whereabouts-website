@@ -111,7 +111,7 @@ content-blocks:
       the weather is ideal. The temperatures are also between 20-26 Celsius.</p>
   - _section-type: gallery
     1_image: /uploads/Reduced/20180917_185543.jpg
-    2_image: ''
+    2_image: /uploads/Reduced/20180917_193112.jpg
     3_image: ''
     4_image: ''
     5_image: ''
