@@ -122,12 +122,12 @@ content-blocks:
       Linda</strong></p><p>They have fresh food, good portions, and great
       service.</p>
   - _section-type: gallery
-    1_image: /uploads/19-1.jpg
-    2_image: /uploads/11.jpg
-    3_image: /uploads/23.jpg
+    1_image: /uploads/Portugal/19-portugal.jpg
+    2_image: /uploads/Portugal/11-portugal.jpg
+    3_image: /uploads/Portugal/23-Portugal.jpg
     4_image: /uploads/Portugal/IMG_8930.jpg
     5_image: /uploads/Portugal/IMG_7318-3.jpg
-    6_image: /uploads/25-1.jpg
+    6_image: /uploads/Portugal/25-portugal.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>Day 2 -&nbsp;</h1><p><strong>Torre de Bel&eacute;m (Belem
