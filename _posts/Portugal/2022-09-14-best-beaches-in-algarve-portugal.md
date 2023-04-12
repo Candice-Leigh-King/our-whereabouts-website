@@ -78,12 +78,12 @@ content-blocks:
       beach because it&rsquo;s a small beach that can fit a class of
       students</p>
   - _section-type: gallery
-    1_image: /uploads/Portugal/22-(1).jpg
+    1_image: /uploads/Portugal/22-portugal.jpg
     2_image: /uploads/Portugal/18.jpg
-    3_image: /uploads/Portugal/13-(1).jpg
+    3_image: /uploads/Portugal/13-chapel.jpg
     4_image: /uploads/Portugal/8-01.jpg
     5_image: /uploads/Portugal/IMG_4962.jpg
-    6_image: /uploads/15.jpg
+    6_image: /uploads/Portugal/15-portugal.jpg
   - _section-type: signature
     signature_html: <h3>Have fun!</h3>
 ---
