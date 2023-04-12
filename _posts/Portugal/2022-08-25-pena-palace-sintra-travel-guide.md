@@ -9,12 +9,12 @@ seo:
   keywords: Pena Palace, Sintra, Lisbon, Portgual
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/36-1.jpg
+  social-share_image: /uploads/Portugal/36-portugal.jpg
 title: Pena Palace, Sintra
 author: Elizabeth
-blog-summary: 'The Ultimate Guide: Pena Palace'
+blog-summary: 'The Ultimate Guide: Pena Palace in Sintra, Portugal'
 cta: Read More →
-blog_image: /uploads/36-1.jpg
+blog_image: /uploads/Portugal/36-portugal.jpg
 date: 2022-08-25 00:00:00
 categories:
   - travel
@@ -46,8 +46,8 @@ content-blocks:
       to flee the state during the revolution of 1910, and the state later
       purchased it and turned it into a museum.</p>
   - _section-type: blog-window
-    right_image: /uploads/34-1.jpg
-    left_image: /uploads/35-1.jpg
+    right_image: /uploads/Portugal/34-portugal.jpg
+    left_image: /uploads/Portugal/35-portugal.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2><strong>Entrance
@@ -90,7 +90,7 @@ content-blocks:
       Kiosk</p><h1><strong>Restrooms:</strong></h1><p>Right next to the Palace,
       there are nice clean restrooms.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/43-1.jpg
+    blog-cover_image: /uploads/Portugal/43-portugal.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h1><strong>Our tips:</strong></h1><p>&bull;Bring something small to eat
@@ -103,12 +103,12 @@ content-blocks:
       />&bull;Coach House&rsquo;s Terrace<br />&bull;Interior of Palace<br
       />&bull; Pena Palaces Park and Gardens</p>
   - _section-type: gallery
-    1_image: /uploads/p-extra-20220505-110249.jpg
-    2_image: /uploads/img-7645.jpg
-    3_image: /uploads/img-7662.jpg
-    4_image: /uploads/img-7629.jpg
-    5_image: /uploads/img-7704.jpg
-    6_image: /uploads/img-7720.jpg
+    1_image: /uploads/Portugal/20220505_110249-portugal.jpg
+    2_image: /uploads/Portugal/IMG_7645-portugal.jpg
+    3_image: /uploads/Portugal/IMG_7662-portugal.jpg
+    4_image: /uploads/Portugal/IMG_7629-portugal.jpg
+    5_image: /uploads/Portugal/20220505_092417-portugal.jpg
+    6_image: /uploads/Portugal/IMG_7720-portugal.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---

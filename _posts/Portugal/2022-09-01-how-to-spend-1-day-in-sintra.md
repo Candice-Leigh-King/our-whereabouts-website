@@ -7,9 +7,9 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/IMG_8150.jpg
-title: How to spend 1 day in Sintra
+title: How To Spend 1 Day in Sintra
 author: Elizabeth
-blog-summary: A timed scheduled itinerary of our day in Sintra.
+blog-summary: A timed scheduled itinerary of our day in Sintra, Portugal
 cta: Read More →
 blog_image: /uploads/Portugal/IMG_8150.jpg
 date: 2022-09-01 00:00:00
@@ -68,7 +68,7 @@ content-blocks:
     1_image: /uploads/Portugal/20220505_190854.jpg
     2_image: /uploads/Portugal/IMG_8197.jpg
     3_image: /uploads/Portugal/IMG_8150.jpg
-    4_image: /uploads/34-1.jpg
+    4_image: /uploads/Portugal/34-portugal.jpg
     5_image: /uploads/Portugal/31.jpg
     6_image: /uploads/Portugal/IMG_8696.jpg
   - _section-type: signature

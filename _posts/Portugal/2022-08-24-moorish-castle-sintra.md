@@ -10,12 +10,12 @@ seo:
   keywords: Moorish Castle, Sintra, Lisbon, Portgual
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/40-1.jpg
-title: Moorish Castle, Sintra  
+  social-share_image: /uploads/Portugal/40-portugal.jpg
+title: Moorish Castle, Sintra
 author: Elizabeth
 blog-summary: 'Moorish Castle: The ultimate Guide. Don''t miss this beautiful castle in Sintra'
 cta: Read More →
-blog_image: /uploads/40-1.jpg
+blog_image: /uploads/Portugal/40-portugal.jpg
 date: 2022-08-24 00:00:00
 categories:
   - travel
@@ -46,8 +46,8 @@ content-blocks:
       the task of conserving and improving the condition of the castle, the
       castle has been continually improved on and restored ever since.</p>
   - _section-type: blog-window
-    right_image: /uploads/20220505-122636.jpg
-    left_image: /uploads/img-8101-2.jpg
+    right_image: /uploads/Portugal/20220505_122636-portugal.jpg
+    left_image: /uploads/Portugal/IMG_8101-portugal.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>Entrace Fee:&nbsp;</h2><p>Adults: 8 Euro<br />Kids (age 6 - 17): 6.5
@@ -75,7 +75,7 @@ content-blocks:
       the vast majority of manual wheelchairs. This allows, with less effort and
       greater speed, to go through the routes.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/20220505-124713.jpg
+    blog-cover_image: /uploads/Portugal/20220505_124713-portugal.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>Why you should visit:</h1><p>&bull;Organised tour groups of Sintra
@@ -93,12 +93,12 @@ content-blocks:
       />&bull;Main Gate to Moorish Castle<br />&bull;Alcazaba (citadel)<br
       />&bull;Royal Tower</p>
   - _section-type: gallery
-    1_image: /uploads/img-8134.jpg
-    2_image: /uploads/20220505-120403.jpg
-    3_image: /uploads/img-8039-2.jpg
-    4_image: /uploads/img-8144.jpg
-    5_image: /uploads/20220505-120931.jpg
-    6_image: /uploads/img-7989-2.jpg
+    1_image: /uploads/Portugal/IMG_8134-portugal.jpg
+    2_image: /uploads/Portugal/20220505_120403-portugal.jpg
+    3_image: /uploads/Portugal/IMG_8039-portugal.jpg
+    4_image: /uploads/Portugal/IMG_8144-portugal.jpg
+    5_image: /uploads/Portugal/20220505_120931-portgual.jpg
+    6_image: /uploads/Portugal/IMG_7989-portugal.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---

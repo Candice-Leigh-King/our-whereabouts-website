@@ -99,9 +99,9 @@ content-blocks:
       linked to Tarot mysticism and Masonic principles.</p>
   - _section-type: gallery
     1_image: /uploads/Portugal/20220505_190854.jpg
-    2_image: /uploads/Portugal/Moorish-Castle-40-(1).jpg
+    2_image: /uploads/Portugal/40-portugal.jpg
     3_image: /uploads/Portugal/IMG_8150.jpg
-    4_image: /uploads/Portugal/Pena-Palace-34-(2).jpg
+    4_image: /uploads/Portugal/34-portugal.jpg
     5_image: /uploads/Portugal/31.jpg
     6_image: /uploads/Portugal/IMG_8696.jpg
   - _section-type: signature
