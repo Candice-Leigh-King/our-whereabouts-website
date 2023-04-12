@@ -181,7 +181,7 @@ content-blocks:
       and ornate follies.</p>
   - _section-type: blog-window
     right_image: /uploads/Portugal/31.jpg
-    left_image: /uploads/Portugal/43-(1)reduced.jpg
+    left_image: /uploads/Portugal/43-portugal.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1><strong>Day 7: Lisbon -&nbsp;</strong>Belem</h1><p><strong>&bull;Torre
@@ -210,7 +210,7 @@ content-blocks:
       museum dedicated to the azulejo, the traditional tilework of Portugal, and
       the former Portuguese Empire.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/11.jpg
+    blog-cover_image: /uploads/Portugal/11-portugal.jpg
   - _section-type: signature
     signature_html: <h3>Have fun!</h3>
 ---
