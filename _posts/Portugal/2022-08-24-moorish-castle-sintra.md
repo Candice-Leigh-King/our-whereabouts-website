@@ -46,8 +46,8 @@ content-blocks:
       the task of conserving and improving the condition of the castle, the
       castle has been continually improved on and restored ever since.</p>
   - _section-type: blog-window
-    right_image: ''
-    left_image: /uploads/img-8101-2.jpg
+    right_image: /uploads/Portugal/20220505_122636-portugal.jpg
+    left_image: /uploads/Portugal/IMG_8101-portugal.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>Entrace Fee:&nbsp;</h2><p>Adults: 8 Euro<br />Kids (age 6 - 17): 6.5
@@ -75,7 +75,7 @@ content-blocks:
       the vast majority of manual wheelchairs. This allows, with less effort and
       greater speed, to go through the routes.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/20220505-124713.jpg
+    blog-cover_image: /uploads/Portugal/20220505_124713-portugal.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1>Why you should visit:</h1><p>&bull;Organised tour groups of Sintra
