@@ -10,7 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/42-portugal.jpg
-title: Quinta da Regaleira
+title: Quinta da Regaleira, Sintra
 author: Elizabeth
 blog-summary: >-
   Everything you need to know before your visit to Quinta da Regaleira, Sintra,
