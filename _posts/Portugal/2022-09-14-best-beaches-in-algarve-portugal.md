@@ -10,7 +10,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/20220430_075936.jpg
-title: Best beaches in the Algarve Coast
+title: The Best Beaches in The Algarve Coast
 author: Elizabeth
 blog-summary: >-
   Planning a trip to the Algarve Coast? Here are our favorite beaches in the
