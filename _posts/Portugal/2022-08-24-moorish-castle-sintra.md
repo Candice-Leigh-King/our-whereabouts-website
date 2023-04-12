@@ -10,12 +10,12 @@ seo:
   keywords: Moorish Castle, Sintra, Lisbon, Portgual
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/40-1.jpg
-title: Moorish Castle, Sintra  
+  social-share_image: /uploads/Portugal/40-portugal.jpg
+title: Moorish Castle, Sintra
 author: Elizabeth
 blog-summary: 'Moorish Castle: The ultimate Guide. Don''t miss this beautiful castle in Sintra'
 cta: Read More →
-blog_image: /uploads/40-1.jpg
+blog_image: /uploads/Portugal/40-portugal.jpg
 date: 2022-08-24 00:00:00
 categories:
   - travel
@@ -46,7 +46,7 @@ content-blocks:
       the task of conserving and improving the condition of the castle, the
       castle has been continually improved on and restored ever since.</p>
   - _section-type: blog-window
-    right_image: /uploads/20220505-122636.jpg
+    right_image: ''
     left_image: /uploads/img-8101-2.jpg
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
