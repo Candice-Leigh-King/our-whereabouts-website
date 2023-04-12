@@ -60,7 +60,7 @@ content-blocks:
       you are ready.</p>
   - _section-type: blog-window
     right_image: /uploads/Reduced/IMG_7312.jpg
-    left_image: /uploads/19-1.jpg
+    left_image: /uploads/Portugal/19-portugal.jpg
   - _section-type: signature
     signature_html: <h3>Our Whereabouts xxx</h3>
 ---
