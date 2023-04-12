@@ -9,7 +9,7 @@ seo:
   social-share_image: /uploads/Portugal/IMG_8150.jpg
 title: How To Spend 1 Day in Sintra
 author: Elizabeth
-blog-summary: A timed scheduled itinerary of our day in Sintra.
+blog-summary: A timed scheduled itinerary of our day in Sintra, Portugal
 cta: Read More →
 blog_image: /uploads/Portugal/IMG_8150.jpg
 date: 2022-09-01 00:00:00
