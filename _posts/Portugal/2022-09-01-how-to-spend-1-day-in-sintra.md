@@ -68,7 +68,7 @@ content-blocks:
     1_image: /uploads/Portugal/20220505_190854.jpg
     2_image: /uploads/Portugal/IMG_8197.jpg
     3_image: /uploads/Portugal/IMG_8150.jpg
-    4_image: /uploads/34-1.jpg
+    4_image: /uploads/Portugal/34-portugal.jpg
     5_image: /uploads/Portugal/31.jpg
     6_image: /uploads/Portugal/IMG_8696.jpg
   - _section-type: signature
