@@ -9,7 +9,7 @@ seo:
   social-share_image: /uploads/Portugal/P-extra-IMG_4130.jpg
 title: How to get around the Algarve Coast
 author: Elizabeth
-blog-summary: four ways you can get around the Algarve coast, Portugal
+blog-summary: Four ways you can get around the Algarve coast, Portugal
 cta: Read More →
 blog_image: /uploads/Portugal/P-extra-IMG_4130.jpg
 date: 2022-09-22 00:00:00
@@ -52,11 +52,11 @@ content-blocks:
       have to wait longer.</p>
   - _section-type: gallery
     1_image: /uploads/Portugal/20220430093048_IMG_4069.jpg
-    2_image: /uploads/Portugal/13-(1).jpg
+    2_image: /uploads/Portugal/13-chapel.jpg
     3_image: /uploads/Portugal/18.jpg
     4_image: /uploads/Portugal/IMG_4962.jpg
-    5_image: /uploads/Portugal/22-(1).jpg
-    6_image: /uploads/Portugal/3-(1).jpg
+    5_image: /uploads/Portugal/22-portugal.jpg
+    6_image: /uploads/Portugal/3-portugal.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
