@@ -97,8 +97,8 @@ content-blocks:
     2_image: /uploads/Portugal/20220505_120403-portugal.jpg
     3_image: /uploads/Portugal/IMG_8039-portugal.jpg
     4_image: /uploads/Portugal/IMG_8144-portugal.jpg
-    5_image: /uploads/20220505-120931.jpg
-    6_image: /uploads/img-7989-2.jpg
+    5_image: /uploads/Portugal/20220505_120931-portgual.jpg
+    6_image: /uploads/Portugal/IMG_7989-portugal.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
