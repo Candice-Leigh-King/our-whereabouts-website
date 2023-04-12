@@ -209,7 +209,7 @@ content-blocks:
       spectacular gardens with a surrealistic initiation well and ornate
       follies.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/43-1.jpg
+    blog-cover_image: /uploads/Portugal/43-portugal.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1><strong>Day 14-15: Lisbon&nbsp;</strong></h1><h2><strong>Day 14:
@@ -281,7 +281,7 @@ content-blocks:
       museum dedicated to the azulejo, the traditional tilework of Portugal, and
       the former Portuguese Empire.</p>
   - _section-type: blog-cover-image
-    blog-cover_image: /uploads/25-1.jpg
+    blog-cover_image: /uploads/Portugal/25-portugal.jpg
   - _section-type: blog-textarea
     textarea_html: >-
       <h1><strong>Day 16-21: The Algarve Coast</strong></h1><h2><strong>Day
@@ -366,10 +366,10 @@ content-blocks:
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_4962.jpg
     2_image: /uploads/Portugal/18.jpg
-    3_image: /uploads/Portugal/4-(1).jpg
+    3_image: /uploads/Portugal/4-portugal.jpg
     4_image: /uploads/Portugal/20220430093048_IMG_4069.jpg
     5_image: /uploads/Portugal/20220430_121404-2.jpg
-    6_image: /uploads/Portugal/8-01-3.jpg
+    6_image: /uploads/Portugal/800.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
