@@ -12,7 +12,7 @@ seo:
   social-share_image: /uploads/Portugal/36-portugal.jpg
 title: Pena Palace, Sintra
 author: Elizabeth
-blog-summary: 'The Ultimate Guide: Pena Palace'
+blog-summary: 'The Ultimate Guide: Pena Palace in Sintra, Portugal'
 cta: Read More →
 blog_image: /uploads/Portugal/36-portugal.jpg
 date: 2022-08-25 00:00:00
@@ -107,8 +107,8 @@ content-blocks:
     2_image: /uploads/Portugal/IMG_7645-portugal.jpg
     3_image: /uploads/Portugal/IMG_7662-portugal.jpg
     4_image: /uploads/Portugal/IMG_7629-portugal.jpg
-    5_image: /uploads/img-7704.jpg
-    6_image: /uploads/img-7720.jpg
+    5_image: /uploads/Portugal/20220505_092417-portugal.jpg
+    6_image: /uploads/Portugal/IMG_7720-portugal.jpg
   - _section-type: signature
     signature_html: <p><strong>Our Whereabouts xxx</strong></p>
 ---
