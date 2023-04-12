@@ -53,10 +53,10 @@ content-blocks:
       in Sintra so you can visit when it fits you.</p><h2>Duration of
       stay:</h2><p>You can spend between 1-2 hours here.</p>
   - _section-type: gallery
-    1_image: /uploads/Portugal/45-(1).jpg
+    1_image: /uploads/Portugal/45-portugal.jpg
     2_image: /uploads/Portugal/IMG_8150.jpg
     3_image: /uploads/Portugal/IMG_8197.jpg
-    4_image: /uploads/Portugal/31-(1).jpg
+    4_image: /uploads/Portugal/31.jpg
     5_image: /uploads/Portugal/20220505_150407.jpg
     6_image: /uploads/Portugal/IMG_8264.jpg
   - _section-type: blog-textarea
