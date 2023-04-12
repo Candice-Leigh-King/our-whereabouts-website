@@ -14,7 +14,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/Portugal/20220504_075814.jpg
-title: Best Viewpoints in Lisbon
+title: Best Viewpoints in Lisbon, Portugal
 author: Elizabeth
 blog-summary: >-
   Heading to Lisbon? Here are some of the best viewpoints you shouldn't miss
@@ -70,7 +70,7 @@ content-blocks:
       waterfront as well as the bridge.</p>
   - _section-type: gallery
     1_image: /uploads/Portugal/IMG_7318-3.jpg
-    2_image: /uploads/32.jpg
+    2_image: /uploads/Portugal/32-portugal.jpg
     3_image: /uploads/Portugal/20220504_063109.jpg
     4_image: /uploads/Portugal/20220504_142603.jpg
     5_image: /uploads/Portugal/IMG_6702.jpg
