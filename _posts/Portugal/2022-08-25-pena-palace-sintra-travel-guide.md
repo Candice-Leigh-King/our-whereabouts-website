@@ -103,7 +103,7 @@ content-blocks:
       />&bull;Coach House&rsquo;s Terrace<br />&bull;Interior of Palace<br
       />&bull; Pena Palaces Park and Gardens</p>
   - _section-type: gallery
-    1_image: /uploads/p-extra-20220505-110249.jpg
+    1_image: /uploads/Portugal/20220505_110249-portugal.jpg
     2_image: /uploads/img-7645.jpg
     3_image: /uploads/img-7662.jpg
     4_image: /uploads/img-7629.jpg
