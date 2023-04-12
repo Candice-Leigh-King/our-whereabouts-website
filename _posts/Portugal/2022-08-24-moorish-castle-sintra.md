@@ -93,8 +93,8 @@ content-blocks:
       />&bull;Main Gate to Moorish Castle<br />&bull;Alcazaba (citadel)<br
       />&bull;Royal Tower</p>
   - _section-type: gallery
-    1_image: /uploads/img-8134.jpg
-    2_image: /uploads/20220505-120403.jpg
+    1_image: /uploads/Portugal/IMG_8134-portugal.jpg
+    2_image: /uploads/Portugal/20220505_120403-portugal.jpg
     3_image: /uploads/img-8039-2.jpg
     4_image: /uploads/img-8144.jpg
     5_image: /uploads/20220505-120931.jpg
