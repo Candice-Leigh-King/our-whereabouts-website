@@ -104,9 +104,9 @@ content-blocks:
       />&bull; Pena Palaces Park and Gardens</p>
   - _section-type: gallery
     1_image: /uploads/Portugal/20220505_110249-portugal.jpg
-    2_image: /uploads/img-7645.jpg
-    3_image: /uploads/img-7662.jpg
-    4_image: /uploads/img-7629.jpg
+    2_image: /uploads/Portugal/IMG_7645-portugal.jpg
+    3_image: /uploads/Portugal/IMG_7662-portugal.jpg
+    4_image: /uploads/Portugal/IMG_7629-portugal.jpg
     5_image: /uploads/img-7704.jpg
     6_image: /uploads/img-7720.jpg
   - _section-type: signature
