@@ -36,7 +36,7 @@ content-blocks:
     1_image: /uploads/2022_Utah/IMG_5465-2.jpg
     2_image: /uploads/2022_Utah/IMG_5669.jpg
     3_image: /uploads/2022_Utah/DJI_0087-2.jpg
-    4_image: /uploads/2022_Utah/DJI_0046-4.jpg
+    4_image: /uploads/2022_Utah/DJI_0046-5.jpg
     5_image: /uploads/2022_Utah/IMG_5590.jpg
     6_image: /uploads/2022_Utah/IMG_5305.jpg
   - _section-type: signature
