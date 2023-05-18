@@ -14,7 +14,7 @@ title: Horseshoe Bend, Arizona
 author: Elizabeth
 blog-summary: Everything you need to know before your visit to Horseshoe Bend
 cta: Read More →
-blog_image: /uploads/2022_Arizona/IMG_3572.jpg
+blog_image: /uploads/2022_Arizona/20221002_073355-2.jpg
 date: 2023-04-12 00:00:00
 categories:
   - travel
@@ -34,8 +34,8 @@ content-blocks:
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: "<h2>Location:&nbsp;</h2><p>It is situated near the town of Page, Arizona.</p><p>\_</p><h2>How to get there:</h2><p>From Page, AZ drive south on Highway 89 to between mileposts 544 &amp; 545. Look for the exit lane and on the west side of the road which you can drive a short distance on to the parking area.</p><p>\_</p><h2>Where to stay:</h2><p>Page is the closes town to horseshoe bend, it is small but it's got plenty of places to sleep and eat.</p><p>We stayed at Super 8 by Wyndham and it was great for 2 nights.</p><p>\_</p><h2>Entrance Fee:&nbsp;</h2><p>Horseshoe Bend used to be free, however now you'll have to pay 10$ per car. There is absolutely no parking anywhere along Hwy 89 so you can't really avoid paying.</p><p>\_</p><h2>Opening Hours:</h2><p>It is open year-round from sunrise to sunset.</p>"
   - _section-type: gallery
-    1_image:
-    2_image:
+    1_image: /uploads/2022_Arizona/20221002_064727.jpg
+    2_image: /uploads/2022_Arizona/20221002_073355-2.jpg
     3_image:
     4_image:
     5_image:
