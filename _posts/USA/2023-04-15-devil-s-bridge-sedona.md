@@ -22,7 +22,9 @@ seo:
   social-share_image: ''
 title: Devil's Bridge, Sedona
 author: Elizabeth
-blog-summary:
+blog-summary: >-
+  There are 4 different ways to hike to Devil's Bridge Sedona, in this post I
+  cover all ways.
 cta: Read More →
 blog_image: /uploads/2022_Arizona/IMG_2824.jpg
 date: 2023-04-15 00:00:00
