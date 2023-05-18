@@ -2,10 +2,7 @@
 layout: posts
 seo:
   title: Horseshoe Bend, Arizona
-  description: >-
-    Horseshoe Bend is a horseshoe-shaped incised meander of the Colorado River
-    that exploded on social media and we knew we had to visit it. The overlook
-    is about a 1,000’ drop, looking down onto the Colorado River
+  description: "Horseshoe Bend is a breathtaking natural landmark located near Page.\_The name \"Horseshoe Bend\" comes from the meander's distinctive shape, which resembles a horseshoe's curve. The overlook offers a stunning panoramic view of the bend, with the emerald green waters of the Colorado River winding gracefully around the towering red sandstone cliffs. The overlook is about a 1,000’ drop, looking down onto the Colorado River.\_"
   keywords: 'Horseshoe Bend, Page, Arizona, USA: Travel guide'
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
@@ -21,9 +18,14 @@ categories:
 content-blocks:
   - _section-type: blog-textarea
     textarea_html: >-
-      <p>This horseshoe-shaped incised meander of the Colorado River that
-      exploded on social media and we knew we had to visit it. The overlook is
-      about a 1,000’ drop, looking down onto the Colorado River</p>
+      <p>Horseshoe Bend is a breathtaking natural landmark located near Page.
+      The name "Horseshoe Bend" comes from the meander's distinctive shape,
+      which resembles a horseshoe's curve. The overlook offers a stunning
+      panoramic view of the bend, with the emerald green waters of the Colorado
+      River winding gracefully around the towering red sandstone cliffs. The
+      overlook is about a 1,000’ drop, looking down onto the Colorado
+      River.&nbsp;</p><p>This spot has exploded on social media and is a must-do
+      when in Arizona. Here's everything you need to know before you visit.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Horseshoe Bend,  Arizona
