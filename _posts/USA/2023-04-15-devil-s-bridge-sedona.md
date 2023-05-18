@@ -20,7 +20,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: ''
-title: Devil's Bridge, Sedona
+title: How to Hike Devil's Bridge, Sedona
 author: Elizabeth
 blog-summary: >-
   There are 4 different ways to hike to Devil's Bridge Sedona, in this post I
