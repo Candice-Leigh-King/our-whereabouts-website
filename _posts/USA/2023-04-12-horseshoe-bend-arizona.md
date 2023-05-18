@@ -7,7 +7,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_Arizona/IMG_3572.jpg
-title: Horseshoe Bend, Arizona
+title: Guide to Visiting Horseshoe Bend, Arizona
 author: Elizabeth
 blog-summary: Everything you need to know before your visit to Horseshoe Bend
 cta: Read More →
