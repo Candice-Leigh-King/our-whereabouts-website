@@ -40,8 +40,9 @@ content-blocks:
       that resembles a bridge, with a large opening underneath. It is believed
       to be the largest natural sandstone arch in the Sedona area, standing at
       approximately 50 feet (15 meters) tall.</p><p>You'll fall in love with the
-      lush pine trees and breathtaking views of Sedona's red rock
-      formations.</p>
+      lush pine trees and breathtaking views of Sedona's red rock formations.
+      There are 4 ways to get to Devil's Bridge and in the post I'll talk about
+      all the ways.</p>
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading: Devil's Bridge, Sedona
