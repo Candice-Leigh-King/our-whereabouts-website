@@ -28,7 +28,9 @@ content-blocks:
   - _section-type: map
     description: make sure to set width to 100%, height to 350 and style to border 2
     heading:
-    google-embed-code:
+    google-embed-code: >-
+      "https://www.google.com/maps/d/u/0/embed?mid=1E_DgphxGAIL7A-ecCHBQXf9jlijYI88&ehbc=2E312F"
+      width="100%" height="480"
   - _section-type: blog-featured-textarea
     blog-featured-textarea_html: >-
       <h2>Location:</h2><p>This park is located only 45 minutes away from Las
