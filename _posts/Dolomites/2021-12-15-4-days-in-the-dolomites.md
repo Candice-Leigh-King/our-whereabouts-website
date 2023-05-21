@@ -9,12 +9,12 @@ seo:
   keywords: dolomites, alp mountains, Italy
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
-  social-share_image: /uploads/224.JPG
+  social-share_image: /uploads/Dolomites/224-(1).jpg
 title: 4 days in the Dolomites
 author: Elizabeth
 blog-summary: How to spend 4 days in the Dolomites
 cta: Read More →
-blog_image: /uploads/224.JPG
+blog_image: /uploads/Dolomites/224.jpg
 date: 2021-12-15 00:00:00
 categories:
   - travel
