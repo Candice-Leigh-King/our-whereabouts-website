@@ -38,7 +38,7 @@ content-blocks:
   - _section-type: gallery
     1_image: /uploads/USA_2022/IMG_7905.jpg
     2_image: /uploads/2022_California/IMG_8242.jpg
-    3_image: /uploads/2022_Utah/IMG_7690-(1).jpg
+    3_image: /uploads/2022_Utah/20221011_130847-2.jpg
     4_image: /uploads/USA_2022/DSCN0090.jpg
     5_image: /uploads/2022_Arizona/20221002_064923-2.jpg
     6_image: /uploads/USA_2022/20171003_081022.jpg
