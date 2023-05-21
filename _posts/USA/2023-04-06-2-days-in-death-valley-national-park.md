@@ -20,7 +20,9 @@ seo:
   social-share_image: /uploads/2022_California/IMG_8171.jpg
 title: 2 days in Death Valley National Park
 author: Elizabeth
-blog-summary: If you're planning a trip to Death Valley, here's a 2 day itinerary.
+blog-summary: >-
+  If you're planning a trip to Death Valley National Park, here's a 2 day
+  itinerary.
 cta: Read More →
 blog_image: /uploads/2022_California/IMG_8171.jpg
 date: 2023-05-06 00:00:00
