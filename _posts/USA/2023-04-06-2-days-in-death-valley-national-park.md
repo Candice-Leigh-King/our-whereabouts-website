@@ -18,7 +18,7 @@ seo:
   social-alt:
   url: /https://ourwhereabouts.com/tips/renting-a-car
   social-share_image: /uploads/2022_California/IMG_8171.jpg
-title: 2 days in Death Valley National Park
+title: How to Spend 2 days in Death Valley National Park
 author: Elizabeth
 blog-summary: >-
   If you're planning a trip to Death Valley National Park, here's a 2 day
